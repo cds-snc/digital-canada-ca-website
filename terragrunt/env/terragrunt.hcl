@@ -5,14 +5,13 @@ locals {
 # DO NOT CHANGE ANYTHING BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING
 
 inputs = {
-  product_name                 = "digital-canada-website"
-  account_id                   = "${local.vars.inputs.account_id}"
-  env                          = "${local.vars.inputs.env}"
-  region                       = "ca-central-1"
-  billing_code                 = "${local.vars.inputs.billing_code}"
-  domain                       = "${local.vars.inputs.domain}"
-  fr_domain                    = "${local.vars.inputs.fr_domain}"
-  cbs_satellite_bucket_name    = "cbs-satellite-${local.vars.inputs.account_id}"
+  product_name              = "digital-canada-website"
+  account_id                = "${local.vars.inputs.account_id}"
+  env                       = "${local.vars.inputs.env}"
+  region                    = "ca-central-1"
+  billing_code              = "${local.vars.inputs.billing_code}"
+  website_domains           = "${local.vars.inputs.website_domains}"
+  cbs_satellite_bucket_name = "cbs-satellite-${local.vars.inputs.account_id}"
 }
 
 generate "provider" {

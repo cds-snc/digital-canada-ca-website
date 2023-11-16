@@ -18,13 +18,9 @@ variable "billing_code" {
   description = "The billing code to tag our resources with"
   type        = string
 }
-variable "domain" {
-  description = "Domain name of the CDS Website"
-  type        = string
-}
-variable "fr_domain" {
-  description = "French domain name of the CDS Website"
-  type        = string
+variable "website_domains" {
+  description = "Website domains used by the English and French site"
+  type        = list(string)
 }
 variable "cbs_satellite_bucket_name" {
   description = "(Required) Name of the Cloud Based Sensor S3 satellite bucket"
