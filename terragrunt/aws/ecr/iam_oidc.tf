@@ -84,6 +84,7 @@ data "aws_iam_policy_document" "ecr_image_manage" {
       "ecr:InitiateLayerUpload",
       "ecr:ListImages",
       "ecr:PutImage",
+      "ecr:SetRepositoryPolicy",
       "ecr:UploadLayerPart"
     ]
     resources = [
