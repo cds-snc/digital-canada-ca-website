@@ -64,7 +64,7 @@ data "aws_iam_policy_document" "lambda_function_manage" {
       "iam:PassRole"
     ]
     resources = [
-      "arn:aws:iam::${var.account_id}:role/pr-review-env"
+      aws_iam_role.pr-review-env-lambda.arn
     ]
   }
 }
