@@ -68,6 +68,16 @@ data "aws_iam_policy_document" "lambda_function_manage" {
       aws_iam_role.pr-review-env-lambda.arn
     ]
   }
+
+  statement {
+    effect = "Allow"
+    actions = [
+      "logs:DeleteLogGroup"
+    ]
+    resources = [
+      "arn:aws:logs:${var.region}:${var.account_id}:log-group:/aws/lambda/pr-review-env-*"
+    ]
+  }
 }
 
 data "aws_iam_policy_document" "ecr_image_manage" {
