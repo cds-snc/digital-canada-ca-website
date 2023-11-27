@@ -90,6 +90,8 @@ jobs:
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
             echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
             aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
+            aws logs create-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1
+            aws logs put-retention-policy --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --retention-in-days 7 > /dev/null 2>&1
           fi
 
       - name: Update PR

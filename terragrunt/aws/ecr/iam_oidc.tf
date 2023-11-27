@@ -72,7 +72,23 @@ data "aws_iam_policy_document" "lambda_function_manage" {
   statement {
     effect = "Allow"
     actions = [
-      "logs:DeleteLogGroup"
+      "logs:DescribeLogGroups"
+    ]
+    resources = [
+      "*"
+    ]
+  }
+
+  statement {
+    effect = "Allow"
+    actions = [
+      "logs:CreateLogGroup",
+      "logs:CreateLogStream",
+      "logs:DeleteLogGroup",
+      "logs:DeleteLogStream",
+      "logs:DeleteRetentionPolicy",
+      "logs:DescribeLogStreams",
+      "logs:PutRetentionPolicy"
     ]
     resources = [
       "arn:aws:logs:${var.region}:${var.account_id}:log-group:/aws/lambda/pr-review-env-*"
