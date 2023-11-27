@@ -18,7 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
+    - uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
 
     - name: Load git submodules
       run: git submodule sync && git submodule update --init
@@ -57,7 +57,7 @@ jobs:
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: Setup Ruby
-        uses: ruby/setup-ruby@250fcd6a742febb1123a77a841497ccaa8b9e939 # v1.152.0
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
           ruby-version: 3.0
       - name: install html proofer
@@ -66,7 +66,7 @@ jobs:
         run: |
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon  
       - name: Checkout
-        uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
+        uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: test
@@ -89,7 +89,7 @@ jobs:
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: configure aws credentials using OIDC              
-        uses: aws-actions/configure-aws-credentials@04b98b3f9e85f563fb061be8751a0352327246b0 # v3.0.1
+        uses: aws-actions/configure-aws-credentials@50ac8dd1e1b10d09dac7b8727528b91bed831ac0 # v3.0.2
         with:
           role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-website-apply  # use for TF apply or admin access (only works on `main` branch)
           role-session-name: cache
