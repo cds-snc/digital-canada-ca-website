@@ -11,6 +11,9 @@ env:
   REGISTRY: 521732289257.dkr.ecr.ca-central-1.amazonaws.com
   REGION: ca-central-1
 
+permissions:
+  id-token: write
+
 jobs:
   remove-staging-containers:
     strategy:
