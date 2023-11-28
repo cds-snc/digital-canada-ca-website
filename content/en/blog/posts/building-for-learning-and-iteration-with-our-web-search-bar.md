@@ -31,7 +31,7 @@ So we had to be a little more resourceful. We had to start small. One way to do 
 I knew that one of the problems we were trying to solve was to make it easier for CDS staff to find published content (such as blogs, guides, reports, or job opportunities) on our website in order to share it with people outside of CDS. This felt like an audience we could get quick and helpful feedback from. It would also allow us to improve the search bar feature in a tangible way for one of its target user groups. 
 
 We put out the call to our internal user group and that same week, we were interviewing people to share their experiences using the search bar.
-<!-- GUIDES - need to replace -->
+
 ## How we got quick feedback
 On Monday, our team put together a pared down version of a [usability testing facilitation plan](https://digital.canada.ca/guides/guide-usability-testing/), scoped down to focus on our target user group - internal users. 
 
