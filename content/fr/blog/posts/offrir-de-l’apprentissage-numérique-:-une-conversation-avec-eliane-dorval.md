@@ -23,7 +23,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>En tant que fonctionnaires, nous devons continuellement acquérir des compétences et des connaissances afin de servir efficacement les gens au Canada. L’une des nombreuses ressources à notre disposition est l’<a href="https://www.csps-efpc.gc.ca/index-fra.aspx" target="_blank" rel="noreferrer noopener">École de la fonction publique du Canada</a> (EFPC). L’un des secteurs d’activité de l’EFPC est <a href="https://www.csps-efpc.gc.ca/about_us/business_lines/digitalacademy-fra.aspx" target="_blank" rel="noreferrer noopener">l’Académie du numérique (AD)</a>, qui «&nbsp;permet aux fonctionnaires d&#8217;acquérir les compétences et les connaissances dont ils et elles ont besoin pour créer des programmes, des politiques et des services à l&#8217;ère du numérique&nbsp;».</p>
+<p>En tant que fonctionnaires, nous devons continuellement acquérir des compétences et des connaissances afin de servir efficacement les gens au Canada. L’une des nombreuses ressources à notre disposition est l’<a href="https://www.csps-efpc.gc.ca/index-fra.aspx" target="_blank" rel="noreferrer noopener">École de la fonction publique du Canada</a> (EFPC). L’un des secteurs d’activité de l’EFPC est <a href="https://www.csps-efpc.gc.ca/about_us/business_lines/digitalacademy-fra.aspx" target="_blank" rel="noreferrer noopener">l’Académie du numérique (AD)</a>, qui «&nbsp;permet aux fonctionnaires d&rsquo;acquérir les compétences et les connaissances dont ils et elles ont besoin pour créer des programmes, des politiques et des services à l&rsquo;ère du numérique&nbsp;».</p>
 
 
 
