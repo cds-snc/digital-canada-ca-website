@@ -31,7 +31,7 @@ Nous avons donc dû faire preuve d’ingéniosité en adoptant une approche mesu
 Je savais que nous cherchions entre autres à simplifier l’accès au contenu publié sur notre site Web pour les employé·e·s du SNC (comme les billets de blogue, les guides, les rapports ou encore les offres d’emploi) afin d’en faciliter la diffusion à des personnes externes. Nos collègues composaient donc un public disposé à nous offrir une rétroaction rapide et précieuse. Leur avis nous permettrait aussi d’améliorer concrètement la barre de recherche pour l’un de ses groupes cibles. 
 
 Nous avons lancé un appel auprès de notre groupe d’utilisateur·rice·s interne et, la même semaine, nous avons rencontré des collègues pour connaître leur expérience quant à l’utilisation de la barre de recherche.
-<!-- GUIDES - need to replace -->
+
 ## Comment obtenir de la rétroaction rapide
 Le lundi, notre équipe a mis sur pied un [plan de facilitation de tests d’utilisabilité](https://numerique.canada.ca/guides/guide-tests-d-utilisabilite/) épuré et adapté à notre groupe d’utilisateur·rice·s cible : les utilisateur·rice·s internes. 
 
