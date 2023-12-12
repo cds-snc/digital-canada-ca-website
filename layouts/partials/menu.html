@@ -1,10 +1,14 @@
-<nav role="navigation" id="wb-sm" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement"
+<gcds-header
+  lang-href="#"
+  skip-to-href="#"
+>
+  <nav slot="menu" role="navigation" id="wb-sm" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement"
   aria-label="{{ i18n "menu"}}">
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3 col-md-8">
         <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}" id="cds-logo"></a>
-        <!-- mobile screen wordless logo -->
+        <!-- // mobile screen wordless logo  -->
         <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
@@ -45,4 +49,5 @@
     </div>
   </div>
 
-</nav>
+  </nav>
+</gcds-header>

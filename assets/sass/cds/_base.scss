@@ -131,10 +131,6 @@ h2 {
 	font-weight: 600;
 	margin-top: 0;
 	font-size: 2.1rem;
-
-	// @include desktop {
-	// 	font-size: 1.53rem;
-	// }
 }
 
 h3 {
@@ -147,7 +143,12 @@ h3 {
 }
 
 html .container {
-	width: 70%;
+	// width: 70%;
+	// specifically to match to gcds
+	width: 90%;
+    max-width: 71.25rem;
+    padding-left: 0;
+    padding-right: 0;
 
 	@include mobile_only {
 		width: 100%;
