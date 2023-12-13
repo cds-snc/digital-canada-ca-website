@@ -50,7 +50,7 @@ function renderBlogResults(blogs) {
                     </div>
                     <div class="author">${paginatedBlogs[i].author}</div>
                     <div class="summary">${paginatedBlogs[i].description}</div>
-                    <gcds-button size="small" button-id="read-full-post-btn" type="link" href='${paginatedBlogs[i].href}'>${readFullPostTranslation()}<gcds-icon name="fa-solid fa-chevron-right" size="inherit"></gcds-icon></gcds-button>
+                    <gcds-button size="small" button-id="read-full-post-btn" type="link" href='${paginatedBlogs[i].href}'>${readFullPostTranslation()}<span style="display: none">: ${paginatedBlogs[i].title}</span> <gcds-icon name="fa-solid fa-chevron-right" size="inherit"></gcds-icon></gcds-button>
                 </div>
         </li>`
     }
@@ -81,9 +81,9 @@ function readFullPostTranslation() {
     let readFullPost;
 
     if (document.documentElement.lang == 'en') {
-        return 'Read full post '
+        return 'Read full post'
     }
     else if (document.documentElement.lang == 'fr') {
-        return 'Lire l’intégralité du billet '
+        return 'Lire l’intégralité du billet'
     }
 }

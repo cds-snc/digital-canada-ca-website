@@ -93,9 +93,6 @@
   }
 }
 
-
-
-
 .post-content {
   margin-bottom: 45px;
 }
@@ -112,15 +109,9 @@
   }
 }
 
-
-
-
 .col-lg-9 {
   width: 75%;
 }
-
-
-
 
 .title-container {
   display: flex;
@@ -141,12 +132,10 @@
   background-position: left bottom;
   background-repeat: no-repeat;
 }
+
 .work-with-us--section {
   padding: 1.67rem 0 2.22rem 0;
 }
-
-
-
 
 ::-webkit-file-upload-button {
   background: #a6a6a6;
@@ -157,9 +146,6 @@
   font-size: 0.84rem;
   width: 130px;
 }
-
-
-
 
 .steps {
   list-style: none;
@@ -552,11 +538,6 @@ article.post {
   background: white;
 }
 
-
-
-
-
-
 // Privacy modal styles
 #privacy-notice-modal {
   position: relative;
@@ -629,10 +610,6 @@ article.post {
       // margin: 1.5rem 0 0.5rem 0;
     }
   }
-
-  p + ul {
-    // margin-top: 0.5em;
-  }
 }
 
 ////////////////////////////////////////////////////
@@ -655,6 +632,7 @@ article.post {
       margin-top: 1.67rem;
     }
   }
+  
   @include tablet {
     height: auto;
     padding-bottom: 2.78rem;
@@ -696,8 +674,6 @@ article.post {
 //
 ////////////////////////////////////////////////////
 
-
-
 .partnership-products {
   padding-top: 2.78rem;
 
@@ -708,8 +684,6 @@ article.post {
 
   .first-list {
     padding: 3rem 0 3rem 0;
-    // display: flex;
-    // justify-content: space-between;
     background-color: #D7E5F5;
     ul {
       list-style: none;
@@ -718,8 +692,6 @@ article.post {
     ul li:before {
       content: '✓';
     }
-
-
   }
 
   .second-list {
@@ -760,7 +732,6 @@ article.post {
     font-weight: 400;
     font-size: 2.11rem;
   }
-
 }
 
 .checklist {
@@ -782,16 +753,4 @@ article.post {
     font-weight: 600;
     font-size: 2.11rem;
   }
-}
-
-.card-style {
-  // @media (min-width: 992px) {
-  //   width: 45%;
-  //   // height: 100%;
-  //   padding: 0 15px 0 15px;
-  // }
-
-  // @include mobile_only {
-  //   margin-top: 1rem;
-  // }
 }

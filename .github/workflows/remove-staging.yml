@@ -1,0 +1,56 @@
+name: Staging review apps tear down
+
+on:
+  pull_request:
+    types: [closed]
+
+env:
+  FUNCTION_NAME: "pr-review-env"
+  GITHUB_SHA: ${{ github.sha }}
+  IMAGE: website-staging-container
+  REGISTRY: 521732289257.dkr.ecr.ca-central-1.amazonaws.com
+  REGION: ca-central-1
+
+permissions:
+  id-token: write
+
+jobs:
+  remove-staging-containers:
+    strategy:
+      matrix:
+        lang: ["fr", "en"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@010d0da01d0b5a38af31e9c3470dbfdabdecca3a # v4.0.1
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
+          role-session-name: PRReviewEnv
+          aws-region: ${{ env.REGION }}
+
+      - name: Delete lambda function
+        run: |
+          sleep 4m
+          aws lambda delete-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+          aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+          aws logs delete-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+
+  delete-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@010d0da01d0b5a38af31e9c3470dbfdabdecca3a # v4.0.1
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
+          role-session-name: PRReviewEnv
+          aws-region: ${{ env.REGION }}
+
+      - name: Delete old images
+        run: |
+          aws ecr batch-delete-image --region ${{ env.REGION }} --repository-name $IMAGE --image-ids imageTag=$PR_NUMBER

@@ -8,7 +8,7 @@
 
 
 <section class="partnership-products">
-  {{ $home_products := where .Site.Pages "Section" "==" "products"}}
+  {{ $home_products := where .Site.Pages "Section" "==" "our-products"}}
   <div class="container">
     <div class="row equal">
       {{ range $prod_index, $prod := after 1 $home_products}}
@@ -16,8 +16,6 @@
     </div>
     <div class="row equal">
       {{ end }}
-      <!-- style="width: 45%; padding: 0 15px 0 15px;" -->
-      <!-- card-style -->
       <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
         <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
           img-src="{{ .Params.image }}" imgAlt="{{ .Params.imageAlt }}"></gcds-card>

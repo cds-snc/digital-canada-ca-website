@@ -1,0 +1,31 @@
+{
+	"name": "digital-canada-ca-website",
+	"image": "mcr.microsoft.com/vscode/devcontainers/base:buster",
+	"containerEnv": {
+		"SHELL": "/bin/zsh"
+	},
+	"features": {
+		"aws-cli": {
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/hugo:1": {
+			"version": "0.55.6"
+		},
+		"terraform": {
+			"version": "1.4.6",
+			"tflint": "none",
+			"terragrunt": "0.45.11"
+		},		
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"HashiCorp.HCL",
+				"hashicorp.terraform",
+				"github.copilot",
+				"github.vscode-github-actions"
+			]
+		}
+	},
+	"remoteUser": "vscode"
+}

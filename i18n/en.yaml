@@ -117,11 +117,7 @@ accessibility-link:
 our-values-link:
   other: "/our-values/"
 roadmap-link:
-  other: "/roadmap-2025/"
-security-notice-link:
-  other: /legal/security-notice
-security-notice:
-  other: "Security Notice"  
+  other: "/roadmap-2025/" 
 how-cds-started-link:
   other: "/how-cds-started/"
 past-projects-link:

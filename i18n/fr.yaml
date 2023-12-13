@@ -91,11 +91,7 @@ read-all-blogs:
 rss-feed-url:
   other: "/blogue/index.xml"
 skip-to-content:
-  other: "Passer au contenu principal"
-security-notice-link:
-  other: "/transparence/avis-de-securite"
-security-notice:
-  other: "Avis de sécurité"    
+  other: "Passer au contenu principal"  
 terms-and-conditions:
   other: "Modalités"
 resources:

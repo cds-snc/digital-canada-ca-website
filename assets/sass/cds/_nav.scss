@@ -170,8 +170,6 @@
 #js-mobileNav {
   display: none;
   position: relative;
-  // // -webkit-backface-visibility: none;
-  // // -webkit-transform-style: preserve-3d;
 
   // // below used to be @include tablet
   @include menu_break {
@@ -187,9 +185,6 @@
     display: flex; 
     flex-direction: row; 
     justify-content: space-between; 
-    // padding: 2rem;
-    // padding-bottom: 2rem;
-
   }
 
   &.active {
@@ -368,50 +363,6 @@
   
 }
 
-.cds-menu.sticky {
-  animation: menuDown 0.3s ease-in-out;
-  background: rgba($white, 0.9);
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.25);
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 999;
-
-  .home & .topbar,
-  .accueil & .topbar {
-    position: relative;
-    transform: translateX(0%);
-    left: 0;
-  }
-
-  .topbar {
-    // below used to be @include tablet
-    @include menu_break {
-      padding: 0.28rem 0.55rem;
-      margin: 0;
-      width: 100%;
-    }
-  }
-
-  #js-mobileNav {
-    @include desktop {
-      margin-top: 0.55rem;
-    }
-  }
-
-  // Adjust page banner margin to avoid page jumping
-  & + .page-banner {
-    margin-top: 3.88rem;
-
-    @include tablet {
-      margin-top: 5.55rem;
-    }
-    @include desktop {
-      margin-top: 6.11rem;
-    }
-  }
-}
-
 // Animations
 @keyframes fadeIn {
   0% {
@@ -438,15 +389,6 @@
   100% {
     display: none !important;
     opacity: 0;
-  }
-}
-
-@keyframes menuDown {
-  0% {
-    top: -5.55rem;
-  }
-  100% {
-    top: 0;
   }
 }
 

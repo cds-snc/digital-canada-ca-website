@@ -8,41 +8,8 @@
   background-color: #33465c;
   padding: 0.44rem;
 
-  // @include tablet {
-  //   padding: 0.84rem 1.11rem;
-  // }
-
-  .logo {
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: block;
-    z-index: 1;
-    height : 0.84rem;
-
-    // BILINGUAL SPECIFIC CDS LOGO
-    &.en {
-      background-image: url("../img/cds/goc--header-logo.svg");
-    }
-    &.fr {
-      background-image: url("../img/cds/goc--header-logo-fr.svg");
-    }
-
-    @include tablet {
-      height: 1.11rem;
-    }
-  }
-
   .container {
     padding: 0;
-  }
-
-  .fip-logo:after {
-    bottom: 0;
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
   }
 
   // Language Selector
@@ -59,9 +26,6 @@
     a {
       display: inline-block;
       color: $white;
-      display: inline-block;
-      font-size: 0.7rem;
-      font-weight: 400;
       margin-top: 0.42rem;
       text-align: center;
       text-decoration: none;
@@ -107,13 +71,9 @@
 #wb-sm {
   background: none;
   position: relative;
-  // border-bottom: 6px solid $black;
-  // padding-bottom: 20px;
 }
 
 .page-banner {
-
-  // background-image: url("/img/cds/error-banner.svg");
   background-size: cover;
   background-position: center center;
   &.standard {
@@ -127,15 +87,7 @@
     background-image: url("/img/cds/error-banner.svg");
   }
 
-
-
-
-  // height: 12rem;
   position: relative;
-
-  // @include mobile_only {
-  //   border-top: 15px solid $black;
-  // }
 
   .page-blogpost & {
     height: 13.88rem;
@@ -372,25 +324,6 @@ td {
     display: none;
   }
  }
-
-
-// Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
-.fa-arrow-circle-right {
-  margin-left: 0.27rem;
-}
-
-
-// Canada Footer
-#goc-footer{
-  padding-top: 1.11rem;
-  padding-bottom: 1.11rem;
-  background-color: #262A2D;
-  // position: absolute;
-  // bottom: 0;
-  // width: 100%;
-
-  nav { padding: 0.27rem 0 0 0 !important; }
-}
 
 #wb-info a:hover {
   text-decoration: underline;

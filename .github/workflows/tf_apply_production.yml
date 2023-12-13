@@ -27,13 +27,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
 
       - name: setup terraform tools
         uses: cds-snc/terraform-tools-setup@v1
 
       - name: configure aws credentials using OIDC
-        uses: aws-actions/configure-aws-credentials@04b98b3f9e85f563fb061be8751a0352327246b0 # v3.0.1
+        uses: aws-actions/configure-aws-credentials@010d0da01d0b5a38af31e9c3470dbfdabdecca3a # v4.0.1
         with:
           role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-website-apply  # use for TF apply or admin access (only works on `main` branch)
           role-session-name: TFApply
@@ -45,4 +45,8 @@ jobs:
 
       - name: Terraform Apply Cloudfront
         working-directory: terragrunt/env/production/cloudfront
-        run: terragrunt apply --terragrunt-non-interactive -auto-approve  
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve
+      
+      - name: Terraform apply ECR
+        working-directory: terragrunt/env/production/ecr
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve

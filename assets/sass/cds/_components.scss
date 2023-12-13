@@ -77,17 +77,6 @@
   color: #333;
   margin: 0 0 0.625rem;
   padding: 0.42rem;
-
-  .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
-  
-    > .col,
-    > [class*="col-"] {
-      padding-right: 0;
-      padding-left: 0;
-    }
-  }
 }
 
 .job-postings-container {
