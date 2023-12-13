@@ -105,5 +105,5 @@ Les renseignements recueillis ne font pas l’objet d’une transaction, c’est
 
 Ces cas d’utilisation reflètent nos résultats préliminaires et changeront sans doute au fil de nos apprentissages. Mais pour l’instant, nous utilisons ces trois catégories pour orienter notre approche de conception : nous réfléchissons à la façon dont les données des formulaires sont utilisées, aux fonctions nécessaires pour faciliter chaque processus, et aux conséquences qu’ont ces processus sur les meilleures  pratiques en matière de conception de formulaires.
 
-Votre formulaire du gouvernement du Canada rentre-t-il dans l’une de nos catégories? Faites-vous affaire à un processus hybride, c’est-à-dire formé de deux de nos cas d’utilisation ou plus? Ou s’agit-il d’autre chose complètement? Dans tous les cas, [dites-nous en plus](mailto:steven.talbot@cds-snc.ca)!
+Votre formulaire du gouvernement du Canada rentre-t-il dans l’une de nos catégories? Faites-vous affaire à un processus hybride, c’est-à-dire formé de deux de nos cas d’utilisation ou plus? Ou s’agit-il d’autre chose complètement? Dans tous les cas, [dites-nous en plus](mailto:cds-snc@tbs-sct.gc.ca)!
 

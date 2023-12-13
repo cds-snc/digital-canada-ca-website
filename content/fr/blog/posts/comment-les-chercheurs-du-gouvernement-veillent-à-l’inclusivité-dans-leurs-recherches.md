@@ -86,5 +86,5 @@ Puisque l’appétit y est, voici quelques conseils pour vous aider à prévoir 
 Nous tenons à remercier tous nos braves présentateurs qui ont donné de leur temps pour nous parler de leur travail, et à leur donner une bonne main d’applaudissements —
 c’est vous qui faites la force de cette communauté et de ces événements. Vous trouverez la [liste complète des présentateurs et présentatrices sur la page de l’événement](https://www.eventbrite.ca/e/inclusive-research-advocating-for-underrepresented-users-tickets-123023736307).
 
-Pour tout savoir sur la prochaine rencontre de la communauté de chercheurs en conception du SNC, [abonnez-vous](https://airtable.com/shrK4y5rFSEeO1UKr) à notre bulletin par courriel!
+Pour tout savoir sur la prochaine rencontre de la communauté de chercheurs en conception du SNC, abonnez-vous à notre bulletin par courriel!
 

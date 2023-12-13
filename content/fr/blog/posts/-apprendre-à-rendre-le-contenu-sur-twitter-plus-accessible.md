@@ -68,7 +68,7 @@ Vous pouvez aussi consulter les conseils du gouvernement du Canada sur la [réda
 ## Il y a toujours plus à apprendre
 Même si je ne suis plus étudiante, je n’arrêterai jamais d’apprendre. Jusqu’à maintenant, mes recherches m’ont appris à être plus accessible sur Twitter, mais je sais qu’il reste bien des choses à apprendre pour mieux comprendre l’expérience des autres. Cette ouverture face à l’apprentissage est présente dans tout mon travail, et même dans ma vie personnelle. Elle m’aide à être plus inclusive et à faire preuve de bonté au quotidien.
 
-Vous connaissez des trucs d’accessibilité pour les médias sociaux? Échangez avec nous sur [Twitter](https://twitter.com/SNC_GC). Je serai ravie de vous lire (et d’apprendre!).
+Vous connaissez des trucs d’accessibilité pour les médias sociaux? Contactez-nous sur [LinkedIn](https://www.linkedin.com/company/11202854/admin/feed/posts/). Je serai ravie de vous lire (et d’apprendre!).
 
 Soyez prudents et traitez les autres avec bonté.
 

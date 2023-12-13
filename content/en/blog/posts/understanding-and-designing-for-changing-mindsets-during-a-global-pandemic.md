@@ -129,4 +129,4 @@ In contrast to design artifacts like personas or use cases, mindsets account for
 
 Mindsets represent part, but not all of the possible attitudes and feelings that a person could have. We  – as a team – had to narrow down our focus to four common mindsets that are most prevalent right now. We know mindsets will continue to change as the context evolves, just as it has these past few months. Recognizing that these mindsets are not complete, even for this moment, means we will continue to test and refine them over time.
 
-Do you want to be part of this learning experience? [Sign up](https://digital.canada.ca/covid-alert-research-signup/) to participate in future research for COVID Alert, and help us ensure we’re meeting your changing needs.
+Do you want to be part of this learning experience? Sign up to participate in future research for COVID Alert, and help us ensure we’re meeting your changing needs.

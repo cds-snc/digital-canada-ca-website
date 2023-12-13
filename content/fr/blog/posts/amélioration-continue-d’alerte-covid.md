@@ -29,8 +29,8 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6
                propagation de la COVID-19. Depuis, nos équipes de produits au SNC ont travaillé rapidement à la
                création d’une application accessible, fiable, sécurisée et conviviale pour les gens à travers le pays.
                <span class="bolded">Aujourd’hui, l’application Alerte COVID est officiellement lancée. Vous pouvez
-                   télécharger l’<a href="https://apps.apple.com/ca/app/id1520284227?l=fr">application iOS</a> ou l’<a
-                       href="https://play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid&hl=fr">application
+                   télécharger l’<a href="https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html">application iOS</a> ou l’<a
+                       href="https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html">application
                        Android</a>.</span></p>
            <p>Comme point de départ, nous avons utilisé le <a href="https://www.covidshield.app/fr/">code source libre
                    développé par des bénévoles de Shopify</a> et

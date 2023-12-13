@@ -67,7 +67,7 @@ You can also check out the Government of Canada’s [tips for writing alternativ
 ## Always more to learn
 Even though I’m not a student anymore, I’ll never stop learning. My research so far has taught me how to be more accessible on Twitter, but I know there are more things to learn so I can better understand other people’s experiences. This openness to learning extends to all of my work, and even my personal life - helping me to be more inclusive and kinder in my day-to-day too.
 
-Have any social media accessibility tips to share? Reach out to us on [Twitter](https://twitter.com/CDS_GC). I’d love to hear (and learn!) from you!
+Have any social media accessibility tips to share? Reach out to us on [LinkedIn](https://www.linkedin.com/company/11202854/admin/feed/posts/). I’d love to hear (and learn!) from you!
 
 Stay safe and treat others with kindness.
 

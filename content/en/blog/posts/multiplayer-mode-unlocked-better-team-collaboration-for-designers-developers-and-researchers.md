@@ -54,7 +54,7 @@ Having a design document brought quicker changes to the codebase. Steve, a devel
 ## Practice makes perfect
 As CDS continues to work on new services, this collaborative tool became a larger part of our ways of working together. We were able to consolidate multiple workflows into one place, minimizing the need for file versioning and sharing. While we had to implement documentation best practices specifically adapted to Figma, it made decision tracking more transparent and efficient.
 
-We grew our Figma community of collaborators from 3 designers and researchers on the RCMP team to just under 30 designers, researchers, developers and more across multiple teams, including [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), [Notify](https://notification.alpha.canada.ca/), and the [COVID-19 benefits finder](https://covid-benefits.alpha.canada.ca/en/start).
+We grew our Figma community of collaborators from 3 designers and researchers on the RCMP team to just under 30 designers, researchers, developers and more across multiple teams, including [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), [Notify](https://notification.canada.ca/), and the [COVID-19 benefits finder](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html).
 
 ## Trying a new play
 

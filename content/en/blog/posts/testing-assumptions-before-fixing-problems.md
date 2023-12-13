@@ -63,7 +63,7 @@ We also heard how **other organizations implemented a continuous security approa
 
 Throughout this process, many of our assumptions were validated. But we also learned some nuance about the challenges we might not have known if we hadn’t done the additional research. 
 
-For example, we had assumed teams were implementing all of the security controls from the ITSG-33 controls catalog, and more specifically the Protected B, Medium Integrity, Medium Availability (PBMM) [profile](https://cyber.gc.ca/sites/default/files/publications/itsg33-ann4a-1-eng.pdf) from CCCS, because it was required. 
+For example, we had assumed teams were implementing all of the security controls from the ITSG-33 controls catalog, and more specifically the Protected B, Medium Integrity, Medium Availability (PBMM) profile from CCCS, because it was required. 
 
 Through research we learned that teams were using the profile as is, and not tailoring the controls to meet specific business needs. To help with this, the Cyber Security team put together and released their [Security Playbook for Information Systems Solutions](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/security-playbook-information-system-solutions-cloud.html#toc1) to further clarify the baseline controls required of a system ensuring alignment with the [Policy on Government Security](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578). 
 

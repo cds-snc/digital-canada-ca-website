@@ -55,4 +55,4 @@ Even a seemingly simpler word like “optional” contains a lot of information 
 
 Using concrete, everyday words can feel weird — even vulnerable — when we’re so often rewarded for using jargon, abstractions and acronyms. But choosing the right level of detail and density of meaning helps people understand and trust how the app works.
 
-The work doesn’t stop here. We need your help to continuously make COVID Alert easier to understand. [Sign up](https://digital.canada.ca/covid-alert-research-signup) to participate in future research.
+The work doesn’t stop here. We need your help to continuously make COVID Alert easier to understand. Sign up to participate in future research.

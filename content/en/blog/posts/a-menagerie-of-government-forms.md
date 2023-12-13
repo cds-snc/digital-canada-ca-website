@@ -101,4 +101,4 @@ The information collected is non-transactional, meaning a person isn’t request
 ## Tell us about your form!
 These use cases are preliminary and will likely shift as we learn more. But for now we’re using these three categories to guide our design approach: thinking about how form data is used, what features are needed to support each process, and unique implications the process has on form design best practices.
 
-Does your Government of Canada form fit any of the descriptions above? Is your process a hybrid of two or more of these use cases? Or is it something completely different? Regardless, [we’d like to hear from you!](mailto:steven.talbot@cds-snc.ca)
+Does your Government of Canada form fit any of the descriptions above? Is your process a hybrid of two or more of these use cases? Or is it something completely different? Regardless, [we’d like to hear from you!](mailto:cds-snc@tbs-sct.gc.ca)

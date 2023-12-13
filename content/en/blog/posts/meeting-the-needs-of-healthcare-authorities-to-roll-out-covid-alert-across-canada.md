@@ -60,7 +60,7 @@ We are grateful that, through their already busy schedules, we were able to rese
 
 * clearer onboarding instructions in invitation emails for healthcare workers to access the portal
 * screenshots they can use to guide patients on how to enter the one-time keys into the app
-* a [quick guide](https://covid-alert-portal.alpha.canada.ca/en/quick-guide/) with additional context if needed
+* a [quick guide](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html) with additional context if needed
 
 The end result helped provide clearer information to healthcare workers about how the portal fits within COVID-19 exposure notification, and also additional guidance for patients so that they can better support them.
 
@@ -78,4 +78,4 @@ Our team is working hard to provide a solution that meets the needs of healthcar
 
 The best way for us to improve is to get feedback from the people who are, and will be, using this service.
 
-If you or anyone you know is a healthcare worker responsible for contacting patients with positive results, please [sign up to be part of ongoing research](https://digital.canada.ca/covid-alert-research-signup/). Sign up takes less than 5 minutes and your feedback will help us improve the COVID Alert app as we work towards reducing the spread of COVID-19 across Canada.
+If you or anyone you know is a healthcare worker responsible for contacting patients with positive results, please sign up to be part of ongoing research. Sign up takes less than 5 minutes and your feedback will help us improve the COVID Alert app as we work towards reducing the spread of COVID-19 across Canada.

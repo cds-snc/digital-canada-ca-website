@@ -62,7 +62,7 @@ Nous nous estimons heureux d’avoir pu mener des recherches auprès de certains
 
 * des instructions plus claires dans les courriels d’invitation envoyés aux travailleurs de la santé sur la façon d’accéder au portail
 * des captures d’écran les aidant à guider les patients lorsque ceux-ci saisissent leur clé à usage unique dans l’application
-* un [guide rapide](https://portail-alerte-covid.alpha.canada.ca/fr/quick-guide/) fournissant plus d’informations, au besoin
+* un [guide rapide](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html) fournissant plus d’informations, au besoin
 
 En fin de compte, la recherche a permis de fournir des renseignements plus clairs aux travailleurs de la santé sur la façon dont le portail s’insère dans la notification d’exposition de COVID-19, ainsi que des conseils supplémentaires relatifs aux patients pour pouvoir mieux les aider.
 
@@ -78,4 +78,4 @@ Notre équipe travaille fort pour fournir une solution qui répond aux besoins d
 
 La meilleure façon pour nous d’améliorer ce service est d’obtenir des commentaires des gens qui l’utilisent ou qui l’utiliseront.
 
-Si vous ou l’une de vos connaissances êtes une personne du milieu de la santé responsable de contacter les patients obtenant un résultat positif, [inscrivez-vous pour participer à nos activités de recherche](https://numerique.canada.ca/inscription-recherche-alerte-covid/). L’inscription prend moins de 5 minutes, et vos commentaires nous aideront à améliorer l’application Alerte COVID tandis que nous essayons de réduire la propagation de la COVID-19 au Canada.
+Si vous ou l’une de vos connaissances êtes une personne du milieu de la santé responsable de contacter les patients obtenant un résultat positif, inscrivez-vous pour participer à nos activités de recherche. L’inscription prend moins de 5 minutes, et vos commentaires nous aideront à améliorer l’application Alerte COVID tandis que nous essayons de réduire la propagation de la COVID-19 au Canada.

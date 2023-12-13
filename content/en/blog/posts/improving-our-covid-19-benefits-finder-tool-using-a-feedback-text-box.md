@@ -11,7 +11,7 @@ image-alt: >-
 translationKey: blog-ffhc19-feedback
 thumb: https://de2an9clyit2x.cloudfront.net/small_adrianne_blog_en_8f917cc7df.jpg
 ---
-On May 7th, we soft launched the *[Find financial help during COVID-19](http://canada.ca/coronavirus-benefits)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day.
+On May 7th, we soft launched the *[Find financial help during COVID-19](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day.
 
 We conducted design research throughout the product build, facilitating multiple rounds of quick, moderated usability testing and a survey to make sure we were building the best thing for people, as quickly as possible. When we launched, we started collecting live data on the tool to make sure we could quickly address issues and ensure we were continuing to meet user needs.
 
@@ -64,4 +64,4 @@ Like any research method, there are limitations. Because this is a survey of sor
 
 Service Canada took over the management of the tool, future research and iterations, at the end of June. During this initial launch and phase of the tool, we learned that we might not get all the answers to our research questions from the feedback text box on the *Find financial help during COVID-19 tool*, but that doesn’t mean it isn’t incredibly valuable. Even if the feedback we received makes us ask ourselves many more questions, it’s told us so much about who is using the tool, where they may be stumbling, and what changes we can make to create a better and more helpful experience.
 
-Have you tried a feedback text box on your Government of Canada online tool or service? We’d love to hear about your findings. Get in touch with our [research community](mailto:rc-gc-dr@cds-snc.ca).
+Have you tried a feedback text box on your Government of Canada online tool or service? We’d love to hear about your findings. Get in touch with our [research community](mailto:cds-snc@tbs-sct.gc.ca).

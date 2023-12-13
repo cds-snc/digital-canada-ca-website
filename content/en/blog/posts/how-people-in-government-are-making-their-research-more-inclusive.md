@@ -75,4 +75,4 @@ Since the appetite is there, if you’re thinking of organizing your own communi
 ## Join us next time
 We’d like to give a huge thank you and virtual round of applause to all of our brave and brilliant speakers who volunteered their time to share their work - you make these events and this community what it is. The [full list of speakers is available on our event page](https://www.eventbrite.ca/e/inclusive-research-advocating-for-underrepresented-users-tickets-123023736307).
 
-Want to stay informed about the next CDS next Design Research community event? [Sign up](https://airtable.com/shrK4y5rFSEeO1UKr) to receive emails about when we’re meeting next!
+Want to stay informed about the next CDS next Design Research community event? Sign up to receive emails about when we’re meeting next!

@@ -55,4 +55,4 @@ Même un mot apparemment simple comme « facultatif » contient beaucoup d'infor
 
 Utiliser des mots concrets et courants peut nous faire sentir bizarres — même vulnérables — lorsque nous sommes si souvent récompensés pour utiliser un jargon, des abstractions et des acronymes. Mais choisir le bon niveau de détail et la bonne densité de sens aide les gens à comprendre comment l’application fonctionne puis à lui faire confiance.
 
-Le travail ne s’arrête pas là. Nous avons besoin de votre aide pour rendre Alerte COVID plus facile à comprendre. [Inscrivez-vous](https://numerique.canada.ca/inscription-recherche-alerte-covid/) pour participer à nos prochaines activités de recherche.
+Le travail ne s’arrête pas là. Nous avons besoin de votre aide pour rendre Alerte COVID plus facile à comprendre. Inscrivez-vous pour participer à nos prochaines activités de recherche.

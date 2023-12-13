@@ -26,9 +26,9 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6
                spread of COVID-19. Since then, our product teams at CDS have been working quickly to build an
                accessible, reliable, secure, and user-friendly app for people to use across the country. <span
                    class="bolded">COVID Alert
-                   officially launched today – you can <a href="https://apps.apple.com/ca/app/id1520284227">download
+                   officially launched today – you can <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html">download
                        the iOS app</a> or <a
-                       href="https://play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid">download the
+                       href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html">download the
                        Android app</a>.</span></p>
            <p>Our starting point was the <a href="https://www.covidshield.app/">open source code developed by
                    volunteers at Shopify</a>, which is based on <a
