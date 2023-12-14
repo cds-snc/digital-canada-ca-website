@@ -5,8 +5,9 @@
 @mixin desktop      { @media ( min-width: 992px )  { @content; } }
 @mixin sm_desktop_screen {@media ( max-width: 950px ) { @content; } }
 
-// the following mixins are meant to address content changes on our header menus 
-@mixin menu_break { @media (min-width: 1342px) { @content; } }
+// the following mixins are meant to address content changes on our header menus
+@mixin menu_break { @media (min-width: 1024px) { @content; } } // menu tab shows up
+//@mixin menu_break { @media (min-width: 1342px) { @content; } }
 @mixin logo_break { @media (max-width: 1341px) { @content; } }
 @mixin tablet_break { @media (max-width: 768px) { @content; } }
 @mixin retina {

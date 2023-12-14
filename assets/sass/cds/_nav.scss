@@ -40,25 +40,26 @@
   display: block;
   
 
-  @include mobile_only {
-    height: 2.78rem;
-    width: 11.11rem;
-    display: none;
-  }
+  //@include mobile_only {
+  //  height: 2.78rem;
+  //  width: 11.11rem;
+  //  display: none;
+  //}
 
   // added the below custom mixin to address menu content changes
-  @include logo_break {
-    height: 2.78rem;
-    width: 12.5rem;
-    position: absolute;
-    top: 0;
-  }
+  //@include logo_break {
+  //  height: 2.78rem;
+  //  width: 12.5rem;
+  //  position: absolute;
+  //  top: 0.5rem;
+  //}
+
 
   @include menu_break {
     height: 2.78rem;
     width: 13.88rem;
     position: absolute;
-    top: -1.11rem;
+    top: 0.5rem;
   }
 
   // BILINGUAL SPECIFIC CDS LOGO
@@ -80,9 +81,16 @@
     height: 2.5rem;
     width: 2.5rem;
     
-    @include mobile_only {
-      display: block;
-    }
+    //@include mobile_only {
+    //  display: block;
+    //}
+    //
+    //@include logo_break {
+    //  display: block;
+    //}
+  //@include menu_break {
+  //  display: block;
+  //}
 
   // BILINGUAL SPECIFIC CDS LOGO - MOBILE SCREEN
   &.en {
@@ -100,6 +108,8 @@
 ////////////////////////////////////////////////////////////
 
 .menu-items {
+  display: flex;
+
   padding: 0;
   // text-align: right;
   @include mobile_only {

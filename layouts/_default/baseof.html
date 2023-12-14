@@ -99,10 +99,14 @@
     </nav>
     
     <header role="banner">
-      {{ partial "fip.html" . }}
+      {{ partial "header.html" . }}
+
+<!--      {{ partial "fip.html" . }}-->
 
       {{ block "title" . }}
-      {{partial "menu.html" . }}
+<!--      {{partial "menu.html" . }}-->
+<!--      {{ partial "nav.html" . }}-->
+
       {{ if or (eq .Params.title "Error") (eq .Params.title "Erreur!") }}
       <div class="page-banner error">
       {{ else }}

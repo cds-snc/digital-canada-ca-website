@@ -16,14 +16,19 @@
 // CDS Base Styles and Style Overrides
 html {
 	// This sets the base font size as 1.125rem or 18px. 
-	font-size: 18px; 
+	//font-size: 18px;
 	scroll-behavior: smooth;
 	height: 100%;
 	position: relative;
 }
 
+:root {
+	font-size: 16px;
+}
+
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
 	font-family	: "SourceSansPro", sans-serif !important;
+	font-size: 18px;
 }
 
 body {
@@ -186,7 +191,7 @@ html .container {
 
 .row {
 	width: 100%;
-	margin: 0 auto;
+	//margin: 0 auto;
 }
 
 input.error {
