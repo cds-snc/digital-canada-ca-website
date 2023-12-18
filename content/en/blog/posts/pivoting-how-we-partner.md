@@ -49,7 +49,7 @@ This year we’ve reset how we work with teams across government to acknowledge 
  
 CDS now offers a digital government consulting team, inside government, for government, that brings hands-on delivery experience at scale from the public and private sectors. We help departments make timely design and technology decisions, build their in-house digital capabilities, and adopt new ways of working, so they can continually improve how they deliver public services.
  
-Through [Consulting](https://digital.canada.ca/coaching-and-advice/), we’re now providing guidance and feedback, sharing resources, and making connections to help government teams overcome their specific hurdles and improve their performance against the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). 
+Through Consulting, we’re now providing guidance and feedback, sharing resources, and making connections to help government teams overcome their specific hurdles and improve their performance against the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). 
 
 Through [Learning Resources](https://resources.alpha.canada.ca/), we’re in the early stages of experimenting with how to create, curate, and publish practical examples and resources that help public servants build their in-house digital capabilities and make the case for change within their departments. 
 
@@ -57,4 +57,4 @@ And this fall, we’re exploring how we might design a new type of service, focu
  
 ## Reach out — we’re here to help
 
-It’s early days, but we’re excited about the potential of our new focus and services. If you’re a federal public servant who wants help to improve how you design and deliver your services, [reach out](https://forms-formulaires.alpha.canada.ca/id/3) and we'll be in touch soon. We’re here to listen and ready to help. 
+It’s early days, but we’re excited about the potential of our new focus and services. If you’re a federal public servant who wants help to improve how you design and deliver your services, [reach out](https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus) and we'll be in touch soon. We’re here to listen and ready to help. 
