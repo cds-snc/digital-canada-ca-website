@@ -59,7 +59,6 @@ Joignez l’ordre du jour de la réunion à l’invitation pour qu’il soit fac
 Soyez sincère et compréhensif, vous pourrez ainsi avoir des conversations plus honnêtes et remonter le moral de l’équipe pendant la réunion.
 
 3. **Prenez le temps de connaître vos collègues et collaborez avec eux et elles.**
-Utilisez des [outils de collaboration virtuelle](https://busrides-trajetsenbus.csps-efpc.gc.ca/fr/ep-74-fr) pour aider l’équipe à tirer des enseignements de ses expériences, et ce, en vue de les inspirer et de façonner leurs méthodes de travail. 
 Assurez-vous que les personnes qui sont réservées ont elles aussi l’occasion de parler. Ne vous contentez pas d’écouter uniquement les voix qui se font entendre. Proposez plusieurs façons de participer : les activités de groupe et le clavardage en réunion en sont de bons exemples.
 Il n’est pas question ici de viser la perfection, mais plutôt de participer au perfectionnement et à l’épanouissement continus de l’équipe.
 
