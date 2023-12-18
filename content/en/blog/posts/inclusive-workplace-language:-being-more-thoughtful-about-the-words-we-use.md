@@ -36,8 +36,6 @@ Our language has more impact than we realize. If we take the time to learn about
 
 Making these changes can be relatively straightforward, no matter how long you’ve been using the previous terms. I stopped writing (and saying) “guys” pretty quickly with help of those friendly and automated prompts from Slackbot. 
 
-In an effort to be more mindful, here’s a list of [common workplace words](https://digital.canada.ca/inclusive-language-lexicon/) that we’re trying to take out of our vocabulary at CDS.
-
 ## Progress over perfection
 
 We don’t expect immediate perfection. Just last month I accidentally used “whitelist” and am grateful that a colleague corrected me. If we choose progress over perfection, we and our organizations can be more inclusive.
