@@ -17,13 +17,13 @@ Au Service numérique canadien, notre mission est de changer le gouvernement pou
 
 Au cours de nos quatre premières années d’existence, nous avons :
 - aidé à ralentir la propagation de la COVID-19 en livrant [Alerte COVID](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), un service de notification d’exposition, en partenariat avec les services numériques de l'Ontario et Santé Canada; 
-- aidé plus de deux millions de personnes à [trouver de l’aide financière pendant la COVID-19](https://covid-benefits.alpha.canada.ca/en/start) en partenariat avec Service Canada;
+- aidé plus de deux millions de personnes à trouver de l’aide financière pendant la COVID-19 en partenariat avec Service Canada;
 - aidé les ancien·ne·s combattant·e·s à [trouver des services et avantages](https://benefits-avantages.veterans.gc.ca/) en partenariat avec Anciens Combattants Canada; 
 - aidé les fonctionnaires à envoyer plus de 28 millions de courriels et de messages texte aux personnes utilisant leur service en lançant [Notification GC, un service qui soutient maintenant 180 programmes gouvernementaux](https://notification.canada.ca/); 
 - permis aux fonctionnaires de mettre plus facilement les utilisateurs et utilisatrices à l’avant-plan en mettant à jour les politiques de façon à d[istinguer la recherche en conception de la recherche sur l’opinion publique](https://digital.canada.ca/2019/06/26/scaling-design-research-in-the-government-of-canada/);
 - publié la [première politique de divulgation de vulnérabilité](https://github.com/cds-snc/covid-alert-documentation/blob/main/VulnerabilityDisclosurePolicy.md) du gouvernement du Canada au moment du lancement d’Alerte COVID.
 
-Cette année, [le budget de 2021](https://www.budget.gc.ca/2021/report-rapport/p4-en.html) a reconnu le travail effectué et l’importance de le poursuivre pour veiller à ce que nous puissions continuer de changer le gouvernement pour mieux servir les gens. Une fois cet exploit accompli, Aaron a quitté son poste de PDG pour saisir d’autres opportunités passionnantes. Il nous a donné les moyens d’accomplir ce travail important et a encouragé le gouvernement du Canada [à changer les choses](https://digital.canada.ca/2019/05/13/we-love-a-good-challenge/) pour que nous puissions continuer à prioriser les besoins de nos utilisateurs et utilisatrices; et pour cela, il a toute notre reconnaissance.
+Cette année, le budget de 2021 a reconnu le travail effectué et l’importance de le poursuivre pour veiller à ce que nous puissions continuer de changer le gouvernement pour mieux servir les gens. Une fois cet exploit accompli, Aaron a quitté son poste de PDG pour saisir d’autres opportunités passionnantes. Il nous a donné les moyens d’accomplir ce travail important et a encouragé le gouvernement du Canada [à changer les choses](https://digital.canada.ca/2019/05/13/we-love-a-good-challenge/) pour que nous puissions continuer à prioriser les besoins de nos utilisateurs et utilisatrices; et pour cela, il a toute notre reconnaissance.
 
 ## Le prochain chapitre
 
