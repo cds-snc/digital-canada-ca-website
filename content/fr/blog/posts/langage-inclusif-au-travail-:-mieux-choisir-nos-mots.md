@@ -36,8 +36,6 @@ Nos paroles ont bien plus d’impact que nous ne le pensons. C’est en prenant 
 
 Certains changements peuvent se faire assez facilement, même pour des termes que l’on utilise depuis longtemps. Les rappels cordiaux et automatiques de Slackbot m’ont permis de dire adieu à certaines expressions, à l’écrit comme à l’oral. 
 
-Pour continuer en ce sens, voici une [liste de termes habituels dans le contexte professionnel](https://numerique.canada.ca/lexique-du-langage-inclusif/) que nous essayons d’éliminer du vocabulaire du SNC.
-
 ## Viser le progrès, pas la perfection
 
 Nous ne visons pas la perfection du jour au lendemain. Le mois dernier encore, j’ai accidentellement utilisé le terme de « liste blanche » et je suis reconnaissant que l’on m’ait fait remarquer mon erreur. C’est en préférant le progrès à la perfection que nos organisations et nous-mêmes pouvons gagner en inclusivité.
