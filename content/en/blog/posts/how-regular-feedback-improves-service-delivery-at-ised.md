@@ -179,5 +179,9 @@ translationKey: blog-design-critiques-ised
 
 
 
+<p></p>
+
+
+
 <p>Want to start organizing a critique ritual on your team? <a href="mailto:cds-snc@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> if you have questions.</p>
 
