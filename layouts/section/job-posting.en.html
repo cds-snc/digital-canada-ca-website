@@ -36,6 +36,8 @@
       <h2>Apply</h2>
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+
+        <gcds-input input-id="pronouns" label="Pronouns" size="35" required></gcds-input>
         <!-- Full Name -->
         <!-- <div class="form-group">
           <label for="name">Full name</label>
@@ -58,6 +60,16 @@
 
         <gcds-input input-id="email" label="Email address" type="email" required size="35">
         </gcds-input>
+
+        <!-- <gcds-fieldset fieldset-id="preferred-language" legend="Preferred language for communication" required>
+          <div style="margin: 5rem 0 3rem 0;"> 
+            <gcds-checkbox checkbox-id="preferred-lang-en" label="English" name="english">
+            </gcds-checkbox>
+  
+            <gcds-checkbox checkbox-id="preferred-lang-fr" label="French" name="french">
+            </gcds-checkbox>
+          </div>
+        </gcds-fieldset> -->
 
         <!-- Resume -->
         <!-- <div class="form-group">
@@ -106,7 +118,7 @@
             field
             is required.</span>
         </div> -->
-        <gcds-textarea textarea-id="talent-tracking-required" label="How did you hear about this job posting?" required
+        <gcds-textarea textarea-id="talent_tracking" label="How did you hear about this job posting?" required
           character-count="300">
         </gcds-textarea>
 
