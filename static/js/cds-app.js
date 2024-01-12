@@ -123,6 +123,11 @@ $(document).ready(function () {
     $("#contactForm #pdf-format-preferred").html(file);
   });
 
+  $("#submit-btn").on("click", function (event) {
+    var theForm = document.getElementById("contactForm");
+    var formData = new FormData(theForm);
+    console.log('form data', Object.fromEntries(formData))
+  })
   /**
    * Contact Form Submit
    */

@@ -37,7 +37,7 @@
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
 
-        <gcds-input input-id="pronouns" label="Pronouns" size="35" required></gcds-input>
+        <gcds-input id="pronouns" input-id="pronouns" label="Pronouns" size="35" required></gcds-input>
         <!-- Full Name -->
         <!-- <div class="form-group">
           <label for="name">Full name</label>
@@ -47,7 +47,7 @@
             is required.</span>
         </div> -->
 
-        <gcds-input input-id="name" label="Full name" size="35" required></gcds-input>
+        <gcds-input id="name" input-id="name" label="Full name" size="35" required></gcds-input>
 
         <!-- Email -->
         <!-- <div class="form-group">
@@ -58,7 +58,7 @@
             is required.</span>
         </div> -->
 
-        <gcds-input input-id="email" label="Email address" type="email" required size="35">
+        <gcds-input id="email" input-id="email" label="Email address" type="email" required size="35">
         </gcds-input>
 
         <!-- <gcds-fieldset fieldset-id="preferred-language" legend="Preferred language for communication" required>
@@ -90,7 +90,7 @@
   
         </div> -->
         <div style="margin-bottom: 1rem;">
-          <gcds-file-uploader uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
+          <gcds-file-uploader id="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
             accept="application/msword, application/pdf, text/plain">
           </gcds-file-uploader>
         </div>
@@ -105,7 +105,7 @@
           </div>
           <input type="text" class="form-control" id="samples" name="samples" />
         </div> -->
-        <gcds-input input-id="samples" label="Samples of your work (URL)"
+        <gcds-input id="samples" input-id="samples" label="Samples of your work (URL)"
           hint="Share with us any relevant URLs showcasing your work" type="url" size="35">
         </gcds-input>
 
@@ -118,15 +118,17 @@
             field
             is required.</span>
         </div> -->
-        <gcds-textarea textarea-id="talent_tracking" label="How did you hear about this job posting?" required
+        <gcds-textarea id="talent_tracking" textarea-id="talent_tracking" label="How did you hear about this job posting?" required
           character-count="300">
         </gcds-textarea>
 
 
         <!-- Submit-->
         <div>
-          <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn"> Submit application <gcds-icon
+          <gcds-button type="submit" id="submit-btn" button-id="submit-btn"> Submit application <gcds-icon
               name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
+              <!-- <gcds-button id="submit-btn" button-id="submit-btn"> Submit application <gcds-icon
+                name="fa-solid fa-chevron-right"></gcds-icon></gcds-button> -->
         </div>
 
 
