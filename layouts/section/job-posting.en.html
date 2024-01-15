@@ -39,56 +39,16 @@
 
         <gcds-input id="pronouns" input-id="pronouns" label="Pronouns" size="35" required></gcds-input>
         <!-- Full Name -->
-        <!-- <div class="form-group">
-          <label for="name">Full name</label>
-          <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
-            aria-describedby="name-required" />
-          <span id="name-required" class="error-message validate-required-message" style="display: none;">This field
-            is required.</span>
-        </div> -->
 
         <gcds-input id="name" input-id="name" label="Full name" size="35" required></gcds-input>
 
         <!-- Email -->
-        <!-- <div class="form-group">
-          <label for="email">Email address</label>
-          <input type="email" name="email" class="form-control validate-required validate-email" id="email"
-            aria-required="true" aria-describedby="email-required" />
-          <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
-            is required.</span>
-        </div> -->
 
         <gcds-input id="email" input-id="email" label="Email address" type="email" required size="35">
         </gcds-input>
 
-        <!-- <gcds-fieldset fieldset-id="preferred-language" legend="Preferred language for communication" required>
-          <div style="margin: 5rem 0 3rem 0;"> 
-            <gcds-checkbox checkbox-id="preferred-lang-en" label="English" name="english">
-            </gcds-checkbox>
-  
-            <gcds-checkbox checkbox-id="preferred-lang-fr" label="French" name="french">
-            </gcds-checkbox>
-          </div>
-        </gcds-fieldset> -->
-
         <!-- Resume -->
-        <!-- <div class="form-group">
-          <label for="resume">Upload your resume
-            <div style="margin: 0.5rem 0 1rem 0;">
-              <span style="font-weight: normal;" class="url" id="pdf-format-preferred">PDF format preferred.</span>
-    
-            </div>
-            <div class="browse">
-              <div><span style="padding-right: 0.5rem;">Upload a file</span> <i class="fa-solid fa-upload fa-sm"></i>
-                <input class="resume" type="file" id="resume" name="resume"
-                  accept="application/msword, application/pdf, text/plain" required />
-              </div>
-    
-            </div>
-          </label>
-          
-  
-        </div> -->
+
         <div style="margin-bottom: 1rem;">
           <gcds-file-uploader id="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
             accept="application/msword, application/pdf, text/plain">
