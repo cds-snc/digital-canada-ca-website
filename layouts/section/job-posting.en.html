@@ -37,48 +37,36 @@
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
 
+        <!-- Pronouns -->
         <gcds-input id="pronouns" input-id="pronouns" label="Pronouns" size="35" required></gcds-input>
-        <!-- Full Name -->
 
+        <!-- Full Name -->
         <gcds-input id="name" input-id="name" label="Full name" size="35" required></gcds-input>
 
         <!-- Email -->
-
         <gcds-input id="email" input-id="email" label="Email address" type="email" required size="35">
         </gcds-input>
 
         <!-- Resume -->
-
         <div style="margin-bottom: 1rem;">
-          <gcds-file-uploader id="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
-            accept="application/msword, application/pdf, text/plain">
+          <gcds-file-uploader id="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred"
+            required accept="application/msword, application/pdf, text/plain">
           </gcds-file-uploader>
         </div>
 
 
         <!-- Samples of your work -->
-        <!-- <div class="form-group">
-          <label for="samples">Samples of your work (URL)</label>
-          <div style="margin: 0.5rem 0;">
-            <span class="url">Share with us any relevant URLs showcasing your work.</span>
-  
-          </div>
-          <input type="text" class="form-control" id="samples" name="samples" />
-        </div> -->
         <gcds-input id="samples" input-id="samples" label="Samples of your work (URL)"
           hint="Share with us any relevant URLs showcasing your work" type="url" size="35">
         </gcds-input>
 
         <!-- How did you hear about this job-->
-        <!-- <div class="form-group">
-          <label for="talent_tracking">How did you hear about this job posting?</label>
-          <textarea class="form-control" id="talent_tracking" name="talent_tracking" rows="5"></textarea>
-  
-          <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">This
-            field
-            is required.</span>
-        </div> -->
-        <gcds-textarea id="body" textarea-id="body" label="How did you hear about this job posting?" required
+        <gcds-textarea id="talent_tracking" textarea-id="talent_tracking"
+          label="How did you hear about this job posting?" required character-count="300">
+        </gcds-textarea>
+
+        <!-- What should we know about you? -->
+        <gcds-textarea id="body" textarea-id="body" label="What should we know about you" required
           character-count="300">
         </gcds-textarea>
 
@@ -87,8 +75,6 @@
         <div>
           <gcds-button type="submit" id="submit-btn" button-id="submit-btn"> Submit application <gcds-icon
               name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
-              <!-- <gcds-button id="submit-btn" button-id="submit-btn"> Submit application <gcds-icon
-                name="fa-solid fa-chevron-right"></gcds-icon></gcds-button> -->
         </div>
 
 
