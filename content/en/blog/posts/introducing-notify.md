@@ -16,7 +16,7 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_introducing_notify_d264bc51ad.
 ---
 Imagine a scenario where every time you use a government service, all necessary information gets to where it’s going, when it needs to, and all along, you’re confident that it will. We’ve spent the past few months working to create a service that can help the Government of Canada meet this goal.
 
-[Notify](https://notification.alpha.canada.ca/) is a service developed by the CDS platform team, that allows government departments to send emails and text messages to people who use their services, at low costs and in just a few simple steps.
+[Notify](https://notification.canada.ca/) is a service developed by the CDS platform team, that allows government departments to send emails and text messages to people who use their services, at low costs and in just a few simple steps.
 
 This isn’t something we built entirely from scratch. Using open source code from the hugely successful [GOV.UK Notify](https://www.notifications.service.gov.uk/) service (created by the [Government Digital Service](https://gds.blog.gov.uk) in the UK), our team is adapting it to fit within our context, in English and French - both of Canada's official languages. After meeting with the Digital Transformation Agency (DTA) in Australia, we were also able to add timezone  and local phone number support — all within just a couple of days.
 
@@ -46,7 +46,7 @@ No matter how big your service, Notify is built on cloud infrastructure that lev
 
 Our main goal with Notify is to serve people better by keeping them informed about the services they rely on, while reducing uncertainties and anxieties around not knowing what happens with their service transactions. Having information about their service transactions can directly impact someone’s life situation.
 
-We’re currently collecting feedback on Notify from early adopters and testers to help ensure the system can meet their needs. As we continue our research, we’ll make sure we share results with those using Notify to help make their services more effective.[Reach out to us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) if you're interested in participating in our research.
+We’re currently collecting feedback on Notify from early adopters and testers to help ensure the system can meet their needs. As we continue our research, we’ll make sure we share results with those using Notify to help make their services more effective.[Reach out to us](mailto:cds-snc@tbs-sct.gc.ca) if you're interested in participating in our research.
 
-We encourage anyone in the Government of Canada to go to the [Notify website](https://notification.alpha.canada.ca/) and make a free trial account. Try it, [let us know what you think](mailto:cds-snc@tbs-sct.gc.ca), and start using it to improve your service.
+We encourage anyone in the Government of Canada to go to the [Notify website](https://notification.canada.ca/) and make a free trial account. Try it, [let us know what you think](mailto:cds-snc@tbs-sct.gc.ca), and start using it to improve your service.
 

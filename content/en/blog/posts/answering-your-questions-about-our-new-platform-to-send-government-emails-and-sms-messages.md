@@ -64,7 +64,7 @@ All of that to say, if we had Notify when building the service for rescheduling 
 
 ## Now that we’ve sold you on the idea, how can you get started?
 
-Sign up for a Notify account and visit the API [documentation](https://notification.alpha.canada.ca/documentation). You’ll see there are clients for many common programming languages, such as Java, Python, and JavaScript. These clients and documentation are maintained by GDS.
+Sign up for a Notify account and visit the API [documentation](https://notification.canada.ca/). You’ll see there are clients for many common programming languages, such as Java, Python, and JavaScript. These clients and documentation are maintained by GDS.
 
 ![A screenshot of the Notify API integration page, which includes a section asking a user to create an API key by filling in the name for the key. There are three types of keys they can select - live, team and safelist, and test. ](https://de2an9clyit2x.cloudfront.net/notify_api_en_61ddd3729d.jpg)
 

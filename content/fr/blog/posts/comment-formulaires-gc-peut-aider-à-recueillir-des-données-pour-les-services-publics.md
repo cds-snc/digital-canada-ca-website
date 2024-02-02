@@ -265,5 +265,5 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Découvrez notre <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">nouvel outil pour la création de formulaires gouvernementaux</a> (il est en libre-service !) et <a href="https://forms-formulaires.alpha.canada.ca/fr/id/cle4hg480270358ayedaqq1ish" target="_blank" rel="noreferrer noopener">contactez-nous</a> en cas de question.</p>
+<p>Découvrez notre <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">nouvel outil pour la création de formulaires gouvernementaux</a> (il est en libre-service !) et <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">contactez-nous</a> en cas de question.</p>
 

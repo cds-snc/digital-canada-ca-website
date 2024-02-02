@@ -25,7 +25,7 @@ What’s most notable about James is his personal commitment. “I wanted to hel
 
 This isn’t the end of the journey for James. He hopes to tackle a more government-wide approach and see more federal executives participate in next year’s parade, “I think the inclusion we’re talking about involves public servants from different departments, at different levels, from different community groups. It doesn’t have to be the LGBTQ+ community alone; it could be community allies as well. For me, that’s what Pride means. Just being inclusive no matter who you are and creating a positive and safe space for all.”
 
-That’s what we’re trying to do at CDS, and we need your help. We’re looking to learn what being diverse means to you and how we can make our teams more diverse. If you have any suggestions or comments, please email Charlotte at [Charlotte.Pedersen@tbs-sct.gc.ca](mailto:Charlotte.Pedersen@tbs-sct.gc.ca). You can also keep an eye out for a CDS-hosted community gathering on diversity and inclusion, coming soon!
+That’s what we’re trying to do at CDS, and we need your help. We’re looking to learn what being diverse means to you and how we can make our teams more diverse. You can also keep an eye out for a CDS-hosted community gathering on diversity and inclusion, coming soon!
 
 ![Employees at CDS, including a remote colleague on a screen, taking a photo for Pride while holding Pride flags.](https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg)
 

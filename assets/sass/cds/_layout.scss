@@ -1,77 +1,8 @@
 ////////////////////////////////////////////////////////////
 //
-// Canada Top Back Bar Header
-//
-////////////////////////////////////////////////////////////
-
-#fip {
-  background-color: #33465c;
-  padding: 0.44rem;
-
-  .container {
-    padding: 0;
-  }
-
-  // Language Selector
-  #wb-lng {
-    padding-top: 0 !important;
-  }
-
-  .lang {
-    display: block;
-    text-align: right;
-    width: 100%;
-    color: $white;
-
-    a {
-      display: inline-block;
-      color: $white;
-      margin-top: 0.42rem;
-      text-align: center;
-      text-decoration: none;
-      padding-bottom: 0.55rem;
-      border-bottom: #425A76 1px solid;
-      transition: all 0.3s ease-in-out;
-      
-
-      &:hover {
-        border-bottom: #CCC 1px solid;
-      }
-
-      @include desktop {
-        font-weight: 200;
-        font-size: 1.11rem;
-      }
-
-      @include tablet {
-        font-size: 0.84rem;
-      }
-    }
-  }
-}
-
-.fip__content {
-  display: flex;
-  align-items: center;
-
-  img {
-    max-width: 52px;
-    @include desktop {
-      max-width: 58px;
-    }
-  }
-}
-
-////////////////////////////////////////////////////////////
-//
 // TOP PAGE BANNER
 //
 ////////////////////////////////////////////////////////////
-
-#wb-sm {
-  background: none;
-  position: relative;
-}
 
 .page-banner {
   background-size: cover;
@@ -122,7 +53,7 @@
     font-size : 2.55rem;
     color: $white;
     font-weight: 100;
-    margin: 0.84rem;
+    margin: 0.84rem 0;
     padding: 0;
   }
 }

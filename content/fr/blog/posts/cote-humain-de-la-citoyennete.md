@@ -98,8 +98,6 @@ Cela est particulièrement utile parce que d’autres services peuvent maintenan
 
 <p class="translation-caption">Avis de réception immédiat de la page de confirmation et clarté quant à la suite du processus.</p>
 
-Vous pouvez essayer une version démo du nouveau service en ligne [ici](https://vancouver.rescheduler-dev.cds-snc.ca/).
-
 ## Résultats
 
 Depuis l’activation du nouveau service à Vancouver en juillet dernier, nous avons intégré Calgary et Montréal et prévoyons un déploiement dans le reste du Canada. Pour les demandeurs et le personnel, un service conçu en fonction de leurs besoins offre une bien meilleure expérience :

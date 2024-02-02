@@ -21,7 +21,7 @@ Mon premier réflexe est d’examiner les chiffres : les notes attribuées, le n
 
 Il y a des similarités entre cette situation et la conception de services en ligne. **C’est une tâche ardue qui l’est encore plus lorsqu’on ne dispose pas de données.**
 
-En collaboration avec nos partenaires de la Gendarmerie royale du Canada (GRC), nous sommes en train de concevoir et de mettre à l’essai différents outils [afin d’aider les personnes touchées par la cybercriminalité] (https://numerique.canada.ca/2019/05/06/comprendre-les-besoins-humains-des-personnes-touch%C3%A9es-par-la-cybercriminalit%C3%A9/) à signaler leur expérience auprès de la GRC. Il s’agit de prototypes, soit des « services factices » ayant l’apparence d’un éventuel service de signalement destiné aux victimes.
+En collaboration avec nos partenaires de la Gendarmerie royale du Canada (GRC), nous sommes en train de concevoir et de mettre à l’essai différents outils afin d’aider les personnes touchées par la cybercriminalité à signaler leur expérience auprès de la GRC. Il s’agit de prototypes, soit des « services factices » ayant l’apparence d’un éventuel service de signalement destiné aux victimes.
 
 À la fin de cette phase alpha, nous examinerons les données avec nos partenaires afin de déterminer les aspects qui fonctionnent. Ces données pourraient nous indiquer qu’aucune fonctionnalité ne convient réellement. Si tel est le cas, nous retournerons à la planche à dessin. Il n’y a pas de mal à ça! ([Prise de décisions éclairées par les données] (https://numerique.canada.ca/2019/06/13/%C3%A9laborer-un-cadre-d%C3%A9valuation-pour-la-prestation-des-produits-et-services/), youpi!)
 
@@ -80,7 +80,7 @@ Voici un lien vers chacun des prototypes que nous avons utilisés, et ce que nou
         <tr>
             <td>11 avril 2019</td>
             <td>
-                <a href="https://rac-concept-1.herokuapp.com/">Démo 1</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
+                Démo 1 (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
             </td>
             <td>Moyenne (supérieure à la première version)</td>
             <td>Opinion partagée (il y avait quelques réserves là où c’était pertinent)</td>
@@ -88,7 +88,7 @@ Voici un lien vers chacun des prototypes que nous avons utilisés, et ce que nou
         <tr>
             <td>9 mai 2019</td>
             <td>
-            <a href="https://rac-concept-2.herokuapp.com/">Démo 2</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
+                Démo 2 (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
             <td>Moyenne (compréhension différente de ce qui est très urgent et peu urgent)</td>
             <td>Moyenne à élevée</td>
         </tr>

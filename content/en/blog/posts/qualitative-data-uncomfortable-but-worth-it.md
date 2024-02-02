@@ -20,7 +20,7 @@ My first instinct is to look at the numbers: star ratings, page numbers, and so 
 
 Designing online services is similar. **It’s hard to do. It’s even harder to do without data.**
 
-Working with our partners at the Royal Canadian Mounted Police (RCMP), we’re prototyping and testing different tools [to help people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) report their experience to the RCMP. These prototypes don’t actually report to the police, but they mimic what a victim might see as they click through a potential reporting service.
+Working with our partners at the Royal Canadian Mounted Police (RCMP), we’re prototyping and testing different tools to help people impacted by cybercrime report their experience to the RCMP. These prototypes don’t actually report to the police, but they mimic what a victim might see as they click through a potential reporting service.
 
 At the end of this phase, we’ll look at the data with our partners to understand which features work well. The data may tell us that none of them work well, in which case we’d return to the drawing board. And that’s okay! ([Data-informed decision making](https://digital.canada.ca/2019/06/13/developing-an-evaluation-framework-for-product-and-service-delivery/), woohoo!)
 
@@ -79,7 +79,7 @@ Here’s a link to each prototype we used, and our findings after testing them a
         <tr>
             <td>April 11, 2019</td>
             <td>
-                <a href="https://rac-concept-1.herokuapp.com/">Demo 1</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
+                Demo 1 (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
             </td>
             <td>Medium (higher than first version)</td>
             <td>Mixed (where there was value, was caveated)</td>
@@ -87,7 +87,7 @@ Here’s a link to each prototype we used, and our findings after testing them a
         <tr>
             <td>May 9, 2019</td>
             <td>
-            <a href="https://rac-concept-2.herokuapp.com/">Demo 2</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
+                Demo 2 (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
             <td>Medium (mixed understanding of what was high and low urgency)</td>
             <td>Medium to high</td>
         </tr>

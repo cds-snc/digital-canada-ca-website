@@ -36,8 +36,7 @@ Bien sûr, nous disposons d’un [blogue](https://numerique.canada.ca/blogue/) e
 
 Nous avons également une page [Produits](https://numerique.canada.ca/produits/), où vous pouvez voir les services que nous avons livrés et ceux sur lesquels nous travaillons actuellement.
 
-L’équipe du SNC est également active sur les médias sociaux; elle diffuse souvent des moments marquants du quotidien. La page [Notre équipe](/rencontrez-lequipe/) vous donne accès à des comptes personnels Twitter et LinkedIn à suivre tout au long du parcours.
-
+L’équipe du SNC est également active sur les médias sociaux; elle diffuse souvent des moments marquants du quotidien.
 ## Montrer
 
 Toutes les deux semaines, le SNC organise des courtes démonstrations qu’on appelle « Show the Thing ». C’est une occasion à l’interne de donner, dans un style vif, une présentation des projets de cinq minutes, suivie d’une période de questions et réponses de cinq minutes. C’est un bon moyen pour les autres équipes d’appliquer les leçons apprises à leurs propres situations afin de ne pas répéter les mêmes erreurs.
@@ -58,6 +57,6 @@ Mais ce que nous allons continuer à faire et à prioriser, c’est de travaille
 
 Pour y arriver, nous devons montrer l’iceberg en entier tout au long de notre parcours, le bon comme le mauvais, afin d’aider les autres à naviguer un peu mieux dans les eaux à l’avenir, tout comme nous avons pu le faire grâce à ceux qui nous ont précédés.
 
-Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](#contact-us-links) les points sur lesquels vous voulez en savoir plus.
+Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](mailto:cds-snc@tbs-sct.gc.ca) les points sur lesquels vous voulez en savoir plus.
 
 

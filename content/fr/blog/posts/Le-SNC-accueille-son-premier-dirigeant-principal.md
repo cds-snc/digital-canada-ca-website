@@ -25,7 +25,7 @@ Aaron a cofondé [18F](https://18f.gsa.gov/), l’équipe des services numériqu
 
 Auparavant, Aaron a occupé les fonctions de sous-commissaire et conseiller principal des [Technology Transformation Services (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) du gouvernement américain. TTS représente un ensemble de programmes de pointe chiffrés à 100 millions de dollars permettant d’améliorer l’utilisation de la technologie par le gouvernement américain dans le but de mieux service le public.
 
-Aaron se joint au SNC après avoir travaillé pour [cBrain](https://www.cbrain.com/) North America la majeure partie de 2017. Il est aussi cofondateur et dirigeant principal de la technologie de [Voter Protection Partners](https://voterprotection.partners/) ainsi que membre du conseil d’administration de la [OpenGov Foundation](https://www.opengovfoundation.org/).
+Aaron se joint au SNC après avoir travaillé pour [cBrain](https://www.cbrain.com/) North America la majeure partie de 2017. Il est aussi ainsi que membre du conseil d’administration de la [OpenGov Foundation](https://www.opengovfoundation.org/).
 
 En tant que dirigeant principal, il travaillera de concert avec le dirigeant principal de l’information du gouvernement du Canada, Alex Benay, afin de faire avancer le programme numérique du pays.
 

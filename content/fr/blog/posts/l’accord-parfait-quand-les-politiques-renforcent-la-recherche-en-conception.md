@@ -23,8 +23,8 @@ D’abord, nous avons sollicité des gens de nos réseaux professionnels et de n
 
 En plus d’établir un contact avec des participants pertinents pour notre étude, ce processus avait trois avantages :
 
-1. Les anciens combattants ainsi que les militaires toujours en service ont communiqué avec nous sur une base volontaire, ce qui a permis de [réduire la pression à participer](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=34) qui peut exister si la demande vient directement du gouvernement du Canada.
-2. Nous avons fait savoir aux participants que l’ami ou le collègue les ayant recrutés ne serait pas informé de leur choix de participer ou non. Cette mesure permet de [réduire le sentiment de coercition et de pression sociale](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=34) découlant du « recruteur ».
+1. Les anciens combattants ainsi que les militaires toujours en service ont communiqué avec nous sur une base volontaire, ce qui a permis de réduire la pression à participer qui peut exister si la demande vient directement du gouvernement du Canada.
+2. Nous avons fait savoir aux participants que l’ami ou le collègue les ayant recrutés ne serait pas informé de leur choix de participer ou non. Cette mesure permet de réduire le sentiment de coercition et de pression sociale découlant du « recruteur ».
 3. Nous n’avons recueilli aucun renseignement personnel sur les participants avant d’avoir l’assurance qu’ils avaient compris l’objet et le déroulement de la recherche ainsi que leur rôle en tant que participants.
 
 Après que les clients potentiels ont eu communiqué avec nous, nous avons été en mesure de :
@@ -33,7 +33,7 @@ Après que les clients potentiels ont eu communiqué avec nous, nous avons été
 * établir le profil des participants
 * planifier une entrevue (dans le cas où le participant potentiel était toujours intéressé)
 
-Deux jours avant l’entrevue, le chercheur a envoyé l’énoncé de confidentialité et l’avis de consentement au participant pour qu’il les passe en revue, afin de garantir un [consentement éclairé](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=38). Il existe bien sûr d’autres méthodes pour recruter des utilisateurs, mais nous avons conclu qu’il s’agissait de la meilleure étant donné la nature de notre problème, notre type de recherche et le groupe d’utilisateurs.
+Deux jours avant l’entrevue, le chercheur a envoyé l’énoncé de confidentialité et l’avis de consentement au participant pour qu’il les passe en revue, afin de garantir un consentement éclairé. Il existe bien sûr d’autres méthodes pour recruter des utilisateurs, mais nous avons conclu qu’il s’agissait de la meilleure étant donné la nature de notre problème, notre type de recherche et le groupe d’utilisateurs.
 
 Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/10/26/elaborer-un-plan-de-researche/) et que vous avez besoin de recruter des utilisateurs pour mener des entrevues, nous avons listé quelques ressources matérielles ci-dessous. Si vous avez trouvé ce billet utile et que vous aimeriez bénéficier de plus de ressources ou de suggestions, vous pouvez nous envoyer un gazouillis ou un message direct à [@SNC_GC](https://twitter.com/SNC_GC), ou nous écrire par courriel à <mailto:cds-snc@tbs-sct.gc.ca>.
 
@@ -41,7 +41,7 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 
 * [Loi sur la protection des renseignements personnels du gouvernement fédéral](https://laws-lois.justice.gc.ca/fra/lois/p-21/page-1.html)
 * [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18309)
-* [Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf)
+* Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains
 * [Lignes directrices du Secrétariat du Conseil du Trésor pour distinguer la recherche en conception (recherche sur les utilisateurs) de la recherche sur l’opinion publique](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/recherche-opinion-publique.html)
 
 ## Ressources **matérielles**

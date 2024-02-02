@@ -63,6 +63,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     a {
       color: $white;
     }
@@ -127,10 +128,26 @@
 .our-hiring-process {
   background-color: #D7E5F5;
   padding: 2rem 0 2rem 0;
-  background-image: url("/img/cds/our-hiring-process.svg");
-  background-size: 50%;
-  background-position: left bottom;
-  background-repeat: no-repeat;
+  position: relative;
+
+  &:before {
+    content: ' ';
+    display: none;
+    position: absolute;
+    left: 0;
+    bottom: 80px;
+    width: 100%;
+    height: calc(100% - 80px);
+    opacity: 0.4;
+    background-image: url("/img/cds/our-hiring-process.svg");
+    background-size: 50%;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+
+    @include desktop {
+      display: inline-block;
+    }
+  }
 }
 
 .work-with-us--section {
@@ -372,25 +389,6 @@
     }
   }
 
-
-  .photo-container {
-    height: 250px;
-    width: 100%;
-
-    @include logo_break {
-      height: 200px;
-    }
-  }
-
-  .photo {
-    display: inline-block;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-  }
-
   .text {
     line-height: 1.4;
   }
@@ -414,6 +412,7 @@
   .author {
     font-size: 1rem;
     font-weight: 600;
+    margin-bottom: 0.65rem;
 
     @include tablet {
       // This rule will limit the number of lines to 3
@@ -502,6 +501,10 @@ article.post {
     display: block;
     margin-right: auto;
     margin-left: auto;
+
+    @include tablet {
+      max-height: 450px;
+    }
   }
 
   a.large-link {
@@ -514,11 +517,6 @@ article.post {
     font-weight: 600;
     font-size: 0.84rem;
     margin: 0rem 0 1.11rem 0;
-
-    .post-title-container {
-      // padding: 25px 0;
-      
-    }
 
     time {
       display: block;
@@ -695,7 +693,7 @@ article.post {
   }
 
   .second-list {
-    background-color: $background-grey;
+    background-color: $light-grey;
     padding: 3rem 0 1rem 0;
   }
 

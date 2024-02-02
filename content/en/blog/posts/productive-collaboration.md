@@ -71,5 +71,5 @@ As we strive to *work in the open*, it’s not just about how we operate externa
 
 This is a glimpse into our process. It’s still a work in progress — patience, flexibility, and continual iteration are key. We’ll continue to share how we’re adapting our workflow processes in hopes it helps you improve yours as well.
 
-If you’re looking for guidance or have tips you’d like to share, [we’d love to hear from you!](mailto:Eman.El-Fayomi@tbs-sct.gc.ca)
+If you’re looking for guidance or have tips you’d like to share, [we’d love to hear from you!](mailto:cds-snc@tbs-sct.gc.ca)
 

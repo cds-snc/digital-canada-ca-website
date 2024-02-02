@@ -15,14 +15,17 @@
 
 // CDS Base Styles and Style Overrides
 html {
-	// This sets the base font size as 1.125rem or 18px. 
-	font-size: 18px; 
 	scroll-behavior: smooth;
 	height: 100%;
 	position: relative;
 }
 
+:root {
+	font-size: 16px;
+}
+
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
+	font-size: 21px;
 	font-family	: "SourceSansPro", sans-serif !important;
 }
 
@@ -36,6 +39,16 @@ body {
 .footer {
 	position: absolute;
 	width: 100%;
+}
+
+//addressing the forced margin on gcds header menu
+header[role=banner] {
+	margin-bottom: -0.75rem;
+
+	.page-banner {
+		margin-top: -0.75rem;
+		margin-bottom: 0.75rem;
+	}
 }
 
 a {
@@ -53,7 +66,7 @@ a {
 	}
 
 	@include desktop{
-		font-size: 1.125rem;
+		font-size: inherit;
 	}
 
 	&:visited {
@@ -135,7 +148,9 @@ h3 {
 }
 
 html .container {
-	width: 70%;
+	width: 100%;
+	// temporary calc to account for the padding that column classes have
+	max-width: calc(71.25rem + 30px);
 
 	@include mobile_only {
 		width: 100%;
@@ -186,7 +201,6 @@ html .container {
 
 .row {
 	width: 100%;
-	margin: 0 auto;
 }
 
 input.error {

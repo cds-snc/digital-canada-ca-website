@@ -33,5 +33,5 @@ Prototyping is essential for testing usability and revealing parts of a design t
 
 By taking an interdisciplinary approach, I’ve been able to broaden my skills and collaborate to build better products.
 
-Interested in joining our team? We’re hiring [interaction designers](https://digital.canada.ca/interaction-designers/), [content designers](https://digital.canada.ca/content-designers/), [service designers](https://digital.canada.ca/service-designers/), and [visual designers](https://digital.canada.ca/visual-designers/).
+Interested in joining our team? We’re hiring interaction designers, content designers, service designers, and visual designers.
 

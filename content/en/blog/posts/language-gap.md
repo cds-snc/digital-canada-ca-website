@@ -17,7 +17,7 @@ When choosing open source tools, one of the biggest obstacles we run into is lan
 
 ## Sometimes it’s easy
 
-One of our recent projects, [Track web security compliance](https://cds-snc.github.io/track-web-security-compliance/), started life as a fork of 18F’s fantastic [Pulse](https://pulse.cio.gov/) project. Starting with a pre-existing code base sped up the development process, but came with its own challenges. One of those challenges was building in French functionality.
+One of our recent projects, [Track web security compliance](https://cds-snc.github.io/track-web-security-compliance/), started life as a fork of 18F’s fantastic [Pulse](https://18f.gsa.gov/2015/06/02/taking-the-pulse-of-the-federal-governments-web-presence/) project. Starting with a pre-existing code base sped up the development process, but came with its own challenges. One of those challenges was building in French functionality.
 
 Thankfully, this wasn’t too difficult. Web pages for *Track Web* are generated using [Jinja](http://jinja.pocoo.org/docs/2.10/), a templating language for Flask applications. To toggle seamlessly between languages, we assigned each page a unique identifier to link the English and French versions. Then we built a language toggle that when clicked, rendered the page in the selected language with the translated URL.
 
@@ -33,6 +33,6 @@ We’ve been researching content management systems (CMS) that we can attach to 
 
 One thing’s for sure - we have work to do in the open source space regarding i18n, especially as we modernize services for Canadians. In some cases, it’s all about finding the right tool. In others, we have an opportunity to build and contribute our own i18n tools.
 
-Do you have similar struggles? Have you found any great open source i18n tools? [Please share them with us](#contact-us-links)!
+Do you have similar struggles? Have you found any great open source i18n tools? [Please share them with us](mailto:cds-snc@tbs-sct.gc.ca)!
 
 Oh and, sorry to the developer who went through the process to publish this post. We promise we’re working on it.

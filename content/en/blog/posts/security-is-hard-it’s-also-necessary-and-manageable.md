@@ -35,7 +35,7 @@ But what if we could automate these security checks?
 
 ## Automatic reporting
 
-Given current infrastructure and developer tooling, it should be possible to automatically verify a large number of controls listed inside the [ITSG-33](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsg33-overview-apercu-eng_1.pdf). The ITSG-33 being security guidance documentation that the Government of Canada has put into place for all departments.
+Given current infrastructure and developer tooling, it should be possible to automatically verify a large number of controls listed inside the [ITSG-33](https://www.cyber.gc.ca/en/guidance/it-security-risk-management-lifecycle-approach-itsg-33). The ITSG-33 being security guidance documentation that the Government of Canada has put into place for all departments.
 
 When it comes to security, we know that quality assurance checks need to be implemented and verified in a manual process. Typically that means manually assembling and printing a document or a series of documents. That would be like airport security printing off all your information and walking it over to the next person who needed to scan your passport. This doesn’t scale, right?
 

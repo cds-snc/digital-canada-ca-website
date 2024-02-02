@@ -33,5 +33,5 @@ Il est essentiel de créer des prototypes pour effectuer des tests d’utilisabi
 
 C’est donc en adoptant une approche pluridisciplinaire que j’ai pu élargir mon champ de compétences et contribuer à la création de produits améliorés.
 
-Intégrer notre équipe vous intéresse ? Nous embauchons des [concepteurs d’interaction](https://numerique.canada.ca/concepteurs-dinteraction/), des [concepteurs de contenu](https://numerique.canada.ca/concepteurs-de-contenu/), des [concepteurs de services](https://numerique.canada.ca/concepteurs-de-services/) et des [concepteurs visuels](https://numerique.canada.ca/concepteurs-visuels/).
+Intégrer notre équipe vous intéresse ? Nous embauchons des concepteurs d’interaction, des concepteurs de contenu, des concepteurs de services et des concepteurs visuels.
 

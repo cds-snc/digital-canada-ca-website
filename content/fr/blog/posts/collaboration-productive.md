@@ -76,6 +76,6 @@ Alors que nous nous efforçons de travailler ouvertement, il ne s’agit pas seu
 
 Il s’agit d’un aperçu de notre processus. C’est encore un travail en cours, et la patience, la souplesse et l’itération continue sont des ingrédients clés. Nous continuerons de vous faire part de la façon dont nous adaptons nos flux de travail dans l’espoir que cela vous aidera à améliorer les vôtres également.
 
-Si vous êtes à la recherche de conseils ou si vous avez des conseils que vous aimeriez partager, [nous aimerions avoir de vos nouvelles!](mailto:Eman.El-Fayomi@tbs-sct.gc.ca)
+Si vous êtes à la recherche de conseils ou si vous avez des conseils que vous aimeriez partager, [nous aimerions avoir de vos nouvelles!](mailto:cds-snc@tbs-sct.gc.ca)
 
 

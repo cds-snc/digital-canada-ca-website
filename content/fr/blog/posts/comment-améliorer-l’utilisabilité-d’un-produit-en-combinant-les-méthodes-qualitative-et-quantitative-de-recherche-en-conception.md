@@ -26,7 +26,7 @@ Dans toute industrie, la nouveauté vient avec des risques. Nous comprenons donc
 Comment faisons-nous pour établir une relation de confiance avec nos partenaires et nous assurer que les services que nous concevons ensemble sont réellement attrayants et conviviaux pour les citoyens? En nous appuyant sur des données valides.
 
 ## Le point sur la recherche qualitative
-Au cours des derniers mois, alors que nous travaillions sur [l’outil « Signaler un crime informatique »] (https://mpsccdscybercrimeazapp.azurewebsites.net/) de la Gendarmerie royale du Canada (GRC), nous avons mis à l’essai une nouvelle stratégie de recherche qui jetterait les bases nécessaires pour obtenir des données valides : une approche mixte de recherche en conception.
+Au cours des derniers mois, alors que nous travaillions sur l’outil « Signaler un crime informatique » de la Gendarmerie royale du Canada (GRC), nous avons mis à l’essai une nouvelle stratégie de recherche qui jetterait les bases nécessaires pour obtenir des données valides : une approche mixte de recherche en conception.
 
 Mais qu’est-ce que ça veut dire? Eh bien, vous vous souviendrez peut-être que lors des premières [séances de recherche qualitative] (https://numerique.canada.ca/2019/07/11/donn%C3%A9es-qualitatives-inconfortables-oui-mais-elles-valent-le-coup/), nous avons discuté avec des utilisateurs potentiels du service afin de comprendre leurs besoins. À partir des résultats de cette recherche, nous avons apporté des changements au prototype afin de répondre à ces besoins.
 

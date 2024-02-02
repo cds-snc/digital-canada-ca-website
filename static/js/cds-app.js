@@ -21,90 +21,70 @@ function validateEmail($email) {
 }
 
 $(document).ready(function () {
-  const focusedElementMobileModal = "button:not([disabled]), [href], input, text, li, ul, span, a";
-  const mobileNav = document.getElementById("js-mobileNav")
-  const firstfocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[0]
-  const lastFocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[mobileNav.querySelectorAll(focusedElementMobileModal).length - 1]
-  mobileNav.addEventListener("keydown", function(e) {
-    let isTabPressed = e.key === "Tab" || e.keyCode === 9;
-    if (!isTabPressed) {
-      return;
-    }
-    if (mobileNav.classList == "active") {
+  // const focusedElementMobileModal = "button:not([disabled]), [href], input, text, li, ul, span, a";
+  // const mobileNav = document.getElementById("js-mobileNav")
+  // const firstfocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[0]
+  // const lastFocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[mobileNav.querySelectorAll(focusedElementMobileModal).length - 1]
+  // mobileNav.addEventListener("keydown", function(e) {
+  //   let isTabPressed = e.key === "Tab" || e.keyCode === 9;
+  //   if (!isTabPressed) {
+  //     return;
+  //   }
+  //   // if (mobileNav.classList == "active") {
       
-      if (e.shiftKey) {
-        if (document.activeElement === firstfocusedElement) {
-          lastFocusedElement.focus();
-          e.preventDefault();
-        }
+  //   //   if (e.shiftKey) {
+  //   //     if (document.activeElement === firstfocusedElement) {
+  //   //       lastFocusedElement.focus();
+  //   //       e.preventDefault();
+  //   //     }
 
-      } else if (document.activeElement == lastFocusedElement) {
-        firstfocusedElement.focus();
+  //   //   } else if (document.activeElement == lastFocusedElement) {
+  //   //     firstfocusedElement.focus();
         
-        e.preventDefault();
-      }
+  //   //     e.preventDefault();
+  //   //   }
 
-    }
+  //   // }
 
-  })
+  // })
   
-  document.addEventListener("keydown", function(e) {
-    let isTabPressed = e.key === "Tab" || e.keyCode === 9;
-    if (!isTabPressed) {
-      return;
-    }
+  // document.addEventListener("keydown", function(e) {
+  //   let isTabPressed = e.key === "Tab" || e.keyCode === 9;
+  //   if (!isTabPressed) {
+  //     return;
+  //   }
 
 
-    if (e.shiftKey) {
-      if (document.activeElement == document.getElementById("careers-nav-tag")) {
-        document.getElementById("dropdwn-cnt").style.display = "block"
-      }
-      else if (document.activeElement == document.getElementById("coaching-and-advice-nav-tag")) {
-        if (mobileNav.classList == "active") {
+  //   if (e.shiftKey) {
+  //     if (document.activeElement == document.getElementById("careers-nav-tag")) {
+  //       document.getElementById("dropdwn-cnt").style.display = "block"
+  //     }
+  //     else if (document.activeElement == document.getElementById("coaching-and-advice-nav-tag")) {
+  //       if (mobileNav.classList == "active") {
           
-          document.getElementById("langSwitch").focus();
-          document.getElementById("dropdwn-cnt").style.display = "none"
-        } else {
-          document.getElementById("cds-logo").focus();
-          document.getElementById("dropdwn-cnt").style.display = "none"
-        }
+  //         document.getElementById("langSwitch").focus();
+  //         document.getElementById("dropdwn-cnt").style.display = "none"
+  //       } else {
+  //         document.getElementById("cds-logo").focus();
+  //         document.getElementById("dropdwn-cnt").style.display = "none"
+  //       }
         
         
-        e.preventDefault()
-      } 
-    }
-    else {
-      if (document.activeElement == document.getElementById("guides-nav-tag")) {
-        document.getElementById("dropdwn-cnt").style.display = "none"
+  //       e.preventDefault()
+  //     } 
+  //   }
+  //   else {
+  //     if (document.activeElement == document.getElementById("guides-nav-tag")) {
+  //       document.getElementById("dropdwn-cnt").style.display = "none"
         
-      }
-    }
+  //     }
+  //   }
 
-  })
+  // })
 
-  document.addEventListener("keyup", function (e) {
-    console.log(document.activeElement)
-  })
-
-
-
-
-
-  $("#js-mainNavButton").on("click touchup", function () {
-    $("#js-mobileNav").addClass("active");
-    $("#js-mobileNav--button").focus()
-    console.log('MAIN NAV BTN CLICKED')
-
-
-    
-  });
-
-  $("#js-mobileNav--button").on("click touchup", function () {
-    $("#js-mobileNav").addClass("hiding");
-    setTimeout(function () {
-      $("#js-mobileNav").removeClass("active hiding").removeAttr("class");
-    }, 305);
-  });
+  // document.addEventListener("keyup", function (e) {
+  //   console.log(document.activeElement)
+  // })
 
   // Add target=_blank to external links
   // Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
@@ -156,57 +136,57 @@ $(document).ready(function () {
     var valid = true,
       errors = [];
 
-    $("#contactForm .form-control").each(function () {
-      var $this = $(this);
+    // $("#contactForm .form-control").each(function () {
+    //   var $this = $(this);
 
-      /**
-       * Email validation
-       */
-      if ($this.val() && $this.hasClass("validate-email")) {
-        if (!validateEmail($this.val())) {
-          errors.push($this);
-          valid = false;
-        }
-      }
+    //   /**
+    //    * Email validation
+    //    */
+    //   if ($this.val() && $this.hasClass("validate-email")) {
+    //     if (!validateEmail($this.val())) {
+    //       errors.push($this);
+    //       valid = false;
+    //     }
+    //   }
 
-      /**
-       * Max words validation
-       */
-      if ($this.val() && $this.hasClass("validate-maxwords")) {
-        wordCount = $this.val().split(/[\s]+/).length;
+    //   /**
+    //    * Max words validation
+    //    */
+    //   if ($this.val() && $this.hasClass("validate-maxwords")) {
+    //     wordCount = $this.val().split(/[\s]+/).length;
 
-        if (wordCount > maxWords) {
-          errors.push($this);
-          valid = false;
-        }
-      }
+    //     if (wordCount > maxWords) {
+    //       errors.push($this);
+    //       valid = false;
+    //     }
+    //   }
 
-      /**
-       * Required validation
-       */
-      if (!$this.val() && $this.hasClass("validate-required")) {
-        errors.push($this);
-        valid = false;
-      }
-    });
+    //   /**
+    //    * Required validation
+    //    */
+    //   if (!$this.val() && $this.hasClass("validate-required")) {
+    //     errors.push($this);
+    //     valid = false;
+    //   }
+    // });
 
     /**
      * Handle invalid items
      */
-    if (!valid) {
-      $.each(errors, function (index, item) {
-        item.addClass("error");
-        item.closest(".form-group").addClass("error");
-        item.siblings(".error-message").show();
-        item.attr("aria-invalid", "true");
-      });
+    // if (!valid) {
+    //   $.each(errors, function (index, item) {
+    //     item.addClass("error");
+    //     item.closest(".form-group").addClass("error");
+    //     item.siblings(".error-message").show();
+    //     item.attr("aria-invalid", "true");
+    //   });
 
-      /**
-       * Set focus to the first invalid element and get out
-       */
-      errors[0].focus();
-      return false;
-    }
+    //   /**
+    //    * Set focus to the first invalid element and get out
+    //    */
+    //   errors[0].focus();
+    //   return false;
+    // }
 
     /**
      * Disable button to prevent double-submitting

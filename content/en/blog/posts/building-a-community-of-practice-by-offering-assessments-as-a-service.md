@@ -38,7 +38,7 @@ By asking each team to demonstrate how they meet each of the Standards, it has b
 ## Looking ahead
 We believe having the Digital Standards is a big step towards creating better quality services that are developed ethically, iteratively, and lead to outcomes centred around meeting the needs of the people we serve. Assessing government services against the Standards using a lightweight process on a regular cadence helps ensure that **we’re working on the right things, in the right ways, at the right times.**
 
-Based on our experience, we would encourage other [Government of Canada departments to assess how well their services meet the Standards](https://digital.canada.ca/roadmap-2025/#1-prioritize-empower-and-measure-digital-service-development). We’d like to help other departments get started by offering to run more independent, blameless assessments with them.
+Based on our experience, we would encourage other Government of Canada departments to assess how well their services meet the Standards. We’d like to help other departments get started by offering to run more independent, blameless assessments with them.
 
 In doing so, we would very soon build up a broader standard assessment community of practice capable of running independent, lightweight and blameless assessments that will lift the quality of service delivery for everyone.
 

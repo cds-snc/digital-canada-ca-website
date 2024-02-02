@@ -19,7 +19,7 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_bag_and_hands_62d7b020be.jpg
 ---
 The way government talks can be quite different than how people outside of government talk. As a public servant, I know I’ve been guilty of using specialized language that loses meaning when it leaves the context of my team or department. I’ve also been on the other side, lost while trying to navigate a government website, or frustrated while trying to search different combinations of words, to find the right form.
 
-That’s why it’s important to remember that, if we’re serving the public, we should use words people use every day. Otherwise, when people need to access services, like a [‘Report a cybercrime’](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) service, for instance, they may struggle to find it, to understand it, and to use it.
+That’s why it’s important to remember that, if we’re serving the public, we should use words people use every day. Otherwise, when people need to access services, they may struggle to find it, to understand it, and to use it.
 
 Working with the Royal Canadian Mounted Police (RCMP), we’ve been exploring what “cybercrime” actually means to victims of cybercrime and how that can differ from the language government and law enforcement use. Learning how people describe their experiences can help us design a more intuitive service.
 
@@ -65,5 +65,5 @@ While we’ve learned a lot from the victims we’ve spoken with so far, we have
 
 We know that the way people describe cybercrime and victimhood might vary depending on the language. Admittedly, we haven’t yet had as many conversations in French as we’ve had in English. We need your help to better serve Canadians and give them consistent experiences that work in both official languages.
 
-Do you speak French? [Get in touch](mailto:anik.brazeau@tbs-sct.gc.ca) to share your cybercrime experience or join us for an upcoming prototype test session.
+Do you speak French? [Get in touch](mailto:cds-snc@tbs-sct.gc.ca) to share your cybercrime experience or join us for an upcoming prototype test session.
 

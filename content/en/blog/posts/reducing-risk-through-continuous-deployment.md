@@ -39,7 +39,7 @@ This means we have to resort to non-standard, out-of-cycle, untested emergency p
 
 ## There’s another way: deploy every change, every day
 
-It’s not just possible; it’s standard practice in industry. The tooling is available to everyone today, and it’s cheap. [Amazon deployed to production every 11.6 seconds](http://joshuaseiden.com/blog/2013/12/amazon-deploys-to-production-every-11-6-seconds/), four years ago.
+It’s not just possible; it’s standard practice in industry. The tooling is available to everyone today, and it’s cheap. Amazon deployed to production every 11.6 seconds, four years ago.
 
 If you’ve read our previous blog posts on [continuous integration](https://digital.canada.ca/2018/03/26/automated-testing-blog/) and [code quality](https://digital.canada.ca/2018/04/24/coding-is-a-team-activity/), you know we follow a pattern of very short, small changes, each reviewed by colleagues and passing a suite of automated tests. The combination of both continuous integration and peer review unlocks the ability to also *deploy* each of these changes individually to production.
 

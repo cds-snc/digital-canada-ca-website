@@ -46,7 +46,7 @@ Du point de vue d’un ancien combattant, des problèmes de qualité de l’info
 
 L’une de nos plus importantes réalisations était que la portée de la découverte devait être modifiée. Le problème initial était axé sur les prestations, ce qui a incité l’équipe à se demander qui bénéficiait des renseignements et comment ils seraient utiles dans un contexte plus large.Afin d’avoir une incidence sur la vie d’un ancien combattant, la modification de la portée ne devait pas être axée seulement sur des prestations ou une série de prestations. Au lieu de se concentrer sur la navigation des prestations, l’équipe s’est penchée à comprendre comment les anciens combattants ont accès aux prestations.
 
-Cela s’aligne directement à la [lettre du ministre](https://pm.gc.ca/fra/lettre-de-mandat-du-ministre-des-anciens-combattants-et-ministre-associe-de-la-defense-nationale) : « en leur facilitant l’accès aux services […] et en faisant davantage pour soutenir ». Ce changement permet à l’équipe de concentrer
+Cela s’aligne directement à la [lettre du ministre](https://www.pm.gc.ca/fr/lettres-de-mandat/2017/10/04/archivee-lettre-de-mandat-du-ministre-des-anciens-combattants-et) : « en leur facilitant l’accès aux services […] et en faisant davantage pour soutenir ». Ce changement permet à l’équipe de concentrer
 consciemment ses efforts pour comprendre le cheminement d’un ancien combattant. C’est-à-dire comprendre ce qu’a vécu un ancien combattant, du service actif, jusqu’à sa libération, et sa vie après l’uniforme.
 
 La compréhension du cheminement d’un ancien combattant est absolument nécessaire, mais

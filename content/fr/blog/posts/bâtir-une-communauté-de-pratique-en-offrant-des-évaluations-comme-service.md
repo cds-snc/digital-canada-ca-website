@@ -39,7 +39,7 @@ En demandant à chaque équipe de démontrer comment elle respecte chacune des n
 ## Regard vers l’avenir
 Nous croyons que le fait d’établir des normes numériques constitue un grand pas vers la création de services de meilleure qualité qui sont élaborés de façon éthique et itérative, et qui mènent à des résultats axés sur la satisfaction des besoins des personnes que nous servons. L’évaluation des services gouvernementaux en fonction des normes au moyen d’un processus sommaire et de façon régulière permet de s’assurer que **nous travaillons sur les bons projets, de la bonne façon et au bon moment.**
 
-À la lumière de notre expérience, nous encourageons les autres [ministères du gouvernement du Canada à évaluer dans quelle mesure leurs services sont conformes aux normes](https://numerique.canada.ca/feuille-de-route-2025/). Nous aimerions aider d’autres ministères à s’y mettre en proposant de mener des évaluations de leurs services indépendantes et sans reproches.
+À la lumière de notre expérience, nous encourageons les autres ministères du gouvernement du Canada à évaluer dans quelle mesure leurs services sont conformes aux normes. Nous aimerions aider d’autres ministères à s’y mettre en proposant de mener des évaluations de leurs services indépendantes et sans reproches.
 
 Ce faisant, nous créerions très bientôt une communauté de pratique plus vaste en matière d’évaluation des normes. Elle pourrait mener des évaluations indépendantes, sommaires et sans reproches qui amélioreront la qualité de la prestation des services pour tous.
 

@@ -88,7 +88,7 @@ Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meill
 
 ## Aimeriez-vous savoir si ce produit peut aider _vos_ utilisateurs à trouver des services?
 
-Nous avons créé [une version générique](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
+Nous avons créé une version générique de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
 
 Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (_issue_) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse <mailto:cds-snc@tbs-sct.gc.ca>. Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
 

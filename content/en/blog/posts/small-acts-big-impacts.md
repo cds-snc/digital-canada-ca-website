@@ -52,9 +52,9 @@ And then, once we’ve set the foundation at home:
 
 Here are some resources and tools that came up to help foster a culture of belonging and trust:
 
-* [Circle guides](https://workingoutloud.com/en/circle-guides)
+* Circle guides
 * [User Manual for me](https://digital.canada.ca/2018/08/21/productive-collaboration/)
-* [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)
+* Google Hangouts
 * [Trello](https://trello.com/)
 * [Slack](https://slack.com/)
 * [Google Docs](https://www.google.com/docs/about/)

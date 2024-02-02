@@ -24,7 +24,7 @@ There’s risk involved with doing something new in every industry. So when we c
 How do we build trust with our partners and make sure that the services we develop together are actually usable and appealing to people? We lean on the strength of evidence.
 
 ## Recap of qualitative research
-Over the last few months, while working on the Royal Canadian Mounted Police (RCMP) [“Report a Cybercrime” tool](https://mpsccdscybercrimeazapp.azurewebsites.net/), we tried a new research tactic to build an evidence base: mixed methods design research.
+Over the last few months, while working on the Royal Canadian Mounted Police (RCMP) “Report a Cybercrime” tool, we tried a new research tactic to build an evidence base: mixed methods design research.
 
 What does this mean? Well, you may recall that during early [qualitative research sessions](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/), we spoke with potential users of the service to understand their needs. Based on the findings of this research, we iterated on the prototype to meet those needs.
 
