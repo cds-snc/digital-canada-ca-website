@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_EN-10
 translationKey: blog-chantal-inclusion
 ---
 
-<p>This article was previously published on <a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a> in December 2023. Check out the <a href="https://www.linkedin.com/pulse/writing-everyone-inclusive-gc-comms-cds-snc-yshcc" target="_blank" rel="noreferrer noopener">original post</a>.</p>
+<p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a>&nbsp;in December 2023. Check out the&nbsp;<a href="https://www.linkedin.com/pulse/writing-everyone-inclusive-gc-comms-cds-snc-yshcc" target="_blank" rel="noreferrer noopener">original post</a>.</p>
 
 
 
@@ -123,5 +123,5 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Are you or your team working on being more inclusive in your writing? <a href="mailto:cds@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> to share examples! We want to learn how public servants are working to design and share information in a way that reflects the needs of all people in Canada.</p>
+<p>Are you or your team working on being more inclusive in your writing? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> to share examples! We want to learn how public servants are working to design and share information in a way that reflects the needs of all people in Canada.</p>
 
