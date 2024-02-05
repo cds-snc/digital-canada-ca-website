@@ -73,4 +73,4 @@ Grâce à la rétroaction rapide de nos collègues, nous avons pu appliquer un c
 
 Ce premier point de contact avec un groupe d’utilisateur·rice·s internes nous a été précieux. La prochaine étape est de solliciter la rétroaction de personnes externes au SNC souhaitant utiliser la barre de recherche pour trouver des renseignements. Et c’est pour cela que nous avons besoin de votre aide.
 
-Si vous avez déjà utilisé notre site Web, nous aimerions beaucoup connaître votre avis. [Vous pouvez vous inscrire ici pour participer aux prochains tests portant sur le site Web](mailto:cds-snc@tbs-sct.gc.ca).  
+Si vous avez déjà utilisé notre site Web, nous aimerions beaucoup connaître votre avis. [Vous pouvez vous inscrire ici pour participer aux prochains tests portant sur le site Web](mailto:cds-snc@servicecanada.gc.ca).  
