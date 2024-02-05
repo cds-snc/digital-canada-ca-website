@@ -179,5 +179,5 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>Vous souhaitez organiser un rituel de critique pour votre équipe ? <a href="mailto:cds-snc@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous </a>en cas de questions.</p>
+<p>Vous souhaitez organiser un rituel de critique pour votre équipe ? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous </a>en cas de questions.</p>
 
