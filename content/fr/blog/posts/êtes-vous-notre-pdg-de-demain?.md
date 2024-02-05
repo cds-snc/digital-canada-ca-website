@@ -29,10 +29,10 @@ Cette année, le budget de 2021 a reconnu le travail effectué et l’importance
 
 Nous avons besoin d’une personne intrépide qui saura nous guider dans notre prochaine phase de croissance et d’impact. Nous accepterons bientôt les candidatures pour trouver notre PDG de demain, qui nous aidera à définir une orientation stratégique afin de continuer à changer le gouvernement pour mieux servir les gens. 
 
-Cette personne permettra à l’équipe, unités opérationnelles des [partenariats](https://numerique.canada.ca/encadrement-et-conseils/) et des [plateformes](https://numerique.canada.ca/suite-de-produits/) comprises, de faire de son mieux. Elle nous aidera à faire évoluer notre croissance, à expérimenter et à nous améliorer sans cesse ainsi qu’à bâtir une organisation et des pratiques plus diverses et inclusives. Elle développera des relations avec des dirigeantes et dirigeants au sein du gouvernement comme du secteur privé. Autant de personnes qu’elle accompagnera et inspirera, fidèle aux [valeurs du SNC](https://digital.canada.ca/our-values/). 
+Cette personne permettra à l’équipe, unités opérationnelles des partenariats et des [plateformes](https://numerique.canada.ca/produits/) comprises, de faire de son mieux. Elle nous aidera à faire évoluer notre croissance, à expérimenter et à nous améliorer sans cesse ainsi qu’à bâtir une organisation et des pratiques plus diverses et inclusives. Elle développera des relations avec des dirigeantes et dirigeants au sein du gouvernement comme du secteur privé. Autant de personnes qu’elle accompagnera et inspirera, fidèle aux valeurs du SNC. 
 
 ## Le suspense 
-Au cours des prochaines semaines, l’offre d’emploi sera mise en ligne sur [notre site Web](https://digital.canada.ca/careers/) ainsi que sur [emplois.gc.ca](https://www.canada.ca/en/services/jobs/opportunities/government.html) et nous commencerons à accepter les candidatures. D’ici-là, n’hésitez pas à [me contacter](mailto:brock.higgins@tbs-sct.gc.ca) si vous avez des questions sur ce rôle. 
+Au cours des prochaines semaines, l’offre d’emploi sera mise en ligne sur [notre site Web](https://digital.canada.ca/emplois/) ainsi que sur [emplois.gc.ca](https://www.canada.ca/en/services/jobs/opportunities/government.html) et nous commencerons à accepter les candidatures. D’ici-là, n’hésitez pas à [me contacter](mailto:cds-snc@servicecanada.gc.ca) si vous avez des questions sur ce rôle. 
 
 Nous avons hâte d’écrire le prochain chapitre de notre histoire avec vous!
 
