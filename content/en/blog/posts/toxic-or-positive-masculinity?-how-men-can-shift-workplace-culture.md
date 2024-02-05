@@ -62,4 +62,4 @@ In the spirit of action, we also put together a list of initiatives we are plann
 
 Every organization is unique but I believe there are probably common patterns we share. That means we can learn and unlearn from each other, and collectively build healthier workplaces for all genders. We’re just starting our journey, so we’re not sure if we’re doing the right things yet. 
 
-[We’d love to connect](mailto:cds-snc@tbs-sct.gc.ca) to share more about our journey, or to learn from yours. **Let’s keep the conversation going and become the “lesson in action.”** 
+[We’d love to connect](mailto:cds-snc@servicecanada.gc.ca) to share more about our journey, or to learn from yours. **Let’s keep the conversation going and become the “lesson in action.”** 
