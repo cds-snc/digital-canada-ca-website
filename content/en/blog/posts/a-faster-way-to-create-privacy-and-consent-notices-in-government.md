@@ -73,7 +73,7 @@ We still need ATIP’s approval for our notices. But, we shortened the time to c
 ## Check out the “Generate Privacy and Consent Notices” tool
 While the tool is currently limited to internal use, you can see how we **[Generate Privacy and Consent Notices](https://simplify-privacy-statements.alpha.canada.ca/en)** here.
 
-If you’re a federal public servant in Canada, we’re working on adapting it for wider use. This includes changing the collection authority to make it less specific to CDS's needs. So stay tuned for updates or [reach out](mailto:CDS-SNC@tbs-sct.gc.ca) to learn more about adopting it in your department!  
+If you’re a federal public servant in Canada, we’re working on adapting it for wider use. This includes changing the collection authority to make it less specific to CDS's needs. So stay tuned for updates or [reach out](mailto:cds-snc@servicecanada.gc.ca) to learn more about adopting it in your department!  
 
 If you’re from outside Canada, check out [our repository](https://github.com/cds-snc/simplify-privacy-statements-V2) and see if the code will work for you! There’s still some work to create the rules and information, but it might be the starting point you need. Like it was for the [global ResearchOps community](https://researchops.community/), who used our code to create a consent form builder for its 8,000 members.
 
