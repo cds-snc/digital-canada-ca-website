@@ -70,11 +70,9 @@ Ces entrevues peuvent être menées dans le cadre d’un effort de recherche plu
 
 Lorsque j’ai commencé à créer le schéma de mots pour mieux qualifier nos services d’analyse numérique, le terme qui revenait le plus au sein de notre équipe était un mot tout simple : « exploration ». Nous explorions la prestation de services numériques au sein du gouvernement du Canada, en collaboration avec nos partenaires. De bien des façons, nous parcourions de nouveaux territoires, faisions de petites découvertes en chemin et guidions nos partenaires dans l’exploration de leurs propres services en posant sur ces derniers un regard nouveau. 
 
-À l’heure actuelle, nous nous adaptons au parcours numérique de nos nouveaux partenaires afin d’explorer les conditions de service numériques uniques qui leur sont propres (pour en savoir plus, lisez notre billet de blogue [« Explorer les conditions de la prestation de services numériques »](https://numerique.canada.ca/2021/04/07/explorer-les-conditions-de-la-prestation-de-services-num%C3%A9riques/). Les explorations ne mènent pas toujours à un autre partenariat, et il n’y a rien de mal à ça. 
+À l’heure actuelle, nous nous adaptons au parcours numérique de nos nouveaux partenaires afin d’explorer les conditions de service numériques uniques qui leur sont propres. Les explorations ne mènent pas toujours à un autre partenariat, et il n’y a rien de mal à ça. 
 
 Pour résumer, si le nom d’un service n’est pas adapté et vous laisse perplexe, n’essayez pas de vous y faire : changez-le! Si vous ne discernez pas clairement le but d’un service d’après son nom, il y a de bonnes chances  que votre public cible soit dans la même situation que vous, et ce, qu’il s’agisse de membres du public accédant aux services gouvernementaux ou de fonctionnaires cherchant de l’aide pour opérer des changements numériques!
-
-Vous souhaitez explorer votre disposition au numérique? Nous pouvons vous aider! [Découvrez comment](https://numerique.canada.ca/encadrement-et-conseil/).
 
 ---
 
