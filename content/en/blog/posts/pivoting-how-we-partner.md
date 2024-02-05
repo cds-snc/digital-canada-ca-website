@@ -57,4 +57,4 @@ And this fall, we’re exploring how we might design a new type of service, focu
  
 ## Reach out — we’re here to help
 
-It’s early days, but we’re excited about the potential of our new focus and services. If you’re a federal public servant who wants help to improve how you design and deliver your services, [reach out](https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus) and we'll be in touch soon. We’re here to listen and ready to help. 
+It’s early days, but we’re excited about the potential of our new focus and services. If you’re a federal public servant who wants help to improve how you design and deliver your services, [reach out](mailto:cds-snc@servicecanada.gc.ca) and we'll be in touch soon. We’re here to listen and ready to help. 
