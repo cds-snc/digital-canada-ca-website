@@ -67,5 +67,5 @@ We don't want our coworkers to think of security as a roadblock – but rather t
 2. **Teaching human-centered ‘security operations and best practices’ for learning and retention.** 
 3. **Changing the security narrative from ‘us *vs* security’ – to teams working together to build trust and security in the organization.** 
 
-If you’re involved in security operations in your organization, take a look at your approach and see if these takeaways can help you improve for impact! Then, let us know if you found our approach helpful ([Twitter](https://twitter.com/CDS_GC), [Linkedin](https://www.linkedin.com/company/cds-snc/), or [email](mailto:cds-snc@tbs-sct.gc.ca)).
+If you’re involved in security operations in your organization, take a look at your approach and see if these takeaways can help you improve for impact! Then, let us know if you found our approach helpful ([Twitter](https://twitter.com/CDS_GC), [Linkedin](https://www.linkedin.com/company/cds-snc/), or [email](mailto:cds-snc@servicecanada.gc.ca)).
 
