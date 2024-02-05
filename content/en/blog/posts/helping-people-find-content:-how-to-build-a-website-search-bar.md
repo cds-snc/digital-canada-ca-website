@@ -81,7 +81,7 @@ I hope this blog post is helpful to anyone looking to implement a search functio
 
 Lunr can be a great fit when using a static website framework, such as Hugo or Gatsby, or if a website has a limited number of documents. The benefit of this client-side search tool is that it doesn’t require serverless functions such as AWS Lambda or Azure Functions, but rather, all the work takes place on the client’s browser.
 
-If you’re interested in integrating similar search functionality frameworks into your website, we encourage you to check out [our code and documentation on Github](https://github.com/cds-snc/digital-canada-ca). And if you have any questions, thoughts or feedback, [I’d love to hear from you](mailto:omar.tehsin@tbs-sct.gc.ca).
+If you’re interested in integrating similar search functionality frameworks into your website, we encourage you to check out [our code and documentation on Github](https://github.com/cds-snc/digital-canada-ca). And if you have any questions, thoughts or feedback, [I’d love to hear from you](mailto:cds-snc@servicecanada.gc.ca).
 
 
 
