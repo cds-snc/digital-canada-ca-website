@@ -68,5 +68,5 @@ Nous avons lancé l’initiative « bouchées de sécurité » cet été pou
 
 Nous ne voulons pas que nos collègues considèrent la sécurité comme un obstacle. Il faut plutôt que nous travaillions ensemble pour dégager la route et éviter des incidents. En favorisant une relation construite sur la confiance, les conversations en matière de sécurité — déjà assez complexes — seront *beaucoup plus* faciles à aborder à l’avenir. 
 
-Si vous participez à des opérations de sécurité dans votre organisation, analysez votre approche pour évaluer si ces éléments peuvent vous aider à accroître votre influence; puis faites-nous le savoir, si c’est le cas ([Twitter](https://twitter.com/SNC_GC), [Linkedin](https://www.linkedin.com/company/cds-snc/), ou [par courriel](mailto:cds-snc@tbs-sct.gc.ca)).
+Si vous participez à des opérations de sécurité dans votre organisation, analysez votre approche pour évaluer si ces éléments peuvent vous aider à accroître votre influence; puis faites-nous le savoir, si c’est le cas ([Twitter](https://twitter.com/SNC_GC), [Linkedin](https://www.linkedin.com/company/cds-snc/), ou [par courriel](mailto:cds-snc@servicecanada.gc.ca)).
 
