@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_FR-10
 translationKey: blog-chantal-inclusion
 ---
 
-<p>Cet article a été publié sur la <a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">page LinkedIn du SNC</a> en décembre 2023. Consultez le <a href="https://www.linkedin.com/feed/update/urn:li:activity:7138541197001728000" target="_blank" rel="noreferrer noopener">billet original.</a></p>
+<p>Cet article a été publié sur&nbsp;la <a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">page LinkedIn du SNC</a>&nbsp;en décembre 2023. Consultez le&nbsp;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7138541197001728000" target="_blank" rel="noreferrer noopener">billet original.</a></p>
 
 
 
@@ -31,7 +31,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Je me suis demandé pourquoi le gouvernement du Canada ne disposait pas de ressources pour aider les gens à adopter une écriture plus inclusive. J’ai donc participé à la mise en place d’un groupe de travail interministériel pour relever ce défi. Ce groupe compte maintenant des membres de plus de 36 ministères du gouvernement fédéral et des gouvernements provinciaux ! Ses travaux ont permis la publication des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources.html#lignes-directrices" target="_blank" rel="noreferrer noopener">lignes directrices sur l’écriture inclusive</a> en septembre 2022.</p>
+<p>Je me suis demandé pourquoi le gouvernement du Canada ne disposait pas de ressources pour aider les gens à adopter une écriture plus inclusive. J’ai donc participé à la mise en place d’un groupe de travail interministériel pour relever ce défi. Ce groupe compte maintenant des membres de plus de 36&nbsp;ministères du gouvernement fédéral et des gouvernements provinciaux ! Ses travaux ont permis la publication des <a href="https://www.noslangues-ourlanguages.gc.ca/fr/cles-de-la-redaction/ecriture-inclusive-lignes-directrices-ressources.html#lignes-directrices" target="_blank" rel="noreferrer noopener">lignes directrices sur l’écriture inclusive</a> en septembre&nbsp;2022.</p>
 
 
 
@@ -154,6 +154,6 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Votre équipe ou vous-même travaillez à l’adoption d’une écriture plus inclusive? <a href="mailto:cds@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous</a> pour nous donner vos exemples! Nous cherchons à savoir de quelle manière les fonctionnaires s’emploient à rédiger et à communiquer des renseignements tout en reflétant les besoins de toute la population canadienne.</p>
+<p>Votre équipe ou vous-même travaillez à l’adoption d’une écriture plus inclusive? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous</a> pour nous donner vos exemples! Nous cherchons à savoir de quelle manière les fonctionnaires s’emploient à rédiger et à communiquer des renseignements tout en reflétant les besoins de toute la population canadienne.</p>
 </div>
 
