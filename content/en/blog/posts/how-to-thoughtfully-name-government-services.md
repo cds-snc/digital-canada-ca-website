@@ -72,8 +72,6 @@ Currently, we’re meeting new partners where they are at in their digital journ
 
 A takeaway from this experience: If a service name doesn’t quite fit and has you scratching your head, don’t learn to live with it — change it! Chances are, if you’re unclear on the service’s purpose based on the name, your audience is too — whether they’re public users accessing government services or public servants looking for help bringing about digital change!
 
-Interested in exploring your digital readiness? We can help! [See how](https://digital.canada.ca/coaching-and-advice/).
-
 ---
 
 Curious to discover other content design techniques? Well, we have a few suggestions for you: 
