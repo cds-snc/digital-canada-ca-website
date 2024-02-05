@@ -147,5 +147,5 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<p>Are you thinking about using pair programming in your own work? <a href="mailto:cds@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Let us know!</a><br>Interested in learning more about GC Forms? <a href="https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_Blog-forms-accessibility-paired&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Register for a demo today</a>!</p>
+<p>Are you thinking about using pair programming in your own work? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Let us know!</a><br>Interested in learning more about GC Forms? <a href="https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_Blog-forms-accessibility-paired&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Register for a demo today</a>!</p>
 
