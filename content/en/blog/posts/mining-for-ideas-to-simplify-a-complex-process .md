@@ -111,5 +111,5 @@ translationKey: blog-mining-canmet
 
 
 
-<p>Are you a public servant working on improving services for people in Canada? <a href="mailto:cds-snc@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us</a>!</p>
+<p>Are you a public servant working on improving services for people in Canada? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us</a>!</p>
 
