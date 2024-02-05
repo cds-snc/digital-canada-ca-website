@@ -55,5 +55,5 @@ We’re looking to connect and learn from other people doing this work too!
 
 Perhaps you’re doing it in conjunction with developing and delivering products and services within your department. Maybe you’re developing and testing a digital readiness or organizational development and change practices. 
 
-If this sounds like you, we’d love to hear from you! Email us: <cds-snc@tbs-sct.gc.ca>.
+If this sounds like you, we’d love to hear from you! [Email us](mailto:cds-snc@servicecanada.gc.ca).
 
