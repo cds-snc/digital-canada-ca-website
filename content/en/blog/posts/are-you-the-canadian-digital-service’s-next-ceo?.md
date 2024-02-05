@@ -29,10 +29,10 @@ This year, Budget 2021 recognized the work completed and the importance of conti
 ## The next chapter
 We need someone fearless to lead us through our next phase of growth and impact. We’ll soon open applications for a CEO who will help us set a strategic direction to keep changing government to serve people better. 
 
-This person will empower the team to do its best work, including our [partnership](https://digital.canada.ca/coaching-and-advice/) and [platform](https://digital.canada.ca/product-suite/) business units. They’ll help us scale our growth, continuously experiment and improve, and build a more diverse and inclusive organization and practice.  They’ll build relationships with leaders across government and the private sector. And because they live the [CDS Values](https://digital.canada.ca/our-values/), they’ll coach and inspire leaders along the way. 
+This person will empower the team to do its best work, including our partnership and [platform](https://digital.canada.ca/products) business units. They’ll help us scale our growth, continuously experiment and improve, and build a more diverse and inclusive organization and practice.  They’ll build relationships with leaders across government and the private sector. And because they live the CDS Values, they’ll coach and inspire leaders along the way. 
 
 ## The cliffhanger 
-In coming weeks, the job posting will go live on [our website](https://digital.canada.ca/careers/) and [jobs.gc.ca](https://www.canada.ca/en/services/jobs/opportunities/government.html) and we’ll accept applications. Until then, feel free to [reach out to me](mailto:brock.higgins@tbs-sct.gc.ca) with any questions about the role. 
+In coming weeks, the job posting will go live on [our website](https://digital.canada.ca/jobs/) and [jobs.gc.ca](https://www.canada.ca/en/services/jobs/opportunities/government.html) and we’ll accept applications. Until then, feel free to [reach out to me](mailto:cds-snc@servicecanada.gc.ca) with any questions about the role. 
 
 We can’t wait to write the next chapter of our story with you!
 
