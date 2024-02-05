@@ -55,5 +55,5 @@ Et nous cherchons toujours à communiquer avec d’autres personnes qui exercent
 
 Peut-être que vous le faites en parallèle avec le développement et la prestation de produits et de services au sein de votre ministère. Peut-être que vous développez et testez une stratégie de préparation numérique ou des pratiques de changement et de développement organisationnel. 
 
-Si c’est votre cas, faites-nous en part! Écrivez-nous : <cds-snc@tbs-sct.gc.ca>.
+Si c’est votre cas, faites-nous en part! [Écrivez-nous](mailto:cds-snc@servicecanada.gc.ca).
 
