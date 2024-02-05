@@ -73,4 +73,4 @@ Thanks to quick feedback from our colleagues, we were able to implement an equal
 
 This first touchpoint with an internal user group was valuable. Our next step is to solicit feedback from people outside of CDS who want to use the search bar to find the things they need. And that’s where we need your help.
 
-If you’re someone who has used our website, we’d love to hear from you. [You can sign up to participate in future website testing here](mailto:cds-snc@tbs-sct.gc.ca). 
+If you’re someone who has used our website, we’d love to hear from you. [You can sign up to participate in future website testing here](mailto:cds-snc@servicecanada.gc.ca). 
