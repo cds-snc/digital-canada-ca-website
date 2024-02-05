@@ -119,5 +119,5 @@ If you want to read about our pilots, you can find them in our [GitHub repositor
 
 ## Want to dig further? 
 
-[Ask us](mailto:partnerships-partenariat@cds-snc.ca) about doing an Exploration with your federal department!
+[Ask us](mailto:cds-snc@servicecanada.gc.ca) about doing an Exploration with your federal department!
 
