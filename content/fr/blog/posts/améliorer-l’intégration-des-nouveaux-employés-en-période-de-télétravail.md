@@ -60,9 +60,9 @@ En plus de recevoir les renseignements dont ils ont besoin pour se lancer dans l
 
 ## Les apprentissages
 
-Même si le programme n’existe que depuis quelques mois, notre équipe de talent cherche toujours à améliorer l’expérience des employés et nous sollicitons régulièrement la rétroaction des participants. Les commentaires que nous recevons aideront à intégrer les nouveaux membres de notre [équipe en pleine croissance](https://numerique.canada.ca/rejoindre-notre-equipe/).
+Même si le programme n’existe que depuis quelques mois, notre équipe de talent cherche toujours à améliorer l’expérience des employés et nous sollicitons régulièrement la rétroaction des participants. Les commentaires que nous recevons aideront à intégrer les nouveaux membres de notre [équipe en pleine croissance](https://numerique.canada.ca/emplois/).
 
 Jusqu’à présent, les commentaires sont très positifs. Les participants nous ont dit que les séances d’orientation leur ont permis de poser des questions, de rencontrer les gestionnaires et de se faire de nouveaux amis. Désormais, lors de nos réunions de tout le personnel, les gens reconnaissent de plus en plus de personnes. Je suis agréablement surprise du résultat! Dans notre environnement de télétravail actuel, nous voulons nous assurer que nos nouveaux collègues sont branchés et qu’ils se sentent les bienvenus.
 
-Comment votre expérience d’intégration a-t-elle changé depuis le début de la pandémie? [Faites-nous part de votre expérience](mailto:sana.qureshi@cds-snc.ca)! Nous aimerions en savoir plus. 
+Comment votre expérience d’intégration a-t-elle changé depuis le début de la pandémie? [Faites-nous part de votre expérience](mailto:cds-snc@servicecanada.gc.ca)! Nous aimerions en savoir plus. 
 
