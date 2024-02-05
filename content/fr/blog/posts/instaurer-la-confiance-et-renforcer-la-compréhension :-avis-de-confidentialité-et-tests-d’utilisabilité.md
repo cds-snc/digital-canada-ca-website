@@ -117,7 +117,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<p>Comme le <a href="https://simplify-privacy-statements.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener">générateur d’avis de confidentialité</a> a maintenant été mis à jour, nous invitons les équipes de l’ensemble du GC à l’essayer! Si votre équipe l’a déjà utilisé pour l’aider à se préparer aux tests d’utilisabilité, <a href="mailto:CDS-SNC@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">contactez-nous pour nous faire part de votre histoire et de vos commentaires sur l’outil</a>. Ensemble, nous pouvons améliorer la manière que nous concevons et fournissons des services au sein du GC.<br></p>
+<p>Comme le <a href="https://simplify-privacy-statements.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener">générateur d’avis de confidentialité</a> a maintenant été mis à jour, nous invitons les équipes de l’ensemble du GC à l’essayer! Si votre équipe l’a déjà utilisé pour l’aider à se préparer aux tests d’utilisabilité, <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">contactez-nous pour nous faire part de votre histoire et de vos commentaires sur l’outil</a>. Ensemble, nous pouvons améliorer la manière que nous concevons et fournissons des services au sein du GC.<br></p>
 
 
 
