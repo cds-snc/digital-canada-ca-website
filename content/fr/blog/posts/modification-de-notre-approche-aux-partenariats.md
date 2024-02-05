@@ -59,4 +59,4 @@ Et cet automne, nous explorons diverses façons de concevoir un nouveau type de 
  
 ## Contactez-nous : nous sommes là pour vous aider
 
-Nous n’en sommes encore qu’à nos débuts, mais cette nouvelle approche et ces nouveaux services débordent de potentiel. Si vous êtes fonctionnaire du gouvernement fédéral et que vous voulez améliorer votre façon de concevoir et d’offrir vos services, [contactez-nous](https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus) et nous vous répondrons rapidement. Nous sommes là pour vous écouter et pour vous aider. 
+Nous n’en sommes encore qu’à nos débuts, mais cette nouvelle approche et ces nouveaux services débordent de potentiel. Si vous êtes fonctionnaire du gouvernement fédéral et que vous voulez améliorer votre façon de concevoir et d’offrir vos services, [contactez-nous](mailto:cds-snc@servicecanada.gc.ca) et nous vous répondrons rapidement. Nous sommes là pour vous écouter et pour vous aider. 
