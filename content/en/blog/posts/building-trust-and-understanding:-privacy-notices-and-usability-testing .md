@@ -27,7 +27,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<p>Building trust with research participants builds public trust in the services you’re working on. Our colleagues, Hillary Lorimer and Janice LaGiorgia, wrote about the importance of privacy notices in usability testing, noting: </p>
+<p>Building trust with research participants builds public trust in the services you’re working on. Our colleagues, Hillary Lorimer and Janice LaGiorgia, wrote about the importance of privacy notices in usability testing, noting:&nbsp;</p>
 
 
 
@@ -97,5 +97,5 @@ translationKey: blog-new-privacy-policy
 
 
 
-<p>Now that the <a href="https://simplify-privacy-statements.alpha.canada.ca/" target="_blank" rel="noreferrer noopener">privacy notice generator</a> has been updated, we encourage teams across the GC to try it out! If your team has used it to help prepare for usability testing, <a href="mailto:CDS-SNC@tbs-sct.gc.ca">reach out and share your story and any feedback on the tool</a>. Together, we can improve how we design and deliver services across government.</p>
+<p>Now that the <a href="https://simplify-privacy-statements.alpha.canada.ca/" target="_blank" rel="noreferrer noopener">privacy notice generator</a> has been updated, we encourage teams across the GC to try it out! If your team has used it to help prepare for usability testing, <a href="mailto:cds-snc@servicecanada.gc.ca">reach out and share your story and any feedback on the tool</a>. Together, we can improve how we design and deliver services across government.</p>
 
