@@ -120,5 +120,5 @@ Pour en savoir plus sur nos pilotes, consultez notre [référentiel GitHub](http
 
 ## Envie de passer à l’action? 
 
-[Contactez-nous](mailto:partnerships-partenariat@cds-snc.ca) pour discuter d’une exploration au sein de votre ministère fédéral!
+[Contactez-nous](mailto:cds-snc@servicecanada.gc.ca) pour discuter d’une exploration au sein de votre ministère fédéral!
 
