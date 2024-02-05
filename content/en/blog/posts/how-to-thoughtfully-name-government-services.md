@@ -68,11 +68,9 @@ These interviews can be a part of a larger design research effort. In our case, 
 
 As I started word mapping to better qualify our digital analysis services, the word that stuck with our team was a simple word: Exploration. We were exploring digital service delivery in the Government of Canada together with our partners. In many ways, we were charting new territory, making little discoveries along the way, and guiding partners in exploring their own services by looking at them in a new light. 
 
-Currently, we’re meeting new partners where they are at in their digital journey to explore their unique digital service conditions (read our blog [Exploring the conditions for digital service delivery](https://digital.canada.ca/2021/04/07/exploring-the-conditions-for-digital-service-delivery/) to learn more). Explorations don’t always lead to another partnership, and that’s okay! 
+Currently, we’re meeting new partners where they are at in their digital journey to explore their unique digital service conditions. Explorations don’t always lead to another partnership, and that’s okay! 
 
 A takeaway from this experience: If a service name doesn’t quite fit and has you scratching your head, don’t learn to live with it — change it! Chances are, if you’re unclear on the service’s purpose based on the name, your audience is too — whether they’re public users accessing government services or public servants looking for help bringing about digital change!
-
-Interested in exploring your digital readiness? We can help! [See how](https://digital.canada.ca/coaching-and-advice/).
 
 ---
 
