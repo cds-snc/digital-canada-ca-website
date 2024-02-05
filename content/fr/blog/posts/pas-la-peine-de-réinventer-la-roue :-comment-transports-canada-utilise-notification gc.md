@@ -189,7 +189,7 @@ translationKey: blog-marine-safety-pbs
 
 
 
-<p>Notification GC peut aider les équipes à informer le public à chaque étape de la prestation de service.<a href="https://notification.canada.ca/fonctionnalites" target="_blank" rel="noreferrer noopener"> Découvrez les fonctionnalités du produit</a> (comme le suivi des adresses courriel problématiques et l’utilisation de gabarits personnalisés) et<a href="https://notification.canada.ca/register?utm_source=Blogue&amp;utm_medium=Mailchimp&amp;utm_campaign=MSSD&amp;utm_id=MSSD+blogue&amp;utm_content=FR" target="_blank" rel="noreferrer noopener"> essayez cet outil gratuitement</a>! </p>
+<p>Notification&nbsp;GC peut aider les équipes à informer le public à chaque étape de la prestation de service.<a href="https://notification.canada.ca/fonctionnalites" target="_blank" rel="noreferrer noopener"> Découvrez les fonctionnalités du produit</a> (comme le suivi des adresses courriel problématiques et l’utilisation de gabarits personnalisés) et<a href="https://notification.canada.ca/register?utm_source=Blogue&amp;utm_medium=Mailchimp&amp;utm_campaign=MSSD&amp;utm_id=MSSD+blogue&amp;utm_content=FR" target="_blank" rel="noreferrer noopener"> essayez cet outil gratuitement</a>!&nbsp;</p>
 
 
 
@@ -213,5 +213,5 @@ translationKey: blog-marine-safety-pbs
 
 
 
-<p>Faites-nous part de votre point de vue! <a href="mailto:cds-snc@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous </a>et racontez-nous votre histoire.</p>
+<p>Faites-nous part de votre point de vue! <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Contactez-nous </a>et racontez-nous votre histoire.</p>
 
