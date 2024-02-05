@@ -147,7 +147,7 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<p>Envisagez-vous d’utiliser la programmation en binôme pour votre travail? <a href="mailto:cds@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Faites-le-nous savoir</a>!</p>
+<p>Envisagez-vous d’utiliser la programmation en binôme pour votre travail? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Faites-le-nous savoir</a>!</p>
 
 
 
