@@ -62,4 +62,4 @@ Et dans le but de mettre nos paroles à l’action, nous avons dressé une liste
 
 Chaque organisme est unique, mais je crois que nous partageons tous certaines tendances communes. Cela signifie que nous pouvons apprendre et réapprendre les uns des autres, et travailler ensemble pour établir des milieux de travail plus sains pour les gens de toute identité de genre. Nous en sommes au début de ce projet et nous ferons sans doute des erreurs en cours de route. 
 
-[Nous aimerions communiquer avec vous](mailto:cds-snc@tbs-sct.gc.ca) pour vous en dire plus sur notre cheminement, ou pour connaître le vôtre. **Continuons la conversation et soyons la « leçon en action ».**
+[Nous aimerions communiquer avec vous](mailto:cds-snc@servicecanada.gc.ca) pour vous en dire plus sur notre cheminement, ou pour connaître le vôtre. **Continuons la conversation et soyons la « leçon en action ».**
