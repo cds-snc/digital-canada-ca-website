@@ -48,5 +48,5 @@ I look at my mom — my mom's on Old Age Security and CPP — and hearing her sa
 
 > **“As public servants, I think we tend to lose sight of that person at the end — the one that's using our service, and the one that's struggling to go through our website to find the information they need.”**
 
-As public servants, I think we tend to lose sight of that person at the end — the one that's using our service, and the one that's struggling to go through our website to find the information they need. With this in mind, it’s been really amazing to see that client engagement work unfold through this partnership. At the end of the day, [we want to hear what our clients are saying](https://digital.canada.ca/cppd-research/) about our service because we want to make it better.
+As public servants, I think we tend to lose sight of that person at the end — the one that's using our service, and the one that's struggling to go through our website to find the information they need. With this in mind, it’s been really amazing to see that client engagement work unfold through this partnership. At the end of the day, we want to hear what our clients are saying about our service because we want to make it better.
 

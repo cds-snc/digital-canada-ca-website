@@ -4,10 +4,11 @@
   <section class="padding" style="margin-top: 1.25rem;">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <p><a href="/about/">At CDS</a> our mandate is to help government improve the way it designs and delivers services to people in
+        <p><a href="/about/">At CDS</a> our mandate is to help government improve the way it designs and delivers
+          services to people in
           Canada. We believe that public services should be easy to use, secure, reliable, accessible and inclusive for
           everyone – and we want your help!</p>
-        
+
       </div>
     </div>
   </section>
@@ -29,31 +30,37 @@
 
 
 <div style="background-color: #d6d9dd;">
-  <div id="apply-now" class="row work-with-us--apply-now container">
+  <div id="apply-now" class="work-with-us--apply-now container">
     {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") }}
-    <div class="col-sm-10 col-sm-offset-1 col-xs-12" style="padding-bottom: 3rem;">
+    <div style="padding-bottom: 3rem;">
       <h2>Apply</h2>
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="name">Full name</label>
           <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
             aria-describedby="name-required" />
           <span id="name-required" class="error-message validate-required-message" style="display: none;">This field
             is required.</span>
-        </div>
+        </div> -->
+
+        <gcds-input input-id="name" label="Full name" size="35" required></gcds-input>
+
         <!-- Email -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="email">Email address</label>
           <input type="email" name="email" class="form-control validate-required validate-email" id="email"
             aria-required="true" aria-describedby="email-required" />
           <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
             is required.</span>
-        </div>
-  
+        </div> -->
+
+        <gcds-input input-id="email" label="Email address" type="email" required size="35">
+        </gcds-input>
+
         <!-- Resume -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="resume">Upload your resume
             <div style="margin: 0.5rem 0 1rem 0;">
               <span style="font-weight: normal;" class="url" id="pdf-format-preferred">PDF format preferred.</span>
@@ -67,54 +74,51 @@
     
             </div>
           </label>
+          
   
-  
+        </div> -->
+        <div style="margin-bottom: 1rem;">
+          <gcds-file-uploader uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
+            accept="application/msword, application/pdf, text/plain">
+          </gcds-file-uploader>
         </div>
-  
+
+
         <!-- Samples of your work -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="samples">Samples of your work (URL)</label>
           <div style="margin: 0.5rem 0;">
             <span class="url">Share with us any relevant URLs showcasing your work.</span>
   
           </div>
           <input type="text" class="form-control" id="samples" name="samples" />
-        </div>
-  
+        </div> -->
+        <gcds-input input-id="samples" label="Samples of your work (URL)"
+          hint="Share with us any relevant URLs showcasing your work" size="100">
+        </gcds-input>
+
         <!-- How did you hear about this job-->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="talent_tracking">How did you hear about this job posting?</label>
           <textarea class="form-control" id="talent_tracking" name="talent_tracking" rows="5"></textarea>
   
           <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">This
             field
             is required.</span>
-        </div>
-  
-        <!-- Body -->
-  
-        <div class="form-group">
-          <label for="body">Do you need accommodation during the hiring process?</label>
-          <div style="margin: 0.5rem 0;">
-            <span class="url">If yes, please specify.</span>
-  
-          </div>
-          <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="3"
-            aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-          <span id="body-required" class="error-message validate-required-message" style="display: none;">This field
-            is required.<br />
-          </span>
-  
-        </div>
-  
-  
+        </div> -->
+        <gcds-textarea textarea-id="talent_tracking" label="How did you hear about this job posting?" required
+          character-count="300">
+        </gcds-textarea>
+
+
         <!-- Submit-->
         <div>
-          <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn"> Submit application <gcds-icon name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
+          <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn"> Submit application <gcds-icon
+              name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
         </div>
 
-  
-  
+
+
       </form>
     </div>
     {{end}}

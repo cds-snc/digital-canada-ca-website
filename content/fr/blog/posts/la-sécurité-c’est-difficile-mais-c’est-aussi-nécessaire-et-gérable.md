@@ -37,7 +37,7 @@ Et si nous pouvions automatiser ces vérifications de sécurité?
 
 ## Rapports automatiques
 
-Compte tenu de l’infrastructure et des outils de développement actuels, il devrait être possible de vérifier automatiquement un grand nombre des contrôles de sécurité énumérés dans l’[ITSG-33](https://www.cse-cst.gc.ca/fr/system/files/pdf_documents/itsg33-overview-apercu-fra_1.pdf). L’ITSG-33 est un document d’orientation en matière de sécurité que le gouvernement du Canada a mis en place pour tous les ministères.
+Compte tenu de l’infrastructure et des outils de développement actuels, il devrait être possible de vérifier automatiquement un grand nombre des contrôles de sécurité énumérés dans l’[ITSG-33](https://www.cyber.gc.ca/fr/orientation/la-gestion-des-risques-lies-la-securite-des-ti-une-methode-axee-sur-le-cycle-de-vie). L’ITSG-33 est un document d’orientation en matière de sécurité que le gouvernement du Canada a mis en place pour tous les ministères.
 
 À l’heure actuelle, en matière de sécurité, nous savons que les contrôles d’assurance de la qualité doivent être mis en œuvre et vérifiés dans le cadre d’un processus manuel. En général, cela signifie qu’il faut assembler et imprimer manuellement un document ou une série de documents. C’est comme si le système de sécurité de l’aéroport imprimait tous vos renseignements et les transmettait à la prochaine personne qui devait scanner votre passeport. Ça ne peut pas continuer comme ça, n’est-ce pas?
 

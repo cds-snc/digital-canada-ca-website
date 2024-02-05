@@ -95,8 +95,6 @@ This is particularly helpful because other services can now also work in this wa
 
 <p class="translation-caption">The confirmation page provides immediate acknowledgement of receipt, and clarity on what happens next</p>
 
-You can try a demo version of the new online service [here](https://vancouver.rescheduler-dev.cds-snc.ca/).
-
 ## Outcomes
 
 Since going live with the new service in Vancouver this July, we’ve brought Calgary and Montreal onboard with plans for rollout across the rest of Canada. For applicants and staff, having a service designed around their needs delivers a much better experience:

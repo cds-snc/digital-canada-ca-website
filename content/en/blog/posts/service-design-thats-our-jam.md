@@ -86,5 +86,5 @@ However, there were a few barriers. Some indicated that they found the methods v
 
 We’re looking forward to taking the feedback, iterating on this model, and perfecting the recipe to make services across all of government simple and easy to use.
 
-Interested in jamming with us in the future? [Let us know!](mailto:charlotte.pedersen@cds-snc.ca)
+Interested in jamming with us in the future? [Let us know!](mailto:cds-snc@tbs-sct.gc.ca)
 

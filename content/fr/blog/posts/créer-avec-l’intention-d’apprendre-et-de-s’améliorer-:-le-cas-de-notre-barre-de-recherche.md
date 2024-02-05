@@ -18,7 +18,7 @@ Voilà l’une des questions clés que nous nous sommes posées au sujet du site
 
 Au SNC, nous publions des billets de blogue, des guides, des rapports et des offres d’emploi visant à soutenir les équipes gouvernementales dans leur prestation de services numériques. Notre barre de recherche avait donc pour but de permettre aux gens de trouver ces ressources rapidement et le plus facilement possible.
 
-Fidèles à la [valeur du SNC](https://numerique.canada.ca/nos-valeurs/) de « créer avec l’intention d’apprendre et d’itérer », nous savons qu’un produit n’est jamais réellement « terminé ». Petite, mais puissante, notre équipe du site Web a donc lancé une nouvelle fonctionnalité de recherche, tout en sachant que celle-ci nécessiterait des tests et une amélioration continus.  
+Fidèles à la valeur du SNC de « créer avec l’intention d’apprendre et d’itérer », nous savons qu’un produit n’est jamais réellement « terminé ». Petite, mais puissante, notre équipe du site Web a donc lancé une nouvelle fonctionnalité de recherche, tout en sachant que celle-ci nécessiterait des tests et une amélioration continus.  
 
 Moi qui adore apprendre, j’avais hâte de présenter aux gens la nouvelle barre de recherche et d’en constater les atouts — mais aussi et surtout les inconvénients, afin de savoir sur quoi nous devions travailler. 
 
@@ -33,7 +33,7 @@ Je savais que nous cherchions entre autres à simplifier l’accès au contenu p
 Nous avons lancé un appel auprès de notre groupe d’utilisateur·rice·s interne et, la même semaine, nous avons rencontré des collègues pour connaître leur expérience quant à l’utilisation de la barre de recherche.
 
 ## Comment obtenir de la rétroaction rapide
-Le lundi, notre équipe a mis sur pied un [plan de facilitation de tests d’utilisabilité](https://numerique.canada.ca/guides/guide-tests-d-utilisabilite/) épuré et adapté à notre groupe d’utilisateur·rice·s cible : les utilisateur·rice·s internes. 
+Le lundi, notre équipe a mis sur pied un plan de facilitation de tests d’utilisabilité épuré et adapté à notre groupe d’utilisateur·rice·s cible : les utilisateur·rice·s internes. 
 
 Le jour suivant, nous avons demandé à quelques personnes du SNC utilisant régulièrement le site Web de se joindre à nous pour des tests de 15 minutes. Durant ces séances, nous avons observé leur utilisation de la barre de recherche et leur avons posé trois questions approfondies issues du guide d’animation : 
 
@@ -73,4 +73,4 @@ Grâce à la rétroaction rapide de nos collègues, nous avons pu appliquer un c
 
 Ce premier point de contact avec un groupe d’utilisateur·rice·s internes nous a été précieux. La prochaine étape est de solliciter la rétroaction de personnes externes au SNC souhaitant utiliser la barre de recherche pour trouver des renseignements. Et c’est pour cela que nous avons besoin de votre aide.
 
-Si vous avez déjà utilisé notre site Web, nous aimerions beaucoup connaître votre avis. [Vous pouvez vous inscrire ici pour participer aux prochains tests portant sur le site Web](https://numerique.canada.ca/test-d-utilisabilite-du-site-web/).  
+Si vous avez déjà utilisé notre site Web, nous aimerions beaucoup connaître votre avis. [Vous pouvez vous inscrire ici pour participer aux prochains tests portant sur le site Web](mailto:cds-snc@tbs-sct.gc.ca).  

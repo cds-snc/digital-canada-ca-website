@@ -1,32 +1,36 @@
 {{ define "main" }}
  {{ .Content }}
     <section>
-        <div style="background-color: #D7E5F5;">
-            <div class="container" style="padding-top: 2rem;">
+        <div style="padding-bottom:1.75rem;">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
                         <h2>{{ i18n "contact-cds"}}</h2>
                         <p>{{ i18n "email-us" }} <a href="mailto:cds-snc@servicecanada.gc.ca">cds-snc@servicecanada.gc.ca</a></p>
+                        <ul class="stay-in-touch">
+                            <li>
+                                <gcds-link href="mailto:cds-snc@servicecanada.gc.ca">cds-snc@servicecanada.gc.ca</gcds-link>
+                            </li>
+                            <li>
+                                <gcds-link href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">LinkedIn <gcds-icon
+                                    name="linkedin"
+                                    label="LinkedIn"
+                                    margin-left="100"
+                                  /></gcds-link>
+                            </li>
+                            <li>
+                                <gcds-link href={{ i18n "all-newsletter-past" }}>{{ i18n "newsletter" }} <gcds-icon
+                                    name="newspaper"
+                                    label={{ i18n "newsletter" }}
+                                    margin-left="100"
+                                  /></gcds-link>
+                            </li>
+                        </ul>
                     </div>
                     
                 </div>
                 
                 
-            </div>
-        </div>
-        <div class="container" style="padding-top: 2rem;">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
-                    <h2>{{ i18n "stay-in-touch" }}</h2>
-                    <ul class="stay-in-touch">
-                        <li>
-                            <a href={{ i18n "all-newsletter-past" }}>{{ i18n "newsletter" }}</a>
-                        </li>
-                        <li>
-                            <a href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">LinkedIn</a>
-                        </li>
-                    </ul>
-                </div>
             </div>
         </div>
     </section>

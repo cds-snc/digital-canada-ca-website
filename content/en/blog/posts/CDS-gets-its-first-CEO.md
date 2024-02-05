@@ -24,7 +24,7 @@ Aaron was a co-founder, Director of Delivery, and ultimately Executive Director 
 
 Aaron also held the roles of Deputy Commissioner and Senior Advisor at the U.S. Government’s [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services). TTS is a $100M collection of cutting edge programs improving the U.S. government's use of technology to better serve the public.
 
-Aaron joins CDS after serving as the Chief Operating Officer of [cBrain](https://www.cbrain.com/) North America through much of 2017. He is also co-founder and Chief Technology Officer of [Voter Protection Partners](https://voterprotection.partners/) and a member of the [OpenGov Foundation's](https://www.opengovfoundation.org/) Board of Directors.
+Aaron joins CDS after serving as the Chief Operating Officer of [cBrain](https://www.cbrain.com/) North America through much of 2017. He is also a member of the [OpenGov Foundation's](https://www.opengovfoundation.org/) Board of Directors.
 
 As CEO, Aaron will work alongside the Government of Canada Chief Information Officer, Alex Benay, and with colleagues across the government to drive the country's digital agenda.
 

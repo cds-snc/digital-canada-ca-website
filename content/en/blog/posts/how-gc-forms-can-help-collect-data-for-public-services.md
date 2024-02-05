@@ -233,5 +233,5 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Explore our <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">new tool for building GC Forms</a> (it&#8217;s self-serve!) and <a href="https://forms-formulaires.alpha.canada.ca/id/cle4hg480270358ayedaqq1ish">reach out to us</a> if you have questions.</p>
+<p>Explore our <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">new tool for building GC Forms</a> (it&#8217;s self-serve!) and <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">reach out to us</a> if you have questions.</p>
 

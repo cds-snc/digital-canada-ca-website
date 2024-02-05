@@ -23,8 +23,8 @@ We began by asking people from our personal and professional networks to reach o
 
 In addition to contacting participants relevant to our research goals, this process had three advantages:
 
-1. Veterans and still serving military members reached out to us on a voluntary basis, [reducing pressure to participate](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) that may be associated with the Government of Canada asking them directly.
-2. We let participants know that the friend or colleague who contacted them would not be told if they chose to participate. Doing so [reduces a feeling of coercion and social pressure](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) from the individual who contacted them.
+1. Veterans and still serving military members reached out to us on a voluntary basis, reducing pressure to participate that may be associated with the Government of Canada asking them directly.
+2. We let participants know that the friend or colleague who contacted them would not be told if they chose to participate. Doing so reduces a feeling of coercion and social pressure from the individual who contacted them.
 3. We did not collect any personal information from the participants until we knew for certain they understood the purpose and process of the research and their role in participating.
 
 Once potential participants had reached out to us we were able to:
@@ -33,7 +33,7 @@ Once potential participants had reached out to us we were able to:
 * screen participants
 * schedule an interview (if the potential participant was still interested)
 
-The researcher sent the privacy and consent notice to the participant two days prior to the interview for their review before the test to ensure [informed consent](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=38) was given. This isn’t the only method that can be used for recruiting people, but given our problem, type of research, and user group, we decided it was the best approach.
+The researcher sent the privacy and consent notice to the participant two days prior to the interview for their review before the test to ensure informed consent was given. This isn’t the only method that can be used for recruiting people, but given our problem, type of research, and user group, we decided it was the best approach.
 
 If you’ve [built a research plan](https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit people for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at <mailto:cds-snc@tbs-sct.gc.ca>.
 
@@ -43,7 +43,7 @@ If you’ve [built a research plan](https://digital.canada.ca/2018/10/26/buildin
 
 [The Directive on Privacy Practices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309#)
 
-[Tri-council policy statement on Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf)
+Tri-council policy statement on Ethical Conduct for Research involving Humans
 
 [Treasury Board Secretariat guidance on distinguishing design (user) research from public opinion research](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/public-opinion-research-government.html#h-4)
 

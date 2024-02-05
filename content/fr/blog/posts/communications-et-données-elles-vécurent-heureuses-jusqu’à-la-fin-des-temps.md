@@ -119,6 +119,6 @@ Il semblerait, après tout, que les communications et les données peuvent vivre
 
 ### Ressources :
 * Psst! Nous nous préparons à bientôt tester le contenu français de l’infolettre! Si vous aimeriez participer ou expérimenter le processus d’abonnement en français, [abonnez-vous à l’infolettre](https://canada.us15.list-manage.com/subscribe?u=729a207773f7324e217a1d945&id=5fe89f4d28).
-* Avez-vous des questions ou des commentaires? [Écrivez-nous](mailto:elise.cossette@tbs-sct.gc.ca).
+* Avez-vous des questions ou des commentaires? [Écrivez-nous](mailto:cds-snc@tbs-sct.gc.ca).
 * Aimeriez-vous savoir pourquoi nous avons choisi Mailchimp comme fournisseur de service d’infolettre? Ou en savoir plus sur les considérations relatives à la protection de la vie privée lors de l’utilisation d’un fournisseur tiers? Voici [l’histoire derrière Mailchimp](https://digital.canada.ca/files/story-behind-mailchimp-fr.docx).
 

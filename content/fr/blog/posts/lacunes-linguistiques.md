@@ -20,7 +20,7 @@ Lorsque nous optons pour des outils de source libre (*open source*), l’un des 
 
 ## Parfois, c’est un jeu d’enfant...
 
-L’un de nos projets récents, [Suivre la conformité en matière de sécurité Web](https://cds-snc.github.io/track-web-security-compliance/accueil/), est adapté du fantastique projet [Pulse](https://pulse.cio.gov/) de 18F. En commençant par une base de codes préexistante, nous avons accéléré le processus de développement, mais cela comportait une bonne part de difficultés. L’une de ces difficultés était la création de fonctionnalités en français.
+L’un de nos projets récents, [Suivre la conformité en matière de sécurité Web](https://cds-snc.github.io/track-web-security-compliance/accueil/), est adapté du fantastique projet [Pulse](https://18f.gsa.gov/2015/06/02/taking-the-pulse-of-the-federal-governments-web-presence/) de 18F. En commençant par une base de codes préexistante, nous avons accéléré le processus de développement, mais cela comportait une bonne part de difficultés. L’une de ces difficultés était la création de fonctionnalités en français.
 
 Heureusement, la tâche n’était pas trop difficile. Les pages Web pour l’application *Track Web* sont générées grâce à [Jinja](http://jinja.pocoo.org/docs/2.10/), un langage de modélisation pour les applications Flask. Afin d’assurer une transition harmonieuse entre les langues, nous avons attribué à chaque page un identificateur unique qui relie les versions française et anglaise. Ensuite, nous avons créé un bouton de langue qui, au moyen d’un clic, génère la page dans la langue sélectionnée, accompagnée de son URL traduite.
 
@@ -36,6 +36,6 @@ Nous avons fait des recherches sur les systèmes de gestion du contenu (SGC) que
 
 Une chose est certaine : nous avons beaucoup à faire dans le monde des sources libres concernant l’i18n, surtout dans le cadre de la modernisation actuelle des services offerts aux Canadiens. Dans certains cas, il s’agit simplement de trouver le bon outil. Dans d’autres, nous avons l’occasion de construire et d’utiliser nos propres outils i18n.
 
-Avez-vous des difficultés semblables? Avez-vous trouvé d’excellents outils i18n de source libre? [Veuillez nous les communiquer](#contact-us-links)!
+Avez-vous des difficultés semblables? Avez-vous trouvé d’excellents outils i18n de source libre? [Veuillez nous les communiquer](mailto:cds-snc@tbs-sct.gc.ca)!
 
 Nous tenons aussi à nous excuser auprès du développeur qui a eu la tâche ardue de publier le présent article. Nous vous assurons que nous mettons bien la main à la pâte.

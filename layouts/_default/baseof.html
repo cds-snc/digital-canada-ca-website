@@ -99,36 +99,38 @@
     </nav>
     
     <header role="banner">
-      {{ partial "fip.html" . }}
+      {{ partial "header.html" . }}
 
+      {{ if and (not (eq .RelPermalink .Site.BaseURL)) (not (eq .RelPermalink "/")) }}
       {{ block "title" . }}
-      {{partial "menu.html" . }}
-      {{ if or (eq .Params.title "Error") (eq .Params.title "Erreur!") }}
-      <div class="page-banner error">
-      {{ else }}
-      <div class="page-banner standard">
-      {{ end }}  
-        <div class="container">
-          <div class="page-banner--title">
-            {{ $title := i18n .Params.title }}
-            {{ with $title }}
-            <h1>{{ $title }}</h1>
-            {{ else }}
-            
-            
-            
-            <h1>{{ .Params.title }}</h1>
-            
-            {{end}}
-            {{ if .Params.subtitle }}
-            <span class="page-title-sub">
-              {{ .Params.subtitle }} <a href="{{ .Params.link }}">{{ .Params.tag }}</a>
-            </span>
-            {{ end }}
+        {{ if or (eq .Params.title "Error") (eq .Params.title "Erreur!") }}
+        <div class="page-banner error">
+        {{ else }}
+        <div class="page-banner standard">
+        {{ end }}  
+          <div class="container">
+            <div class="page-banner--title">
+              {{ $title := i18n .Params.title }}
+              {{ with $title }}
+              <h1>{{ $title }}</h1>
+              {{ else }}
+              
+              
+              
+              <h1>{{ .Params.title }}</h1>
+              
+              {{end}}
+              {{ if .Params.subtitle }}
+              <span class="page-title-sub">
+                {{ .Params.subtitle }} <a href="{{ .Params.link }}">{{ .Params.tag }}</a>
+              </span>
+              {{ end }}
+            </div>
           </div>
         </div>
-      </div>
       {{ end }}
+      {{ end }}
+
     </header>
     <main role="main" property="mainContentOfPage">
       <section id="wb-cont">

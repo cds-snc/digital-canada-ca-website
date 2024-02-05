@@ -38,5 +38,5 @@ Nous sommes emballés par la possibilité d’éclairer l’approvisionnement po
 
 Nous envisageons de commencer modestement — assez modestement — pour d’abord tester quelques éléments du projet dans les prochains mois. Puis, nous pourrons considérer intensifier nos efforts en matière d’approvisionnement et de repérage d’idées. Nous continuerons à travailler ouvertement et à partager nos expériences.
 
-Restez donc à l’affût des nouvelles ici et sur Twitter. Vous avez des idées ou [souhaitez nous aider](https://numerique.canada.ca/conseiller-principal-en-approvisionnement/)? Nous aimerions avoir vos commentaires, par [courriel](mailto:cds-snc@tbs-sct.gc.ca) ou sur Twitter.
+Restez donc à l’affût des nouvelles ici et sur Twitter. Vous avez des idées ou souhaitez nous aider? Nous aimerions avoir vos commentaires, par [courriel](mailto:cds-snc@tbs-sct.gc.ca) ou sur Twitter.
 

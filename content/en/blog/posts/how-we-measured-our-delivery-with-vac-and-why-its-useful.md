@@ -85,6 +85,6 @@ We’re honoured to have been able to work with VAC and be a part of serving Vet
 
 ## Interested in seeing if this product can help _your_ users find benefits?
 
-We’ve made [a generic version](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) of this product that is [available on GitHub](https://github.com/cds-snc/find-benefits-and-services) and can be adapted by any department for their specific use case!
+We’ve made a generic version of this product that is [available on GitHub](https://github.com/cds-snc/find-benefits-and-services) and can be adapted by any department for their specific use case!
 
 If you’re looking to take the code - or any other part of the process - and hit a snag along the way, feel free to make a [GitHub issue](https://github.com/cds-snc/find-benefits-and-services/issues) or contact us by email at <mailto:cds-snc@tbs-sct.gc.ca>. Alternatively, you can find us both on twitter at [@sidewalkballet](https://twitter.com/sidewalkballet) and [@stevieraytalbot](https://twitter.com/StevieRayTalbot).

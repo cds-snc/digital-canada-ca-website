@@ -18,13 +18,13 @@ In 2017, the [Canadian Digital Service (CDS) launched ](https://digital.canada.c
 In our first four years, we:
 
 - helped slow the spread of COVID-19 by shipping [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), an exposure notification service, in partnership with the Ontario Digital Service and Health Canada; 
-- helped almost two million people [Find Financial Help During COVID-19](https://covid-benefits.alpha.canada.ca/en/start) in partnership with Service Canada;
+- helped almost two million people Find Financial Help During COVID-19 in partnership with Service Canada;
 - helped Veterans [Find Benefits and Services](https://benefits-avantages.veterans.gc.ca/), in partnership with Veterans Affairs Canada; 
 - helped public servants easily send over 28 million emails and text messages to the people who use their service by launching [GC Notify.  It now supports over 180 programs across government](https://notification.canada.ca/). 
 - made it easier for public servants to put users first by updating policies to [distinguish design research from public opinion research](https://digital.canada.ca/2019/06/26/scaling-design-research-in-the-government-of-canada/)
 - published the Government of Canada’s [first Vulnerability Disclosure Policy](https://github.com/cds-snc/covid-alert-documentation/blob/main/VulnerabilityDisclosurePolicy.md) when we launched Covid Alert  
 
-This year, [Budget 2021](https://www.budget.gc.ca/2021/report-rapport/p4-en.html) recognized the work completed and the importance of continuing to make sure that we can keep changing government to serve people better. With that major achievement unlocked, Aaron stepped down as CEO to pursue other exciting opportunities. We’re grateful to him for empowering us to do this important work, and for encouraging the Government of Canada [to do something different](https://digital.canada.ca/2019/05/13/we-love-a-good-challenge/), so we can keep putting the needs of the people who use our services first.  
+This year, Budget 2021 recognized the work completed and the importance of continuing to make sure that we can keep changing government to serve people better. With that major achievement unlocked, Aaron stepped down as CEO to pursue other exciting opportunities. We’re grateful to him for empowering us to do this important work, and for encouraging the Government of Canada [to do something different](https://digital.canada.ca/2019/05/13/we-love-a-good-challenge/), so we can keep putting the needs of the people who use our services first.  
 
 ## The next chapter
 We need someone fearless to lead us through our next phase of growth and impact. We’ll soon open applications for a CEO who will help us set a strategic direction to keep changing government to serve people better. 

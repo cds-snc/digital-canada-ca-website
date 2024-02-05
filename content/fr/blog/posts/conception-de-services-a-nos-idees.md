@@ -87,4 +87,4 @@ Il y avait toutefois quelques obstacles. Certains ont indiqué qu’ils trouvaie
 
 Nous avons hâte d’examiner la rétroaction reçue, de reproduire le modèle et de perfectionner la recette pour rendre les services de l’ensemble du gouvernement simples et faciles à utiliser.
 
-Vous êtes intéressés à échanger avec nous? [Dites-le-nous!](mailto:charlotte.pedersen@cds-snc.ca)
+Vous êtes intéressés à échanger avec nous? [Dites-le-nous!](mailto:cds-snc@tbs-sct.gc.ca)

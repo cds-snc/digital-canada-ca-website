@@ -17,7 +17,7 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_introducing_notify_d264bc51ad.
 ---
 Imaginez un scénario où chaque fois que vous utilisez un service gouvernemental, toute l’information nécessaire est acheminée au bon destinataire, au bon moment, et vous en avez l’assurance du début à la fin. Ces derniers mois, nous avons consacré notre temps à élaborer une solution qui aiderait le gouvernement du Canada à atteindre cet objectif.
 
-[Notification](https://notification.alpha.canada.ca/) est un logiciel infonuagique développé par l’équipe des plateformes du Service numérique canadien (SNC). Il permet aux ministères d’envoyer des courriels et des messages textes aux utilisateurs de leurs services à faible coût et en quelques étapes simples.
+[Notification](https://notification.canada.ca/accueil) est un logiciel infonuagique développé par l’équipe des plateformes du Service numérique canadien (SNC). Il permet aux ministères d’envoyer des courriels et des messages textes aux utilisateurs de leurs services à faible coût et en quelques étapes simples.
 
 Nous ne sommes toutefois pas partis de zéro. Nous avons utilisé le code source libre de l’excellent service [GOV.UK Notify](https://www.notifications.service.gov.uk/), créé par le [Service numérique du gouvernement](https://gds.blog.gov.uk) (GDS) du Royaume-Uni. Notre équipe l’adapte à notre contexte, en anglais et en français (les deux langues officielles du Canada). Après avoir rencontré l’Agence de la transformation numérique (DTA) de l’Australie, nous avons également été en mesure d’ajouter une prise en charge des fuseaux horaires et des numéros de téléphone régionaux. Tout cela en quelques jours seulement.
 
@@ -47,7 +47,7 @@ Quelle que soit la taille de votre service, Notification est construit sur une i
 
 Avec Notification, notre principal objectif est de mieux servir les gens en les tenant au courant des services sur lesquels ils comptent, tout en réduisant leurs doutes ou inquiétudes liées au fait de ne pas connaître l’état de leurs prestations de service. Le fait pour une personne d’être renseignée sur les services qu’elle reçoit peut avoir une incidence directe sur sa situation.
 
-Nous recueillons actuellement des commentaires sur Notification auprès des premiers utilisateurs et testeurs pour nous assurer que le système peut répondre à leurs besoins. À mesure que nous poursuivrons nos recherches, nous veillerons à communiquer les résultats aux utilisateurs de Notification afin de rendre leurs services plus efficaces. [Écrivez-nous](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) si vous souhaitez participer à notre étude.
+Nous recueillons actuellement des commentaires sur Notification auprès des premiers utilisateurs et testeurs pour nous assurer que le système peut répondre à leurs besoins. À mesure que nous poursuivrons nos recherches, nous veillerons à communiquer les résultats aux utilisateurs de Notification afin de rendre leurs services plus efficaces. [Écrivez-nous](mailto:cds-snc@tbs-sct.gc.ca) si vous souhaitez participer à notre étude.
 
-Nous encourageons toute personne au sein du gouvernement du Canada à créer gratuitement un compte d’essai sur le [site Web](https://notification.alpha.canada.ca/) de [Notification](https://notification.alpha.canada.ca/). Essayez-le, dites-nous ce que vous en pensez et commencez à l’utiliser pour améliorer votre service.
+Nous encourageons toute personne au sein du gouvernement du Canada à créer gratuitement un compte d’essai sur le [site Web](https://notification.alpha.canada.ca/) de [Notification](https://notification.canada.ca/accueil). Essayez-le, dites-nous ce que vous en pensez et commencez à l’utiliser pour améliorer votre service.
 

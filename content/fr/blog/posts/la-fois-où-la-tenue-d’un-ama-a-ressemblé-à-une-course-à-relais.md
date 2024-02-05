@@ -57,7 +57,7 @@ Notre équipe de liaison et diffusion est très à l’aise avec le travail déc
 
 Après avoir tout organisé, j’ai passé le relais à Charlotte qui a commencé la mise en œuvre de l’AMA.
 
-### Charlotte - [@Charp90](https://twitter.com/Charp90)
+### Charlotte
 
 J’étais très heureuse lorsque Chelsea a transmis le plan de l’AMA. Pendant mes 12 mois au SNC, je n’avais jamais vu les membres de notre équipe faire quelque chose de semblable. Je ne savais même pas que nous _pouvions_ faire quelque chose comme ça. On parle d’aider à organiser une discussion directe, informelle et en temps réel avec notre PDG la semaine prochaine? Comptez sur moi!
 

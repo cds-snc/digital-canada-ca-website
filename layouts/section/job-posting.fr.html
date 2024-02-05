@@ -4,7 +4,9 @@
   <section class="padding">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <p>Au Service numérique canadien (SNC), nous aidons le gouvernement à améliorer la façon dont il conçoit et fournit ses services au Canada. Nous sommes de l’avis que les services publics doivent être conviviaux, sécurisés, fiables, accessibles et inclusifs. C’est pourquoi nous sollicitons votre aide!</p>
+        <p>Au Service numérique canadien (SNC), nous aidons le gouvernement à améliorer la façon dont il conçoit et
+          fournit ses services au Canada. Nous sommes de l’avis que les services publics doivent être conviviaux,
+          sécurisés, fiables, accessibles et inclusifs. C’est pourquoi nous sollicitons votre aide!</p>
       </div>
     </div>
   </section>
@@ -26,90 +28,93 @@
 </div>
 
 <div style="background-color: #d6d9dd;">
-  <div id="apply-now" class="row work-with-us--apply-now container">
+  <div id="apply-now" class="work-with-us--apply-now container">
     {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") }}
-    <div class="col-sm-10 col-sm-offset-1 col-xs-12" style="padding-bottom: 3rem;">
+    <div style="padding-bottom: 3rem;">
       <h2>Postuler</h2>
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="name">Nom complet</label>
           <input  type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
             aria-describedby="name-required" />
           <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
             obligatoire</span>
-        </div>
+        </div> -->
+        <!-- Web component code (Angular, Vue) -->
+        <gcds-input input-id="name" label="Nom complet" required size="35" lang="fr">
+        </gcds-input>
         <!-- Email -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="email">Adresse courriel</label>
           <input type="email" name="email" class="form-control validate-required validate-email" id="email"
             aria-required="true" aria-describedby="email-required" />
             <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
               obligatoire</span>
-        </div>
-  
+        </div> -->
+        <gcds-input input-id="email" label="Adresse courriel" type="email" required size="35" lang="fr">
+        </gcds-input>
+
         <!-- Resume -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="resume">Téléversez votre CV
             <div style="margin: 0.5rem 0 1rem 0;">
               <span style="font-weight: normal;" class="url">Veuillez privilégier le format PDF.</span>
-    
+
             </div>
             <div class="browse">
-              <div><span style="padding-right: 0.5rem;">Téléverser un fichier</span> <i class="fa-solid fa-upload fa-sm"></i>
+              <div><span style="padding-right: 0.5rem;">Téléverser un fichier</span> <i
+                  class="fa-solid fa-upload fa-sm"></i>
                 <input class="resume" type="file" id="resume" name="resume"
                   accept="application/msword, application/pdf, text/plain" required />
               </div>
-    
+
             </div>
           </label>
-  
-  
+
+
+        </div> -->
+        <div style="margin-bottom: 1rem;">
+          <gcds-file-uploader uploader-id="resume" label="Téléversez votre CV" hint="Téléverser un fichier" required
+            accept="application/msword, application/pdf, text/plain" lang="fr">
+          </gcds-file-uploader>
         </div>
-  
+
         <!-- Samples of your work -->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="samples">Exemples de travaux (URL)</label>
           <div style="margin: 0.5rem 0;">
             <span class="url">Indiquez toute URL pertinente présentant votre travail.</span>
-  
+
           </div>
           <input type="text" class="form-control" id="samples" name="samples" />
-        </div>
-  
+        </div> -->
+        <gcds-input input-id="samples" label="Exemples de travaux (URL)"
+          hint="Indiquez toute URL pertinente présentant votre travail." size="100" lang="fr">
+        </gcds-input>
+
         <!-- How did you hear about this job-->
-        <div class="form-group">
+        <!-- <div class="form-group">
           <label for="talent_tracking">Comment avez-vous entendu parler de cette offre d’emploi?</label>
           <input class="form-control" id="talent_tracking" name="talent_tracking" rows="5"></textarea>
-  
+
           <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
             obligatoire</span>
-        </div>
-  
-        <!-- Body -->
-  
-        <div class="form-group">
-          <label for="body">Aurez-vous besoin de mesures d’adaptation durant le processus de recrutement?</label>
-          <div style="margin: 0.5rem 0;">
-            <span id="pdf-format-preferred" class="url">Si oui, veuillez préciser lesquelles.</span>
-  
-          </div>
-          <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="3"
-            aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-          <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-            obligatoire<br />
-          </span>
-  
-        </div>
-  
-  
+        </div> -->
+
+        <gcds-textarea textarea-id="talent_tracking"
+          label="Comment avez-vous entendu parler de cette offre d’emploi?" required character-count="300" lang="fr">
+        </gcds-textarea>
+
+
         <!-- Submit-->
         <div>
-          <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn">Soumettre votre candidature <gcds-icon name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
+          <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn">Soumettre votre candidature <gcds-icon
+              name="fa-solid fa-chevron-right"></gcds-icon></gcds-button>
         </div>
-  
-  
+
+
       </form>
     </div>
     {{end}}

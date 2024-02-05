@@ -50,7 +50,7 @@ C’est pour reconnaître cette complexité qu’au cours de l’année, nous av
  
 Le SNC dispose maintenant d’une équipe de conseil du gouvernement numérique, travaillant au sein du gouvernement et pour le gouvernement, qui apporte son expérience auprès des secteurs public et privé en prestation pratique à grande échelle. Nous aidons les ministères à prendre des décisions rapides en matière de conception et de technologie, à développer leurs compétences numériques internes et à adopter de nouvelles méthodes de travail, et ce, pour leur permettre d’améliorer continuellement leur façon d’offrir leurs services au public.
  
-Désormais, nous offrons accompagnement et conseil, partageons des ressources et établissons des relations, le tout à l’aide de notre service de [conseil](https://numerique.canada.ca/encadrement-et-conseil/). Nous cherchons ainsi à aider les équipes gouvernementales à surmonter les obstacles qui leur sont spécifiques et à améliorer leurs performances par rapport aux [Normes relatives
+Désormais, nous offrons accompagnement et conseil, partageons des ressources et établissons des relations, le tout à l’aide de notre service de conseil. Nous cherchons ainsi à aider les équipes gouvernementales à surmonter les obstacles qui leur sont spécifiques et à améliorer leurs performances par rapport aux [Normes relatives
 au numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). 
 
 Par le biais de notre service de [ressources d’apprentissage](https://ressources.alpha.canada.ca/), nous nous essayons à la création, à l’organisation et à la publication d’exemples pratiques et de ressources permettant aux fonctionnaires de développer leurs capacités numériques internes et de plaider en faveur du changement au sen de leurs ministères. 
@@ -59,4 +59,4 @@ Et cet automne, nous explorons diverses façons de concevoir un nouveau type de 
  
 ## Contactez-nous : nous sommes là pour vous aider
 
-Nous n’en sommes encore qu’à nos débuts, mais cette nouvelle approche et ces nouveaux services débordent de potentiel. Si vous êtes fonctionnaire du gouvernement fédéral et que vous voulez améliorer votre façon de concevoir et d’offrir vos services, [contactez-nous](https://forms-formulaires.alpha.canada.ca/fr/id/3) et nous vous répondrons rapidement. Nous sommes là pour vous écouter et pour vous aider. 
+Nous n’en sommes encore qu’à nos débuts, mais cette nouvelle approche et ces nouveaux services débordent de potentiel. Si vous êtes fonctionnaire du gouvernement fédéral et que vous voulez améliorer votre façon de concevoir et d’offrir vos services, [contactez-nous](https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus) et nous vous répondrons rapidement. Nous sommes là pour vous écouter et pour vous aider. 

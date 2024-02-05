@@ -65,7 +65,7 @@ Tout cela pour dire que si nous avions eu Notification au moment de la conceptio
 
 ## Maintenant que nous vous avons vendu l’idée, comment pouvez-vous commencer?
 
-Ouvrez un compte Notification et consultez la [documentation](https://notification.alpha.canada.ca/documentation) sur l’API. Vous verrez qu’il y a des clients pour de nombreux langages de programmation courants, par exemple Java, Python et JavaScript. Ces clients et cette documentation sont maintenus par le service numérique du gouvernement du Royaume-Uni.
+Ouvrez un compte Notification et consultez la [documentation](https://notification.canada.ca/accueil) sur l’API. Vous verrez qu’il y a des clients pour de nombreux langages de programmation courants, par exemple Java, Python et JavaScript. Ces clients et cette documentation sont maintenus par le service numérique du gouvernement du Royaume-Uni.
 
 ![Une capture d’écran de la page d’intégration de l’API Notification, comprenant une section dans laquelle on demande à un utilisateur de créer une clé API en inscrivant le nom de la clé. Il peut choisir parmi trois types de clés : Live, Équipe et liste de confiance, et Test.](https://de2an9clyit2x.cloudfront.net/notify_api_fr_18a3a9b554.jpg)
 

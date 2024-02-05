@@ -53,7 +53,7 @@ Our Outreach team is very comfortable working in a distributed fashion. We’ve 
 
 With all of that in place, I passed the baton to Charlotte to start making the AMA happen.
 
-### Charlotte - [@Charp90](https://twitter.com/Charp90)
+### Charlotte
 
 When Chelsea passed along the outline for the AMA, I was super excited. In my 12 months at CDS, I hadn’t seen us do something like this before. I didn’t even know we _could_ do something like this. Helping facilitate a direct, informal, and real-time conversation with our CEO next week? Count me in!
 

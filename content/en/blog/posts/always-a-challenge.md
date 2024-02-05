@@ -13,7 +13,7 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_blog_always_a_challenge_2017_d
 ---
 During our [engagement sessions](/beginning-the-conversation/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.
 
-Challenge platforms like [Challenge.gov](https://www.challenge.gov/list/) have proven successful at engaging folks from coast-to-coast in civic problem solving. Teams compete for the cash prize, the opportunity to grow a business or a market, and the satisfaction that comes from solving important problems, which creates an incentive for additional private and nonprofit sector investment. For example, the $10 Million Ansari X PRIZE was won in 2004 by Burt Rutan and SpaceShipOne, after the 26 competing teams spent more than $100 million attempting to win the prize.
+Challenge platforms like [Challenge.gov](https://www.challenge.gov/) have proven successful at engaging folks from coast-to-coast in civic problem solving. Teams compete for the cash prize, the opportunity to grow a business or a market, and the satisfaction that comes from solving important problems, which creates an incentive for additional private and nonprofit sector investment. For example, the $10 Million Ansari X PRIZE was won in 2004 by Burt Rutan and SpaceShipOne, after the 26 competing teams spent more than $100 million attempting to win the prize.
 
 So this fall, when the Privy Council Office (PCO) approached us to help them design and build the [Impact Canada Challenge Platform](https://impact.canada.ca/en), we said yes.
 
@@ -31,7 +31,7 @@ As it turned out, we found a solution closer to home—a lot of great work had b
 
 ## Waiting for cloud
 
-Following the [Government of Canada Cloud Adoption Strategy](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/cloud-computing/government-canada-cloud-adoption-strategy.html) and the “Build cloud first” declaration under the [alpha-version digital principles](http://open.canada.ca/en/blog/digital-principles), we were keen to experiment as an early adopter with this project. We’re heading in the right direction, but departments still tell us they are unclear about how to get cloud. This isn’t easy or straightforward for them yet, and it will need to be for cloud adoption to scale.
+Following the [Government of Canada Cloud Adoption Strategy](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/government-canada-cloud-adoption-strategy.html) and the “Build cloud first” declaration under the [alpha-version digital principles](http://open.canada.ca/en/blog/digital-principles), we were keen to experiment as an early adopter with this project. We’re heading in the right direction, but departments still tell us they are unclear about how to get cloud. This isn’t easy or straightforward for them yet, and it will need to be for cloud adoption to scale.
 
 Given our tight project timelines, waiting wasn’t an option, so we began experimenting in cloud space we borrowed from another project. As we geared up for launch we moved the solution over to cloud infrastructure procured by PCO through Public Services and Procurement Canada and Shared Services Canada. Part of our job is to help a department be in a position to operate the service we’re building together. In this case, that meant digging in on DevOps and helping to configure and test that infrastructure.
 
@@ -57,5 +57,5 @@ We moved from the initial prototype to the beta launch in about two months. Laun
 
 PCO is responsible for the [Impact Canada Challenge Platform](https://impact.canada.ca/en) and is leading efforts to identify and post challenges with Government of Canada departments. If you have questions about the Impact Canada Initiative, you can [contact PCO by email](mailto:iiu-uii@pco-bcp.gc.ca).
 
-If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](#contact-us-links). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952).
+If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](mailto:cds-snc@tbs-sct.gc.ca). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952).
 

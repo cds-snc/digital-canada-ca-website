@@ -38,7 +38,7 @@ Nous devons donc recourir à des correctifs d’urgence non testés et non stand
 
 ## Il existe une autre manière&nbsp;:&nbsp;déployer un changement à la fois, tous les jours
 
-Non seulement c’est possible; c’est une pratique standard dans l’industrie. Les outils sont accessibles à tous aujourd’hui, à peu de frais. Il y a quatre ans, [Amazon effectuait déjà un déploiement vers la production toutes les 11,6&nbsp;secondes](http://joshuaseiden.com/blog/2013/12/amazon-deploys-to-production-every-11-6-seconds/).
+Non seulement c’est possible; c’est une pratique standard dans l’industrie. Les outils sont accessibles à tous aujourd’hui, à peu de frais. Il y a quatre ans, Amazon effectuait déjà un déploiement vers la production toutes les 11,6&nbsp;secondes.
 
 Si vous avez lu nos billets de blogue précédents sur [l’intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/) et la [qualité du code](https://numerique.canada.ca/2018/04/24/coder-une-activite-dequipe/), vous savez que nous suivons une méthode de très petits changements dont chacun est examiné par les collègues et subit un ensemble de tests automatisés. La combinaison de l’intégration continue et de l’examen par les pairs débloque cette capacité à aussi déployer chacun de ces changements individuellement dans la production.
 

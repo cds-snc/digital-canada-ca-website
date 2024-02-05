@@ -39,7 +39,7 @@ Building software in the open brings out the best in people’s work. It helps u
 
 Inspired by other countries’ adoption of open source (particularly the UK, France, and the United States), we knew that working in the open and publishing open source code would be a key part of CDS’s approach since [before we launched](https://digital.canada.ca/2017/07/28/think-big-start-small/).
 
-All of the software code we develop is published as open source code [on our GitHub organization](https://github.com/cds-snc). We’ve licensed our code under the MIT License to maximize its reusability, inspired by other Government of Canada open source projects like the [Web Experience Toolkit](https://github.com/wet-boew/wet-boew). Publishing the code we develop as open source software is [built into all of our partnership agreements](https://digital.canada.ca/partnerships/) with the departments we work with.
+All of the software code we develop is published as open source code [on our GitHub organization](https://github.com/cds-snc). We’ve licensed our code under the MIT License to maximize its reusability, inspired by other Government of Canada open source projects like the [Web Experience Toolkit](https://github.com/wet-boew/wet-boew). Publishing the code we develop as open source software is built into all of our partnership agreements with the departments we work with.
 
 Keeping this code open source is important, to make it easier for our partners to adopt and use, and to make it easier for other departments to adapt and learn from. Working in the open (on a mature platform like GitHub) also lets us use a wide range of modern software development tools (like [continuous integration systems](https://digital.canada.ca/2018/03/26/automated-testing-blog/)).
 
