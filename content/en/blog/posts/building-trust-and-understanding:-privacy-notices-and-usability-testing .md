@@ -8,6 +8,7 @@ date: '2023-10-03T10:53:35'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/PrivacyPolicyGeneratorTool_-BlogEN.png
 image-alt: An image of several people making use of the Privacy Generator tool in varying instances.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/PrivacyPolicyGeneratorTool_-BlogEN.png
+category: Uncategorized @fr
 translationKey: blog-new-privacy-policy
 ---
 
