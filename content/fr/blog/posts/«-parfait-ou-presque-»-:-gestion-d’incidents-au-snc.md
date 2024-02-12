@@ -107,4 +107,4 @@ Les incidents sont pour nous des occasions d’apprentissage idéales pour amél
 
 La création d’une culture sans reproches quant aux incidents assure la sécurité psychologique nécessaire pour réagir rapidement et sans crainte lorsque les choses vont mal. 
 
-Si vous cherchez à améliorer la façon dont vous réagissez aux incidents qui se produisent avec vos services, n’hésitez pas à [nous joindre](https://numerique.canada.ca/encadrement-et-conseil/). La seule chose que j’aime plus que notre processus de gestion des incidents, c’est d’en parler. 
+Si vous cherchez à améliorer la façon dont vous réagissez aux incidents qui se produisent avec vos services, n’hésitez pas à [nous joindre](mailto:cds-snc@servicecanada.gc.ca). La seule chose que j’aime plus que notre processus de gestion des incidents, c’est d’en parler. 
