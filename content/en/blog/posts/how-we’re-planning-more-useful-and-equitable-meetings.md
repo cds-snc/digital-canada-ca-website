@@ -8,6 +8,7 @@ date: '2023-09-14T13:25:54'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/equitable-meetings-en.png
 image-alt: Calendar with icons to represent meeting planning such as sending emails with important context, scheduling and keeping on time, and working together
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/equitable-meetings-en.png
+category: Uncategorized @fr
 translationKey: blog-meetings-principles
 ---
 
