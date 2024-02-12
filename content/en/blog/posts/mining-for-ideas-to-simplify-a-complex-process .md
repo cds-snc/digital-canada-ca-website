@@ -8,6 +8,7 @@ date: '2023-10-12T09:33:16'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_Blog_Post.png
 image-alt: An illustration of a mountain range with tools and light bulbs in the foreground, to represent new ideas.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_Blog_Post.png
+category: Uncategorized @fr
 translationKey: blog-mining-canmet
 ---
 
