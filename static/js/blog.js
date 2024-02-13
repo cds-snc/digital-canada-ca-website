@@ -3,6 +3,7 @@ let blogRows = 6;
 let blogListResults = document.getElementById("blog-list-result")
 let myBlogLi = document.getElementById("my-blog-li")
 let loadMoreBlogButton = document.querySelector("#blog-btn")
+let softwareBlogBtn = document.getElementById("software-btn")
 let jsMainNavButton = document.querySelector("#js-mainNavButton")
 async function initBlogSearch() {
     try {
@@ -59,6 +60,15 @@ function renderBlogResults(blogs) {
 loadMoreBlogButton.addEventListener("click", () => {
     blogRows += 6
     renderBlogResults(blogResults)
+})
+
+softwareBlogBtn.addEventListener("click", () => {
+    
+    let softwareCategory;
+    softwareCategory = blogIndex.filter(function (el) {
+        return el.category == "Software"
+    })
+    console.log(softwareCategory)
 })
 
 function dateFormat(date) {
