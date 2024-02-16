@@ -4,9 +4,6 @@ let blogListResults = document.getElementById("blog-list-result")
 let myBlogLi = document.getElementById("my-blog-li")
 let loadMoreBlogButton = document.querySelector("#blog-btn")
 let allBlogBtn = document.getElementById("all-btn")
-let softwareBtnClicked = false;
-let softwareBlogBtn = document.getElementById("software-btn")
-let contentBlogBtn = document.getElementById("content-btn")
 let jsMainNavButton = document.querySelector("#js-mainNavButton")
 let filteredBlogs = [];
 const filterObjectCategories = [
@@ -35,10 +32,42 @@ async function initBlogSearch() {
     renderBlogResults(blogResults)
 }
 
+renderFilteredResults = (btnName, category) => {
+    let filterBtn = document.getElementById(btnName)
+    filterBtn.addEventListener("click", () => {
+        if (filterBtn.getAttribute("button-role") == "secondary") {
+            blogIndex.filter(function (el){
+                if (el.category == category) {
+                    filteredBlogs.push(el)
+                }
+            })
+            filterBtn.setAttribute("button-role", "primary")
+            
+        } else {
+            
+            filteredBlogs = filteredBlogs.filter(el => el.category !== category)
+            filterBtn.setAttribute("button-role", "secondary")
+        }
+
+        renderBlogResults(filteredBlogs)
+        console.log(filteredBlogs)
+        
+        if (filteredBlogs.length === 0) {
+            renderBlogResults(blogResults)
+        }
+    })
+    
+
+}
+
 function initBlogResults() {
     document.addEventListener('DOMContentLoaded', function() {
         initBlogSearch();
     })
+
+    for (var obj of filterObjectCategories) {
+        renderFilteredResults(obj.btnId, obj.name)
+    }
 }
 initBlogResults()
 
@@ -83,48 +112,6 @@ allBlogBtn.addEventListener("click", () => {
 })
 
 
-
-// contentBlogBtn.addEventListener("click", () => {
-//     contentBlogBtn.setAttribute("button-role", "primary")
-//     blogIndex.filter(function(el){
-//         if (el.category == "Content") {
-//             filteredBlogs.push(el)
-//         }
-//     })
-
-//     renderBlogResults(filteredBlogs)
-// })
-
-renderFilteredResults = (btnName, category) => {
-    // let filterBtn = document.getElementById(btnName)
-    btnName.addEventListener("click", () => {
-        if (btnName.getAttribute("button-role") == "secondary") {
-            blogIndex.filter(function (el){
-                if (el.category == category) {
-                    filteredBlogs.push(el)
-                }
-            })
-            btnName.setAttribute("button-role", "primary")
-            
-        } else {
-            
-            filteredBlogs = filteredBlogs.filter(el => el.category !== category)
-            btnName.setAttribute("button-role", "secondary")
-        }
-
-        renderBlogResults(filteredBlogs)
-        console.log(filteredBlogs)
-    })
-
-}
-
-function removeFromArray(original, remove) {
-    return original.filter(value => !remove.includes(value))
-}
-
-renderFilteredResults(softwareBlogBtn, "Software")
-renderFilteredResults(contentBlogBtn, "Content")
-
 function dateFormat(date) {
     let formattedDate;
     const blogDate = new Date(date)
@@ -140,7 +127,6 @@ function dateFormat(date) {
 }
 
 function readFullPostTranslation() {
-    let readFullPost;
 
     if (document.documentElement.lang == 'en') {
         return 'Read full post'
