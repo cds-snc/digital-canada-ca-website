@@ -3,8 +3,23 @@ let blogRows = 6;
 let blogListResults = document.getElementById("blog-list-result")
 let myBlogLi = document.getElementById("my-blog-li")
 let loadMoreBlogButton = document.querySelector("#blog-btn")
+let allBlogBtn = document.getElementById("all-btn")
+let softwareBtnClicked = false;
 let softwareBlogBtn = document.getElementById("software-btn")
+let contentBlogBtn = document.getElementById("content-btn")
 let jsMainNavButton = document.querySelector("#js-mainNavButton")
+let filteredBlogs = [];
+const filterObjectCategories = [
+    {
+        name: "Software",
+        btnId: "software-btn"
+    },
+    {
+        name: "Content",
+        btnId: "content-btn"
+
+    }
+]
 async function initBlogSearch() {
     try {
         const response = await fetch ("/index.json")
@@ -62,14 +77,53 @@ loadMoreBlogButton.addEventListener("click", () => {
     renderBlogResults(blogResults)
 })
 
-softwareBlogBtn.addEventListener("click", () => {
-    
-    let softwareCategory;
-    softwareCategory = blogIndex.filter(function (el) {
-        return el.category == "Software"
-    })
-    console.log(softwareCategory)
+allBlogBtn.addEventListener("click", () => {
+    filteredBlogs = []
+    renderBlogResults(blogResults)
 })
+
+
+
+// contentBlogBtn.addEventListener("click", () => {
+//     contentBlogBtn.setAttribute("button-role", "primary")
+//     blogIndex.filter(function(el){
+//         if (el.category == "Content") {
+//             filteredBlogs.push(el)
+//         }
+//     })
+
+//     renderBlogResults(filteredBlogs)
+// })
+
+renderFilteredResults = (btnName, category) => {
+    // let filterBtn = document.getElementById(btnName)
+    btnName.addEventListener("click", () => {
+        if (btnName.getAttribute("button-role") == "secondary") {
+            blogIndex.filter(function (el){
+                if (el.category == category) {
+                    filteredBlogs.push(el)
+                }
+            })
+            btnName.setAttribute("button-role", "primary")
+            
+        } else {
+            
+            filteredBlogs = filteredBlogs.filter(el => el.category !== category)
+            btnName.setAttribute("button-role", "secondary")
+        }
+
+        renderBlogResults(filteredBlogs)
+        console.log(filteredBlogs)
+    })
+
+}
+
+function removeFromArray(original, remove) {
+    return original.filter(value => !remove.includes(value))
+}
+
+renderFilteredResults(softwareBlogBtn, "Software")
+renderFilteredResults(contentBlogBtn, "Content")
 
 function dateFormat(date) {
     let formattedDate;
