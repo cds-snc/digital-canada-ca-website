@@ -8,7 +8,7 @@ date: '2023-10-03T10:53:55'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/Privacy-Policy-Generator-tool-blog-FR.png
 image-alt: Une image de plusieurs personnes utilisant le générateur d’avis de confidentialité dans diverses situations
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/Privacy-Policy-Generator-tool-blog-FR.png
-translationKey: blog-new-privacy-policy
+category: ['Uncategorized @fr']translationKey: blog-new-privacy-policy
 ---
 
 <p>Améliorer les services gouvernementaux à l’ère numérique signifie fournir des services publics fiables et simples à utiliser. Les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html" target="_blank" rel="noreferrer noopener">normes relatives au numérique du gouvernement du Canada</a> insistent sur le fait que les services doivent être conçus pour répondre aux besoins des utilisateur·rice·s, et non aux contraintes internes ou aux complexités gouvernementales. Lorsque la conception et le développement tiennent compte des commentaires des utilisateur·rice·s, les services qui en résultent sont plus accessibles, sécurisés et faciles à utiliser.&nbsp;</p>
