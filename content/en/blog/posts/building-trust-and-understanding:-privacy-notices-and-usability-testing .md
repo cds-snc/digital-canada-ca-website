@@ -8,7 +8,7 @@ date: '2023-10-03T10:53:35'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/PrivacyPolicyGeneratorTool_-BlogEN.png
 image-alt: An image of several people making use of the Privacy Generator tool in varying instances.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/PrivacyPolicyGeneratorTool_-BlogEN.png
-translationKey: blog-new-privacy-policy
+category: ['Uncategorized @fr']translationKey: blog-new-privacy-policy
 ---
 
 <p>Improving government services in the digital age means providing public services that are simple to use and trustworthy. The <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html" target="_blank" rel="noreferrer noopener">Government of Canada Digital Standards</a> highlight that services should be built to address the needs of users, not the internal constraints or complexities of government. Designing and developing with user feedback results in services that are more accessible, secure, and easy to use.&nbsp;</p>
