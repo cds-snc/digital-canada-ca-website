@@ -8,6 +8,7 @@ date: '2023-10-12T10:00:41'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_FRENCH1.png
 image-alt: Illustration d’une chaîne de montagnes avec des outils et des ampoules au premier plan pour représenter de nouvelles idées.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_FRENCH1.png
+category: Uncategorized @fr
 translationKey: blog-mining-canmet
 ---
 
