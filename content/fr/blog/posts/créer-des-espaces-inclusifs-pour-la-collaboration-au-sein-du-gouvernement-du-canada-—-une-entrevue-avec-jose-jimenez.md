@@ -8,7 +8,7 @@ date: '2023-07-04T14:52:02'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_FR-1-scaled.jpg
 image-alt: Entrevue avec Jose Jimenez (équipe de la croissance pour les produits de la plateforme du SNC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_FR-1-scaled.jpg
-translationKey: blog-inclusive-spaces
+category: ['Uncategorized @fr']translationKey: blog-inclusive-spaces
 ---
 
 <p>Cet article a été publié sur <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">la page LinkedIn du SNC</a> en juin 2023. Consultez le <a href="https://www.linkedin.com/feed/update/urn:li:linkedInArticle:7079099716654747648/" target="_blank" rel="noreferrer noopener">billet original</a>.</p>
