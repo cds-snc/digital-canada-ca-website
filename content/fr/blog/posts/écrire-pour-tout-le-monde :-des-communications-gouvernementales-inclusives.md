@@ -8,7 +8,7 @@ date: '2023-12-07T09:58:23'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_FR-100.jpg
 image-alt: Chantal Turcotte, Directrice, Bureau de la collectivité des communications Bureau du Conseil privé
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_FR-100.jpg
-translationKey: blog-chantal-inclusion
+category: ['Uncategorized @fr']translationKey: blog-chantal-inclusion
 ---
 
 <p>Cet article a été publié sur&nbsp;la <a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">page LinkedIn du SNC</a>&nbsp;en décembre 2023. Consultez le&nbsp;<a href="https://www.linkedin.com/feed/update/urn:li:activity:7138541197001728000" target="_blank" rel="noreferrer noopener">billet original.</a></p>
