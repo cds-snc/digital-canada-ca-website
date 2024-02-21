@@ -8,6 +8,7 @@ date: '2023-12-07T09:58:23'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_FR-100.jpg
 image-alt: Chantal Turcotte, Directrice, Bureau de la collectivité des communications Bureau du Conseil privé
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_FR-100.jpg
+category: ['Uncategorized @fr']
 translationKey: blog-chantal-inclusion
 ---
 
