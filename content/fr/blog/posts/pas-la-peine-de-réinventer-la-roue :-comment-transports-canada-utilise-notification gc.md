@@ -8,6 +8,7 @@ date: '2023-12-05T15:02:33'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_FR.jpg
 image-alt: Les gens au cœur de vos services. L’unité de certification des gens de mer et l’unité d’assurance maritime de la Direction générale de la sécurité et de la sûreté maritimes (DGSSM), sur un fond bleu marine, à côté d’une bouée de sauvetage noir et blanc
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_FR.jpg
+category: ['Uncategorized @fr']
 translationKey: blog-marine-safety-pbs
 ---
 
