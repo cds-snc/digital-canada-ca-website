@@ -8,7 +8,7 @@ date: '2023-09-14T13:26:11'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/FR-PlanningUsefulEquitableMeetings_FIP_Blog_Post.png
 image-alt: Un calendrier dont les icônes représentent la préparation de réunions. envoi de courriels offrant des éléments de contexte importants, planification, suivi du temps et collaboration.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/FR-PlanningUsefulEquitableMeetings_FIP_Blog_Post.png
-translationKey: blog-meetings-principles
+category: ['Uncategorized @fr']translationKey: blog-meetings-principles
 ---
 
 <p>En tant que fonctionnaires, nous cherchons sans cesse à améliorer les services offerts au public canadien. Comme tout autre emploi, nous tenons des réunions durant lesquelles nous coordonnons nos tâches. Ces réunions sont nécessaires, mais elles ne sont pas vécues de la même façon par tout le monde. De même, ce temps précieux n’est pas toujours utilisé aussi efficacement que possible.</p>
