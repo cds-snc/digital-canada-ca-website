@@ -8,7 +8,7 @@ date: '2024-01-30T13:51:22'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
 image-alt: Two developers collaborating on code at the same time. one is writing while the other is reviewing and providing real-time feedback.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
-translationKey: blog-forms-accessibility-paired
+category: ['Uncategorized @fr']translationKey: blog-forms-accessibility-paired
 ---
 
 <p>Have you ever faced a problem that didn’t have an obvious solution? At CDS, developers working on our platform products regularly need to work together to troubleshoot and address challenges.<br>We sat down with Dave Samojlenko and Pete Thiessen from CDS&#8217;s Platform team to learn more about how they&#8217;re collaborating using pair programming to improve <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_Blog-forms-accessibility-paired&amp;utm_medium=Blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms.</a></p>
