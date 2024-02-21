@@ -8,6 +8,7 @@ date: '2023-09-19T09:59:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/REV-Eliane_Dorval_Blog_Post_EN-.png
 image-alt: Eliane Dorval, Senior Learning Designer, Canada School of Public Service (CSPS)
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/REV-Eliane_Dorval_Blog_Post_EN-.png
+category: ['none']
 translationKey: blog-digital-learning
 ---
 
