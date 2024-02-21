@@ -8,7 +8,7 @@ date: '2023-12-07T09:57:56'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_EN-100.jpg
 image-alt: Chantal Turcotte, Director, Communications Community Office, Privy Council Office.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_EN-100.jpg
-translationKey: blog-chantal-inclusion
+category: ['Uncategorized @fr']translationKey: blog-chantal-inclusion
 ---
 
 <p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a>&nbsp;in December 2023. Check out the&nbsp;<a href="https://www.linkedin.com/pulse/writing-everyone-inclusive-gc-comms-cds-snc-yshcc" target="_blank" rel="noreferrer noopener">original post</a>.</p>
