@@ -8,7 +8,7 @@ date: '2023-10-30T11:01:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_FR.jpg
 image-alt: Entrevue avec Sherry Rumbolt – Conseillère stratégique principale en cybersécurité, Services partagés Canada (SPC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_FR.jpg
-translationKey: blog-cyber-safe-sherry
+category: ['Uncategorized @fr']translationKey: blog-cyber-safe-sherry
 ---
 
 <p>Cet article a été publié sur&nbsp;la page&nbsp;<a href="https://www.linkedin.com/company/cds-snc/posts/?feedView=all&amp;viewAsMember=true" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a>&nbsp;en Octobre 2023. Consultez le&nbsp;<a href="https://www.linkedin.com/pulse/cap-sur-la-cybers%C3%A9curit%C3%A9-avec-sherry-rumbolt-cds-snc-zdwxc" target="_blank" rel="noreferrer noopener">billet original</a>.</p>
