@@ -8,6 +8,7 @@ date: '2023-09-19T09:59:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/NEW_REV-Eliane_Dorval_Blog_Post_FR.png
 image-alt: Eliane Dorval, conceptrice principale de l’apprentissage, École de la fonction publique du Canada (EFPC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/NEW_REV-Eliane_Dorval_Blog_Post_FR.png
+category: ['Uncategorized @fr']
 translationKey: blog-digital-learning
 ---
 
