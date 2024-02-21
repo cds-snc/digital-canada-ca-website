@@ -8,6 +8,7 @@ date: '2023-12-18T09:19:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
 image-alt: Un·e concepteur·rice présentant son travail à ses collègues et recueillant leur rétroaction pour l’améliorer.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
+category: Uncategorized @fr
 translationKey: blog-design-critiques-ised
 ---
 
