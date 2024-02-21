@@ -8,7 +8,7 @@ date: '2023-09-19T09:59:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/REV-Eliane_Dorval_Blog_Post_EN-.png
 image-alt: Eliane Dorval, Senior Learning Designer, Canada School of Public Service (CSPS)
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/REV-Eliane_Dorval_Blog_Post_EN-.png
-translationKey: blog-digital-learning
+category ['none']translationKey: blog-digital-learning
 ---
 
 <p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/cds-snc/posts/?feedView=all&amp;viewAsMember=true">CDS’s LinkedIn page</a>&nbsp;in September 2023. Check out the&nbsp;<a href="https://www.linkedin.com/posts/cds-snc_gcdigital-gclearning-activity-7109888953117261824-Epqx?utm_source=share&amp;utm_medium=member_desktop">original post</a>.</p>
