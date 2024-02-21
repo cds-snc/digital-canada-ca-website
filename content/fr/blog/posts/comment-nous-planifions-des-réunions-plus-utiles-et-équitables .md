@@ -8,6 +8,7 @@ date: '2023-09-14T13:26:11'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/FR-PlanningUsefulEquitableMeetings_FIP_Blog_Post.png
 image-alt: Un calendrier dont les icônes représentent la préparation de réunions. envoi de courriels offrant des éléments de contexte importants, planification, suivi du temps et collaboration.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/FR-PlanningUsefulEquitableMeetings_FIP_Blog_Post.png
+category: Uncategorized @fr
 translationKey: blog-meetings-principles
 ---
 
