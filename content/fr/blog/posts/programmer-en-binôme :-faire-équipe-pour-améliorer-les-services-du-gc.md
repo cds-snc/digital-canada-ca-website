@@ -8,7 +8,7 @@ date: '2024-01-30T13:51:43'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
 image-alt: Deux développeur·euse·s travaillent simultanément sur du code une personne écrit le code pendant que l’autre le révise et le commente en temps réel.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
-translationKey: blog-forms-accessibility-paired
+category: ['Uncategorized @fr']translationKey: blog-forms-accessibility-paired
 ---
 
 <p>Avez-vous déjà fait face à un problème dont la solution n’était pas évidente? Au SNC, les développeur·euse·s de nos produits de plateforme doivent fréquemment travailler de concert pour diagnostiquer et résoudre des problèmes.<br>Notre équipe s’est entretenue avec Dave Samojlenko et Pete Thiessen, tous deux de l’équipe de la plateforme du SNC, pour qu’ils nous expliquent leur façon de programmer en binôme pour améliorer <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_Blog-forms-accessibility-paired&amp;utm_medium=Blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires</a><a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_Blog-forms-accessibility-paired&amp;utm_medium=Blog&amp;utm_campaign=forms_blogs"> GC.</a></p>
