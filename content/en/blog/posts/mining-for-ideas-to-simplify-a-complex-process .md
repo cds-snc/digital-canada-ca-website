@@ -8,7 +8,7 @@ date: '2023-10-12T09:33:16'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_Blog_Post.png
 image-alt: An illustration of a mountain range with tools and light bulbs in the foreground, to represent new ideas.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_Blog_Post.png
-translationKey: blog-mining-canmet
+category: ['Uncategorized @fr']translationKey: blog-mining-canmet
 ---
 
 <p>Designing better services for people can mean a lot of things; making them easier to use and understand, more secure, faster, and reliable. This work&nbsp; involves taking confusing processes and making them easier to navigate. We can do this by removing unnecessary steps or streamlining the number of applications to submit. But, what if the service is governed by multiple departments, jurisdictions, and strict regulations?</p>
