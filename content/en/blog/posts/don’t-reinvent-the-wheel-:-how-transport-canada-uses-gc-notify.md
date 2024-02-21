@@ -8,7 +8,7 @@ date: '2023-12-05T15:02:19'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_EN.jpg
 image-alt: People behind the service. Marine Safety and Security Directorate (MSSD) Seafarer Certification Unit and Marine Insurance Unit on a blue water background with a black and white lifesaver.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_EN.jpg
-translationKey: blog-marine-safety-pbs
+category: ['Uncategorized @fr']translationKey: blog-marine-safety-pbs
 ---
 
 <p>Across the Government of Canada (GC), teams are looking for ways they can improve their services to better support people in Canada. For example, teams at<a href="https://tc.canada.ca/en/marine-transportation/marine-safety/marine-safety-security" target="_blank" rel="noreferrer noopener"> Transport Canada&#8217;s (TC) Marine Safety and Security Directorate (MSSD)</a> are working on various digital transformation initiatives to improve Seafarers&#8217; and Vessel Owners’ experiences accessing GC services.</p>
