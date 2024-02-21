@@ -8,6 +8,7 @@ date: '2024-01-30T13:51:43'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
 image-alt: Deux développeur·euse·s travaillent simultanément sur du code une personne écrit le code pendant que l’autre le révise et le commente en temps réel.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
+category: Uncategorized @fr
 translationKey: blog-forms-accessibility-paired
 ---
 
