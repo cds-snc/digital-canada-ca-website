@@ -8,7 +8,7 @@ date: '2023-12-18T09:19:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
 image-alt: Un·e concepteur·rice présentant son travail à ses collègues et recueillant leur rétroaction pour l’améliorer.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
-translationKey: blog-design-critiques-ised
+category: ['Uncategorized @fr']translationKey: blog-design-critiques-ised
 ---
 
 <p>ucoup de choses ont changé en deux&nbsp;ans. Depuis la publication du billet de blogue <a href="https://numerique.canada.ca/2021/07/08/courtes-et-fr%C3%A9quentes-faire-de-la-critique-une-pratique-quotidienne/" target="_blank" rel="noreferrer noopener">Courtes et fréquentes&nbsp;: faire de la critique une pratique quotidienne</a>, le rituel de critique a évolué pour s’inscrire dans les habitudes d’autres équipes du GC.&nbsp;</p>
