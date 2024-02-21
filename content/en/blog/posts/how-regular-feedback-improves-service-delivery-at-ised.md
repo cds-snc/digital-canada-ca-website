@@ -8,7 +8,7 @@ date: '2023-12-18T09:19:42'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog_Post-scaled.jpg
 image-alt: A designer presenting their work to colleagues. They’re giving feedback to help improve it.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog_Post-scaled.jpg
-translationKey: blog-design-critiques-ised
+category: ['Uncategorized @fr']translationKey: blog-design-critiques-ised
 ---
 
 <p>Two years is a long time – a lot has happened. Since publishing the blog <a href="https://digital.canada.ca/2021/07/08/little-and-often-making-critique-a-daily-practice/" target="_blank" rel="noreferrer noopener">Little and often: making critique a daily practice</a>, CDS’s content design critique ritual has evolved and been adopted by other teams in the GC.&nbsp;</p>
