@@ -8,6 +8,7 @@ date: '2023-10-30T11:01:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_FR.jpg
 image-alt: Entrevue avec Sherry Rumbolt – Conseillère stratégique principale en cybersécurité, Services partagés Canada (SPC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_FR.jpg
+category: Uncategorized @fr
 translationKey: blog-cyber-safe-sherry
 ---
 
