@@ -8,7 +8,7 @@ date: '2023-10-30T11:00:29'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_EN.jpg
 image-alt: Interview with Sherry Rumbolt, Senior Cyber Security Strategic Advisor at Shared Services Canada (SSC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/Sherry_Rumbolt_Blog_Post_EN.jpg
-translationKey: blog-cyber-safe-sherry
+category ['none']translationKey: blog-cyber-safe-sherry
 ---
 
 <p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/posts/cds-snc_getcybersafe-cybermonth2023-activity-7124766152941072384-c1RR/?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a>&nbsp;in October 2023. Check out the&nbsp;<a href="https://www.linkedin.com/pulse/getting-cyber-safe-sherry-rumbolt-cds-snc-ejc5c%3FtrackingId=L7%252BQtQpuShmtr3nExwb8Og%253D%253D/?trackingId=L7%2BQtQpuShmtr3nExwb8Og%3D%3D" target="_blank" rel="noreferrer noopener">original post</a>. </p>
