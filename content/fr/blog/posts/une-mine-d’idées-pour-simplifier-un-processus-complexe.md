@@ -8,7 +8,7 @@ date: '2023-10-12T10:00:41'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_FRENCH1.png
 image-alt: Illustration d’une chaîne de montagnes avec des outils et des ampoules au premier plan pour représenter de nouvelles idées.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/10/CANMET_Mining_Blog_FRENCH1.png
-translationKey: blog-mining-canmet
+category: ['Uncategorized @fr']translationKey: blog-mining-canmet
 ---
 
 <p>Concevoir de meilleurs services pour le public, cela peut vouloir dire beaucoup de choses&nbsp;: rendre ces services plus faciles à utiliser et à comprendre, plus sécurisés, plus rapides et plus fiables. Cette mission implique de simplifier les processus déroutants. Pour ce faire, nous pouvons supprimer les étapes superflues ou limiter le nombre de demandes à soumettre. Mais comment faire si le service est gouverné par plusieurs ministères et autorités et fait l’objet de réglementations strictes?</p>
