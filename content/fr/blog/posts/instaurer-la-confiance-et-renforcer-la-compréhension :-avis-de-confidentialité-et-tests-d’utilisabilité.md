@@ -8,6 +8,7 @@ date: '2023-10-03T10:53:55'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/Privacy-Policy-Generator-tool-blog-FR.png
 image-alt: Une image de plusieurs personnes utilisant le générateur d’avis de confidentialité dans diverses situations
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/07/Privacy-Policy-Generator-tool-blog-FR.png
+category: Uncategorized @fr
 translationKey: blog-new-privacy-policy
 ---
 
