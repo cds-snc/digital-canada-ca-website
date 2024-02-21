@@ -8,7 +8,7 @@ date: '2023-12-05T15:02:33'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_FR.jpg
 image-alt: Les gens au cœur de vos services. L’unité de certification des gens de mer et l’unité d’assurance maritime de la Direction générale de la sécurité et de la sûreté maritimes (DGSSM), sur un fond bleu marine, à côté d’une bouée de sauvetage noir et blanc
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_PBS_MarineSafetySecurityTransportCanada_FR.jpg
-translationKey: blog-marine-safety-pbs
+category: ['Uncategorized @fr']translationKey: blog-marine-safety-pbs
 ---
 
 <p>Dans tout le Gouvernement du Canada (GC), des équipes cherchent à améliorer leurs services pour mieux soutenir la population canadienne. C’est notamment le cas des équipes de la <a href="https://tc.canada.ca/fr/transport-maritime/securite-maritime/securite-surete-maritimes" target="_blank" rel="noreferrer noopener">&nbsp;Direction générale de la sécurité et de la sûreté maritimes (DGSSM) de Transports Canada (TC)</a>&nbsp;: elles travaillent sur une variété d’initiatives de transformation numérique pour offrir aux gens de mer et aux propriétaires de navires une meilleure expérience dans le cadre des services du GC.</p>
