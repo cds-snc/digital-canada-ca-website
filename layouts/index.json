@@ -1,6 +1,6 @@
 {{- $.Scratch.Add "pagesIndex" slice -}}
 {{- range $index, $page := .Site.Pages -}}
-
+  {{- if eq $page.Type "blog" -}}
   
 
     {{- if gt (len $page.Content) 0 -}}
@@ -9,6 +9,7 @@
     
       
     {{- end -}}
+  {{- end -}}  
   
 {{- end -}}
 {{- $.Scratch.Get "pagesIndex" | jsonify -}}
