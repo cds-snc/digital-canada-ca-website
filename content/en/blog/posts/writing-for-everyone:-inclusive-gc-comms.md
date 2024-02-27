@@ -8,6 +8,7 @@ date: '2023-12-07T09:57:56'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_EN-100.jpg
 image-alt: Chantal Turcotte, Director, Communications Community Office, Privy Council Office.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/Blog_Post_EN-100.jpg
+category: ['Uncategorized @fr']
 translationKey: blog-chantal-inclusion
 ---
 
