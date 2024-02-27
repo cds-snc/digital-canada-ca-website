@@ -18,7 +18,7 @@ That’s one of the key questions we explored on the Canadian Digital Service (C
 
 At CDS, we publish blogs, guides, reports, and job opportunities to support government teams with their digital service delivery. By building this search bar, our goal was to make it as easy as possible for people to find those relevant resources quickly.
 
-Keeping to the [CDS value](https://digital.canada.ca/our-values/) of “build for learning and iteration”, we know that a product is never fully “done”. So, our small but mighty website team released the new search feature knowing it would require continuous testing and improvement.  
+Keeping to the CDS value of “build for learning and iteration”, we know that a product is never fully “done”. So, our small but mighty website team released the new search feature knowing it would require continuous testing and improvement.  
 
 As a lifelong learner, I was excited to get the new web search feature in front of people to see how it was helping - but I was even more excited to learn about how it wasn’t, and what we could improve. 
 
@@ -33,7 +33,7 @@ I knew that one of the problems we were trying to solve was to make it easier fo
 We put out the call to our internal user group and that same week, we were interviewing people to share their experiences using the search bar.
 
 ## How we got quick feedback
-On Monday, our team put together a pared down version of a [usability testing facilitation plan](https://digital.canada.ca/guides/guide-usability-testing/), scoped down to focus on our target user group - internal users. 
+On Monday, our team put together a pared down version of a usability testing facilitation plan, scoped down to focus on our target user group - internal users. 
 
 The next day, we reached out to a few people from CDS who regularly use the website to join us for 15 minute testing sessions. During these sessions, we observed them using the search bar and asked 3 probing questions from the facilitation guide: 
 
@@ -73,4 +73,4 @@ Thanks to quick feedback from our colleagues, we were able to implement an equal
 
 This first touchpoint with an internal user group was valuable. Our next step is to solicit feedback from people outside of CDS who want to use the search bar to find the things they need. And that’s where we need your help.
 
-If you’re someone who has used our website, we’d love to hear from you. [You can sign up to participate in future website testing here](https://digital.canada.ca/website-usability-testing/). 
+If you’re someone who has used our website, we’d love to hear from you. [You can sign up to participate in future website testing here](mailto:cds-snc@servicecanada.gc.ca). 
