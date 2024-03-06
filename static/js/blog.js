@@ -15,7 +15,7 @@ async function initBlogSearch() {
     blogResults = blogIndex.filter(function (el){
         return el.type == "blog"
     })
-
+    console.log(blogResults)
     renderBlogResults(blogResults)
 }
 
