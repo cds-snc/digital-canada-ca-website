@@ -16,7 +16,7 @@ RUN chmod 755 /lambda-static-server
 
 COPY ./ /site
 WORKDIR /site
-RUN hugo
+RUN hugo --environment staging
 
 FROM scratch
 

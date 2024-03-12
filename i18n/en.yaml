@@ -288,4 +288,8 @@ footer-privacy-link:
 footer-terms-link:
   other: ""
 footer-visit-canada-ca-link:
-  other: ""                
+  other: ""
+esdc:
+  other: "Employment and Social Development Canada"
+aa-language:
+  other: "eng"                    

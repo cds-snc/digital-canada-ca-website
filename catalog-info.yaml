@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: digital-canada-ca-website
+  annotations:
+    github.com/project-slug: cds-snc/digital-canada-ca-website
+spec:
+  type: website
+  lifecycle: production
+  owner: cds-snc/team-cds

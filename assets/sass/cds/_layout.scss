@@ -57,7 +57,47 @@ main {
 
 // Generic page styles
 blockquote{
-  border-left: 5px solid $primary-color;
+  position: relative;
+  border: 0;
+  padding: 0 4rem 0 4.5rem;
+  margin: 3rem 0 2rem 0;
+
+  @include desktop {
+    width: 80%;
+  }
+
+  @include mobile_only {
+    padding: 0 2rem 0 2.5rem;
+  }
+
+  &:before, &:after {
+    display: inline-block;
+    font-size: 6rem;
+    font-family: serif;
+    font-weight: 900;
+    position: absolute;
+    color: $alpha-color;
+
+    @include mobile_only {
+      font-size: 4rem;
+    }
+  }
+
+  &:before {
+    content: '\201C';
+    left: 0;
+    top: 0;
+  }
+
+  &:after {
+    content: '\201D';
+    right: 1rem;
+    bottom: 0;
+
+    @include mobile_only {
+      right: 0;
+    }
+  }
 }
 
 hr {

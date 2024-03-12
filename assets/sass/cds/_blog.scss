@@ -190,6 +190,15 @@
   }
 }
 
+.blog-single {
+  padding-top: 4rem;
+
+  .container {
+    // more css shenanigans for grid alignment stuff btwen bootstrap and GCDS
+    padding: 0 30px;
+  }
+}
+
 article.post {
 
   img {

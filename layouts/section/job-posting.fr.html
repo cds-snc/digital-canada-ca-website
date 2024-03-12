@@ -1,12 +1,14 @@
 {{ define "main" }}
-<div class="container" style="margin-top: 1.25rem;">
+<div class="container">
 
-  <section class="padding">
+  <section class="padding" style="margin-top: 2.5rem;">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <p>Au Service numérique canadien (SNC), nous aidons le gouvernement à améliorer la façon dont il conçoit et
-          fournit ses services au Canada. Nous sommes de l’avis que les services publics doivent être conviviaux,
-          sécurisés, fiables, accessibles et inclusifs. C’est pourquoi nous sollicitons votre aide!</p>
+        <p>Au <a href="/a-propos/">Service numérique canadien</a> (SNC), notre mission est d’aider le gouvernement à
+          améliorer la façon dont il
+          conçoit et fournit ses services au Canada. Nous sommes d’avis que les services publics doivent être
+          conviviaux, sécurisés, fiables, accessibles et inclusifs : ils doivent fonctionner pour tout le monde. C’est
+          pourquoi nous sollicitons votre aide!</p>
       </div>
     </div>
   </section>
@@ -27,87 +29,74 @@
   </div>
 </div>
 
-<div style="background-color: #d6d9dd;">
+<div style="background-color: #d6d9dd; margin-top: 1.5rem;">
   <div id="apply-now" class="work-with-us--apply-now container">
     {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") }}
     <div style="padding-bottom: 3rem;">
-      <h2>Postuler</h2>
+      <h2>Présenter une candidature</h2>
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
-        <!-- <div class="form-group">
-          <label for="name">Nom complet</label>
-          <input  type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
-            aria-describedby="name-required" />
-          <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-            obligatoire</span>
-        </div> -->
-        <!-- Web component code (Angular, Vue) -->
-        <gcds-input input-id="name" label="Nom complet" required size="35" lang="fr">
-        </gcds-input>
+        <gcds-input input-id="name" label="Nom complet" size="100" required lang="fr"></gcds-input>
+
+        <!-- Pronouns -->
+        <gcds-input id="pronouns" label="Pronoms (facultatif)" input-id="pronouns" hint="Exemple: elle, il."
+          size="100"></gcds-input>
+
         <!-- Email -->
-        <!-- <div class="form-group">
-          <label for="email">Adresse courriel</label>
-          <input type="email" name="email" class="form-control validate-required validate-email" id="email"
-            aria-required="true" aria-describedby="email-required" />
-            <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-              obligatoire</span>
-        </div> -->
-        <gcds-input input-id="email" label="Adresse courriel" type="email" required size="35" lang="fr">
+        <gcds-input input-id="email" label="Adresse courriel" type="email" required size="100" lang="fr">
         </gcds-input>
 
+        <!-- Preferred Language -->
+        <gcds-fieldset id="preferred-language" fieldset-id="preferredLang" legend="Langue de communication souhaitée"
+          required lang="fr">
+          <gcds-radio radio-id="frenchId" label="Français" name="preferredLang" value="French" checked></gcds-radio>
+          <gcds-radio radio-id="englishId" label="Anglais" name="preferredLang" value="English"></gcds-radio>
+
+        </gcds-fieldset>
         <!-- Resume -->
-        <!-- <div class="form-group">
-          <label for="resume">Téléversez votre CV
-            <div style="margin: 0.5rem 0 1rem 0;">
-              <span style="font-weight: normal;" class="url">Veuillez privilégier le format PDF.</span>
-
-            </div>
-            <div class="browse">
-              <div><span style="padding-right: 0.5rem;">Téléverser un fichier</span> <i
-                  class="fa-solid fa-upload fa-sm"></i>
-                <input class="resume" type="file" id="resume" name="resume"
-                  accept="application/msword, application/pdf, text/plain" required />
-              </div>
-
-            </div>
-          </label>
-
-
-        </div> -->
-        <div style="margin-bottom: 1rem;">
-          <gcds-file-uploader uploader-id="resume" label="Téléversez votre CV" hint="Téléverser un fichier" required
-            accept="application/msword, application/pdf, text/plain" lang="fr">
+        <div style="margin: 1rem 0 1rem 0;">
+          <gcds-file-uploader uploader-id="resume" label="Téléversez votre CV" hint="Privilégiez le format PDF."
+            required accept="application/msword, application/pdf, text/plain" lang="fr">
           </gcds-file-uploader>
         </div>
 
         <!-- Samples of your work -->
-        <!-- <div class="form-group">
-          <label for="samples">Exemples de travaux (URL)</label>
-          <div style="margin: 0.5rem 0;">
-            <span class="url">Indiquez toute URL pertinente présentant votre travail.</span>
-
-          </div>
-          <input type="text" class="form-control" id="samples" name="samples" />
-        </div> -->
-        <gcds-input input-id="samples" label="Exemples de travaux (URL)"
-          hint="Indiquez toute URL pertinente présentant votre travail." size="100" lang="fr">
+        <gcds-input input-id="samples" label="Exemples de travaux (facultatif)"
+          hint="Il peut s’agir d’un lien vers votre portfolio ou vers votre profil LinkedIn, ou encore d’autres exemples de vos travaux."
+          size="100" lang="fr">
         </gcds-input>
 
-        <!-- How did you hear about this job-->
-        <!-- <div class="form-group">
-          <label for="talent_tracking">Comment avez-vous entendu parler de cette offre d’emploi?</label>
-          <input class="form-control" id="talent_tracking" name="talent_tracking" rows="5"></textarea>
+        <!-- Where did you hear about this job -->
+        <gcds-fieldset id="talent_tracking" fieldset-id="talentTracking"
+          legend="Comment avez-vous entendu parler de cette offre d’emploi?" required lang="fr">
+          <gcds-radio radio-id="gcJobsId" label="jobs.gc.ca" name="talentTracking" value="jobs.gc.ca" checked></gcds-radio>
+          <gcds-radio radio-id="linkedinId" label="LinkedIn" name="talentTracking" value="LinkedIn"></gcds-radio>
+          <gcds-radio radio-id="facebookId" label="Facebook" name="talentTracking" value="Facebbok"></gcds-radio>
+          <gcds-radio radio-id="queertechId" label="Communauté QueerTech" name="talentTracking"
+            value="QueerTech"></gcds-radio>
+          <gcds-radio radio-id="referralId" label="Recommandation d’une personne employée au SNC" name="talentTracking"
+            value="Referral"></gcds-radio>
+          <gcds-radio id="other-Id" radio-id="otherId" label="Autre" name="talentTracking" value="Other"></gcds-radio>
+          <gcds-input input-id="specifyOther"
+            label="Si vous avez sélectionné « Autre », veuillez préciser votre réponse (facultatif)"
+            size="100"></gcds-input>
 
-          <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-            obligatoire</span>
-        </div> -->
+        </gcds-fieldset>
+        <!-- Is there anything else we should know about you -->
+        <gcds-textarea textarea-id="applicantInfo"
+          label="Y a-t-il autre chose que nous devrions savoir à votre sujet? (facultatif)" character-count="1000"
+          lang="fr"></gcds-textarea>
 
-        <gcds-textarea textarea-id="talent_tracking"
-          label="Comment avez-vous entendu parler de cette offre d’emploi?" required character-count="300" lang="fr">
-        </gcds-textarea>
-
-
+        <!-- Accomodation information -->
+        <div>
+          <p><strong>Demande de mesures d’adaptation</strong></p>
+          <p>Nous avons à cœur d’offrir un accès égalitaire à l’emploi. Si nous retenons votre candidature pour un
+            premier appel, nous vous questionnerons sur vos besoins en matière de <a
+              href="https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/travailler-gouvernement-canada-obligation-prendre-mesures-adaptation-votre-droit-non-discrimination.html">mesures d’adaptation</a>
+             durant le
+            processus de recrutement.</p>
+        </div>
         <!-- Submit-->
         <div>
           <gcds-button type="submit" id="job-submit-btn" button-id="submit-btn">Soumettre votre candidature <gcds-icon

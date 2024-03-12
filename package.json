@@ -15,6 +15,7 @@
     "build": "hugo",
     "build:stage": "hugo --environment staging",
     "stage-server": "node stage-server.js",
+    "run-staging": "hugo server --environment staging",
     "uuid": "jest -- uuid.test.js"
   },
   "repository": {

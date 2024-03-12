@@ -133,6 +133,19 @@
 
     </header>
     <main role="main" property="mainContentOfPage">
+      {{ if eq hugo.Environment "production" }}
+      <!-- Production -->
+      <script src=https://assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js></script>
+      {{ else }}
+      <!-- Staging/Dev -->
+      <script src=https://assets.adobedtm.com/be5dfd287373/37efdf424920/launch-195fd36d5a09-staging.min.js></script>
+      {{ end }}
+
+      <meta name="dcterms.tite" content="{{ .Params.Title }}" />
+      <meta name="dcterms.language" content="{{ i18n "aa-language" }}" />
+      <meta name="dcterms.creator" content="{{ i18n "esdc" }}" />
+      <meta name="dcterms.accessRights" content="2" />
+      <meta name="dcterms.service" content="ESDC-EDSC_CDS-SNC" />
       <section id="wb-cont">
         {{ block "main" . }}
         <section class="content">
@@ -169,9 +182,7 @@
     <script src="/js/lazyload.js" async=""></script>
     
 
-
-    <!-- Google Analytics -->
-
+    <script type="text/javascript">_satellite.pageBottom();</script>
   </body>
 
 </html>

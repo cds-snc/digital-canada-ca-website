@@ -86,6 +86,10 @@ $(document).ready(function () {
     var formData = new FormData(theForm);
     var pageLanguage = $("html").attr("lang");
 
+    // for (const pair of formData.entries()) {
+    //   console.log(pair[0], pair[1])
+    // }
+
     var endpoint =
       "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
 
