@@ -8,6 +8,14 @@ let jsMainNavButton = document.querySelector("#js-mainNavButton")
 // let softwareBlogBtn = document.getElementById("software-btn")
 // let contentBlogBtn = document.getElementById("content-btn")
 let filteredBlogs = [];
+const blogCategories = [
+    {
+        "Example": ["Ways of working", "GC Digital", "CDS news"],
+        "Topic": ["Accessibility", "Bilingualism", "Inclusion"],
+        "Discipline": ["Research", "Service design", "Content design"],
+        "Product": ["GC Forms", "GC Notify", "GC Design System"]
+    }
+]
 const filterObjectCategories = [
     {
         name: "Software Category",
