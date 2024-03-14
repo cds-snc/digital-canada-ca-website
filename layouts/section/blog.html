@@ -1,31 +1,28 @@
 {{ define "main" }}
 <section>
-    <div>
-        <gcds-checkbox checkbox-id="checkboxSelection" label="Ways of working" name="ways-of-working" ></gcds-checkbox>
-    </div>
-    <div class="container">
-        <div id="sort-buttons">
-            <gcds-button id="all-btn" button-id="all-btn">All</gcds-button>
-            <gcds-button id="software-btn" button-id="software-btn" button-role="secondary">Software</gcds-button>
-            <gcds-button id="content-btn" button-id="content-btn" button-role="secondary">Content</gcds-button>
-            <gcds-button id="design-btn" button-id="design-btn" button-role="secondary">Design</gcds-button>
-            <gcds-button id="dev-btn" button-id="dev-btn" button-role="secondary">Dev</gcds-button>
+    <div style="display: flex;">
+        <div id="categories-div">
         </div>
-        <div class="row">
-            <!-- col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 -->
-            <div class="col-sm-9 col-xs-12">
-                <ul id ="blog-list-result" class="blogpost-list">
-                    <li id="my-blog-li" class="post"></li>
-                </ul>
-
-
+        <div class="container">
+            <div class="row">
+                <!-- col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 -->
+                <div class="col-sm-9 col-xs-12">
+                    <ul id="blog-list-result" class="blogpost-list">
+                        <li id="my-blog-li" class="post"></li>
+                    </ul>
+    
+    
+                </div>
+    
             </div>
-
+    
+    
+    
         </div>
-
-
-
     </div>
+    
+    </div>
+
     <div class="container" style="display: flex; flex-direction: column;">
         <div style="margin-left: auto; margin-right: auto; margin-bottom: 2rem;">
             <gcds-button id="blog-btn" button-id="load-more-blog-btn">{{ i18n "load-more"}} <gcds-icon
