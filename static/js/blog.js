@@ -60,6 +60,7 @@ loadMoreBlogButton.addEventListener("click", () => {
     blogRows += 6
     renderBlogResults(blogResults)
 })
+//
 
 function dateFormat(date) {
     let formattedDate;
