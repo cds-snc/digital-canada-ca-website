@@ -46,7 +46,7 @@ function renderBlogCategories() {
         let fieldset = document.getElementById(key)
         values.forEach((value) => {
             let name = `${key}Fieldset`;
-            vals += `<gcds-checkbox id="${formatString(value)}" checkbox-id="${value}" label="${value}" name="${name}"></gcds-checkbox>`;
+            vals += `<gcds-checkbox id="${formatString(value)}" checkbox-id="${value}" label="${value}" name="${name}" value="${value}"></gcds-checkbox>`;
         })
 
         fieldset.innerHTML = vals;
@@ -76,22 +76,25 @@ async function initBlogSearch() {
 
     renderBlogResults(blogResults);
 }
-
+let selectedCategory =[];
 function renderFilteredResults(btnName, category) {
     let filterBtn = document.getElementById(btnName)
-    let selectedCategory;
+    
     filterBtn.addEventListener('change', e => {
         if (e.target.checked === true) {
-            filteredBlogs = blogIndex.filter(result => {
-                if (result.category) {
-                    return result.category.includes(category)
+            console.log(e.target.value)
+            blogIndex.filter(result => {
+                if (result.category && result.category.includes(category)) {
+                    
+                    filteredBlogs.push(result)
                 }
             })
         } else {
             filteredBlogs = filteredBlogs.filter(result => !result.category.includes(category))
         }
 
-        console.log(filteredBlogs)
+        // console.log(filteredBlogs)
+
         renderBlogResults(filteredBlogs)
         if (filteredBlogs.length === 0) {
             renderBlogResults(blogResults)
