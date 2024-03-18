@@ -82,23 +82,9 @@ function renderFilteredResults(btnName, category) {
     
     
     filterBtn.addEventListener('change', e => {
-        // if (filterBtn.checked) {
-        //     console.log(filterBtn)
-        // }
-        // console.log('change', e)
+
         if (e.target.checked === true) {
             selectedCategories.push(e.target.value)
-
-            
-            blogIndex.filter(result => {
-                if (result.category && result.category.includes(category)) {
-                    // console.log(result.title)
-                    if (!filteredBlogs.includes(result)) {
-                        filteredBlogs.push(result)
-                    }   
-                    
-                }
-            })
         } 
         else if (e.target.checked === false){
             
@@ -107,75 +93,18 @@ function renderFilteredResults(btnName, category) {
             if (indexToRemove !== -1) {
                 selectedCategories.splice(indexToRemove, 1)
             }
-
-            console.log(selectedCategories)
-
-            
-
-        //    filteredBlogs = filteredBlogs.filter(result => {
-        //         selectedCategories.some(selectedCategory => {
-        //             return result.category.includes(selectedCategory)
-        //         })
-        //     })
-            filteredBlogs = filteredBlogs.filter(result => {
-                    selectedCategories.some(selectedCategory => {
-                        
-                        if (result.category.includes(selectedCategory)) {
-                            // console.log(result)
-                            return result
-                        }
-                    // return result.category.includes(selectedCategory)
-                })
-            })
-
-            // console.log(selectedCategories)
-
-            
-            // filteredBlogs = filteredBlogs.filter(result => {
-            //     if (!result.category.includes(category) || result.category.length > 1) {
-            //         console.log(result)
-            //         return result;
-            //     }
-            //     // if (!result.category.includes(category)) {
-            //     //     console.log('yes', result)
-            //     // }
-            // })
-
-            // filteredBlogs = filteredBlogs.filter(result => {
-            //     if (!result.category.includes(category)) {
-                    
-            //         console.log('result', result)
-            //         console.log('category', category)
-            //         return result
-            //     }
-                
-            // })
         }
 
-
-        // filteredBlogs = blogIndex.filter(blog => {
-        //     if (blog.category) {
-        //         return selectedCategories.some(selectedCategory => {
-        //             return blog.category.includes(selectedCategory)
-        //         })
-        //     }
-        // })
-
-        // filteredBlogs = blogIndex.filter(blog => {
-        //     if (blog.category === null) {
-        //         return selectedCategories.length === 0;
-        //     }
-
-        //     return selectedCategories.some(selectedCategory => {
-        //         return blog.category.includes(selectedCategory)
-        //     })
-        // })
+        filteredBlogs = blogIndex.filter(blog => {
+            if (blog.category === null) {
+                return selectedCategories.length === 0;
+            }
+            return selectedCategories.some(selectedCategory => {
+                return blog.category.includes(selectedCategory)
+            })
+        })
         
-        console.log(filteredBlogs)
-        // renderBlogResults(filteredBlogs)
-        // if (filteredBlogs.length === 0) {
-        //     renderBlogResults(blogResults)
-        // }
+        renderBlogResults(filteredBlogs)
         
     })
 
@@ -198,7 +127,6 @@ function initBlogResults() {
         const [key, values] = Object.entries(category)[0]
         values.forEach((value) => {
             renderFilteredResults(formatString(value), value)
-            // console.log(formatString(value))
         })
     })
 
