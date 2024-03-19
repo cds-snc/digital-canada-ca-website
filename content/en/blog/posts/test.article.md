@@ -13,3 +13,5 @@ translationKey: my-translation-id-2
 ---
 
 <p>Tes paragraph</p>
+
+Every time one of the buttons that matches the category is clicked, I want that object to be added into the selectedCategory array. If there is a situation where an object has both buttons clicked for its categories, for example, if both 'Ways of working' and 'Research' is clicked
