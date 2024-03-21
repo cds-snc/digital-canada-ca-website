@@ -112,11 +112,11 @@ $(document).ready(function () {
       error: function (xhr, textStatus, errorThrown) {
         console.log("Error", textStatus);
         console.log("Error", errorThrown);
-        if (pageLanguage == "en") {
-          window.location.href = "/error/";
-        } else {
-          window.location.href = "/erreur/";
-        }
+        // if (pageLanguage == "en") {
+        //   window.location.href = "/error/";
+        // } else {
+        //   window.location.href = "/erreur/";
+        // }
       },
     });
   });
