@@ -103,11 +103,11 @@ $(document).ready(function () {
         console.log(r.responseText);
       },
       success: function () {
-        if (pageLanguage == "en") {
-          window.location.href = "/thank-you/";
-        } else {
-          window.location.href = "/merci/";
-        }
+        // if (pageLanguage == "en") {
+        //   window.location.href = "/thank-you/";
+        // } else {
+        //   window.location.href = "/merci/";
+        // }
       },
       error: function (xhr, textStatus, errorThrown) {
         console.log("Error", textStatus);
