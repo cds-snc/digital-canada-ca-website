@@ -4,14 +4,14 @@ title: 'La passion et le potentiel comme critères de sélection : le Programme
 description: >-
   Jamie Boomhour, qui a suivi avec succès le Programme d’apprentissage en TI pour les personnes autochtones, nous parle de cet apprentissage et l’inclusivité qui le caractérise.
 author: 'Jamie Boomhour'
-date: '2024-03-27T10:45:32'
+date: '2024-03-27T11:04:13'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
 image-alt: Une photographie de Jamie Boomhour, le premier diplômé du Programme d’apprentissage en TI pour les personnes autochtones du gouvernement du Canada. On retrouve le logo du programme en arrière plan de l’image.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
 translationKey: blog-esdc-indigenous-it
 ---
 
-<p>En tant que fonctionnaires, nous développons et offrons des programmes et services à toute la population du Canada. Pour ce faire, nous devons créer une main-d’œuvre représentative des gens que nous servons.&nbsp;</p>
+<p>En tant que fonctionnaires, nous développons et offrons des programmes et services à toute la population du Canada. Pour ce faire, nous devons créer une main-d’œuvre représentative des gens que nous servons.</p>
 
 
 
@@ -19,7 +19,7 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p><strong>Qu’est-ce que le Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones?</strong></p>
+<p><strong>Qu’est-ce que le Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones ?</strong></p>
 
 
 
@@ -27,7 +27,7 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p>Le programme s’étend sur une période de 24 mois. Alliant un apprentissage en situation d’emploi à une formation en ligne (divisés de manière selon un ratio 80/20), ​​​il permet aux personnes apprenties de demeurer dans leurs communautés dans la mesure du possible. Le programme a également créé un<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> cercle de soutien</a> au sein duquel les personnes participantes se voient attribuer un·e mentor·e qui leur offre des conseils et un encadrement, ainsi qu’un·e partenaire pair·e pour un jumelage et un soutien au quotidien. </p>
+<p>Le programme s’étend sur une période de 24&nbsp;mois. Alliant un apprentissage en situation d’emploi à une formation en ligne (divisés de manière selon un ratio&nbsp;80/20), ​​​il permet aux personnes apprenties de demeurer dans leurs communautés dans la mesure du possible. Le programme a également créé un<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> cercle de soutien</a> au sein duquel les personnes participantes se voient attribuer un·e mentor·e qui leur offre des conseils et un encadrement, ainsi qu’un·e partenaire pair·e pour un jumelage et un soutien au quotidien.&nbsp;</p>
 
 
 
@@ -39,15 +39,15 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p><strong>Pouvez-vous nous parler de vous et de ce qui vous a intéressé dans les TI?</strong><br><br>Je suis Mohawk et je viens de la réserve du territoire mohawk de Tyendinaga, juste à côté de Belleville, en Ontario. J’ai vécu au sein de la réserve jusqu’à l’âge de 21&nbsp;ans; après quoi, je me suis installé à Belleville pour le travail. Mon expérience professionnelle comprend surtout du travail manuel, en usine ou en magasin, ainsi que de la restauration. Mes possibilités d’éducation postsecondaires étaient très limitées en raison de mes moyens. Jusqu’à l’âge de 28&nbsp;ans, j’étais considéré comme un Indien non inscrit au sens de la loi&nbsp;C-31. Mais <a href="https://www.thecanadianencyclopedia.ca/fr/article/bill-c-31" target="_blank" rel="noreferrer noopener">la modification de cette loi</a> m’a permis de demander mon statut d’Autochtone. Avant ça, de nombreux programmes permettant aux Autochtones d’accéder à une éducation postsecondaire ne m’étaient pas ouverts, car je ne remplissais pas les critères d’admission.<br><br>J’étais conducteur dans un centre de recyclage, mais j’ai été licencié compte tenu des problèmes économiques engendrés par la pandémie de COVID-19. J’étais sans emploi depuis près d’un an quand mon épouse m’a montré une offre d’Emploi et développement social Canada (EDSC). Le ministère cherchait un·e employé·e autochtone pour aider à approvisionner en matériel les fonctionnaires qui travaillaient de la maison au début de la pandémie. En avril, j’ai rejoint EDSC dans le cadre d’un contrat occasionnel de 90&nbsp;jours. À la fin de ce contrat, en août&nbsp;2020, j’ai dû quitter mon poste, car je ne possédais pas le niveau d’éducation requis. Après quoi, je suis resté sans emploi jusqu’au mois de décembre&nbsp;2020, quand j’ai obtenu un nouveau contrat à période déterminée pour le même poste chez EDSC. C’est là que j’ai découvert que j’étais le tout premier apprenti du <a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener">Programme d’apprentissage en TI pour les personnes autochtones</a>.</p>
+<p><strong>Pouvez-vous nous parler de vous et de ce qui vous a intéressé dans les TI ?</strong><br><br>Je suis Mohawk et je viens de la réserve du territoire mohawk de Tyendinaga, juste à côté de Belleville, en Ontario. J’ai vécu au sein de la réserve jusqu’à l’âge de 21&nbsp;ans ; après quoi, je me suis installé à Belleville pour le travail. Mon expérience professionnelle comprend surtout du travail manuel, en usine ou en magasin, ainsi que de la restauration. Mes possibilités d’éducation postsecondaires étaient très limitées en raison de mes moyens. Jusqu’à l’âge de 28&nbsp;ans, j’étais considéré comme un Indien non inscrit au sens de la loi&nbsp;C-31. Mais <a href="https://www.thecanadianencyclopedia.ca/fr/article/bill-c-31" target="_blank" rel="noreferrer noopener">la modification de cette loi</a> m’a permis de demander mon statut d’Autochtone. Avant ça, de nombreux programmes permettant aux Autochtones d’accéder à une éducation postsecondaire ne m’étaient pas ouverts, car je ne remplissais pas les critères d’admission.<br><br>J’étais conducteur dans un centre de recyclage, mais j’ai été licencié compte tenu des problèmes économiques engendrés par la pandémie de COVID-19. J’étais sans emploi depuis près d’un an quand mon épouse m’a montré une offre d’Emploi et développement social Canada (EDSC). Le ministère cherchait un·e employé·e autochtone pour aider à approvisionner en matériel les fonctionnaires qui travaillaient de la maison au début de la pandémie. En avril, j’ai rejoint EDSC dans le cadre d’un contrat occasionnel de 90&nbsp;jours. À la fin de ce contrat, en août&nbsp;2020, j’ai dû quitter mon poste, car je ne possédais pas le niveau d’éducation requis. Après quoi, je suis resté sans emploi jusqu’au mois de décembre&nbsp;2020, quand j’ai obtenu un nouveau contrat à période déterminée pour le même poste chez EDSC. C’est là que j’ai découvert que j’étais le tout premier apprenti du <a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener">Programme d’apprentissage en TI pour les personnes autochtones</a>.</p>
 
 
 
-<p><strong>Pouvez-vous nous parler de vos débuts au sein du Programme d’apprentissage en TI?&nbsp;</strong></p>
+<p><strong>Pouvez-vous nous parler de vos débuts au sein du Programme d’apprentissage en TI ?&nbsp;</strong></p>
 
 
 
-<p>Mon cas était très unique. Lorsque j’ai entendu parler pour la première fois du Programme d’apprentissage en TI, j’en faisais déjà partie! Le programme venait de voir le jour à partir de rien, et j’étais le tout premier participant. Quand je suis revenu travailler au gouvernement, on m’a parlé de ce nouveau programme conçu pour éliminer les obstacles auxquels faisaient face les Autochtones souhaitant accéder à des postes de TI au sein du service public. Quand j’avais reçu mon premier contrat occasionnel, en avril 2020, je savais que j’avais peu de chance d’obtenir un poste permanent compte tenu de mon niveau d’éducation. Aussi, quand j’ai appris que mon contrat ne serait pas renouvelé, j’étais déçu, mais ce n’était pas une surprise. Quand j’ai réintégré le ministère, j’étais ravi, car je ne pensais pas que j’aurais cette chance.&nbsp;&nbsp;</p>
+<p>Mon cas était très unique. Lorsque j’ai entendu parler pour la première fois du Programme d’apprentissage en TI, j’en faisais déjà partie ! Le programme venait de voir le jour à partir de rien, et j’étais le tout premier participant. Quand je suis revenu travailler au gouvernement, on m’a parlé de ce nouveau programme conçu pour éliminer les obstacles auxquels faisaient face les Autochtones souhaitant accéder à des postes de TI au sein du service public. Quand j’avais reçu mon premier contrat occasionnel, en avril 2020, je savais que j’avais peu de chance d’obtenir un poste permanent compte tenu de mon niveau d’éducation. Aussi, quand j’ai appris que mon contrat ne serait pas renouvelé, j’étais déçu, mais ce n’était pas une surprise. Quand j’ai réintégré le ministère, j’étais ravi, car je ne pensais pas que j’aurais cette chance.&nbsp;&nbsp;</p>
 
 
 
@@ -55,7 +55,7 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p><strong>Quelle a été votre expérience avec le programme de TI?</strong></p>
+<p><strong>Quelle a été votre expérience avec le programme de TI ?</strong></p>
 
 
 
@@ -71,7 +71,7 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p><strong>À votre avis, pourquoi ce type de programme est-il important pour les Autochtones? Que vous a-t-il apporté?</strong></p>
+<p><strong>À votre avis, pourquoi ce type de programme est-il important pour les Autochtones ? Que vous a-t-il apporté ?</strong></p>
 
 
 
@@ -83,13 +83,13 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p><strong>Quels conseils donneriez-vous aux personnes intéressées par ce programme ou à celles qui souhaitent embaucher un·e apprenti·e afin de créer un environnement de travail plus diversifié et inclusif?</strong></p>
+<p><strong>Quels conseils donneriez-vous aux personnes intéressées par ce programme ou à celles qui souhaitent embaucher un·e apprenti·e afin de créer un environnement de travail plus diversifié et inclusif ?</strong></p>
 
 
 
-<p>Je recommanderais à toute personne intéressée par ce programme d’apprentissage de faire des recherches aussi approfondies que possible sur les postes disponibles dans la fonction publique afin de voir ce qui lui conviendrait le mieux. <strong>Personne ne s’attend à ce que vous excelliez dans le domaine dès vos débuts, ne perdez pas courage!</strong> La route ne sera pas un long fleuve tranquille, mais n’oubliez jamais les raisons qui vous ont poussé·e à rejoindre le programme. Continuez de travailler pour atteindre vos objectifs. Le plus difficile est de mettre un pied dans la porte. Le reste, ce n’est que la cerise sur le gâteau.<br><br>Pour favoriser des expériences positives et créer une fonction publique plus diversifiée et inclusive, les gestionnaires d’embauche et les responsables de ministères doivent reconnaître l’abondance de talents autochtones disponibles&nbsp;: il suffit de nous donner notre chance. En prêtant attention aux préoccupations et aux idées des apprenti·e·s, il est possible de faire de grandes choses pour la fonction publique.</p>
+<p>Je recommanderais à toute personne intéressée par ce programme d’apprentissage de faire des recherches aussi approfondies que possible sur les postes disponibles dans la fonction publique afin de voir ce qui lui conviendrait le mieux. <strong>Personne ne s’attend à ce que vous excelliez dans le domaine dès vos débuts, ne perdez pas courage !</strong> La route ne sera pas un long fleuve tranquille, mais n’oubliez jamais les raisons qui vous ont poussé·e à rejoindre le programme. Continuez de travailler pour atteindre vos objectifs. Le plus difficile est de mettre un pied dans la porte. Le reste, ce n’est que la cerise sur le gâteau.<br><br>Pour favoriser des expériences positives et créer une fonction publique plus diversifiée et inclusive, les gestionnaires d’embauche et les responsables de ministères doivent reconnaître l’abondance de talents autochtones disponibles&nbsp;: il suffit de nous donner notre chance. En prêtant attention aux préoccupations et aux idées des apprenti·e·s, il est possible de faire de grandes choses pour la fonction publique.</p>
 
 
 
-<p><strong>Aimeriez-vous en savoir plus?</strong><br><br>Le programme a beaucoup évolué depuis l’apprentissage de Jamie. Êtes-vous une<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> personne autochtone</a> souhaitant travailler pour le gouvernement fédéral dans le domaine des technologies, ou encore un·e<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> gestionnaire d’embauche</a> cherchant à recruter un nouveau talent? Si oui, le Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones pourrait bien être fait pour vous!​​​ <a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener">Consultez le site Web</a>&nbsp;(disponible en anglais, en français, en michif, en cri des Plaines, en ojibwé de l’Ouest et en mi’kmaw) dès aujourd’hui pour en apprendre davantage!</p>
+<p><strong>Aimeriez-vous en savoir plus ?</strong><br><br>Le programme a beaucoup évolué depuis l’apprentissage de Jamie. Êtes-vous une<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> personne autochtone</a> souhaitant travailler pour le gouvernement fédéral dans le domaine des technologies, ou encore un·e<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> gestionnaire d’embauche</a> cherchant à recruter un nouveau talent ? Si oui, le Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones pourrait bien être fait pour vous !​​​ <a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener">Consultez le site Web</a>&nbsp;(disponible en anglais, en français, en michif, en cri des Plaines, en ojibwé de l’Ouest et en mi’kmaw) dès aujourd’hui pour en apprendre davantage !</p>
 
