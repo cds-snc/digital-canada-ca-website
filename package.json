@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "dependencies": {
     "@cdssnc/gcds-components": "^0.20.0",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "i18next": "^21.3.2",
     "lunr": "^2.3.9",
     "minimist": "^1.2.5"
