@@ -85,3 +85,5 @@ function readFullPostTranslation() {
         return 'Lire l’intégralité du billet'
     }
 }
+
+//
