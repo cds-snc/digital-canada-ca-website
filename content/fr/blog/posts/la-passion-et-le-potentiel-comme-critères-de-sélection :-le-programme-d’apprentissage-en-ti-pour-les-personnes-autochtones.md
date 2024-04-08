@@ -3,7 +3,7 @@ layout: blog
 title: 'La passion et le potentiel comme critères de sélection : le Programme d’apprentissage en TI pour les personnes autochtones'
 description: >-
   Jamie Boomhour, qui a suivi avec succès le Programme d’apprentissage en TI pour les personnes autochtones, nous parle de cet apprentissage et l’inclusivité qui le caractérise.
-author: 'Jamie Boomhour'
+author: 'Jamie Boomhour, Diplômé du Programme d’apprentissage en TI'
 date: '2024-03-27T11:04:13'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
 image-alt: Une photographie de Jamie Boomhour, le premier diplômé du Programme d’apprentissage en TI pour les personnes autochtones du gouvernement du Canada. On retrouve le logo du programme en arrière plan de l’image.
@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_P
 translationKey: blog-esdc-indigenous-it
 ---
 
-<p>En tant que fonctionnaires, nous développons et offrons des programmes et services à toute la population du Canada. Pour ce faire, nous devons créer une main-d’œuvre représentative des gens que nous servons.</p>
+<p>En tant que fonctionnaires, nous développons et offrons des programmes et services à toute la population du Canada. Pour ce faire, nous devons créer une main-d’œuvre représentative des gens que nous servons.  </p>
 
 
 
@@ -23,11 +23,11 @@ translationKey: blog-esdc-indigenous-it
 
 
 
-<p>Le<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones</a> a été conçu avec et pour les Autochtones. L’objectif&nbsp;: ouvrir une voie vers l’emploi au sein de la fonction publique pour les membres des Premières Nations et des communautés Inuit et Métis nourrissant une passion pour les technologies de l’information (TI). ​Le programme a été créé afin d’œuvrer à la réconciliation et de créer une nouvelle relation avec les Autochtones basée sur la reconnaissance des droits, le respect, la coopération et le partenariat (source&nbsp;:<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> Programme d’apprentissage en TI pour les personnes autochtones</a>)​. Ce programme met l’accent sur le potentiel des gens, et non sur leur niveau de scolarité. Il aide ainsi à éliminer les obstacles auxquels font face de nombreuses personnes autochtones concernant l’emploi au sein de l’économie du numérique.&nbsp;</p>
+<p>Le<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> Programme d’apprentissage en TI du gouvernement du Canada pour les personnes autochtones</a> a été conçu avec et pour les Autochtones. L’objectif&nbsp;: ouvrir une voie vers l’emploi au sein de la fonction publique pour les membres des Premières Nations et des communautés Inuit et Métis nourrissant une passion pour les technologies de l’information (TI). ​Le programme a été créé afin d’œuvrer à la réconciliation et de créer une nouvelle relation avec les Autochtones basée sur la reconnaissance des droits, le respect, la coopération et le partenariat (source&nbsp;:<a href="https://talent.canada.ca/fr/indigenous-it-apprentice" target="_blank" rel="noreferrer noopener"> Programme d’apprentissage en TI pour les personnes autochtones</a>)​. Ce programme met l’accent sur le potentiel des gens, et non sur leur niveau de scolarité. Il aide ainsi à éliminer les obstacles auxquels font face de nombreuses personnes autochtones concernant l’emploi au sein de l’économie du numérique.</p>
 
 
 
-<p>Le programme s’étend sur une période de 24&nbsp;mois. Alliant un apprentissage en situation d’emploi à une formation en ligne (divisés de manière selon un ratio&nbsp;80/20), ​​​il permet aux personnes apprenties de demeurer dans leurs communautés dans la mesure du possible. Le programme a également créé un<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> cercle de soutien</a> au sein duquel les personnes participantes se voient attribuer un·e mentor·e qui leur offre des conseils et un encadrement, ainsi qu’un·e partenaire pair·e pour un jumelage et un soutien au quotidien.&nbsp;</p>
+<p>Le programme s’étend sur une période de 24 mois. Alliant un apprentissage en situation d’emploi à une formation en ligne (divisés de manière selon un ratio 80/20), ​​​il permet aux personnes apprenties de demeurer dans leurs communautés dans la mesure du possible. Le programme a également créé un<a href="https://talent.canada.ca/fr/indigenous-it-apprentice/hire" target="_blank" rel="noreferrer noopener"> cercle de soutien</a> au sein duquel les personnes participantes se voient attribuer un·e mentor·e qui leur offre des conseils et un encadrement, ainsi qu’un·e partenaire pair·e pour un jumelage et un soutien au quotidien.</p>
 
 
 
