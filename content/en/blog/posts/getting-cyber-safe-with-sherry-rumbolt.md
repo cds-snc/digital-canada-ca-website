@@ -15,7 +15,7 @@ translationKey: blog-cyber-safe-sherry
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“It’s important for everyone to ‘Get Cyber Safe’ because 90% of successful cyber attacks start with phishing. Many people may not know this, but phishing/vishing attacks by phone are 3 times more effective than by email…” </p>
 <cite>– Sherry Rumbolt, Senior Cyber Security Strategic Advisor at Shared Services Canada (SSC).</cite></blockquote>
 
