@@ -3,7 +3,7 @@ layout: blog
 title: 'Hiring for passion and potential: IT Apprenticeship Program for Indigenous Peoples'
 description: >-
   A conversation with Government of Canada IT Apprenticeship Program for Indigenous Peoples graduate Jamie Boomhour about inclusivity and the Program.
-author: 'Jamie Boomhour'
+author: 'Jamie Boomhour, IT Apprenticeship Program Graduate'
 date: '2024-03-27T11:03:39'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_EN.jpg
 image-alt: An image of Jamie Boomhour, first graduate of the IT Apprenticeship Program for Indigenous Peoples. Reflected in the image background is the logo of the program.
