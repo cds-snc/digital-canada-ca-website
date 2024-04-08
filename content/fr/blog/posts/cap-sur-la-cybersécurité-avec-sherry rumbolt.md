@@ -15,7 +15,7 @@ translationKey: blog-cyber-safe-sherry
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p><em>«&nbsp;C’est important que tout le monde “ pense cybersécurité ”, car 90&nbsp;% des cyberattaques qui réussies commencent par de l’hameçonnage. Beaucoup de gens l’ignorent, mais les attaques d’hameçonnage par téléphone, vocales ou non, sont trois&nbsp;fois plus efficaces que les attaques par courriel…&nbsp;»</em></p>
 <cite>&nbsp;— Sherry Rumbolt, conseillère stratégique principale en cybersécurité à Services partagés Canada (SPC).</cite></blockquote>
 
