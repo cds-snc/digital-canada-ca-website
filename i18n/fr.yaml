@@ -296,4 +296,14 @@ footer-visit-canada-ca-link:
 esdc:
   other: "Emploi et Développement social Canada"
 aa-language:
-  other: "fra"                           
+  other: "fra"  
+meta-description:
+  other: "Service numérique canadien, Des produits numériques pour le gouvernement du Canada, Envoyez des courriels et des messages texte automatisés, Créez des formulaires en ligne accessibles, Composants réutilisables conformes aux normes du Web, Des outils créés par le gouvernement, pour le gouvernement"
+meta-keywords:
+  other: "Service numérique canadien, produits de plateforme, Notification GC, Formulaires GC, GC Design System, Articles GC, Générateur de confidentialité, Alerte COVID, Explorez les avantages et les services, Les justificatifs numériques,"                        
+meta-title:
+  other: "Page d'accueil"
+meta-identifier:
+  other: "Service_numérique_canadien"
+meta-subject:
+  other: "GC numérique, Service numérique canadien, services numériques, numérique du gouvernement, plateform, source ouverte; accessibilité, nuage, API, egile, essais,"                                 

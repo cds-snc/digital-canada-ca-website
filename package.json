@@ -6,7 +6,7 @@
   "dependencies": {
     "@cdssnc/gcds-components": "^0.20.0",
     "express": "^4.17.1",
-    "i18next": "^21.3.2",
+    "i18next": "^23.11.2",
     "lunr": "^2.3.9",
     "minimist": "^1.2.5"
   },
@@ -26,6 +26,6 @@
   "license": "ISC",
   "homepage": "https://github.com/cds-snc/digital-canada-ca-website#readme",
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^29.7.0"
   }
 }

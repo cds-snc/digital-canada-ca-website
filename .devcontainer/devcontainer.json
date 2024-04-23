@@ -9,7 +9,7 @@
 			"version": "latest"
 		},
 		"ghcr.io/devcontainers/features/hugo:1": {
-			"version": "0.55.6"
+			"version": "0.124.0"
 		},
 		"terraform": {
 			"version": "1.4.6",

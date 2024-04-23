@@ -25,10 +25,10 @@ jobs:
 
     - name: Install hugo
       run: |
-        wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.tar.gz \
-        && tar -xvf hugo_extended_0.55.6_Linux-64bit.tar.gz hugo \
+        wget https://github.com/gohugoio/hugo/releases/download/v0.124.0/hugo_extended_0.124.0_Linux-64bit.tar.gz \
+        && tar -xvf hugo_extended_0.124.0_Linux-64bit.tar.gz hugo \
         && mv  hugo /usr/local/bin \
-        && rm hugo_extended_0.55.6_Linux-64bit.tar.gz
+        && rm hugo_extended_0.124.0_Linux-64bit.tar.gz
 
     - name: Build english and french sites
       run: |
@@ -36,7 +36,7 @@ jobs:
         chmod -R 755 ~/cds-website-dist
 
     - name: Cache build
-      uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3.3.3
+      uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
       with:
         path: |
           ~/cds-website-dist
@@ -51,7 +51,7 @@ jobs:
         lang: ["fr", "en"]
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3.3.3
+        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
         with:
           path: |
             ~/cds-website-dist
@@ -83,7 +83,7 @@ jobs:
             bucket: "cds-website-english-s3-bucket"
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@e12d46a63a90f2fae62d114769bbf2a179198b5c # v3.3.3
+        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
         with:
           path: |
             ~/cds-website-dist

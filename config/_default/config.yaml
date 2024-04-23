@@ -2,6 +2,7 @@ DefaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 sitemap:
   filename: sitemap.xml
+  changeFreq: always
 markup:
   goldmark:
     renderer:

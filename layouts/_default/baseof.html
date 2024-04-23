@@ -63,12 +63,24 @@
   <script src="https://www.googleoptimize.com/optimize.js?id=OPT-MS9WLFR"></script>
 <!-- Font Awesome (Icons) -->
 <!-- <script src="https://kit.fontawesome.com/892cb27850.js" crossorigin="anonymous"></script> -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" />
 
 <!-- GC Design System -->
 <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@latest/dist/gcds/gcds.css">
 <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@latest/dist/gcds/gcds.esm.js"></script>
 <script nomodule src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@latest/dist/gcds/gcds.js"></script>
+{{ if (eq .RelPermalink "/")}}
+<meta name="description" content="{{ i18n "meta-description" }}"/>
+<meta name="keywords" content="{{ i18n "meta-keywords" }}"/>
+<meta name="dcterms.title" content="{{ i18n "meta-title" }}"/>
+<meta name="dcterms.description" content="{{ i18n "meta-description" }}"/>
+<meta name="dcterms.creator" content="{{ i18n "canadian-digital-service" }}"/>
+<meta name="dcterms.language" title="ISO639-2/T" content="{{ i18n "aa-language" }}"/>
+<meta name="dcterms.subject" title="gccore" content="{{ i18n "meta-subject" }}"/>
+<meta name="dcterms.issued" title="W3CDTF" content="2013-12-13"/>
+<meta name="dcterms.modified" title="W3CDTF" content="2024-04-16"/>
+<meta name="dcterms.identifier" content="{{ i18n "meta-identifier" }}"/> 
+{{ end }}
 </head>
 
 {{ with $pageTitle }}
@@ -131,7 +143,6 @@
         </div>
       {{ end }}
       {{ end }}
-
     </header>
     <main role="main" property="mainContentOfPage">
       {{ if eq hugo.Environment "production" }}
