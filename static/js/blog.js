@@ -103,7 +103,7 @@ function renderFilteredResults(btnName, category) {
                 return blog.category.includes(selectedCategory)
             })
         })
-        
+        console.log('FB', filteredBlogs);
         renderBlogResults(filteredBlogs)
         
     })
