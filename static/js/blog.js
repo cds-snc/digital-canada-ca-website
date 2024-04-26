@@ -81,14 +81,38 @@ function renderFilteredResults(btnName, category) {
     let filterBtn = document.getElementById(btnName)
     
     
-    filterBtn.addEventListener('change', e => {
+    // filterBtn.addEventListener('change', e => {
 
-        if (e.target.checked === true) {
-            selectedCategories.push(e.target.value)
-        } 
-        else if (e.target.checked === false){
+    //     if (e.target.checked === true) {
+    //         selectedCategories.push(e.target.value)
+    //     } 
+    //     else if (e.target.checked === false){
             
 
+    //         let indexToRemove = selectedCategories.indexOf(e.target.value)
+    //         if (indexToRemove !== -1) {
+    //             selectedCategories.splice(indexToRemove, 1)
+    //         }
+    //     }
+
+    //     filteredBlogs = blogIndex.filter(blog => {
+    //         if (blog.category === null) {
+    //             return selectedCategories.length === 0;
+    //         }
+    //         return selectedCategories.some(selectedCategory => {
+    //             return blog.category.includes(selectedCategory)
+    //         })
+    //     })
+    //     console.log('FB:', filteredBlogs);
+    //     // renderBlogResults(filteredBlogs)
+        
+    // })
+
+    filterBtn.addEventListener('change', e => {
+        if (e.target.checked === true) {
+            selectedCategories.push(e.target.value)
+        }
+        else if (e.target.checked === false) {
             let indexToRemove = selectedCategories.indexOf(e.target.value)
             if (indexToRemove !== -1) {
                 selectedCategories.splice(indexToRemove, 1)
@@ -99,19 +123,30 @@ function renderFilteredResults(btnName, category) {
             if (blog.category === null) {
                 return selectedCategories.length === 0;
             }
-            return selectedCategories.some(selectedCategory => {
-                return blog.category.includes(selectedCategory)
-            })
+
+            if (checkIfCategoriesMatch(blog.category, selectedCategories) === true) {
+                return blog
+            }
         })
-        console.log('FB', filteredBlogs);
         renderBlogResults(filteredBlogs)
-        
+        // console.log(filteredBlogs)
     })
 
     
 }
 
+function checkIfCategoriesMatch(arr1, arr2) {
+    if (arr1.length !== arr2.length) return false;
 
+    const sortedArr1 = arr1.slice().sort();
+    const sortedArr2 = arr2.slice().sort();
+
+    for (let i = 0; i < sortedArr1.length; i++) {
+        if (sortedArr1[i] !== sortedArr2[i]) return false;
+    }
+
+    return true;
+}
 
 
 function initBlogResults() {
