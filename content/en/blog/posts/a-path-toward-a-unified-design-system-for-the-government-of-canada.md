@@ -189,7 +189,7 @@ translationKey: blog-gc-design-system
 
 
 
-<p>Like all products we build at CDS, we’re taking an iterative approach. By testing and learning as we go, we’re committed to working in the open and building with the people who will be using the product. To learn more about GC Design System, check out <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">its current iteration</a>&nbsp; and consider joining the mailing list.</p>
+<p>Like all products we build at CDS, we’re taking an iterative approach. By testing and learning as we go, we’re committed to working in the open and building with the people who will be using the product. To learn more about GC Design System, check out <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">its current iteration</a>  and consider joining the <a href="https://design-system.alpha.canada.ca/en/contact/" target="_blank" rel="noreferrer noopener">mailing list.</a></p>
 
 
 
@@ -197,5 +197,5 @@ translationKey: blog-gc-design-system
 
 
 
-<p>If you have questions about adopting or complying with the Canada.ca design, <a href="https://design.canada.ca/contact-us/" target="_blank" rel="noreferrer noopener">contact the Digital Transformation Office</a>.</p>
+<p>If you have questions about adopting or complying with the Canada.ca design, <a href="mailto:cds.dto-btn.snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">contact the Digital Transformation Office</a>.</p>
 
