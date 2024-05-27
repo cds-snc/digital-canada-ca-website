@@ -3,7 +3,7 @@ layout: blog
 title: 'A path toward a unified design system for the Government of Canada'
 description: >-
   CDS is working with teams across government to develop a unified GC design system for digital services.
-author: ' Brock Higgins (GC Design System), Chelsey Donohue (Canada.Ca Design System) '
+author: ' Brock Higgins (GC Design System), Chelsey Donohue (Canada.ca Design System) '
 date: '2024-05-27T09:37:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_EN.jpg
 image-alt: The homepage of the GC Design System website.
