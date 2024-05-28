@@ -273,26 +273,28 @@ linkedin:
   other: "FR LinkedIn"
 footer-heading:
   other: "Service numérique canadien (SNC)"
+footer-contact-us:
+  other: "Contactez le SNC"  
 footer-jobs:
-  other: "Emplois"
+  other: "Emplois au SNC"
+footer-jobs-link:
+  other: "/emplois/"   
 footer-security:
-  other: "Sécurité"              
+  other: "Sécurité"
+footer-security-link:
+  other: "/avis-de-securite/"                 
 footer-privacy:
   other: "Confidentialité"
+footer-privacy-link:
+  other: "/confidentialite/"  
 footer-terms:
   other: "Avis"
+footer-terms-link:
+  other: "/avis/"  
 footer-visit-canada-ca:
   other: "Visitez Canada.ca"
-footer-jobs-link:
-  other: ""
-footer-security-link:
-  other: ""
-footer-privacy-link:
-  other: ""
-footer-terms-link:
-  other: ""
 footer-visit-canada-ca-link:
-  other: ""
+  other: "https://www.canada.ca/fr.html"  
 esdc:
   other: "Emploi et Développement social Canada"
 aa-language:

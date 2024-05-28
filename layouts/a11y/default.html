@@ -98,11 +98,7 @@
       {{ partial "social-links.html" . }}
 
       <footer role="contentinfo" id="wb-info">
-        {{if (eq $.Site.Language.Lang "en")}}
-        {{ partial "footer.en.html" }}
-        {{else}}
-        {{ partial "footer.fr.html" }}
-        {{end}}
+        {{ partial "footer.html" }}
       </footer>
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"

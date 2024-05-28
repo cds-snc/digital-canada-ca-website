@@ -269,26 +269,28 @@ linkedin:
   other: "LinkedIn"
 footer-heading:
   other: "Canadian Digital Service (CDS)"
+footer-contact-us:
+  other: "Contact CDS"
 footer-jobs:
-  other: "Jobs"  
+  other: "Jobs at CDS"
+footer-jobs-link:
+  other: "/jobs/"    
 footer-security:
-  other: "Security"              
+  other: "Security"
+footer-security-link:
+  other: "/security-notice/"                
 footer-privacy:
   other: "Privacy"
+footer-privacy-link:
+  other: "/privacy/"  
 footer-terms:
   other: "Terms and Conditions"
+footer-terms-link:
+  other: "/terms/"  
 footer-visit-canada-ca:
   other: "Visit Canada.ca"
-footer-jobs-link:
-  other: ""
-footer-security-link:
-  other: ""
-footer-privacy-link:
-  other: ""
-footer-terms-link:
-  other: ""
 footer-visit-canada-ca-link:
-  other: ""
+  other: "https://www.canada.ca/en.html"  
 esdc:
   other: "Employment and Social Development Canada"
 aa-language:

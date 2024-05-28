@@ -175,11 +175,7 @@
     {{ else }}
     <div role="contentinfo" class="footer">
     {{ end }}  
-    {{if (eq $.Site.Language.Lang "en")}}
-    {{ partial "footer.en.html" }}
-    {{else}}
-    {{ partial "footer.fr.html" }}
-    {{end}}
+    {{ partial "footer.html" }}
     </div>
     
 
