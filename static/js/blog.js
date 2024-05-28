@@ -4,13 +4,7 @@ let blogListResults = document.getElementById("blog-list-result")
 let myBlogLi = document.getElementById("my-blog-li")
 let loadMoreBlogButton = document.querySelector("#blog-btn")
 let jsMainNavButton = document.querySelector("#js-mainNavButton")
-let enFooter = document.querySelector("#en-footer")
-enFooter.addEventListener('gcdsClick', function (e) {
-    // e.preventDefault();
-    // enFooter.innerHTML += `data-gc-analytics="footer:Canadian Digital Service: ${e.detail}"`
-    enFooter.setAttribute("data-gc-analytics", `footer:Canadian Digital Service: ${e.detail}`)
-    console.log(e.detail)
-  })
+
 async function initBlogSearch() {
     try {
         const response = await fetch ("/index.json")
