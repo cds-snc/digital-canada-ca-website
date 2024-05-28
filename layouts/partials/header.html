@@ -7,7 +7,7 @@
         <gcds-nav-link href={{ .Site.BaseURL | absLangURL }} lang="{{.Language}}" class="cds-logo {{.Site.Language.Lang}}" slot="home" slot="left" aria-label="{{ i18n "aria-cds-website" }}" id="cds-logo" ></gcds-nav-link>
         {{ $title := .Params.title }}
         {{ range $menu := .Site.Menus.main }}
-        <gcds-nav-link href="{{ .URL | relLangURL }}" class="{{ if eq $title .Identifier }} menu-underline{{end}}">{{ .Name }} </gcds-nav-link>
+        <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics="header:Canadian Digital Service: {{ .Name }}" class="{{ if eq $title .Identifier }} menu-underline{{end}}">{{ .Name }} </gcds-nav-link>
         {{ end }}
     </gcds-top-nav>    
 </gcds-header>

@@ -25,7 +25,10 @@ $(document).ready(function () {
   // Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
   $("#wb-cont a[href^='http://']").attr("target", "_blank");
   $("#wb-cont a[href^='https://']").attr("target", "_blank");
-
+  let footer = document.querySelector("#footer-id")
+  footer.addEventListener('gcdsClick', function (e) {
+    footer.setAttribute("data-gc-analytics", `footer:Canadian Digital Service: ${e.detail}`)
+  })
   /**
    * Word counter
    */
