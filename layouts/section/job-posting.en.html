@@ -38,49 +38,59 @@
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         
         <!-- Full Name -->
-        <gcds-input input-id="name" label="Full name" size="100" required></gcds-input>
+        <gcds-input name="full-name" input-id="name" label="Full name" size="100" required></gcds-input>
 
         <!-- Pronouns -->
-        <gcds-input id="pronouns" label="Pronouns (optional)" input-id="pronouns" hint="Example: She/her, They/them" size="100"></gcds-input>
+        <gcds-input name="pronouns-name" id="pronouns" label="Pronouns (optional)" input-id="pronouns" hint="Example: She/her, They/them" size="100"></gcds-input>
 
         <!-- Email -->
-        <gcds-input input-id="email" label="Email address" type="email" required size="100">
+        <gcds-input name="email-name" input-id="email" label="Email address" type="email" required size="100">
         </gcds-input>
 
         <!-- Preferred Language -->
         <gcds-fieldset id="preferred-language" fieldset-id="preferredLang" legend="Preferred language for communication" required>
-          <gcds-radio radio-id="englishId" label="English" name="preferredLang" value="English" checked></gcds-radio>
-          <gcds-radio radio-id="frenchId" label="French" name="preferredLang" value="French"></gcds-radio>
+            <gcds-radio-group
+              name="preferredLang"
+              options='[
+                { "label": "English", "id": "englishId", "value": "English"},
+                { "label": "French", "id": "frenchId", "value": "French"}
+              ]'>
+            </gcds-radio-group>
         </gcds-fieldset>
 
         <!-- Resume -->
         <div style="margin: 1rem 0 1rem 0;">
-          <gcds-file-uploader uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
+          <gcds-file-uploader name="resume-file-uploader" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
             accept="application/msword, application/pdf, text/plain">
           </gcds-file-uploader>
         </div>
 
 
         <!-- Samples of your work -->
-        <gcds-input input-id="samples" label="Examples of your work (optional)"
+        <gcds-input name="samples-name" input-id="samples" label="Examples of your work (optional)"
           hint="This can be a link to your portfolio, LinkedIn profile or other work samples" size="100">
         </gcds-input>
 
 
         <!-- Where did you hear about this job -->
         <gcds-fieldset id="talent_tracking" fieldset-id="talentTracking" legend="Where did you hear about this job posting" required>
-          <gcds-radio radio-id="gcJobsId" label="jobs.gc.ca" name="talentTracking" value="jobs.gc.ca" checked></gcds-radio>
-          <gcds-radio radio-id="linkedinId" label="LinkedIn" name="talentTracking" value="LinkedIn"></gcds-radio>
-          <gcds-radio radio-id="facebookId" label="Facebook" name="talentTracking" value="Facebbok"></gcds-radio>
-          <gcds-radio radio-id="queertechId" label="QueerTech community" name="talentTracking" value="QueerTech"></gcds-radio>
-          <gcds-radio radio-id="referralId" label="Referred by a CDS employee" name="talentTracking" value="Referral"></gcds-radio>
-          <gcds-radio id="other-Id" radio-id="otherId" label="Other" name="talentTracking" value="Other"></gcds-radio>
-          <gcds-input input-id="specifyOther" label="If 'other', please specify (optional)" size="100"></gcds-input>
+          <gcds-radio-group
+          name="talentTracking"
+          options='[
+            { "label": "jobs.gc.ca", "id": "gcJobsId", "value": "jobs.gc.ca"},
+            { "label": "LinkedIn", "id": "linkedinId", "value": "LinkedIn"},
+            { "label": "Facebook", "id": "facebookId", "value": "Facebook"},
+            { "label": "QueerTech community", "id": "queertechId", "value": "QueerTech"},
+            { "label": "Referred by a CDS employee", "id": "referralId", "value": "Referral"},
+            { "label": "Other", "id": "otherId", "value": "Other"}
+          ]'>
+        </gcds-radio-group>
+          <gcds-input name="specifyOtherName" input-id="specifyOther" label="If 'other', please specify (optional)" size="100"></gcds-input>
 
         </gcds-fieldset>
 
         <!-- Is there anything else we should know about you -->
-        <gcds-textarea textarea-id="applicantInfo" label="Is there anything else we should know about you? (optional)" character-count="1000"></gcds-textarea>
+        <gcds-textarea name="applicant-info-name" textarea-id="applicantInfo" label="Is there anything else we should know about you? (optional)" character-count="1000"></gcds-textarea>
 
         <!-- Accomodation information -->
         <div>
