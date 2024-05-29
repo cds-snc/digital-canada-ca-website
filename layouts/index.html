@@ -14,7 +14,7 @@
       {{ end }}
       <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
         <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
-          img-src="{{ .Params.image }}" imgAlt="{{ .Params.imageAlt }}"></gcds-card>
+          img-src="{{ .Params.image }}" imgAlt="{{ .Params.imageAlt }}" data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
       </div>
 
       {{end}}
