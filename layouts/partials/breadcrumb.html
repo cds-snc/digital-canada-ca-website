@@ -1,6 +1,6 @@
 <div class="container breadcrumbs">
     <gcds-breadcrumbs>
-        <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}>Home page</gcds-breadcrumbs-item>
+        <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
         {{ if (eq .Page.Type "blog") }}
             {{ with .GetPage "blog" }}
                 <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
