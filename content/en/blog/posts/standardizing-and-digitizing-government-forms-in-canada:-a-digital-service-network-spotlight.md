@@ -172,15 +172,15 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 <ul>
-<li><a href="https://articles.alpha.canada.ca/forms-formulaires/fr/modeles/" target="_blank" rel="noreferrer noopener">GC Forms Form Category Templates </a></li>
+<li><a href="https://articles.alpha.canada.ca/forms-formulaires/fr/modeles/" target="_blank" rel="noreferrer noopener">GC Forms Form Category Templa</a><a href="https://articles.alpha.canada.ca/forms-formulaires/templates/" target="_blank" rel="noreferrer noopener">tes </a></li>
 
 
 
-<li><a href="https://digital.canada.ca/2023/02/16/how-were-building-gc-forms-our-4-accessible-approaches/" target="_blank" rel="noreferrer noopener">GC Forms accessibility blog post </a></li>
+<li><a href="https://digital.canada.ca/2023/02/16/how-were-building-gc-forms-our-4-accessible-approaches/" target="_blank" rel="noreferrer noopener">GC Forms accessibility blog post&nbsp;</a></li>
 
 
 
-<li><a href="https://digital.canada.ca/2023/06/29/how-gc-forms-can-help-collect-data-for-public-services/" target="_blank" rel="noreferrer noopener">GC Forms “use-case” blog post </a></li>
+<li><a href="https://digital.canada.ca/2023/06/29/how-gc-forms-can-help-collect-data-for-public-services/" target="_blank" rel="noreferrer noopener">GC Forms “use-case” blog post&nbsp;</a></li>
 
 
 
