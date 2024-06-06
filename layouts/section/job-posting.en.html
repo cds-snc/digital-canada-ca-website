@@ -38,13 +38,13 @@
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         
         <!-- Full Name -->
-        <gcds-input name="full-name" input-id="name" label="Full name" size="100" required></gcds-input>
+        <gcds-input name="name" input-id="name" label="Full name" size="100" required></gcds-input>
 
         <!-- Pronouns -->
-        <gcds-input name="pronouns-name" id="pronouns" label="Pronouns (optional)" input-id="pronouns" hint="Example: She/her, They/them" size="100"></gcds-input>
+        <gcds-input name="pronouns" id="pronouns" label="Pronouns (optional)" input-id="pronouns" hint="Example: She/her, They/them" size="100"></gcds-input>
 
         <!-- Email -->
-        <gcds-input name="email-name" input-id="email" label="Email address" type="email" required size="100">
+        <gcds-input name="email" input-id="email" label="Email address" type="email" required size="100">
         </gcds-input>
 
         <!-- Preferred Language -->
@@ -61,14 +61,14 @@
 
         <!-- Resume -->
         <div style="margin: 1rem 0 1rem 0;">
-          <gcds-file-uploader name="resume-file-uploader" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
+          <gcds-file-uploader name="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
             accept="application/msword, application/pdf, text/plain">
           </gcds-file-uploader>
         </div>
 
 
         <!-- Samples of your work -->
-        <gcds-input name="samples-name" input-id="samples" label="Examples of your work (optional)"
+        <gcds-input name="samples" input-id="samples" label="Examples of your work (optional)"
           hint="This can be a link to your portfolio, LinkedIn profile or other work samples" size="100">
         </gcds-input>
 
@@ -88,12 +88,12 @@
           style="padding-top: 1rem;"
           >
         </gcds-radio-group>
-          <gcds-input name="specifyOtherName" input-id="specifyOther" label="If 'other', please specify (optional)" size="100"></gcds-input>
+          <gcds-input name="specifyOther" input-id="specifyOther" label="If 'other', please specify (optional)" size="100"></gcds-input>
 
         </gcds-fieldset>
 
         <!-- Is there anything else we should know about you -->
-        <gcds-textarea name="applicant-info-name" textarea-id="applicantInfo" label="Is there anything else we should know about you? (optional)" character-count="1000"></gcds-textarea>
+        <gcds-textarea name="applicantInfo" textarea-id="applicantInfo" label="Is there anything else we should know about you? (optional)" character-count="1000"></gcds-textarea>
 
         <!-- Accomodation information -->
         <div>
