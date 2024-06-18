@@ -4,9 +4,10 @@ type: section
 title: 'Content designer'
 description: >-
   We’re looking for an experienced Content Designer who is passionate about information and knowledge management, creating reliable, reusable content and providing advice on how to do so. This role is a 1 year-term position and is classified as an IS-04 in the PA group. It is a distributed role, and is English Essential.
-archived: false
+archived: true
 translationKey: june-2024-content-designer-dto
 leverId: 8481d5b9-4457-48b8-8cbf-efec75f731d1
+hidden: null
 ---
 
 ## About CDS
