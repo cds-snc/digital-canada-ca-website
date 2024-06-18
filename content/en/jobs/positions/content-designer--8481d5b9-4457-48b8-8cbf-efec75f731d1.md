@@ -7,7 +7,7 @@ description: >-
 archived: true
 translationKey: june-2024-content-designer-dto
 leverId: 8481d5b9-4457-48b8-8cbf-efec75f731d1
-hidden: null
+hidden: true
 ---
 
 ## About CDS
