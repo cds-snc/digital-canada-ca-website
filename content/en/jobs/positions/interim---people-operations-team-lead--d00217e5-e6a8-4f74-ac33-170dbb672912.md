@@ -4,10 +4,9 @@ type: section
 title: 'Interim - People Operations Team Lead'
 description: >-
   Designated as an AS-06, this role adheres to AS qualification standards and reports directly to the Director of Talent & Internal Operations. The language profile is bilingual imperative (CBC). 
-archived: true
+archived: false
 translationKey: june-2024-people-ops-tl
 leverId: d00217e5-e6a8-4f74-ac33-170dbb672912
-hidden: true
 ---
 
 
