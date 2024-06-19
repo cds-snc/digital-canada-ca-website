@@ -27,7 +27,7 @@ $(document).ready(function () {
   $("#wb-cont a[href^='https://']").attr("target", "_blank");
   let footer = document.querySelector("#footer-id")
   footer.addEventListener('gcdsClick', function (e) {
-    footer.setAttribute("data-gc-analytics", `footer:Canadian Digital Service: ${e.detail}`)
+    footer.setAttribute("data-gc-analytics-navigation", `footer:Canadian Digital Service: ${e.detail}`)
   })
   /**
    * Word counter
