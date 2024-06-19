@@ -32,6 +32,7 @@ $(document).ready(function () {
   /**
    * Word counter
    */
+  
   var maxWords = 300,
     wordCount;
 
