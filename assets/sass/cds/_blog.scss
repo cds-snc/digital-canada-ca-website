@@ -207,9 +207,9 @@ article.post {
     margin-right: auto;
     margin-left: auto;
 
-    @include tablet {
-      max-height: 450px;
-    }
+    // @include tablet {
+    //   max-height: 450px;
+    // }
   }
 
   a.large-link {
