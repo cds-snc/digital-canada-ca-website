@@ -31,7 +31,7 @@ As a content designer on the Digital Transformation team, you’ll be responsibl
 - Working across teams to help align on content models 
 - Support on communications activities such as newsletters, minutes, blog posts, research summaries, one-pagers, etc. 
 - Researching style and grammar issues and coordinating updates to the Canada.ca Content Style Guide
-- Providing advice to the GC web community about design patterns and content design 
+- Providing advice to the GC web community about design patterns and content design
 
 ### What you’ll be assessed on 
 
