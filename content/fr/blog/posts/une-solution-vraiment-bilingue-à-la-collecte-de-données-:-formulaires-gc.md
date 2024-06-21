@@ -23,7 +23,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<p>Annie Leblond et Cindy Desmarais, de DEC, expliquent tour à tour comment leur équipe Web et leur équipe des Services d’information aux entreprises utilisent <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires GC</a> – un outil créé et entretenu par SNC – pour offrir des services totalement bilingues. Lorsqu’elles ont découvert le produit, elles ont tout de suite remarqué que l’interface en français était conçue spécialement pour les francophones : il ne s’agissait pas d’une simple traduction de l’anglais.</p>
+<p>Annie&nbsp;Leblond et Cindy&nbsp;Desmarais, de DEC, expliquent tour à tour comment leur équipe Web et leur équipe des Services d’information aux entreprises utilisent <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires&nbsp;GC</a> – un outil créé et entretenu par SNC – pour offrir des services totalement bilingues. Lorsqu’elles ont découvert le produit, elles ont tout de suite remarqué que l’interface en français était conçue spécialement pour les francophones&nbsp;: il ne s’agissait pas d’une simple traduction de l’anglais.</p>
 
 
 
@@ -103,7 +103,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<p>À l’été 2023, DEC œuvrait à la création d’une nouvelle ligne de service pour les renseignements destinés aux entreprises, qui devait être disponible en octobre 2023. La gestionnaire de projet a d’abord établi les besoins et le plan du formulaire en fonction des services à livrer ainsi que les types d’information et critères à collecter. Avec le soutien de l’équipe Web, le formulaire a pu être créé et mis en ligne dès la première journée d’opération des Services d’information aux entreprises (SIE), et c’est aussitôt que nous avons reçu nos premières demandes. Ce fut un succès !&nbsp;</p>
+<p>À l’été 2023, DEC œuvrait à la création d’une nouvelle ligne de service pour les renseignements destinés aux entreprises, qui devait être disponible en octobre 2023. La gestionnaire de projet a d’abord établi les besoins et le plan du formulaire en fonction des services à livrer ainsi que les types d’information et critères à collecter. Avec le soutien de l’équipe Web, le formulaire a pu être créé et mis en ligne dès la première journée d’opération des Services d’information aux entreprises (SIE), et c’est aussitôt que nous avons reçu nos premières demandes. Ce fut un succès! </p>
 
 
 
@@ -153,9 +153,19 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<p>Pensez-vous que <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires GC</a> pourrait aider votre équipe gouvernementale ?&nbsp;</p>
+<p>Pensez-vous que <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires GC</a> pourrait aider votre équipe gouvernementale?</p>
 
 
 
-<p>N’hésitez pas à vous <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/assister-a-une-demonstration-de-produit/?utm_source=FR_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">inscrire à une démo</a> ou à <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus?utm_source=FR_contact_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">nous contacter pour en savoir plus</a> !</p>
+<ul>
+<li>N’hésitez pas à vous <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/assister-a-une-demonstration-de-produit/?utm_source=FR_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">inscrire à une démo</a> pour en savoir plus.</li>
+
+
+
+<li><a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus?utm_source=FR_contact_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Contactez-nous</a> pour poser des questions ou nous faire part de vos commentaires.</li>
+
+
+
+<li>Découvrez ce que l’équipe de Formulaires GC planifie développer et lancer prochainement en consultant sa <a href="https://trello.com/b/MaWVk9V5/formulaires-gc-strategie-fr" target="_blank" rel="noreferrer noopener">feuille de route</a>.</li>
+</ul>
 
