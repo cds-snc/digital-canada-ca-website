@@ -153,9 +153,19 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<p>Do you think <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms </a>may be able to help your GC team?&nbsp;</p>
+<p>Do you think <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs">GC Forms</a> may be able to help your GC team?</p>
 
 
 
-<p>Don’t hesitate to <a href="https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">register for a demo to learn more</a> or <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus?utm_source=EN_contact_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">contact the GC Forms team</a>!</p>
+<ul>
+<li>Don’t hesitate to <a href="https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs">register for a demo</a> to learn more.</li>
+
+
+
+<li>Ask questions or give feedback by <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus?utm_source=EN_contact_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs">contacting the GC Forms team</a>.</li>
+
+
+
+<li>See what the GC Forms team will be working on and releasing next in the <a href="https://trello.com/b/napn8wCR/gc-forms-strategic-roadmap-en">Strategic Roadmap</a>.</li>
+</ul>
 
