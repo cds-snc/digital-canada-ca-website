@@ -4,7 +4,7 @@ type: section
 title: 'Poste intérimaire - Responsable d’équipe des opérations du personnel '
 description: >-
   Ce poste correspond au niveau AS-06. Il correspond aux normes de qualifications AS et relève du ou de la directeur·rice du talent et des opérations internes. Il s’agit d’un poste bilingue à nomination impérative (CBC). 
-archived: false
+archived: true
 translationKey: june-2024-people-ops-tl
 leverId: d00217e5-e6a8-4f74-ac33-170dbb672912
 hidden: false
