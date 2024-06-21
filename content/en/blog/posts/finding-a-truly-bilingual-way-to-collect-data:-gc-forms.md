@@ -162,7 +162,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<li>Ask questions or give feedback by <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus?utm_source=EN_contact_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs">contacting the GC Forms team</a>.</li>
+<li>Ask questions or give feedback by <a href="https://forms-formulaires.alpha.canada.ca/en/contact">contacting the GC Forms team</a>.</li>
 
 
 
