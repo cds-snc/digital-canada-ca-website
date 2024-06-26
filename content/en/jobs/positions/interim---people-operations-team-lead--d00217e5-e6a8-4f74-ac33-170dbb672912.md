@@ -7,7 +7,7 @@ description: >-
 archived: true
 translationKey: june-2024-people-ops-tl
 leverId: d00217e5-e6a8-4f74-ac33-170dbb672912
-hidden: false
+hidden: true
 ---
 
 
