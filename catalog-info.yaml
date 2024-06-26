@@ -2,9 +2,22 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: digital-canada-ca-website
+  description: The official CDS website - Le site web officiel du SNC
   annotations:
     github.com/project-slug: cds-snc/digital-canada-ca-website
 spec:
   type: website
   lifecycle: production
-  owner: cds-snc/team-cds
+  owner: group:cds-snc/website-devs
+  system: digital-canada-website
+  dependsOn:
+    - gc-articles
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: cds-website
+  title: CDS Website | Site web SNC
+  description: CDS Website System - System du site web du SNC
+spec:
+  owner: group:cds-snc/website-devs
