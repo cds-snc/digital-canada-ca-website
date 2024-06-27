@@ -1,21 +1,29 @@
 {{ define "main" }}
 <section>
-    <div class="container">
-        <div class="row">
-            <!-- col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 -->
-            <div class="col-sm-9 col-xs-12">
-                <ul id ="blog-list-result" class="blogpost-list">
-                    <li id="my-blog-li" class="post"></li>
-                </ul>
-
-
-            </div>
-
+    <div style="display: flex;">
+        <div id="categories-div">
+            <input id="checkboxEx" type="checkbox" name="ExampleCheckbox" value="checkboxEx">
         </div>
-
-
-
+        <div class="container">
+            <div class="row">
+                <!-- col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 -->
+                <div class="col-sm-9 col-xs-12">
+                    <ul id="blog-list-result" class="blogpost-list">
+                        <li id="my-blog-li" class="post"></li>
+                    </ul>
+    
+    
+                </div>
+    
+            </div>
+    
+    
+    
+        </div>
     </div>
+    
+    </div>
+
     <div class="container" style="display: flex; flex-direction: column;">
         <div style="margin-left: auto; margin-right: auto; margin-bottom: 2rem;">
             <gcds-button id="blog-btn" button-id="load-more-blog-btn">{{ i18n "load-more"}} <gcds-icon
