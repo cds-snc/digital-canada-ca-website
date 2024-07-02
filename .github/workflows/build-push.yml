@@ -18,7 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+    - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
 
     - name: Load git submodules
       run: git submodule sync && git submodule update --init
@@ -57,7 +57,7 @@ jobs:
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: Setup Ruby
-        uses: ruby/setup-ruby@943103cae7d3f1bb1e4951d5fcc7928b40e4b742 # v1.177.1
+        uses: ruby/setup-ruby@3783f195e29b74ae398d7caca108814bbafde90e # v1.180.1
         with:
           ruby-version: 3.0
       - name: install html proofer
@@ -66,7 +66,7 @@ jobs:
         run: |
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon  
       - name: Checkout
-        uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: test
