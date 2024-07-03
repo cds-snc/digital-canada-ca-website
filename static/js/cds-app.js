@@ -94,7 +94,7 @@ $(document).ready(function () {
     // }
 
     var endpoint =
-      "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
+      "https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever";
 
     $.ajax({
       type: "POST",
