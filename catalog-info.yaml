@@ -11,7 +11,7 @@ spec:
   owner: group:cds-snc/website-devs
   system: cds-website
   dependsOn:
-    - component: default/gc-articles
+    - component:default/gc-articles
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
