@@ -4,7 +4,7 @@ type: section
 title: 'Front-End Architect'
 description: >-
   This role is a 1 year-term position and is classified as an IS-04 in the PA group. It is a distributed role, and the language profile is bilingual imperative (BBB).
-archived: false
+archived: true
 translationKey: july-2024-front-end-architect
 leverId: fb64694a-0795-45de-b67d-44566e0e9e00
 hidden: true
