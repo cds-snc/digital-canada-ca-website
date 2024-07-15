@@ -4,10 +4,10 @@ type: section
 title: 'Technical Support Analyst'
 description: >-
   The role is distributed and reports to the Platform Support Team Lead. It is indeterminate, classified as an IT-02, and the language profile is bilingual imperative (BBB). 
-archived: false
+linkHidden: null
 translationKey: july-2024-tech-support-analyst
 leverId: 3da217c5-3dc8-4036-9e82-ab39f547610d
-hidden: false
+formHidden: true
 ---
 
 Do you enjoy connecting with new people and helping them get their questions answered? Do you want a role where you see the direct impact of your work each day? 
