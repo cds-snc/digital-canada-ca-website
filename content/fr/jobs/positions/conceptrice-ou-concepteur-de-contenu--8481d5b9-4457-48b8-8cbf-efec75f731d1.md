@@ -4,10 +4,10 @@ type: section
 title: 'Conceptrice ou concepteur de contenu'
 description: >-
   Nous sommes à la recherche d’un·e concepteur·rice de contenu d’expérience faisant preuve d’une passion pour la gestion de l’information et des connaissances, la création de contenus fiables et réutilisables, ainsi que l’offre de conseils sur ces sujets. Ce rôle est un poste de durée déterminée de 1 an et est classé au groupe et niveau IS-04 du groupe des services et programmes de l’administration (PA). Il s’agit d’un poste en télétravail, et le profil linguistique est anglais essentiel.
-archived: true
+linkHidden: null
 translationKey: june-2024-content-designer-dto
 leverId: 8481d5b9-4457-48b8-8cbf-efec75f731d1
-hidden: false
+formHidden: null
 ---
 
 ## À propos du SNC 
