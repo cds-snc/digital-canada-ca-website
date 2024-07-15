@@ -4,10 +4,10 @@ type: section
 title: 'Poste intérimaire - Responsable d’équipe des opérations du personnel '
 description: >-
   Ce poste correspond au niveau AS-06. Il correspond aux normes de qualifications AS et relève du ou de la directeur·rice du talent et des opérations internes. Il s’agit d’un poste bilingue à nomination impérative (CBC). 
-archived: true
+linkHidden: null
 translationKey: june-2024-people-ops-tl
 leverId: d00217e5-e6a8-4f74-ac33-170dbb672912
-hidden: true
+formHidden: null
 ---
 
 Le Service numérique canadien (SNC) collabore avec les ministères fédéraux pour simplifier les services essentiels au public. Notre équipe en pleine croissance révolutionne la conception et la prestation de services en collaborant avec les utilisateur·rice·s à chaque étape. En misant sur une collaboration transparente et en mettant outils, talent et formation pratique à la disposition de nos partenaires, nous donnons au gouvernement les moyens d’améliorer la prestation de service dans son ensemble. Et nous cherchons des gens comme vous pour nous aider dans cette mission.
