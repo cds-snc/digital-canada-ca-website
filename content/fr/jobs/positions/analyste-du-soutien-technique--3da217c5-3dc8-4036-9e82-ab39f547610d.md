@@ -4,7 +4,7 @@ type: section
 title: 'Analyste du soutien technique'
 description: >-
   Il s’agit d’un poste bilingue à nomination impérative (BBB), à période indéterminée et de classification IT-02. 
-linkHidden: null
+linkHidden: true
 translationKey: july-2024-tech-support-analyst
 leverId: 3da217c5-3dc8-4036-9e82-ab39f547610d
 formHidden: true
