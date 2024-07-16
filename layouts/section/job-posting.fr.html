@@ -31,7 +31,7 @@
 
 <div style="background-color: #d6d9dd; margin-top: 1.5rem;">
   <div id="apply-now" class="work-with-us--apply-now container">
-    {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") (eq .Params.hidden true)}}
+    {{ if or (eq .Params.translationKey "evergreen-job-posting") (eq .Params.formHidden true)}}
     <div style="padding-bottom: 3rem;">
       <h2>Présenter une candidature</h2>
       <form enctype="multipart/form-data" class="text-left" id="contactForm">

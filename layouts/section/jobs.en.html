@@ -24,12 +24,12 @@
             <!-- class="col-lg-8 col-xs-12" -->
             <div class="col-md-10">
                 <div>
-                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                    {{ if gt (len (where .Pages ".Params.linkHidden" "==" false)) 0 }}
 
                     <div class="row current-openings">
 
                         <h2>Current openings</h2>
-                        {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+                        {{ range $p := (where .Pages ".Params.linkHidden" "==" false) }}
 
                         <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
