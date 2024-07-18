@@ -35,31 +35,31 @@ $(document).ready(function () {
   var maxWords = 300,
     wordCount;
 
-  $("#contactForm #body").keyup(function (event) {
-    wordCount = 0;
+  // $("#contactForm #body").keyup(function (event) {
+  //   wordCount = 0;
 
-    if ($("#contactForm #body").val()) {
-      wordCount = $("#contactForm #body").val().split(/[\s]+/).length;
-    }
+  //   if ($("#contactForm #body").val()) {
+  //     wordCount = $("#contactForm #body").val().split(/[\s]+/).length;
+  //   }
 
-    if (wordCount > maxWords) {
-      $("#contactForm #word-count-message").addClass("error-message");
-    } else {
-      $("#contactForm #word-count-message").removeClass("error-message");
-    }
+  //   if (wordCount > maxWords) {
+  //     $("#contactForm #word-count-message").addClass("error-message");
+  //   } else {
+  //     $("#contactForm #word-count-message").removeClass("error-message");
+  //   }
 
-    wordsLeft = maxWords - wordCount;
+  //   wordsLeft = maxWords - wordCount;
 
-    $("#contactForm #word-count").html(wordsLeft);
-  });
+  //   $("#contactForm #word-count").html(wordsLeft);
+  // });
 
   /**
    * File upload
    */
-  $("#contactForm #resume").on("change", function (event) {
-    var file = $("#contactForm #resume")[0].files[0].name;
-    $("#contactForm #pdf-format-preferred").html(file);
-  });
+  // $("#contactForm #resume").on("change", function (event) {
+  //   var file = $("#contactForm #resume")[0].files[0].name;
+  //   $("#contactForm #pdf-format-preferred").html(file);
+  // });
 
   /**
    * Contact Form Submit
@@ -127,32 +127,32 @@ $(document).ready(function () {
   /**
    * Check if there is a validation error to be cleared
    */
-  $("#contactForm .form-control").keyup(function (e) {
-    var $this = $(this);
+  // $("#contactForm .form-control").keyup(function (e) {
+  //   var $this = $(this);
 
-    if ($this.hasClass("validate-required") && $this.val()) {
-      if ($this.hasClass("validate-maxwords")) {
-        wordCount = $this.val().split(/[\s]+/).length;
+  //   if ($this.hasClass("validate-required") && $this.val()) {
+  //     if ($this.hasClass("validate-maxwords")) {
+  //       wordCount = $this.val().split(/[\s]+/).length;
 
-        if (wordCount <= maxWords) {
-          $this.removeClass("error");
-          $this.closest(".form-group").removeClass("error");
-          $this.siblings(".error-message").hide();
-          $this.attr("aria-invalid", "false");
-        }
-      } else if ($this.hasClass("validate-email")) {
-        if (validateEmail($this.val())) {
-          $this.removeClass("error");
-          $this.closest(".form-group").removeClass("error");
-          $this.siblings(".error-message").hide();
-          $this.attr("aria-invalid", "false");
-        }
-      } else {
-        $this.removeClass("error");
-        $this.closest(".form-group").removeClass("error");
-        $this.siblings(".error-message").hide();
-        $this.attr("aria-invalid", "false");
-      }
-    }
-  });
+  //       if (wordCount <= maxWords) {
+  //         $this.removeClass("error");
+  //         $this.closest(".form-group").removeClass("error");
+  //         $this.siblings(".error-message").hide();
+  //         $this.attr("aria-invalid", "false");
+  //       }
+  //     } else if ($this.hasClass("validate-email")) {
+  //       if (validateEmail($this.val())) {
+  //         $this.removeClass("error");
+  //         $this.closest(".form-group").removeClass("error");
+  //         $this.siblings(".error-message").hide();
+  //         $this.attr("aria-invalid", "false");
+  //       }
+  //     } else {
+  //       $this.removeClass("error");
+  //       $this.closest(".form-group").removeClass("error");
+  //       $this.siblings(".error-message").hide();
+  //       $this.attr("aria-invalid", "false");
+  //     }
+  //   }
+  // });
 });
