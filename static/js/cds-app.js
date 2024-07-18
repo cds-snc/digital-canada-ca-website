@@ -67,13 +67,6 @@ $(document).ready(function () {
   $("#contactForm").submit(function (event) {
     event.preventDefault();
 
-    var formData = new FormData($("#contactForm")[0]);
-    /**
-     * Form Validation
-     */
-    var valid = true,
-      errors = [];
-
     /**
      * Disable button to prevent double-submitting
      */
@@ -81,47 +74,75 @@ $(document).ready(function () {
     $("#submit-btn").toggleClass("inactive");
     $("#submit-btn").attr("disabled", true);
     $("#job-submit-btn").attr("disabled", true);
+      
 
-    /**
-     * Collect data for submitting
-     */
-    var theForm = document.getElementById("contactForm");
-    var formData = new FormData(theForm);
-    var pageLanguage = $("html").attr("lang");
+    setTimeout(() => {
+      var formData = new FormData($("#contactForm")[0]);
+      var theForm = document.getElementById("contactForm");
 
-    // for (const pair of formData.entries()) {
-    //   console.log(pair[0], pair[1])
-    // }
+      /**
+       * Form Validation
+       */
+      var valid = true;
 
-    var endpoint =
-      "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
+      let formChildren = theForm.children;
 
-    $.ajax({
-      type: "POST",
-      url: endpoint,
-      data: formData,
-      contentType: false,
-      processData: false,
-      complete: function (r) {
-        console.log(r.responseText);
-      },
-      success: function () {
-        if (pageLanguage == "en") {
-          window.location.href = "/thank-you/";
-        } else {
-          window.location.href = "/merci/";
+      for (let e = 0; e < formChildren.length; e++) {
+        if (formChildren[e].errorMessage) {
+          valid = false;
         }
-      },
-      error: function (xhr, textStatus, errorThrown) {
-        console.log("Error", textStatus);
-        console.log("Error", errorThrown);
-        if (pageLanguage == "en") {
-          window.location.href = "/error/";
-        } else {
-          window.location.href = "/erreur/";
-        }
-      },
-    });
+      }
+  
+      if (valid) {
+        /**
+         * Collect data for submitting
+         */
+        var formData = new FormData(theForm);
+        var pageLanguage = $("html").attr("lang");
+    
+        // for (const pair of formData.entries()) {
+        //   console.log(pair[0], pair[1])
+        // }
+    
+        var endpoint =
+          "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
+    
+        $.ajax({
+          type: "POST",
+          url: endpoint,
+          data: formData,
+          contentType: false,
+          processData: false,
+          complete: function (r) {
+            console.log(r.responseText);
+          },
+          success: function () {
+            if (pageLanguage == "en") {
+              window.location.href = "/thank-you/";
+            } else {
+              window.location.href = "/merci/";
+            }
+          },
+          error: function (xhr, textStatus, errorThrown) {
+            console.log("Error", textStatus);
+            console.log("Error", errorThrown);
+            if (pageLanguage == "en") {
+              window.location.href = "/error/";
+            } else {
+              window.location.href = "/erreur/";
+            }
+          },
+        });
+      } else {
+        /**
+         * Disable button to prevent double-submitting
+         */
+        $("#submit-btn").toggleClass("loading");
+        $("#submit-btn").toggleClass("inactive");
+        $("#submit-btn").attr("disabled", false);
+        $("#job-submit-btn").attr("disabled", false);
+      }
+    }, 200);
   });
 
   /**
