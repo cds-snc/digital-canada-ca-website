@@ -38,17 +38,17 @@
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         
         <!-- Full Name -->
-        <gcds-input name="name" input-id="name" label="Full name" size="100" required></gcds-input>
+        <gcds-input name="name" class="validate-required" input-id="name" label="Full name" size="100" required></gcds-input>
 
         <!-- Pronouns -->
         <gcds-input name="pronouns" id="pronouns" label="Pronouns (optional)" input-id="pronouns" hint="Example: She/her, They/them" size="100"></gcds-input>
 
         <!-- Email -->
-        <gcds-input name="email" input-id="email" label="Email address" type="email" required size="100">
+        <gcds-input name="email" class="validate-required" input-id="email" label="Email address" type="email" required size="100">
         </gcds-input>
 
         <!-- Preferred Language -->
-        <gcds-fieldset id="preferred-language" fieldset-id="preferredLang" legend="Preferred language for communication" required>
+        <gcds-fieldset id="preferred-language" class="validate-required" fieldset-id="preferredLang" legend="Preferred language for communication" required>
             <gcds-radio-group
               name="preferredLang"
               options='[
@@ -61,7 +61,7 @@
 
         <!-- Resume -->
         <div style="margin: 1rem 0 1rem 0;">
-          <gcds-file-uploader name="resume" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
+          <gcds-file-uploader name="resume" class="validate-required" uploader-id="resume" label="Upload your resume" hint="PDF format preferred" required
             accept="application/msword, application/pdf, text/plain">
           </gcds-file-uploader>
         </div>
@@ -74,7 +74,7 @@
 
 
         <!-- Where did you hear about this job -->
-        <gcds-fieldset id="talent_tracking" fieldset-id="talentTracking" legend="Where did you hear about this job posting" required>
+        <gcds-fieldset id="talent_tracking" class="validate-required" fieldset-id="talentTracking" legend="Where did you hear about this job posting" required>
           <gcds-radio-group
           name="talentTracking"
           options='[
