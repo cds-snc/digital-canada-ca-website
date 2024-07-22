@@ -37,25 +37,25 @@
       <form enctype="multipart/form-data" class="text-left" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
-        <gcds-input name="name" input-id="name" label="Nom complet" size="100" required lang="fr"></gcds-input>
+        <gcds-input name="name" class="validate-required" input-id="name" label="Nom complet" size="100" required lang="fr"></gcds-input>
 
         <!-- Pronouns -->
         <gcds-input name="pronouns" id="pronouns" label="Pronoms (facultatif)" input-id="pronouns" hint="Exemple: elle, il."
           size="100"></gcds-input>
 
         <!-- Email -->
-        <gcds-input name="email" input-id="email" label="Adresse courriel" type="email" required size="100" lang="fr">
+        <gcds-input name="email" class="validate-required" input-id="email" label="Adresse courriel" type="email" required size="100" lang="fr">
         </gcds-input>
 
         <!-- Preferred Language -->
-        <gcds-fieldset id="preferred-language" fieldset-id="preferredLang" legend="Langue de communication souhaitée"
+        <gcds-fieldset id="preferred-language" class="validate-required" fieldset-id="preferredLang" legend="Langue de communication souhaitée"
           required lang="fr">
           <gcds-radio-group name="preferredLang" options='[{"label": "Français", "id": "frenchId", "value": "French"}, {"label": "Anglais", "id": "englishId", "value": "English"}]'></gcds-radio-group>
 
         </gcds-fieldset>
         <!-- Resume -->
         <div style="margin: 1rem 0 1rem 0;">
-          <gcds-file-uploader name="resume" uploader-id="resume" label="Téléversez votre CV" hint="Privilégiez le format PDF."
+          <gcds-file-uploader name="resume" class="validate-required" uploader-id="resume" label="Téléversez votre CV" hint="Privilégiez le format PDF."
             required accept="application/msword, application/pdf, text/plain" lang="fr">
           </gcds-file-uploader>
         </div>
@@ -67,7 +67,7 @@
         </gcds-input>
 
         <!-- Where did you hear about this job -->
-        <gcds-fieldset id="talent_tracking" fieldset-id="talentTracking" legend="Comment avez-vous entendu parler de cette offre d’emploi?" required lang="fr">
+        <gcds-fieldset id="talent_tracking" class="validate-required" fieldset-id="talentTracking" legend="Comment avez-vous entendu parler de cette offre d’emploi?" required lang="fr">
           <gcds-radio-group
           name="talentTracking"
           options='[
