@@ -339,7 +339,7 @@ translationKey: blog-ircc-gcnotify
 
 
 
-<p>The team found that the simplicity of GC Notify’s platform, and the product’s ability to accommodate multiple languages in its templates were extremely useful features. From the ACETS’ developers point of view, it saved them from having to re-invent an auto-reply system, including managing templates, permissions, usernames, etc. This means that with the background work to connect GC Notify and ACETS already set up, the team can create a new template and input the auto-response message in roughly 30 minutes. However, if the template is already formatted accordingly, then the new auto-response template can be ready in under 5 minutes.  </p>
+<p>The team found that the simplicity of GC Notify’s platform, and the product’s ability to accommodate multiple languages in its templates were extremely useful features. From the ACETS’ developers point of view, it saved them from having to re-invent an auto-reply system, including managing templates, permissions, usernames, etc. This means that with the background work to connect GC Notify and ACETS&nbsp;already set up, the team can create a new template and input the auto-response message in roughly 30 minutes. However, if the template is already formatted accordingly, then the new auto-response template can be ready in under 5 minutes.&nbsp;&nbsp;</p>
 
 
 
@@ -347,7 +347,7 @@ translationKey: blog-ircc-gcnotify
 
 
 
-<p><strong>Try GC Notify today!</strong><strong>&nbsp;</strong></p>
+<h3 class="wp-block-heading" id="h-try-out-gc-notify-today">Try out GC notify today!</h3>
 
 
 
