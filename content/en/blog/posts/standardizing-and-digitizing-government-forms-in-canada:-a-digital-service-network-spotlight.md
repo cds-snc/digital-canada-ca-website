@@ -87,25 +87,25 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Accessibility:</strong> The team first tested iterations in-house, then with public servants who use assistive technologies, and finally with third-party audits to ensure the product met accessibility standards.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Security:</strong> The IT team worked with an external auditor to ensure their product operated with a Protected B level of security.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>&nbsp;Bilingualism:</strong> Canada has two official languages—English and French. As such, the Official Languages Act (OLA) requires all federal government services be provided bilingually. The team held a basic requirement that translating features should be accurate in both meaning and intention with minimal user effort.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Usability: </strong>The team conducted interviews and in-house testing sessions for functionality to reduce the cognitive load of using the product. This kind of testing continues today through support tickets and when introducing new features.&nbsp;</li>
 </ul>
 
@@ -127,25 +127,25 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Customizing for accessibility:</strong> Assistive technologies are highly varied. The team’s multi-step testing process brings inaccessible features to their attention, and as an in-house team, they have the ability to adapt the product quickly as these issues come to the fore. With multiple checkpoints in place—manual and automated, in-house and with third parties—the team works intimately with its stakeholders to meet custom accessibility needs and requirements.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Customizing for usability:</strong> The team identified commonly desired fields in their research, promoting high levels of usability with customizable “blocks” of packaged fields. For example, the builder adds all fields of an address together as optional “blocks” that are automatically joined together so the user is not required to add them separately. Additionally, the builder requires “locked blocks”—elements that the user building the form may forget to add but that user research revealed as useful or necessary for the respondent, like security statements or a post-completion confirmation message. The privacy notice “locked block” includes terms and conditions in the footer of each form with information about data retention and disposal. The team’s approach to blocks captures their efforts to reduce cognitive load for users of the form builder.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Customizing for bilingual delivery:</strong> In-house customization work allowed for bilingual form creation. After testing with French-speaking users, the team realized that the “language toggle” tool they built wasn’t the most effective solution. While the form builder automatically produced two versions—one in English and one in French—the toggle that allowed the user to switch their view between each version was not salient. This led users to unnecessarily create separate forms. The GC Forms team responded by altering the builder’s interface to a side-byside view of translations so that users can simultaneously view their form across languages in real time as they build.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Customizing for security: </strong>Security is top of mind for the team, and much of their customization work is shaped through the lens of security requirements. For instance, due to federal regulations, CDS can only hold respondent data for limited periods of time. To comply, GC Forms requires department staff to download a CSV of their form data and provide a confirmation code indicating the data are ready for deletion, after which GC Forms schedules deletion. However, this process can be time-consuming and confusing for departments, particularly those handling large volumes of responses. The team has experimented with iterations to this process, like removing unnecessary alerts and using more plain language to clarify why these steps are required of users. They continue to experiment and customize the product to support an increased use and maintain compliance with security requirements.</li>
 </ul>
 
@@ -171,7 +171,7 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://articles.alpha.canada.ca/forms-formulaires/templates/">GC Forms Form Category Templates </a></li>
 
 
