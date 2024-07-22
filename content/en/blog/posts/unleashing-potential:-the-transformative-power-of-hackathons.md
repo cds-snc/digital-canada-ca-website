@@ -139,7 +139,7 @@ translationKey: blog-jumana-sylvia-iwd
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html" target="_blank" rel="noreferrer noopener">GC Guide for using generative AI</a></li>
 
 
