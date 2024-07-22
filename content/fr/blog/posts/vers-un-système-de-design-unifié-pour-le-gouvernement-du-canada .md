@@ -87,7 +87,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Elle tire parti de Bootstrap 3.3.7 pour la conception de sites Web réactifs, ce qui assure l’uniformité visuelle et fonctionnelle des sites Web sur tous les appareils. Elle fait appel à une version modifiée de jQuery 2.2.4 pour améliorer les éléments interactifs et les interactions des utilisatrices et utilisateurs.</li>
 
 
@@ -109,7 +109,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Il permet aux ministères et organismes du GC de fournir, en guise de contribution, d’autres configurations, gabarits et essais par l’entremise du référentiel GitHub de GCWeb.</li>
 
 
@@ -155,7 +155,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>En s’assurant que tous les éléments de style obligatoires de Canada.ca sont en place pour accroître la confiance et l’uniformité.</li>
 
 

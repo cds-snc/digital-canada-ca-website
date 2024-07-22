@@ -43,13 +43,13 @@ translationKey: blog-cds-dto
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Une fonction en fait de politiques&nbsp;: </strong>définir des normes favorisant l’uniformité et la fiabilité de la marque en ligne ainsi que l’excellence de l’expérience utilisateur partout où le GC a une présence Web.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Une fonction en fait de produits&nbsp;: </strong>conseiller les ministères et favoriser l’amélioration continue de Canada.ca afin que les personnes puissent trouver ce qu’elles cherchent et accomplir leurs tâches.</li>
 </ol>
 

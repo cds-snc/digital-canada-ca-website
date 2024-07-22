@@ -87,25 +87,25 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Accessibilité&nbsp;:</strong> L’équipe a d’abord testé les itérations à l’interne, puis avec des fonctionnaires utilisant des technologies d’assistance, et enfin à l’aide d’audits effectués par de tierces parties afin de s’assurer que le produit répondait aux normes d’accessibilité.</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Sécurité&nbsp;:</strong> L’équipe des TI a travaillé avec un auditeur externe pour s’assurer que son produit fonctionnait avec un niveau de sécurité «&nbsp;Protégé B&nbsp;».</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>&nbsp;Bilinguisme&nbsp;:</strong> Le Canada a deux langues officielles&nbsp;: l’anglais et le français. Par conséquent, la <em>Loi sur les langues officielles</em> (LLO) exige que tous les services du gouvernement fédéral soient accessibles dans les deux langues. L’équipe s’est fixé comme objectif de base une traduction précise des fonctionnalités, tant au niveau du sens que de l’intention, tout en minimisant les efforts de la part des utilisateur·rice·s.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Convivialité&nbsp;: </strong>L’équipe a mené des entrevues et des séances de tests à l’interne axées sur la fonctionnalité afin de réduire la charge cognitive liée à l’utilisation du produit. Ce type de test se fait toujours par le biais de tickets de soutien et lors de la mise en service de nouvelles fonctionnalités.&nbsp;</li>
 </ul>
 
@@ -127,25 +127,25 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>L’accessibilité grâce à la personnalisation&nbsp;:</strong> Les technologies d’assistance sont très variées. Grâce à son processus de test à étapes multiples, l’équipe met en évidence les fonctionnalités inaccessibles. En tant qu’équipe interne, elle possède la capacité d’adapter rapidement le produit lorsque des problèmes d’accessibilité se présentent. Avec plusieurs points de contrôle en place, à la fois manuels et automatisés, en interne et avec des tiers, l’équipe travaille en étroite collaboration avec ses parties prenantes pour répondre à des besoins et exigences sur mesure en matière d’accessibilité.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>La convivialité grâce à la personnalisation&nbsp;:</strong> L’équipe a identifié les champs désirables les plus courants dans le cadre de ses recherches, favorisant ainsi un haut niveau de convivialité grâce à des « blocs » personnalisables de champs préconfigurés. Par exemple, le ou la concepteur·rice ajoute tous les champs d’une adresse sous forme de «&nbsp;blocs&nbsp;» facultatifs qui sont automatiquement réunis, de sorte que les utilisateur·rice·s n’ont pas besoin de les ajouter séparément. De plus, les concepteur·rice·s ont besoin de «&nbsp;blocs verrouillés&nbsp;», c’est-à-dire d’éléments que les utilisateur·rice·s créant le formulaire peuvent oublier d’ajouter, mais que la recherche sur les utilisateurs·rice·s a révélés comme étant utiles ou nécessaires pour le ou la répondant·e, comme les déclarations de sécurité ou un message de confirmation après avoir terminé le formulaire. Le «&nbsp;bloc verrouillé&nbsp;» d’avis de confidentialité comprend des conditions générales figurant au bas de chaque formulaire et fournit des informations sur le stockage et la suppression des données. L’approche de l’équipe vis-à-vis des blocs reflète ses efforts pour réduire la charge cognitive des utilisateur·rice·s du générateur de formulaires.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Une prestation bilingue grâce à la personnalisation&nbsp;:</strong> Un travail de personnalisation à l’interne a permis la création de formulaires bilingues. Après avoir réalisé des tests auprès d’utilisateur·rice·s francophones, l’équipe s’est rendu compte que l’outil de changement de langue qui avait été bâti n’était pas la solution la plus efficace. Le générateur de formulaires produisait automatiquement deux versions, l’une en anglais et l’autre en français, mais le bouton permettant de passer d’une version à l’autre n’était pas mis en évidence. Cela conduisait les utilisateur·rice·s à créer inutilement deux formulaires distincts. L’équipe de Formulaires&nbsp;GC a donc adapté l’interface de création de formulaires pour qu’elle affiche les deux langues côte à côte, afin que les utilisateur·rice·s puissent voir leur formulaire dans les deux langues officielles, en temps réel, et au fur et à mesure de sa construction.&nbsp;</li>
 </ul>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Une sécurité accrue grâce à la personnalisation&nbsp;: </strong>La sécurité est une préoccupation centrale pour l’équipe, et la majeure partie du travail de personnalisation est réalisée dans l’optique des exigences de sécurité. Par exemple, en raison des réglementations fédérales, le SNC ne peut conserver les données des répondant·e·s que pour une durée limitée. Afin de se conformer à cette règle, Formulaires&nbsp;GC demande au personnel ministériel de télécharger un fichier CSV des données de leur formulaire et de fournir un code de confirmation indiquant que les données sont prêtes à être supprimées, après quoi Formulaires&nbsp;GC planifie leur suppression. Toutefois, ce processus peut prendre du temps et être une source de confusion pour les ministères, en particulier pour ceux qui traitent d’importants volumes de réponses. L’équipe a testé plusieurs itérations de ce processus, par exemple en supprimant des alertes inutiles et en utilisant un langage plus clair pour expliquer la nécessité de ces étapes. Elle continue d’expérimenter et de personnaliser le produit afin de l’adapter à une utilisation accrue et de conserver sa conformité aux exigences en matière de sécurité.</li>
 </ul>
 
@@ -171,7 +171,7 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://articles.alpha.canada.ca/forms-formulaires/fr/modeles/" target="_blank" rel="noreferrer noopener">Modèles de catégories de formulaires de Formulaires GC </a></li>
 
 

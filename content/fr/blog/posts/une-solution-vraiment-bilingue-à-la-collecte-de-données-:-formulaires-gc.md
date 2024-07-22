@@ -146,7 +146,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 <p>Formulaires&nbsp;GC possède une autre fonctionnalité pour mettre le public en confiance&nbsp;: l’image de marque. DEC a pu faire ajouter sa signature au formulaire, et l’équipe du SNC s’en est chargée en moins d’une semaine (voir ci-dessous).</p>
 
 
-<img loading="lazy" decoding="async" width="1024" height="784" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1024x784.png" alt="Le formulaire en ligne de DEC porte la signature de l&rsquo;organisme et l&rsquo;image de marque du GC. Une bascule permet de changer d&rsquo;une langue officielle &agrave; l&rsquo;autre, et des conseils sont offerts pour r&eacute;pondre aux questions." class="wp-image-1852" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1024x784.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-300x230.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-768x588.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1536x1177.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR.png 1846w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="784" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1024x784.png" alt="Le formulaire en ligne de DEC porte la signature de l’organisme et l’image de marque du GC. Une bascule permet de changer d’une langue officielle à l’autre, et des conseils sont offerts pour répondre aux questions." class="wp-image-1852" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1024x784.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-300x230.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-768x588.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR-1536x1177.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example__DEC_FR.png 1846w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 
 <h2 class="wp-block-heading" id="h-decouvrir-formulaires-gc"><strong>Découvrir Formulaires GC</strong></h2>
@@ -157,7 +157,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>N’hésitez pas à vous <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/assister-a-une-demonstration-de-produit/?utm_source=FR_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">inscrire à une démo</a> pour en savoir plus.</li>
 
 
