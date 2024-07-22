@@ -30,8 +30,6 @@ $(document).ready(function () {
     event.preventDefault();
 
     setTimeout(() => {
-
-
       var valid = true,
         errors = [];
 
@@ -40,7 +38,7 @@ $(document).ready(function () {
         if ($this[0].errorMessage) {
           errors.push($this[0]);
           valid = false;
-        } 
+        }
       });
 
       if (!valid) {
@@ -59,35 +57,34 @@ $(document).ready(function () {
       var formData = new FormData($("#contactForm")[0]);
       var pageLanguage = $("html").attr("lang");
       var endpoint =
-      "https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever";
+        "https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever";
 
-    $.ajax({
-      type: "POST",
-      url: endpoint,
-      data: formData,
-      contentType: false,
-      processData: false,
-      complete: function (r) {
-        console.log(r.responseText);
-      },
-      success: function () {
-        if (pageLanguage == "en") {
-          window.location.href = "/thank-you/";
-        } else {
-          window.location.href = "/merci/";
-        }
-      },
-      error: function (xhr, textStatus, errorThrown) {
-        console.log("Error", textStatus);
-        console.log("Error", errorThrown);
-        if (pageLanguage == "en") {
-          window.location.href = "/error/";
-        } else {
-          window.location.href = "/erreur/";
-        }
-      },
-    });
-
+      $.ajax({
+        type: "POST",
+        url: endpoint,
+        data: formData,
+        contentType: false,
+        processData: false,
+        complete: function (r) {
+          console.log(r.responseText);
+        },
+        success: function () {
+          if (pageLanguage == "en") {
+            window.location.href = "/thank-you/";
+          } else {
+            window.location.href = "/merci/";
+          }
+        },
+        error: function (xhr, textStatus, errorThrown) {
+          console.log("Error", textStatus);
+          console.log("Error", errorThrown);
+          if (pageLanguage == "en") {
+            window.location.href = "/error/";
+          } else {
+            window.location.href = "/erreur/";
+          }
+        },
+      });
     }, 200);
   });
 });
