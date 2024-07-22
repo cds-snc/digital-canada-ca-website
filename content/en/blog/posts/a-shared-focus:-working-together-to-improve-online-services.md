@@ -43,7 +43,7 @@ translationKey: blog-cds-dto
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>A policy role: </strong>setting standards to enable consistent and trusted online brand and high-quality user experience (UX ) across the GC web presence.</li>
 
 
