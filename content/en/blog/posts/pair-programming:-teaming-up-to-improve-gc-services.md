@@ -79,7 +79,7 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Google Meet (or sometimes Slack Huddles)</li>
 
 
@@ -121,7 +121,7 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Be mindful when pairing personalities.</strong> Don’t force it, otherwise it won’t work.&nbsp;</li>
 
 
