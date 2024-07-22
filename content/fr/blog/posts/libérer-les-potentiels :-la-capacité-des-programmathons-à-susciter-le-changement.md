@@ -139,7 +139,7 @@ translationKey: blog-jumana-sylvia-iwd
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/utilisation-responsable-ai/guide-utilisation-intelligence-artificielle-generative.html" target="_blank" rel="noreferrer noopener">Guide du GC sur l’utilisation de l’intelligence artificielle générative</a></li>
 
 
