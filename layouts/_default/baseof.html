@@ -145,14 +145,8 @@
       {{ end }}
     </header>
     <main role="main" property="mainContentOfPage">
-      {{ if eq hugo.Environment "production" }}
-      <!-- Production -->
+      <!-- Production Script for Adobe Analytics-->
       <script src=https://assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js></script>
-      {{ else }}
-      <!-- Staging/Dev -->
-      <script src=https://assets.adobedtm.com/be5dfd287373/37efdf424920/launch-195fd36d5a09-staging.min.js></script>
-      {{ end }}
-
       <meta name="dcterms.tite" content="{{ .Params.Title }}" />
       <meta name="dcterms.language" content="{{ i18n "aa-language" }}" />
       <meta name="dcterms.creator" content="{{ i18n "esdc" }}" />
