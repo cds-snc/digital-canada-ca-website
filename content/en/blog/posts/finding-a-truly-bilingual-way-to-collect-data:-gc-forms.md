@@ -146,7 +146,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 <p>Another feature of GC Forms that increases users’ trust is branding. CED was able to request our corporate signature be added to the form, which the CDS team did in less than a week (see below).</p>
 
 
-<img loading="lazy" decoding="async" width="1024" height="707" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1024x707.png" alt="CED&rsquo;s online form has their corporate signature and GC branding. It can be toggled between EN and FR forms and provides guidance for answering questions." class="wp-image-1853" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1024x707.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-300x207.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-768x530.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1536x1061.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-2048x1414.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="707" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1024x707.png" alt="CED’s online form has their corporate signature and GC branding. It can be toggled between EN and FR forms and provides guidance for answering questions." class="wp-image-1853" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1024x707.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-300x207.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-768x530.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-1536x1061.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Forms_example_CED_EN-2048x1414.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 
 <h2 class="wp-block-heading" id="h-explore-gc-forms"><strong>Explore GC Forms</strong></h2>
@@ -157,7 +157,7 @@ translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Don’t hesitate to <a href="https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_demopage_blog-ced-quebec-gcforms&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs">register for a demo</a> to learn more.</li>
 
 
