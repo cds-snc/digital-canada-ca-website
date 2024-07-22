@@ -79,7 +79,7 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Google Meet (ou parfois Slack pour les appels d’équipe)</li>
 
 
@@ -121,7 +121,7 @@ translationKey: blog-forms-accessibility-paired
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Considérez les types de personnalité des deux personnes.</strong> Ne forcez pas les choses, ça ne mènera nulle part.&nbsp;</li>
 
 
