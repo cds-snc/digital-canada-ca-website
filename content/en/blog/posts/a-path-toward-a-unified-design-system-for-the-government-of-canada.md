@@ -87,7 +87,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>leverages Bootstrap 3.3.7 for responsive design, ensuring that websites are visually and functionally consistent across all devices. It also uses a modified version of jQuery 2.2.4 to enhance interactive elements and improve user interactions</li>
 
 
@@ -109,7 +109,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>allows GC departments and agencies to contribute additional patterns, templates and experiments via the GCWeb GitHub repository</li>
 
 
@@ -159,7 +159,7 @@ translationKey: blog-gc-design-system
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>ensuring all mandatory Canada.ca style elements are in place to increase trust and consistency</li>
 
 
