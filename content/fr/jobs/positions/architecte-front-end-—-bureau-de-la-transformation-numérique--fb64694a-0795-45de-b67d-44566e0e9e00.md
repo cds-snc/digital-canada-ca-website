@@ -5,7 +5,7 @@ title: 'Architecte front-end — Bureau de la transformation numérique'
 description: >-
   Ce rôle est un poste de durée déterminée de 1 an et est classé au groupe et niveau IS-04 du groupe des services d’information (IS), et le profil linguistique est bilingue à nomination impérative (BBB).
 linkHidden: false
-translationKey: july-2024-front-end-architect
+translationKey: july-2024-front-end-architect-dto
 leverId: fb64694a-0795-45de-b67d-44566e0e9e00
 formHidden: false
 ---
