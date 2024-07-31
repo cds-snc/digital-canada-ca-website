@@ -7,7 +7,7 @@ description: >-
 linkHidden: false
 translationKey: july-2024-front-end-architect-dto
 leverId: fb64694a-0795-45de-b67d-44566e0e9e00
-formHidden: false
+formHidden: true
 ---
 
 ## About CDS 
