@@ -25,6 +25,8 @@ Ce rôle est classé au niveau IT-04 au sein du groupe [Systèmes d’ordinateur
 
 Nous acceptons les candidatures de différentes catégories, telles que celles de durée indéterminée ou déterminée, de mutation, d’intérim, d’affectation ou de détachement. Ce poste entièrement en télétravail est ouvert aux candidats et candidates dans tout le pays. Si les technologies de l’information vous passionnent et que vous souhaitez vous joindre à une équipe dynamique, nous vous invitons à postuler!
 
+Pour cette opportunité, la priorité sera donnée aux candidats actuellement employés par la fonction publique fédérale.
+
 **Fonctions et responsabilités principales :**
 - Créer et diriger une équipe de développement hautement performante.
 - Veiller à l’optimisation du bien-être des membres de l’équipe, de leur développement professionnel et de leur potentiel en matière de contributions.
