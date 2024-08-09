@@ -24,6 +24,8 @@ This role is classified as an IT-04 in the [Computer Systems Group (CS)](https:/
 
 We welcome applications for various tenures, such as indeterminate, deployment, acting, assignment, secondment, and specified period. This fully remote position is open to applicants located anywhere in the country. If you are passionate about IT and looking to join a dynamic team, we encourage you to apply!
 
+For this opportunity, priority will be given to candidates currently employed by the Federal Public Service.
+
 **Principal Duties and Responsibilities:**
 - Build and lead a high-performing development team.
 - Ensure that the well-being, career growth and contribution potential of the team members are being optimized.
