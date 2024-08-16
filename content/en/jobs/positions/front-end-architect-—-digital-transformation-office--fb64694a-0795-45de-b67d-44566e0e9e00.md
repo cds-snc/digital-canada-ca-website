@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Front-End Architect — Digital Transformation Office'
 description: >-
-  This role is a 1 year-term position and is classified as an IS-04 in the Information Services Group (IS), bilingual imperative (BBB). This fully remote position is open to applicants located anywhere in the country.
+  This role is a 1 year-term position and is classified as an IS-04 in the Information Services Group (IS), bilingual imperative (BBB). This fully remote position is open to applicants located anywhere in the country .
 linkHidden: false
 translationKey: july-2024-front-end-architect-dto
 leverId: fb64694a-0795-45de-b67d-44566e0e9e00
