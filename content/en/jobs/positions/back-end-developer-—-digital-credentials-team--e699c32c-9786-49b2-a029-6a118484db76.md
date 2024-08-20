@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Back-end Developer — Digital Credentials Team'
 description: >-
-  We are excited to announce that we are creating a pool of candidates to fill positions ranging from IT-02 to IT-04. We are open to individuals with diverse linguistic profiles, including English Essential, Bilingual Imperative BBB/BBB, and Bilingual Imperative CBC/CBC.
+  We are excited to announce that we are creating a pool of candidates to fill positions ranging from IT-02 to IT-04. We are open to individuals with diverse linguistic profiles, including English Essential, Bilingual Imperative BBB/BBB, and Bilingual Imperative CBC/CBC. 
 linkHidden: false
 translationKey: aug-2024-back-end-dev-dc
 leverId: e699c32c-9786-49b2-a029-6a118484db76
