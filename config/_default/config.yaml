@@ -1,3 +1,5 @@
+params:
+  lever_api_endpoint: https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever
 DefaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 sitemap:
