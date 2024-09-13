@@ -4,10 +4,10 @@ type: section
 title: 'Conseiller·ère en politiques — Équipe des politiques'
 description: >-
   Il s’agit d’un poste à durée indéterminée classé EC-05 dans le groupe Économique et services de sciences sociales (EC) à nomination impérative bilingue (BBB). 
-linkHidden: false
+linkHidden: true
 translationKey: sept-2024-policy-advisor
 leverId: b84d5112-01d4-4461-aeec-c7482a273e05
-formHidden: false
+formHidden: true
 ---
 
 ## À propos du SNC 
