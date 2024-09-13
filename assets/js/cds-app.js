@@ -1,3 +1,6 @@
+import * as params from '@params';
+const endpoint = params.lever_api_endpoint;
+
 Object.defineProperty(HTMLMediaElement.prototype, "playing", {
   get: function () {
     return !!(
@@ -56,8 +59,6 @@ $(document).ready(function () {
 
       var formData = new FormData($("#contactForm")[0]);
       var pageLanguage = $("html").attr("lang");
-      var endpoint =
-        "https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever";
 
       $.ajax({
         type: "POST",
