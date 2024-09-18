@@ -1,35 +1,37 @@
 import * as params from '@params';
-const endpoint = params.lever_api_endpoint;
 
-Object.defineProperty(HTMLMediaElement.prototype, "playing", {
-  get: function () {
-    return !!(
-      this.currentTime > 0 &&
-      !this.paused &&
-      !this.ended &&
-      this.readyState > 2
-    );
-  },
-});
+(function($) {
+  const endpoint = params.lever_api_endpoint;
+  const footer = document.querySelector("#footer-id");
+  const contactForm = $("#contactForm");
+  const init = () => {
+    Object.defineProperty(HTMLMediaElement.prototype, "playing", {
+      get: function () {
+        return !!(
+          this.currentTime > 0 &&
+          !this.paused &&
+          !this.ended &&
+          this.readyState > 2
+        );
+      },
+    });
+  };
 
-$(document).ready(function () {
-  // Add target=_blank to external links
-  // Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
-  $("#wb-cont a[href^='http://']").attr("target", "_blank");
-  $("#wb-cont a[href^='https://']").attr("target", "_blank");
-  let footer = document.querySelector("#footer-id");
-  footer.addEventListener("gcdsClick", function (e) {
-    footer.setAttribute(
-      "data-gc-analytics-navigation",
-      `footer:Canadian Digital Service: ${e.detail}`
-    );
-  });
+  const addTargetBlankToExternalLinks = () => {
+    $("#wb-cont a[href^='http://']").attr("target", "_blank");
+    $("#wb-cont a[href^='https://']").attr("target", "_blank");
+  };
 
-  /**
-   * Contact Form Submit
-   */
+  const setupFooterAnalytics = () => {
+    footer.addEventListener("gcdsClick", (e) => {
+      footer.setAttribute(
+        "data-gc-analytics-navigation",
+        `footer:Canadian Digital Service: ${e.detail}`
+      );
+    });
+  };
 
-  $("#contactForm").submit(function (event) {
+  const handleContactFormSubmit = (event) => {
     event.preventDefault();
 
     setTimeout(() => {
@@ -87,5 +89,12 @@ $(document).ready(function () {
         },
       });
     }, 200);
+  };
+
+  $(document).ready(() => {
+    init();
+    addTargetBlankToExternalLinks();
+    setupFooterAnalytics();
+    contactForm.submit(handleContactFormSubmit);
   });
-});
+})(jQuery);
