@@ -4,7 +4,7 @@ title: 'Différentes perspectives, meilleurs services : comment la diversité g
 description: >-
   J’ai discuté avec des personnes de différentes générations au SNC afin de découvrir comment la diversité d’âges renforce les services que nous offrons aux Canadiens et Canadiennes. Nous avons discuté des perspectives uniques qu’apporte chaque génération en relatant des expériences vécues. Nous avons également donné des conseils pour favoriser la collaboration et l’inclusivité entre les groupes d’âge dans la fonction publique.
 author: 'Stephen Priel, conseiller junior en communication, Service Numérique Canadien'
-date: '2024-09-18T10:08:16'
+date: '2024-09-18T11:32:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/generationaldiversity_blog_post2_720-FR-1.png
 image-alt: Des fonctionnaires de générations diverses collaborant et échangeant des idées.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/generationaldiversity_blog_post2_720-FR-1.png
