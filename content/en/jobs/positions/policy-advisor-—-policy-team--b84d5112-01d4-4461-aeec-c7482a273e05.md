@@ -4,10 +4,10 @@ type: section
 title: 'Policy Advisor  — Policy Team'
 description: >-
   This role is an indeterminate position and is classified as an EC-05 in the Economics and Social Science Services (EC), bilingual imperative (BBB). 
-linkHidden: true
+linkHidden: false
 translationKey: sept-2024-policy-advisor
 leverId: b84d5112-01d4-4461-aeec-c7482a273e05
-formHidden: true
+formHidden: false
 ---
 
 ## About CDS 
