@@ -2,6 +2,7 @@
 <html class="no-js" lang="{{ (string ( $.Site.Language) ) }}" dir="ltr">
 {{ $pageTitle := i18n .Params.title }}
 {{ $titleKey := .Params.title }}
+{{ $js := resources.Get "js/cds-app.js" | js.Build (dict "params" .Site.Params ) }}
 
 <head>
   {{ partial "analytics.html" }}
@@ -179,7 +180,7 @@
       crossorigin="anonymous"></script>
     <script src="/lib-cds/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
     <script src="/lib-cds/gcweb-dist/GCWeb/js/theme.min.js"></script>
-    <script type="text/javascript" src="/js/cds-app.js"></script>
+    <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
     <script type="text/javascript" src="/js/blog.js"></script>
     <script src="/js/lazyload.js" async=""></script>
     
