@@ -22,7 +22,7 @@ Powered by [Hugo](https://gohugo.io/) and [GC Design System Components](https://
    git clone https://github.com/cds-snc/digital-canada-ca-website.git
    ```
 
-2. If you do not have Hugo installed on your machine, you will need to install it. We are running on v0.124.0 ([v0.124.0](https://github.com/gohugoio/hugo/releases/tag/v0.124.0)). You can grab the appropriate [tar file here](https://github.com/gohugoio/hugo/releases/tag/v0.124.0), making sure to select the extended version. Then, [follow these instructions for installing it](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-mac/#from-tarball). If you run into permissions issues, [here is a handy article to help fix the permissions](https://codewithhugo.com/catalina-permission-command-line-fix/).
+2. If you do not have Hugo installed on your machine, you will need to install it. We are running on v0.136.0 ([v0.136.0](https://github.com/gohugoio/hugo/releases/tag/v0.136.0)). You can grab the appropriate [tar file here](https://github.com/gohugoio/hugo/releases/tag/v0.136.0), making sure to select the extended version. Then, [follow these instructions for installing it](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-mac/#from-tarball). If you run into permissions issues, [here is a handy article to help fix the permissions](https://codewithhugo.com/catalina-permission-command-line-fix/).
 
 3. Serve:
 
