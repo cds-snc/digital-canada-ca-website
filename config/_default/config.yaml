@@ -8,14 +8,14 @@ sitemap:
 markup:
   goldmark:
     renderer:
-      unsafe: true   
+      unsafe: true
 languages:
   en:
     baseUrl: https://digital.canada.ca/
     params:
       home: "content/en/products/_index.html"
+      lang: en  # Moved 'lang' under 'params'
     contentDir: content/en
-    lang: en
     languageName: English
     title: Blog
     Paginate: 6
@@ -40,18 +40,20 @@ languages:
           url: /blog/
           weight: 3     
   fr:
+    params:
+      home: "content/fr/products/_index.html"
+      lang: fr  # Moved 'lang' under 'params'
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
-    lang: fr
     languageName: Francais
     title: Blogue
     Paginate: 6
-    weight: 2
     frontmatter:
       date: [":filename", ":default"]
     permalinks:
       blog: /:year/:month/:day/:filename
       work-with-us: /:title
+    weight: 2
     menu:
       main:
         - identifier: Produits
