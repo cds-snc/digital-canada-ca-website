@@ -78,6 +78,7 @@ jobs:
             aws lambda update-function-code \
               --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+            URL=$(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} | jq -r .FunctionUrl)
           else
             aws lambda create-function \
               --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
@@ -88,11 +89,22 @@ jobs:
               --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
 
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
-            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
+            URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq -r .FunctionUrl)
             aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
             aws logs create-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1
             aws logs put-retention-policy --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --retention-in-days 7 > /dev/null 2>&1
           fi
+          echo "HUGO_${matrix.lang^^}BASEURL=$URL" >> $GITHUB_ENV
+
+      - name: Build Hugo site
+        run: |
+          hugo --environment staging
+
+      - name: Update lambda function environment
+        run: |
+          aws lambda update-function-configuration \
+            --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+            --environment "Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }},HUGO_${matrix.lang^^}BASEURL=${!HUGO_${matrix.lang^^}BASEURL}}"
 
       - name: Update PR
         if: env.URL != ''
