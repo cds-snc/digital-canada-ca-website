@@ -1,30 +1,39 @@
+baseURL: https://digital.canada.ca/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
 params:
   lever_api_endpoint: https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever
-DefaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+  home:
+    en: "content/en/products/_index.html"
+    fr: "content/fr/products/_index.html"
+
 sitemap:
   filename: sitemap.xml
-  changeFreq: always
+  changefreq: always
+
 markup:
   goldmark:
     renderer:
-      unsafe: true   
+      unsafe: true
+
 languages:
   en:
-    baseUrl: https://digital.canada.ca/
-    params:
-      home: "content/en/products/_index.html"
-    contentDir: content/en
-    lang: en
+    languageCode: en-CA
     languageName: English
+    weight: 1
     title: Blog
-    Paginate: 6
-    frontmatter:
-      date: [":filename", ":default"]
+    contentDir: content/en
+    baseURL: https://digital.canada.ca/
+    paginate: 6
+    params:
+      region: en-CA
+      locale: English (Canada)
     permalinks:
       blog: /:year/:month/:day/:filename
       work-with-us: /:title
-    weight: 1
+    frontmatter:
+      date: [":filename", ":default"]
     menu:
       main:
         - identifier: Products
@@ -38,20 +47,24 @@ languages:
         - identifier: blog
           name: Blog
           url: /blog/
-          weight: 3     
+          weight: 3
+
   fr:
-    baseUrl: https://numerique.canada.ca/
-    contentDir: content/fr
-    lang: fr
-    languageName: Francais
-    title: Blogue
-    Paginate: 6
+    languageCode: fr-CA
+    languageName: Français
     weight: 2
-    frontmatter:
-      date: [":filename", ":default"]
+    title: Blogue
+    contentDir: content/fr
+    baseURL: https://numerique.canada.ca/
+    paginate: 6
+    params:
+      region: fr-CA
+      locale: Français (Canada)
     permalinks:
       blog: /:year/:month/:day/:filename
       work-with-us: /:title
+    frontmatter:
+      date: [":filename", ":default"]
     menu:
       main:
         - identifier: Produits
@@ -61,11 +74,15 @@ languages:
         - identifier: À propos
           name: À propos
           url: /a-propos/
-          weight: 2  
+          weight: 2
         - identifier: blogue
           name: Blogue
           url: /blogue/
-          weight: 3      
+          weight: 3
+
 outputs:
-  home : [HTML, RSS, JSON]
-  page : HTML         
+  home: [HTML, RSS, JSON]
+  page: HTML
+
+security:
+  enableInlineShortcodes: true

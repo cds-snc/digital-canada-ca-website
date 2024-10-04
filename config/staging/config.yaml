@@ -1,5 +1,5 @@
 languages:
   en:
-    baseUrl: /
+    baseUrl: ${env.HUGO_ENBASEURL}
   fr:
-    baseUrl: /
+    baseUrl: ${env.HUGO_FRBASEURL}

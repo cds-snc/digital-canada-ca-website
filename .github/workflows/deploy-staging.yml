@@ -11,7 +11,7 @@ env:
   REGISTRY: 521732289257.dkr.ecr.ca-central-1.amazonaws.com
   ROLE_ARN: arn:aws:iam::521732289257:role/pr-review-env-lambda
   REGION: ca-central-1
-
+  HUGO_VERSION: 0.136.0
 
 permissions:
   id-token: write
@@ -28,6 +28,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
 
+      - name: Install Hugo
+        run: |
+          wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+          sudo dpkg -i hugo.deb
+          hugo version
+
       - name: Build container
         run: |
           docker build -t $REGISTRY/$IMAGE:$PR_NUMBER .
@@ -41,7 +47,7 @@ jobs:
 
       - name: Login to ECR
         id: login-ecr
-        uses: aws-actions/amazon-ecr-login@062b18b96a7aff071d4dc91bc00c4c1a7945b076 # v2.0.1
+        uses: aws-actions/amazon-ecr-login@v2 # v2.0.1
 
       - name: Push containers to ECR
         run: |
