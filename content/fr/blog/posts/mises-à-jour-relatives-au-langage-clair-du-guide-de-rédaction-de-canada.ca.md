@@ -21,7 +21,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<p>Le Bureau de la transformation numérique (BTN) du Service numérique canadien (SNC) est chargé de la conception de Canada.ca, et par conséquent du Guide de rédaction du contenu du site Canada.ca et des <a href="https://conception.canada.ca/guide-redaction/#wp2-0" target="_blank" rel="noreferrer noopener">directives révisées sur le langage clair</a>.<br><br><strong>Dans cet article, nous vous faisons part des récentes mises à jour apportées aux directives sur le langage clair afin d’aider la communauté du gouvernement du Canada (GC) à écrire du contenu Web qui est clair.</strong> Avant d’expliquer en quoi consistent les mises à jour, nous souhaitons parler de l’importance du guide, ainsi que du processus de coordination des mises à jour et des personnes impliquées. <a href="http://h-changements-dignes-de-mention-apportes-aux-directives"><strong>Vous pouvez aussi vous rendre directement aux mises à jour</strong></a>.</p>
+<p>Le Bureau de la transformation numérique (BTN) du Service numérique canadien (SNC) est chargé de la conception de Canada.ca, et par conséquent du Guide de rédaction du contenu du site Canada.ca et des <a href="https://conception.canada.ca/guide-redaction/#wp2-0" target="_blank" rel="noreferrer noopener">directives révisées sur le langage clair</a>.<br><br><strong>Dans cet article, nous vous faisons part des récentes mises à jour apportées aux directives sur le langage clair afin d’aider la communauté du gouvernement du Canada (GC) à écrire du contenu Web qui est clair.</strong> Avant d’expliquer en quoi consistent les mises à jour, nous souhaitons parler de l’importance du guide, ainsi que du processus de coordination des mises à jour et des personnes impliquées. </p>
 
 
 
@@ -192,7 +192,7 @@ translationKey: blog-plain-language-updates
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Ajout de raisons plus convaincantes de recourir au langage clair (section 2.0)</summary>
-<p>Utiliser un langage clair ne veut pas dire simplifier à l’extrême. Il s’agit de s’assurer que tout le monde peut facilement comprendre un message. Nous y trouvons tous et toutes notre compte. Nous voulions que cette distinction soit exprimée pour les personnes moins familières avec le langage clair. <br><br>Nous avons donc ajouté les <a href="https://conception.canada.ca/guide-redaction/#wp2-0" target="_blank" rel="noreferrer noopener">Exigences en matière de langage clair et simple</a> à titre de justification plus convaincante : c’est notre responsabilité de faire preuve de clarté pour être compris·es.</p>
+<p>Utiliser un langage clair ne veut pas dire simplifier à l’extrême. Il s’agit de s’assurer que tout le monde peut facilement comprendre un message. Nous y trouvons tous et toutes notre compte. Nous voulions que cette distinction soit exprimée pour les personnes moins familières avec le langage clair.&nbsp;<br><br>Nous avons donc ajouté les <a href="https://conception.canada.ca/guide-redaction/#wp2-0" target="_blank" rel="noreferrer noopener">Exigences en matière de langage clair et simple</a> à titre de justification plus convaincante&nbsp;: c’est notre responsabilité de faire preuve de clarté pour être compris·es.</p>
 
 
 
