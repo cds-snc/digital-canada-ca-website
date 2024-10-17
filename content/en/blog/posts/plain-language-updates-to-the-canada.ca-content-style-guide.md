@@ -4,7 +4,7 @@ title: 'Plain language updates to the Canada.ca Content Style Guide'
 description: >-
   We’re sharing recent updates published on plain language guidance to help public servants write clear content for the web (Canada.ca Content Style Guide).
 author: 'Chelsey Donohue (A/Chief, Product Design and Standards, Digital Transformation Office at CDS) and Anne-Sophie Dumetz (Senior Content Advisor, CDS)'
-date: '2024-10-17T11:20:53'
+date: '2024-10-17T11:57:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_en.jpg
 image-alt: Two light bulbs. The one with a tangled, complicated cord is dim and hard to see. Organizing the cord to be simple makes it easier to see.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_en.jpg
@@ -21,7 +21,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<p>The Digital Transformation Office (DTO) at the Canadian Digital Service (CDS) is responsible for the design of Canada.ca. This includes the Canada.ca Content Style Guide and its updated <a href="https://design.canada.ca/style-guide/#wp2-0" target="_blank" rel="noreferrer noopener">guidance on writing in plain language</a>.<br><br><strong>In this blog, we’re sharing recent updates we published on plain language guidance to help the Government of Canada (GC) community write clear web content.</strong> Before we explain these updates, we want to share information about the importance of the guide, as well as the coordination process for updates and who was involved. <strong><a href="http://h-impactful-updates-made-to-plain-language-guidance">You can go straight to updates here</a></strong>.</p>
+<p>The Digital Transformation Office (DTO) at the Canadian Digital Service (CDS) is responsible for the design of Canada.ca. This includes the Canada.ca Content Style Guide and its updated <a href="https://design.canada.ca/style-guide/#wp2-0" target="_blank" rel="noreferrer noopener">guidance on writing in plain language</a>.<br><br><strong>In this blog, we’re sharing recent updates we published on plain language guidance to help the Government of Canada (GC) community write clear web content.</strong> Before we explain these updates, we want to share information about the importance of the guide, as well as the coordination process for updates and who was involved. </p>
 
 
 
