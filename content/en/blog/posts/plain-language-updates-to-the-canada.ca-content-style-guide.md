@@ -21,7 +21,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<p>The Digital Transformation Office (DTO) at the Canadian Digital Service (CDS) is responsible for the design of Canada.ca. This includes the Canada.ca Content Style Guide and its updated <a href="https://design.canada.ca/style-guide/#wp2-0" target="_blank" rel="noreferrer noopener">guidance on writing in plain language</a>.<br><br><strong>In this blog, we’re sharing recent updates we published on plain language guidance to help the Government of Canada (GC) community write clear web content.</strong> Before we explain these updates, we want to share information about the importance of the guide, as well as the coordination process for updates and who was involved. <strong><a href="http://h-impactful-updates-made-to-plain-language-guidance">You can go straight to updates here</a></strong>.</p>
+<p>The Digital Transformation Office (DTO) at the Canadian Digital Service (CDS) is responsible for the design of Canada.ca. This includes the Canada.ca Content Style Guide and its updated <a href="https://design.canada.ca/style-guide/#wp2-0" target="_blank" rel="noreferrer noopener">guidance on writing in plain language</a>.<br><br><strong>In this blog, we’re sharing recent updates we published on plain language guidance to help the Government of Canada (GC) community write clear web content.</strong> Before we explain these updates, we want to share information about the importance of the guide, as well as the coordination process for updates and who was involved. </p>
 
 
 
