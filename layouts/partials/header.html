@@ -1,6 +1,7 @@
+{{ $currentLang := .Language.Lang }}
 <gcds-header lang-href="#" skip-to-href="#">
     {{ range .Translations }}
-        <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}"></gcds-lang-toggle>
+    <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}" href-lang='{{ if eq $currentLang "en" }}fr{{ else }}en{{ end }}'></gcds-lang-toggle>
     {{ end }}
 
     <gcds-top-nav label="Top navigation" alignment="right" slot="menu">

@@ -80,35 +80,103 @@ jobs:
 
       - name: Create/Update lambda function
         run: |
-          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1; then
-            aws lambda update-function-code \
-              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
-              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
-          else
-            aws lambda create-function \
-              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
-              --package-type Image \
-              --role $ROLE_ARN \
-              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER \
-              --environment Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }}} \
-              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
+            if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1; then
+              aws lambda update-function-code \
+                --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+                --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
-            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
-            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
-            aws logs create-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1
-            aws logs put-retention-policy --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --retention-in-days 7 > /dev/null 2>&1
-          fi
+              # Wait for the update to complete
+              aws lambda wait function-updated --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
 
+              # Get the existing URL
+              FUNCTION_URL=$(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} | jq -r .FunctionUrl)
+              if [ "${{ matrix.lang }}" = "en" ]; then
+                echo "FUNCTION_URL_EN=$FUNCTION_URL" >> $GITHUB_ENV
+              else
+                echo "FUNCTION_URL_FR=$FUNCTION_URL" >> $GITHUB_ENV
+              fi
+            else
+              aws lambda create-function \
+                --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+                --package-type Image \
+                --role $ROLE_ARN \
+                --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER \
+                --environment Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }}} \
+                --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
+  
+              aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+              FUNCTION_URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq -r .FunctionUrl)
+              if [ "${{ matrix.lang }}" = "en" ]; then
+                echo "FUNCTION_URL_EN=$FUNCTION_URL" >> $GITHUB_ENV
+              else
+                echo "FUNCTION_URL_FR=$FUNCTION_URL" >> $GITHUB_ENV
+              fi
+              
+              aws lambda add-permission \
+                --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+                --statement-id FunctionURLAllowPublicAccess \
+                --action lambda:InvokeFunctionUrl \
+                --principal "*" \
+                --function-url-auth-type NONE > /dev/null 2>&1
+              
+              aws logs create-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1
+              aws logs put-retention-policy --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --retention-in-days 7 > /dev/null 2>&1
+            fi
+      # Add a short sleep to ensure the previous operation is complete
+      - name: Wait for function to stabilize
+        run: sleep 10
+
+      - name: Update container environment
+        run: |
+            # Start with base JSON structure
+            VARS='{"Variables":{"CONTENT_DIR":"/var/www/html/${{ matrix.lang }}"'
+            
+            # Add URLs if they exist
+            if [ -n "$FUNCTION_URL_EN" ]; then
+              VARS="$VARS,\"FUNCTION_URL_EN\":\"$FUNCTION_URL_EN\""
+            fi
+            if [ -n "$FUNCTION_URL_FR" ]; then
+              VARS="$VARS,\"FUNCTION_URL_FR\":\"$FUNCTION_URL_FR\""
+            fi
+            
+            # Close the JSON structure
+            VARS="$VARS}}"
+
+            # Try updating the configuration with retries
+            max_attempts=3
+            attempt=1
+            while [ $attempt -le $max_attempts ]; do
+              if aws lambda update-function-configuration \
+                --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+                --environment "$VARS"; then
+                break
+              else
+                if [ $attempt -eq $max_attempts ]; then
+                  echo "Failed to update function configuration after $max_attempts attempts"
+                  exit 1
+                fi
+                echo "Attempt $attempt failed, waiting before retry..."
+                sleep 10
+                attempt=$((attempt + 1))
+              fi
+            done
+
+            # Update the Lambda function configuration
+            aws lambda update-function-configuration \
+              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+              --environment "$VARS"
+  
       - name: Update PR
-        if: env.URL != ''
-        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        uses: actions/github-script@v7
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `## :test_tube: Review environment (${{ matrix.lang }})\n${process.env.URL.slice(1, -1)}`
-            })
+            github-token: ${{secrets.GITHUB_TOKEN}}
+            script: |
+              const url = process.env[`FUNCTION_URL_${context.matrix.lang.toUpperCase()}`]
+              if (url) {
+                github.rest.issues.createComment({
+                  issue_number: context.issue.number,
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  body: `## :test_tube: Review environment (${context.matrix.lang})\n${url}`
+                })
+              }
