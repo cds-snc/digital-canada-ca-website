@@ -5,7 +5,7 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-ARG HUGO_VERSION="0.124.0"
+ARG HUGO_VERSION="0.136.0"
 RUN wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz" \
     && tar -xvf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz hugo \
     && mv  hugo /usr/bin \

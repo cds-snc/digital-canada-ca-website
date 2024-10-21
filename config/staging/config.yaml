@@ -1,5 +1,5 @@
 languages:
   en:
-    baseUrl: /
+    baseURL: ${FUNCTION_URL_EN}
   fr:
-    baseUrl: /
+    baseURL: ${FUNCTION_URL_FR}
