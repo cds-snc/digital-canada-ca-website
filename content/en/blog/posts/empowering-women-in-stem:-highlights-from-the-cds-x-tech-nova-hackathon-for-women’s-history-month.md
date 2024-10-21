@@ -4,7 +4,7 @@ title: 'Empowering Women in STEM: Highlights from the CDS X Tech Nova Hackathon 
 description: >-
   CDS Team lead Ioana Contu, shares thoughts on tech leadership and reflections as a judge of the Technova Hackathon, hosted by the University of Waterloo.
 author: 'Ioana Contu, CDS Team lead'
-date: '2024-10-21T10:07:50'
+date: '2024-10-21T10:14:57'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_2.jpg
 image-alt: Ioana Contu, Team Lead at the Canadian Digital Service (CDS), was a judge at this year's TechNova Hackathon at the University of Waterloo.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_2.jpg
