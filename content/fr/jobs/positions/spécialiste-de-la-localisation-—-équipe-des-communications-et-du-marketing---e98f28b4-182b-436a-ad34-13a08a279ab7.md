@@ -19,7 +19,7 @@ Le Service numérique canadien (SNC) fait partie d’Emploi et Développement so
 
 L’équipe de communications et marketing interagit avec le public cible du SNC et aide à bâtir et entretenir une image de marque. Elle crée du contenu dans les deux langues officielles pour mettre en avant nos produits et services, et communique des récits captivants qui expliquent comment le SNC, ainsi que les équipes avec lesquelles elle collabore, contribuent à la transition numérique du gouvernement du Canada.
 
-### **Le Service numérique canadien  est à la recherche de deux spécialistes de la localisation!**
+### **Le Service numérique canadien est à la recherche d'un·e spécialiste de la localisation!**
 
 Ce rôle est classé au niveau IT-03 dans le groupe [Systèmes d’ordinateurs (CS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=1) et le profil linguistique est bilingue à nomination impérative (CCC). 
 
