@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Spécialiste de la localisation — Équipe des Communications et du Marketing '
 description: >-
-  Ce rôle est classé au niveau IT-03 dans le groupe du groupe Systèmes d’ordinateurs (CS) et le profil linguistique est bilingue à nomination impérative (CCC). 
+  Ce rôle est classé au niveau IT-03 dans le groupe du groupe Technologies de l’information (IT) et le profil linguistique est bilingue à nomination impérative (CCC). 
 linkHidden: false
 translationKey: localization-specialist-2024
 leverId: e98f28b4-182b-436a-ad34-13a08a279ab7
@@ -21,14 +21,14 @@ L’équipe de communications et marketing interagit avec le public cible du SNC
 
 ### **Le Service numérique canadien est à la recherche d'un·e spécialiste de la localisation!**
 
-Ce rôle est classé au niveau IT-03 dans le groupe [Systèmes d’ordinateurs (CS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=1) et le profil linguistique est bilingue à nomination impérative (CCC). 
+Ce rôle est classé au niveau IT-03 dans le groupe [Technologies de l’information (IT)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=31) et le profil linguistique est bilingue à nomination impérative (CCC). 
 
 Nous acceptons les candidatures de différentes catégories, telles que celles de durée indéterminée ou déterminée, de mutation, d’intérim, d’affectation ou de détachement.  Si le domaine numérique vous passionne  et que vous souhaitez vous joindre à une équipe dynamique, nous vous invitons à postuler!
 
 **Principales tâches et responsabilités :**
 - Gérer les composants multilingues des produits numériques, tels que les sites web, les applications mobiles et les plateformes logicielles.
 - Gérer les bases terminologies et assurer l'intégrité des terminologies dans divers domaines.
-- Éditer, réviser et effectuer des révisions comparatives de textes dans les deux langues officielles pour respecter les normes de - qualité les plus élevées.
+- Éditer, réviser et effectuer des révisions comparatives de textes dans les deux langues officielles pour respecter les normes de qualité les plus élevées.
 - Diriger les efforts de gestion de projet en collaborant avec des développeurs, des designers de contenu et des chefs de produit pour stimuler les stratégies de sensibilisation et de croissance.
 - Utiliser des outils numériques tels que Phrase, GitHub, Figma, Trello et d'autres pour optimiser les flux de travail de gestion de projet.
 
