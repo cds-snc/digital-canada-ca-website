@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Localization Specialist — Communications and Marketing Team'
 description: >-
-  This role is classified as an IT-03 in the Computer Systems Group (CS), bilingual imperative (CCC).
+  This role is classified as an IT-03 in the Information Technology (IT), bilingual imperative (CCC).
 linkHidden: false
 translationKey: localization-specialist-2024
 leverId: e98f28b4-182b-436a-ad34-13a08a279ab7
@@ -21,7 +21,7 @@ The Communications and Marketing team engages with CDS audiences and shapes the 
 
 ### **The Canadian Digital Service is hiring one Localization Specialist!**
 
-This role is classified as an IT-03 in the [Computer Systems Group (CS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc27633227634), bilingual imperative (CCC). 
+This role is classified as an IT-03 in the [Information Technology (IT)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=31), bilingual imperative (CCC). 
 
 We welcome applications for various tenures, such as indeterminate, deployment, acting, assignment, secondment, and specified period.  If you are passionate about policy and looking to join a dynamic team, we encourage you to apply!
 
@@ -38,7 +38,7 @@ We welcome applications for various tenures, such as indeterminate, deployment, 
 - Demonstrated expertise in creating cross-cultural content.
 - Proficiency in terminology management and maintaining translation memories.
 - Proven track record in project management within digital government contexts.
-- Familiarity with a range of platforms including Phrase GitHub, Figma, and Trello, or equivalents.
+- Familiarity with a range of platforms including Phrase, GitHub, Figma, and Trello, or equivalents.
 - Ability to work with multidisciplinary agile delivery teams.
 - Ability to contribute to research initiatives on a project.
 
