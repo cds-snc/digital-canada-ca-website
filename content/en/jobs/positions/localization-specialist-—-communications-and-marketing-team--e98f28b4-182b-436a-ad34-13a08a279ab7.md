@@ -19,7 +19,7 @@ The Canadian Digital Service (CDS) is part of Employment and Social Development 
 
 The Communications and Marketing team engages with CDS audiences and shapes the CDS brand. From developing content in both official languages that highlight our products and services to providing compelling stories that explain how CDS, and the teams it works with, are pushing the Government of Canada's move to digital.
 
-### **The Canadian Digital Service is hiring two Localization Specialists!**
+### **The Canadian Digital Service is hiring one Localization Specialist!**
 
 This role is classified as an IT-03 in the [Computer Systems Group (CS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc27633227634), bilingual imperative (CCC). 
 
