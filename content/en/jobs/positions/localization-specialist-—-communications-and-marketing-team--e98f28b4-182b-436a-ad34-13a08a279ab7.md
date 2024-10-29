@@ -21,7 +21,7 @@ The Communications and Marketing team engages with CDS audiences and shapes the 
 
 ### **The Canadian Digital Service is hiring one Localization Specialist!**
 
-This role is classified as an IT-03 in the [Information Technology (IT)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=31), bilingual imperative (CCC). 
+This role is classified as an IT-03 in the [Information Technology (IT)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=31), bilingual imperative (CCC).
 
 We welcome applications for various tenures, such as indeterminate, deployment, acting, assignment, secondment, and specified period.  If you are passionate about policy and looking to join a dynamic team, we encourage you to apply!
 
