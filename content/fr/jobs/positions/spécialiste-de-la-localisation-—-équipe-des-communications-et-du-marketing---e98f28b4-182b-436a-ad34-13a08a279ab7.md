@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Spécialiste de la localisation — Équipe des Communications et du Marketing '
 description: >-
-  Ce rôle est classé au niveau IT-03 dans le groupe du groupe Technologies de l’information (IT) et le profil linguistique est bilingue à nomination impérative (CCC). 
+  Ce rôle est classé au niveau IT-03 dans le groupe du groupe Technologies de l’information (IT) et le profil linguistique est bilingue à nomination impérative (CCC).
 linkHidden: false
 translationKey: localization-specialist-2024
 leverId: e98f28b4-182b-436a-ad34-13a08a279ab7
@@ -21,7 +21,7 @@ L’équipe de communications et marketing interagit avec le public cible du SNC
 
 ### **Le Service numérique canadien est à la recherche d'un·e spécialiste de la localisation!**
 
-Ce rôle est classé au niveau IT-03 dans le groupe [Technologies de l’information (IT)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=31) et le profil linguistique est bilingue à nomination impérative (CCC). 
+Ce rôle est classé au niveau IT-03 dans le groupe du groupe Technologies de l’information (IT) et le profil linguistique est bilingue à nomination impérative (CCC).
 
 Nous acceptons les candidatures de différentes catégories, telles que celles de durée indéterminée ou déterminée, de mutation, d’intérim, d’affectation ou de détachement.  Si le domaine numérique vous passionne  et que vous souhaitez vous joindre à une équipe dynamique, nous vous invitons à postuler!
 
@@ -41,7 +41,6 @@ Nous acceptons les candidatures de différentes catégories, telles que celles d
 - Familiarité avec une gamme de plateformes, y compris Phrase, GitHub, Figma et Trello, ou équivalents.
 - Capacité à travailler avec des équipes de prestation agiles multidisciplinaires.
 - Capacité à contribuer à des initiatives de recherche sur un projet.
-
 
 Nous savons que tout le monde présente des compétences et des expériences différentes, et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites-nous pourquoi vous êtes un candidat ou une candidate de choix.
 
