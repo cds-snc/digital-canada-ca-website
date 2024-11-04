@@ -5,9 +5,9 @@ description: >-
   How do you know when a digital product is ready for widespread adoption, or, conversely, reaching the end of its usefulness? CDS’s policy team is sharing a draft model to help public sector service delivery teams assess their products and to ensure conditions for success every step of the way.
 author: 'Dan Monafu and Nisa Malli, CDS Policy Team'
 date: '2024-11-04T09:56:26'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/Digital_Product_Maturity_Model_Blog_Post.webp
+image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
 image-alt: Illustration of a tablet displaying a chart, alongside a map, compass, pencil, and ruler, symbolizing analysis and navigation tools
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/Digital_Product_Maturity_Model_Blog_Post.webp
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
 translationKey: blog-product-maturity-model
 ---
 
