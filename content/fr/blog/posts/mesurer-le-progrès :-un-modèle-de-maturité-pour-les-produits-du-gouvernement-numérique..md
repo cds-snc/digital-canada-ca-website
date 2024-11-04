@@ -4,10 +4,10 @@ title: 'Mesurer le progrès : un modèle de maturité pour les produits du gouv
 description: >-
   Dans le secteur privé, et pour les secteurs ayant la plus grande incidence, une entreprise en expansion — ou entreprise en forte croissance — se définit par son taux de croissance, que ce soit en matière de revenu généré ou de personnel. Dans l’idéal, ces mesures tournées vers l’extérieur s’accompagnent d’une transformation à l’interne : innovation, investissement, expansion… [Read more<span class="wb-sl"> of Mesurer le progrès : un modèle de maturité pour les produits du gouvernement numérique.</span>](https://articles.alpha.canada.ca/cds-snc/fr/2024/11/04/blog-product-maturity-model/)
 author: 'Dan Monafu et Nisa Malli, équipe des politiques du SNC'
-date: '2024-11-04T09:57:29'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity_Model_Blog_FRENCH.webp
+date: '2024-11-04T10:51:03'
+image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
 image-alt: Illustration d’une tablette affichant un graphique, à côté d’une carte, d’une boussole, d’un crayon et d’une règle, le tout symbolisant les outils d’analyse et de navigation.
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity_Model_Blog_FRENCH.webp
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
 translationKey: blog-product-maturity-model
 ---
 
