@@ -4,7 +4,7 @@ title: 'Measuring progress: A product maturity model for digital government'
 description: >-
   How do you know when a digital product is ready for widespread adoption, or, conversely, reaching the end of its usefulness? CDS’s policy team is sharing a draft model to help public sector service delivery teams assess their products and to ensure conditions for success every step of the way.
 author: 'Dan Monafu and Nisa Malli, CDS Policy Team'
-date: '2024-11-04T10:57:46'
+date: '2024-11-05T10:45:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
 image-alt: Illustration of a tablet displaying a chart, alongside a map, compass, pencil, and ruler, symbolizing analysis and navigation tools
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
@@ -23,7 +23,7 @@ translationKey: blog-product-maturity-model
 
 
 
-<p>We are sharing it now, as part of our commitment to working in the open and as a resource for the digital government community, inviting recommendations, critique, and stories from teams who apply it to their own work or want to share their own versions. <strong>We’re providing a <a href="https://docs.google.com/document/d/1PgUX3mB9tyoWSRD8G5bFmPy734J7EDNCz6zhe0Ighro/edit?tab=t.0" target="_blank" rel="noreferrer noopener">blank Google Docs version</a> where you can highlight the stage your product finds itself at in each of the categories, in case you want to try it out yourselves.&nbsp;</strong></p>
+<p>We are sharing it now, as part of our commitment to working in the open and as a resource for the digital government community, inviting recommendations, critique, and stories from teams who apply it to their own work or want to share their own versions. <strong>You can find an overview of the model below, and the full model on </strong><a href="https://docs.google.com/document/d/1PgUX3mB9tyoWSRD8G5bFmPy734J7EDNCz6zhe0Ighro/edit?tab=t.0" target="_blank" rel="noreferrer noopener"><strong>Google Docs</strong></a><strong>, where you can make a copy for your own use.</strong></p>
 
 
 
