@@ -47,15 +47,14 @@ jobs:
       - name: Create Lambda Function
         id: lambda_url
         run: |
-          chmod +x .github/scripts/create-lambda-function.sh
-          output=$(.github/scripts/create-lambda-function.sh \
+          FUNCTION_URL_OUTPUT="$(.github/scripts/create-lambda-function.sh \
             "${{ matrix.lang }}" \
             "${{ github.event.pull_request.number }}" \
             "${{ env.FUNCTION_NAME }}" \
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
-            "${{ env.ROLE_ARN }}")
-          echo "$output" >> $GITHUB_OUTPUT
+            "${{ env.ROLE_ARN }}")"
+          echo "$FUNCTION_URL_OUTPUT" >> "$GITHUB_OUTPUT"
 
   build-and-push-staging-container:
     needs: create-lambda-functions

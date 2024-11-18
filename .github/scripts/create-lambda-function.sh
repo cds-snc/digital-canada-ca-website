@@ -22,9 +22,9 @@ else
     --role "$ROLE_ARN" \
     --code ImageUri="$REGISTRY"/"$IMAGE":latest \
     --environment "Variables={CONTENT_DIR=/var/www/html/$LANG}" \
-    --description "$GITHUB_REPOSITORY"/pull/"$PR_NUMBER"
+    --description "$GITHUB_REPOSITORY"/pull/"$PR_NUMBER" > /dev/null 2>&1
 
-  aws lambda wait function-active --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG"
+  aws lambda wait function-active --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" > /dev/null 2>&1
   
   aws lambda add-permission \
     --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" \
@@ -39,4 +39,4 @@ fi
 
 # Capture the function's URL in the GitHub environment variables
 FUNCTION_URL=$(aws lambda create-function-url-config --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" --auth-type NONE | jq -r .FunctionUrl)
-echo "FUNCTION_URL_${LANG^^}=$FUNCTION_URL" >> "$GITHUB_ENV"
+echo "FUNCTION_URL_${LANG^^}=$FUNCTION_URL"
