@@ -20,7 +20,7 @@ else
     --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" \
     --package-type Image \
     --role "$ROLE_ARN" \
-    --code ImageUri="$REGISTRY"/"$IMAGE":"$PR_NUMBER" \
+    --code ImageUri="$REGISTRY"/"$IMAGE":latest \
     --environment "Variables={CONTENT_DIR=/var/www/html/$LANG}" \
     --description "$GITHUB_REPOSITORY"/pull/"$PR_NUMBER"
 

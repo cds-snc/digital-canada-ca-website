@@ -49,8 +49,9 @@ jobs:
         run: |
           chmod +x .github/scripts/create-lambda-function.sh
           output=$(.github/scripts/create-lambda-function.sh \
-            "${{ env.FUNCTION_NAME }}-${{ matrix.lang }}-pr-${{ github.event.pull_request.number }}" \
             "${{ matrix.lang }}" \
+            "${{ github.event.pull_request.number }}" \
+            "${{ env.FUNCTION_NAME }}" \
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
             "${{ env.ROLE_ARN }}")
