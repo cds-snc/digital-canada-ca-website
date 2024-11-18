@@ -47,7 +47,7 @@ jobs:
       - name: Create Lambda Function
         id: lambda_url
         run: |
-          FUNCTION_URL_OUTPUT="$(.github/scripts/create-lambda-function.sh \
+          FUNCTION_URL_OUTPUT="$(.github/workflows/scripts/create-lambda-function.sh \
             "${{ matrix.lang }}" \
             "${{ github.event.pull_request.number }}" \
             "${{ env.FUNCTION_NAME }}" \
@@ -85,8 +85,7 @@ jobs:
 
       - name: Generate Hugo config
         run: |
-          chmod +x .github/scripts/generate-hugo-config.sh
-          .github/scripts/generate-hugo-config.sh '${{ needs.create-lambda-functions.outputs.function_urls }}'
+          .github/workflows/scripts/generate-hugo-config.sh '${{ needs.create-lambda-functions.outputs.function_urls }}'
 
       - name: Build Hugo site
         run: hugo --minify --environment staging
