@@ -10,12 +10,14 @@ ROLE_ARN="$6"
 # Check if the function exists already
 # If it does, update it with the new code from the PR
 if aws lambda get-function --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" > /dev/null 2>&1; then
+  echo "Updating existing function $FUNCTION_NAME-$PR_NUMBER-$LANG"
   aws lambda update-function-code \
     --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" \
     --image-uri "$REGISTRY"/"$IMAGE":"$PR_NUMBER" > /dev/null 2>&1
 
 # Function does not exist, create a new function and setup its function URL
 else
+  echo "Creating new function $FUNCTION_NAME-$PR_NUMBER-$LANG"
   aws lambda create-function \
     --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" \
     --package-type Image \
@@ -35,6 +37,8 @@ else
   
   aws logs create-log-group --log-group-name /aws/lambda/"$FUNCTION_NAME-$PR_NUMBER-$LANG" > /dev/null 2>&1
   aws logs put-retention-policy --log-group-name /aws/lambda/"$FUNCTION_NAME-$PR_NUMBER-$LANG" --retention-in-days 7 > /dev/null 2>&1
+
+  aws lambda list-function-url-configs --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG"
 
   # Capture the function's URL in the GitHub environment variables
   FUNCTION_URL=$(aws lambda create-function-url-config --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" --auth-type NONE | jq -r .FunctionUrl)
