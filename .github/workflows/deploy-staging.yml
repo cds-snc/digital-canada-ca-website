@@ -142,7 +142,7 @@ jobs:
             --image-uri "$IMAGE_URI"
 
       - name: Comment PR with staging URLs
-        if: matrix.lang == 'en'  # Only comment once
+        if: matrix.lang == 'en'  # Only comment one time
         uses: actions/github-script@v7
         with:
           script: |
