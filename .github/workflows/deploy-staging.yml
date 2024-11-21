@@ -30,8 +30,6 @@ jobs:
             full_name: English
           - lang: fr
             full_name: French
-    outputs:
-      function_urls: ${{ toJSON(steps.lambda_url.outputs) }}
 
     steps:
       - name: Checkout repository
@@ -44,7 +42,7 @@ jobs:
           role-session-name: PRReviewEnv
           aws-region: ${{ env.REGION }}
 
-      - name: Create Lambda Function
+      - name: Create or update Lambda function
         id: lambda_url
         run: |
           FUNCTION_URL_OUTPUT="$(.github/workflows/scripts/create-lambda-function.sh \
@@ -54,8 +52,6 @@ jobs:
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
             "${{ env.ROLE_ARN }}")"
-          echo "$FUNCTION_URL_OUTPUT"
-          echo "$FUNCTION_URL_OUTPUT" >> "$GITHUB_OUTPUT"
 
   build-and-push-staging-container:
     needs: create-lambda-functions
@@ -83,8 +79,18 @@ jobs:
           extended: true
 
       - name: Generate Hugo config
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          .github/workflows/scripts/generate-hugo-config.sh '${{ needs.create-lambda-functions.outputs.function_urls }}'
+          FUNCTION_URL_EN="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-en" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          FUNCTION_URL_FR="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-fr" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          .github/workflows/scripts/generate-hugo-config.sh '{"en_url":"'"$FUNCTION_URL_EN"'","fr_url":"'"$FUNCTION_URL_FR"'"}'
 
       - name: Build Hugo site
         run: hugo --minify --environment staging

@@ -37,9 +37,3 @@ else
   aws logs put-retention-policy --log-group-name /aws/lambda/"$FUNCTION_NAME-$PR_NUMBER-$LANG" --retention-in-days 7 > /dev/null 2>&1
   aws lambda create-function-url-config --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" --auth-type NONE > /dev/null 2>&1
 fi
-
-FUNCTION_URL="$(aws lambda list-function-url-configs \
-  --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" \
-  --query 'FunctionUrlConfigs[0].FunctionUrl' \
-  --output text)"
-echo "FUNCTION_URL_${LANG^^}=$FUNCTION_URL"
