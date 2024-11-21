@@ -93,7 +93,7 @@ jobs:
       - name: Build and push Docker image
         id: docker_build
         env:
-          IMAGE_TAG: pr-${{ github.event.pull_request.number }}-${{ github.sha }}
+          IMAGE_TAG: ${{ github.event.pull_request.number }}
         run: |
           # Build the image
           docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
@@ -131,15 +131,13 @@ jobs:
 
       - name: Update Lambda Function
         run: |
-          FUNCTION_NAME="${{ env.FUNCTION_NAME }}-${{ matrix.lang }}-pr-${{ github.event.pull_request.number }}"
-          IMAGE_URI="${{ needs.build-and-push-staging-container.outputs.docker_build_image }}"
-          
-          echo "Updating function: $FUNCTION_NAME"
-          echo "With image: $IMAGE_URI"
-          
-          aws lambda update-function-code \
-            --function-name "$FUNCTION_NAME" \
-            --image-uri "$IMAGE_URI"
+          .github/workflows/scripts/create-lambda-function.sh \
+            "${{ matrix.lang }}" \
+            "${{ github.event.pull_request.number }}" \
+            "${{ env.FUNCTION_NAME }}" \
+            "${{ env.REGISTRY }}" \
+            "${{ env.IMAGE }}" \
+            "${{ env.ROLE_ARN }}"
 
       - name: Comment PR with staging URLs
         if: matrix.lang == 'en'  # Only comment one time
