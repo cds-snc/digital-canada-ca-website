@@ -35,8 +35,8 @@ else
   
   aws logs create-log-group --log-group-name /aws/lambda/"$FUNCTION_NAME-$PR_NUMBER-$LANG" > /dev/null 2>&1
   aws logs put-retention-policy --log-group-name /aws/lambda/"$FUNCTION_NAME-$PR_NUMBER-$LANG" --retention-in-days 7 > /dev/null 2>&1
-fi
 
-# Capture the function's URL in the GitHub environment variables
-FUNCTION_URL=$(aws lambda create-function-url-config --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" --auth-type NONE | jq -r .FunctionUrl)
-echo "FUNCTION_URL_${LANG^^}=$FUNCTION_URL"
+  # Capture the function's URL in the GitHub environment variables
+  FUNCTION_URL=$(aws lambda create-function-url-config --function-name "$FUNCTION_NAME-$PR_NUMBER-$LANG" --auth-type NONE | jq -r .FunctionUrl)
+  echo "FUNCTION_URL_${LANG^^}=$FUNCTION_URL"
+fi
