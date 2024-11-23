@@ -45,19 +45,32 @@ jobs:
       - name: Create or update Lambda function
         id: lambda_url
         run: |
-          FUNCTION_URL_OUTPUT="$(.github/workflows/scripts/create-lambda-function.sh \
-            "${{ matrix.lang }}" \
-            "${{ github.event.pull_request.number }}" \
-            "${{ env.FUNCTION_NAME }}" \
-            "${{ env.REGISTRY }}" \
-            "${{ env.IMAGE }}" \
-            "${{ env.ROLE_ARN }}")"
+          # Execute the script and store output
+          FUNCTION_URL_OUTPUT=$(.github/workflows/scripts/create-lambda-function.sh \
+          "${{ matrix.lang }}" \
+          "${{ github.event.pull_request.number }}" \
+          "${{ env.FUNCTION_NAME }}" \
+          "${{ env.REGISTRY }}" \
+          "${{ env.IMAGE }}" \
+          "${{ env.ROLE_ARN }}")
           
-          # Debug output
-          echo "Function URL Output: $FUNCTION_URL_OUTPUT"
-          
-          # Set the output
-          echo "function_urls={\"${matrix.lang}_url\":\"$FUNCTION_URL_OUTPUT\"}" >> $GITHUB_OUTPUT
+          # Check if the script executed successfully
+          if [ $? -ne 0 ]; then
+            echo "Error: Script failed to execute"
+            exit 1
+          fi
+        
+        # Debug output
+        echo "Language: ${{ matrix.lang }}"
+        echo "Function URL Output: $FUNCTION_URL_OUTPUT"
+        
+        # Create properly escaped JSON
+        JSON_OUTPUT="{\"${{ matrix.lang }}_url\":\"$FUNCTION_URL_OUTPUT\"}"
+        echo "Debug JSON output: $JSON_OUTPUT"
+
+        # Set the output
+        echo "function_urls=$JSON_OUTPUT" >> $GITHUB_OUTPUT
+
   build-and-push-staging-container:
     needs: create-lambda-functions
     runs-on: ubuntu-latest
