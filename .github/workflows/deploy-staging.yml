@@ -52,12 +52,12 @@ jobs:
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
             "${{ env.ROLE_ARN }}")"
-            echo "function_urls=$(cat << EOF
-            {
-              "${matrix.lang}_url": "$FUNCTION_URL_OUTPUT"
-            }
-            EOF
-            )" >> $GITHUB_OUTPUT
+          
+          # Debug output
+          echo "Function URL Output: $FUNCTION_URL_OUTPUT"
+          
+          # Set the output
+          echo "function_urls={\"${matrix.lang}_url\":\"$FUNCTION_URL_OUTPUT\"}" >> $GITHUB_OUTPUT
   build-and-push-staging-container:
     needs: create-lambda-functions
     runs-on: ubuntu-latest
