@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /2024/11/04/mesurer-le-progrès-un-modèle-de-maturité-pour-les-produits-du-gouvernement-numérique.
 layout: blog
 title: 'Mesurer le progrès : un modèle de maturité pour les produits du gouvernement numérique.'
 description: >-
