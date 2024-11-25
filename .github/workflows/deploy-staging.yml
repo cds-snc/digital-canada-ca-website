@@ -167,8 +167,7 @@ jobs:
             - French: ${{ needs.build-and-push-staging-container.outputs.fr_url }}`;
             
             github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.name,
+              ...context.repo,
               issue_number: context.issue.number,
               body: comment
             });
