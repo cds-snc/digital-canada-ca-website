@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/2024/11/04/measuring-progress-a-product-maturity-model-for-digital-government//"
 layout: blog
 title: 'Measuring progress: A product maturity model for digital government'
 description: >-
