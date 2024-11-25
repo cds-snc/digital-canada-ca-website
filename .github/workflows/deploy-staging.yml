@@ -172,7 +172,7 @@ jobs:
         with:
           script: |
             const urls = ${{ toJson(needs.create-lambda-functions.outputs.function_urls) }};
-            const comment = `🚀 Staging deployment complete!
+            const comment = `## 🚀 Staging deployment complete!
             
             Preview your changes at:
             - English: ${{ needs.build-and-push-staging-container.outputs.en_url }}
