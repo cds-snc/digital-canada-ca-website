@@ -1,4 +1,4 @@
-name: Staging review apps
+name: PR Staging Review
 
 on:
   pull_request:
@@ -11,26 +11,29 @@ env:
   REGISTRY: 521732289257.dkr.ecr.ca-central-1.amazonaws.com
   ROLE_ARN: arn:aws:iam::521732289257:role/pr-review-env-lambda
   REGION: ca-central-1
+  HUGO_VERSION: 0.136.0
 
-
+# OIDC permissions block
 permissions:
-  id-token: write
-  contents: read
-  pull-requests: write  
+  id-token: write    # Required for OIDC authentication with AWS
+  contents: read     # Required for checking out code
+  pull-requests: write  # Required for commenting on PRs
 
 jobs:
-  build-and-push-staging-container:
+  create-lambda-functions:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lang: [en, fr]
+        include:
+          - lang: en
+            full_name: English
+          - lang: fr
+            full_name: French
+
     steps:
-      - name: Set envs
-        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
-
-      - name: Checkout
-        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
-
-      - name: Build container
-        run: |
-          docker build -t $REGISTRY/$IMAGE:$PR_NUMBER .
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Configure AWS credentials using OIDC
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
@@ -39,13 +42,80 @@ jobs:
           role-session-name: PRReviewEnv
           aws-region: ${{ env.REGION }}
 
-      - name: Login to ECR
-        id: login-ecr
-        uses: aws-actions/amazon-ecr-login@062b18b96a7aff071d4dc91bc00c4c1a7945b076 # v2.0.1
-
-      - name: Push containers to ECR
+      - name: Create or update Lambda function
+        id: lambda_url
         run: |
-          docker push $REGISTRY/$IMAGE:$PR_NUMBER
+          .github/workflows/scripts/create-lambda-function.sh \
+            "${{ matrix.lang }}" \
+            "${{ github.event.pull_request.number }}" \
+            "${{ env.FUNCTION_NAME }}" \
+            "${{ env.REGISTRY }}" \
+            "${{ env.IMAGE }}" \
+            "${{ env.ROLE_ARN }}"
+
+  build-and-push-staging-container:
+    needs: create-lambda-functions
+    runs-on: ubuntu-latest
+    outputs:
+      en_url: ${{ steps.hugo_config.outputs.en_url }}
+      fr_url: ${{ steps.hugo_config.outputs.fr_url }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
+          role-session-name: PRReviewEnv
+          aws-region: ${{ env.REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - name: Generate Hugo config
+        id: hugo_config
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          FUNCTION_URL_EN="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-en" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          FUNCTION_URL_FR="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-fr" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          .github/workflows/scripts/generate-hugo-config.sh '{"en_url":"'"$FUNCTION_URL_EN"'","fr_url":"'"$FUNCTION_URL_FR"'"}'
+          echo "en_url=$FUNCTION_URL_EN" >> "$GITHUB_OUTPUT"
+          echo "fr_url=$FUNCTION_URL_FR" >> "$GITHUB_OUTPUT"
+
+      - name: Build Hugo site
+        run: hugo --minify --environment staging
+
+      - name: Build and push Docker image
+        id: docker_build
+        env:
+          IMAGE_TAG: ${{ github.event.pull_request.number }}
+        run: |
+          # Build the image
+          docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
+          docker tag ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
+          
+          # Push both tags
+          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG
+          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
+          
+          # Set the output with the full image URI
+          echo "image=${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG" >> "$GITHUB_OUTPUT"
 
       - name: Delete old images
         run: |
@@ -56,14 +126,15 @@ jobs:
         run: docker logout $REGISTRY
 
   deploy-staging-images:
-    needs: build-and-push-staging-container
+    needs: [create-lambda-functions, build-and-push-staging-container]
+    runs-on: ubuntu-latest
     strategy:
       matrix:
-        lang: ["fr", "en"]
-    runs-on: ubuntu-latest
+        lang: [en, fr]
+
     steps:
-      - name: Set envs
-        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Configure AWS credentials using OIDC
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
@@ -72,37 +143,43 @@ jobs:
           role-session-name: PRReviewEnv
           aws-region: ${{ env.REGION }}
 
-      - name: Create/Update lambda function
+      - name: Update Lambda Function
         run: |
-          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1; then
-            aws lambda update-function-code \
-              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
-              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
-          else
-            aws lambda create-function \
-              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
-              --package-type Image \
-              --role $ROLE_ARN \
-              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER \
-              --environment Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }}} \
-              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
+          .github/workflows/scripts/create-lambda-function.sh \
+            "${{ matrix.lang }}" \
+            "${{ github.event.pull_request.number }}" \
+            "${{ env.FUNCTION_NAME }}" \
+            "${{ env.REGISTRY }}" \
+            "${{ env.IMAGE }}" \
+            "${{ env.ROLE_ARN }}"
 
-            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
-            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
-            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
-            aws logs create-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1
-            aws logs put-retention-policy --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --retention-in-days 7 > /dev/null 2>&1
-          fi
-
-      - name: Update PR
-        if: env.URL != ''
+      - name: Delete previous comments
+        # Only comment once for the PR
+        if: matrix.lang == 'en'
         uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
+            const { data: comments } = await github.rest.issues.listComments({...context.repo, issue_number: context.issue.number});
+            const comment = comments.find(comment => comment.user.type === "Bot" && comment.body.indexOf("Staging deployment complete!") > -1);
+            if (comment) {
+              await github.rest.issues.deleteComment({...context.repo, comment_id: comment.id});
+            }
+
+      - name: Comment PR with staging URLs
+        # Only comment once for the PR
+        if: matrix.lang == 'en'
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        with:
+          script: |
+            const urls = ${{ toJson(needs.create-lambda-functions.outputs.function_urls) }};
+            const comment = `## 🚀 Staging deployment complete!
+            
+            Preview your changes at:
+            - English: ${{ needs.build-and-push-staging-container.outputs.en_url }}
+            - French: ${{ needs.build-and-push-staging-container.outputs.fr_url }}`;
+            
             github.rest.issues.createComment({
+              ...context.repo,
               issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: `## :test_tube: Review environment (${{ matrix.lang }})\n${process.env.URL.slice(1, -1)}`
-            })
+              body: comment
+            });
