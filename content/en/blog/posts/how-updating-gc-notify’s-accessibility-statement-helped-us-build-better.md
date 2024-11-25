@@ -130,7 +130,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 <p>Sighted users could visually identify that there’s a button. But it did not work for users navigating by voice command, because their computers did not recognize the button.</p>
-</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="300" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png" alt="Screenshot of the previous “Choose a file” feature for uploading spreadsheets in GC Notify. A blue rectangle with white text looks like a button, but isn’t a real button." class="wp-image-1999 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before-300x117.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="300" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png" alt="Screenshot of the previous “Choose a file” feature for uploading spreadsheets in GC Notify. A blue rectangle with white text looks like a button, but isn’t a real button." class="wp-image-1999 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before-300x117.png 300w" sizes="auto, (max-width: 768px) 100vw, 768px" /></figure></div>
 
 
 
@@ -140,7 +140,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 <p>Users navigating by sight will not notice a difference between what the screen looked like “Before” and how it appears “Now”. But now voice technologies can identify the “Choose a file” feature and it functions as a button.<br><br>Our fix supports language accessibility and bilingualism standards. The button is customizable, making it easier to iterate in the future (<a href="https://github.com/cds-snc/notification-admin/blob/main/app/templates/components/file-upload.html#L34-L57" target="_blank" rel="noreferrer noopener">check out our code</a>).</p>
-</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="340" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png" alt="Screenshot of the current “Choose a file” feature for uploading spreadsheets in GC Notify. There’s a blue rectangle with white text that’s now coded as a button (but looks visually the same)." class="wp-image-1995 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After-300x133.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure></div>
+</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="340" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png" alt="Screenshot of the current “Choose a file” feature for uploading spreadsheets in GC Notify. There’s a blue rectangle with white text that’s now coded as a button (but looks visually the same)." class="wp-image-1995 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After-300x133.png 300w" sizes="auto, (max-width: 768px) 100vw, 768px" /></figure></div>
 </details>
 
 
