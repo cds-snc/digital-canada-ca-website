@@ -109,7 +109,7 @@ translationKey: blog-ircc-gcnotify
 
 
 
-<details class="wp-block-cds-snc-accordion"><summary>Example of IRCC notification in English, French, and Portuguese</summary><img loading="lazy" decoding="async" width="462" height="109" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG.png" alt="" class="wp-image-1912" style="width: 691px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG.png 462w, https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG-300x71.png 300w" sizes="(max-width: 462px) 100vw, 462px" />
+<details class="wp-block-cds-snc-accordion"><summary>Example of IRCC notification in English, French, and Portuguese</summary><img loading="lazy" decoding="async" width="462" height="109" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG.png" alt="" class="wp-image-1912" style="width: 691px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG.png 462w, https://articles.alpha.canada.ca/uploads/sites/25/2024/07/IRCC-logo-ENG-300x71.png 300w" sizes="auto, (max-width: 462px) 100vw, 462px" />
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
