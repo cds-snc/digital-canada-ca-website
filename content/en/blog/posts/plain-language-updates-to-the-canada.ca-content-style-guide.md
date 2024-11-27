@@ -163,7 +163,7 @@ translationKey: blog-plain-language-updates
 <p>We needed to start with the most important information: Be direct, brief, and write easy-to-scan content.</p>
 
 
-<img loading="lazy" decoding="async" width="698" height="752" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png" alt="Screenshot of the previous plain language table of contents. The content wasn't easy to navigate." class="wp-image-2104" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png 698w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2-278x300.png 278w" sizes="(max-width: 698px) 100vw, 698px" />
+<img loading="lazy" decoding="async" width="698" height="752" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png" alt="Screenshot of the previous plain language table of contents. The content wasn't easy to navigate." class="wp-image-2104" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png 698w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2-278x300.png 278w" sizes="auto, (max-width: 698px) 100vw, 698px" />
 
 
 <p class="has-small-font-size">Screenshot of the previous plain language table of contents. The content wasn&#8217;t easy to navigate.</p>
@@ -193,7 +193,7 @@ translationKey: blog-plain-language-updates
 </ul>
 
 
-<img loading="lazy" decoding="async" width="871" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png" alt="Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content. " class="wp-image-2094" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png 871w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-255x300.png 255w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-768x903.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2.png 1162w" sizes="(max-width: 871px) 100vw, 871px" />
+<img loading="lazy" decoding="async" width="871" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png" alt="Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content. " class="wp-image-2094" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png 871w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-255x300.png 255w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-768x903.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2.png 1162w" sizes="auto, (max-width: 871px) 100vw, 871px" />
 
 
 <p class="has-small-font-size">Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content.</p>
@@ -268,13 +268,13 @@ translationKey: blog-plain-language-updates
 
 <div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <h4 class="wp-block-heading" id="h-before-text-heavy-diagram"><strong>Before: Text-heavy diagram</strong></h4>
-</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="739" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-739x1024.png" alt="Screenshot of the previous pyramid diagram. It was hard to understand due to lots of text in the triangles." class="wp-image-2082 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-739x1024.png 739w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-216x300.png 216w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-768x1064.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng.png 1094w" sizes="(max-width: 739px) 100vw, 739px" /></figure></div>
+</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="739" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-739x1024.png" alt="Screenshot of the previous pyramid diagram. It was hard to understand due to lots of text in the triangles." class="wp-image-2082 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-739x1024.png 739w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-216x300.png 216w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng-768x1064.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-eng.png 1094w" sizes="auto, (max-width: 739px) 100vw, 739px" /></figure></div>
 
 
 
 <div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content">
 <h4 class="wp-block-heading" id="h-now-simple-clear-easy-to-understand-amp-apply">Now: Simple + clear = easy to understand &amp; apply</h4>
-</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="700" height="415" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en.png" alt="Screenshot of the updated pyramid diagram. It now has only a few words in the triangles, with more info organized outside the diagram." class="wp-image-2092 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en.png 700w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en-300x178.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure></div>
+</div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="700" height="415" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en.png" alt="Screenshot of the updated pyramid diagram. It now has only a few words in the triangles, with more info organized outside the diagram." class="wp-image-2092 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en.png 700w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramid-en-300x178.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure></div>
 
 
 
