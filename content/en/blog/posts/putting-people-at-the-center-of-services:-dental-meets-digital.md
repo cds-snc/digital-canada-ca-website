@@ -3,7 +3,7 @@ layout: blog
 title: 'Putting people at the center of services: Dental meets digital'
 description: >-
   We sat down with the Client Experience Office to chat about user research and the impact it had on the Canadian Dental Care Plan
-author: 'CXO team'
+author: 'Client Experience Office, Service Canada'
 date: '2024-11-27T15:20:47'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN.jpg
 image-alt: People providing feedback on an accessible digital service for dental care
