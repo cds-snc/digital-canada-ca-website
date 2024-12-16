@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_conducting_user_research_with_N
 image-alt: Eman et Jennifer regardent le canevas de proposition de valeur
 translationKey: conducting-user-research-with-NRCan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
+category: [ "donees", "recherche","developpement-logiciels" ]
 ---
 
 Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’ÉnerGuide, la solution semblait assez évidente: concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée.
