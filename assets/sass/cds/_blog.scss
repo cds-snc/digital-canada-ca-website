@@ -55,8 +55,13 @@
   }
 
   .text-container {
-    padding: 0.85rem 0 1.5rem 0;
+    padding: 0.85rem var( --gcds-container-spacing-0 ) var( --gcds-container-spacing-400 ) var( --gcds-container-spacing-0 );
+
+    &:has( .tags ) {
+      padding-bottom: var( --gcds-container-spacing-0 );
+    }
   }
+
   .blog-title {
     text-decoration: none;
   }
@@ -98,6 +103,23 @@
       font-size: 1rem;
       display: inline-block;
       text-decoration: underline;
+    }
+  }
+
+  .tags {
+    margin-top: var( --gcds-spacing-400 );
+
+    a {
+      color: var( --gcds-text-primary );
+      text-decoration: underline;
+    }
+
+    b {
+      font-weight: var( --gcds-font-weights-semibold );
+    }
+
+    p {
+      margin-bottom: var( --gcds-spacing-400 );
     }
   }
 

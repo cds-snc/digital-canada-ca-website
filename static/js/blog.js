@@ -60,7 +60,7 @@ function renderBlogResults(blogs) {
                     ${ paginatedBlogs[ i ].tags && paginatedBlogs[ i ].tags.length > 0 ? `
                     <div class="tags">
                         <p><b>Topics:</b>&nbsp;
-                        ${ paginatedBlogs[ i ].tags.map( tag => `<a href="/tags/${tag.toLowerCase().replace( /\s+/g, '-' )}/" class="tag">${tag}</a>`).join( ', ' )}
+                        ${ paginatedBlogs[ i ].tags.map( tag => `<a href="/tags/${tag.toLowerCase().replace( /\s+/g, '-' )}/" class="tag">${tag}</a>` ).join( ', ' )}
                         </p>
                     </div>
                      ` : '' }
