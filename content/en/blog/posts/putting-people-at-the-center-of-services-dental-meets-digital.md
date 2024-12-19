@@ -7,6 +7,7 @@ author: 'Client Experience Office, Service Canada'
 date: '2024-11-27T15:20:47'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN.jpg
 image-alt: People providing feedback on an accessible digital service for dental care
+tags: [ "Accessibility", "Inclusion", "Open Source", "Design & Communications", "Software Development", "Service Design", "Content Design", "Product Management", "GC Design System", "GC Notify", "Privacy Generator", "Sign-in Canada/ Digital Credentials" ]
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN.jpg
 translationKey: blog-dental-cxo-plan
 ---
