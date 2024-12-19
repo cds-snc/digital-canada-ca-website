@@ -57,13 +57,13 @@ function renderBlogResults(blogs) {
                         <span style="display: none">: ${ paginatedBlogs[ i ].title }</span> 
                         <gcds-icon name="fa-solid fa-chevron-right" size="inherit"></gcds-icon>
                     </gcds-button>
-
+                    ${ paginatedBlogs[ i ].tags && paginatedBlogs[ i ].tags.length > 0 ? `
                     <div class="tags">
-                        <p><b>Topics:</b>&nbsp;</p>
-                        ${ paginatedBlogs[ i ].tags.map(tag => `
-                            <a href="/tags/${tag.toLowerCase().replace( /\s+/g, '-' )}/" class="tag">${ tag }</a>
-                        `).join( '' )}
+                        <p><b>Topics:</b>&nbsp;
+                        ${ paginatedBlogs[ i ].tags.map( tag => `<a href="/tags/${tag.toLowerCase().replace( /\s+/g, '-' )}/" class="tag">${tag}</a>`).join( ', ' )}
+                        </p>
                     </div>
+                     ` : '' }
                 </div>
             </div>
         </li>`
