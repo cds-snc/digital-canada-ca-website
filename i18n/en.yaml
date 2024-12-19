@@ -226,7 +226,6 @@ product-url:
   other: "/product/"
 privacy-page-url:
   other: "/legal/privacy"
-
 fip-logo-alt:
   other: "Government of Canada logo"
 fip-header:
@@ -274,11 +273,11 @@ footer-contact-us:
 footer-jobs:
   other: "Jobs at CDS"
 footer-jobs-link:
-  other: "/jobs/"    
+  other: "/jobs/"
 footer-security:
   other: "Security"
 footer-security-link:
-  other: "/security-notice/"                
+  other: "/security-notice/"
 footer-privacy:
   other: "Privacy"
 footer-privacy-link:
@@ -308,4 +307,10 @@ meta-subject:
 homepage:
   other: "Home page"
 ga4-linkedin:
-  other: "EN_LinkedIn"    
+  other: "EN_LinkedIn"
+tagged-with:
+  other: "Tagged with"
+topics:
+  other: "Topics"
+view-tags:
+  other: "View posts tagged with:"
