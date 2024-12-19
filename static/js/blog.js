@@ -1,10 +1,10 @@
-// Test #4
 let blogIndex, blogResults;
 let blogRows = 6;
 let blogListResults = document.getElementById("blog-list-result")
 let myBlogLi = document.getElementById("my-blog-li")
 let loadMoreBlogButton = document.querySelector("#blog-btn")
 let jsMainNavButton = document.querySelector("#js-mainNavButton")
+let lang = document.documentElement.lang
 async function initBlogSearch() {
     try {
         const response = await fetch ("/index.json")
@@ -80,10 +80,10 @@ loadMoreBlogButton.addEventListener( "click", () => {
 function dateFormat( date ) {
     let formattedDate;
     const blogDate = new Date( date )
-    if ( document.documentElement.lang == 'en' ) {
+    if ( lang == 'en' ) {
         const options = { year: 'numeric', month: 'short', day: 'numeric' }
         formattedDate = blogDate.toLocaleDateString( 'en-us', options)
-    } else if ( document.documentElement.lang == 'fr' ) {
+    } else if ( lang == 'fr' ) {
         const options = { year: 'numeric', month: 'long', day: 'numeric' }
         formattedDate = blogDate.toLocaleDateString( 'fr-ca', options )
     }
@@ -94,10 +94,10 @@ function dateFormat( date ) {
 function readFullPostTranslation() {
     let readFullPost;
 
-    if ( document.documentElement.lang == 'en' ) {
+    if ( lang == 'en' ) {
         return 'Read full post'
     }
-    else if ( document.documentElement.lang == 'fr' ) {
+    else if ( lang == 'fr' ) {
         return 'Lire l’intégralité du billet'
     }
 }
