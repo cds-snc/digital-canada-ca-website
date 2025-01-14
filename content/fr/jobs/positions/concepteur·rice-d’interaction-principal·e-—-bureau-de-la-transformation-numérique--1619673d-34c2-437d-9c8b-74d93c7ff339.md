@@ -32,7 +32,7 @@ Vous concevrez des interactions intuitives et simples qui permettront aux utilis
 L’objectif des concepteur·rice·s d'interaction est de déterminer les meilleurs moyens pour les utilisateurs d'interagir avec les services, du déroulement global aux détails des éléments de conception. Les concepteur·trice·s d’interaction observent et interprètent les interactions des utilisateur·trice·s durant les tests d’utilisabilité et aident à rendre les observations issues de la recherche en exigences de conception.
 
 
-Il s’agit d’un poste à durée déterminée d’un an classé IS-05 dans le groupe des [Services d'information (IS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#rates-is) à nomination impérative bilingue (BBB). Ce poste entièrement en télétravail est ouvert aux candidats et candidates de tout le pays.  La priorité d’embauche sera accordée aux candidats et candidates qui sont déjà des fonctionnaires du gouvernement fédéral.
+Il s’agit d’un poste à durée déterminée d’un an classé IS-05 dans le groupe des [Services d'information (IS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#rates-is) à nomination impérative bilingue (BBB). Ce poste entièrement en télétravail est ouvert aux candidats et candidates de tout le pays.  La priorité d’embauche sera accordée aux candidats et candidates qui sont déjà des fonctionnaires du gouvernement fédéral.
 
 
 **Fonctions et responsabilités principales :**
