@@ -34,7 +34,7 @@ You will design intuitive, simple interactions that enable users to complete tas
 Interaction designers determine the best ways for users to interact with services, from overall flow to the details of individual design elements. They observe and interpret user interactions during usability testing and translate research insights into actionable design requirements.
 
 
-This role is a 1 year-term position and is classified as an IS-05 in the[ Information Services Group (IS)](https://www.canada.ca/en/revenue-agency/corporate/careers-cra/information-moved/pay-rates/information-services-group.html), bilingual imperative (BBB). This fully remote position is open to applicants located anywhere in the country.  For this opportunity, priority will be given to candidates currently employed by the Federal Public Service.
+This role is a 1 year-term position and is classified as an IS-05 in the[ Information Services Group (IS)](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#rates-is), bilingual imperative (BBB). This fully remote position is open to applicants located anywhere in the country.  For this opportunity, priority will be given to candidates currently employed by the Federal Public Service.
 
 **Principal duties and responsibilities:**
 
