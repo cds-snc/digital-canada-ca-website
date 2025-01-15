@@ -4,7 +4,7 @@ title: 'Digital service delivery: End-to-end and front-to-back (part 1)'
 description: >-
   In this first in a 2-part series, Beth Fox (Manager of Strategic Data and Reporting, CDS) maps the end-to-end digital service delivery process
 author: 'Beth Fox (she/her), Manager of Strategic Data and Reporting, CDS'
-date: '2025-01-14T13:31:54'
+date: '2025-01-15T10:22:20'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2.jpg
 image-alt: A flashlight highlights the steps people are navigating through to find what they’re looking for.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2.jpg
@@ -154,10 +154,10 @@ translationKey: blog-e2e-f2b1
 </ul>
 
 
-<img loading="lazy" decoding="async" width="1024" height="448" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-1024x448.jpg" alt="A map showing the 8 steps in the end-to-end service delivery process. 1, Awareness and learning about programs. 2, Application and providing requirements. 3, Waiting to hear back from government. 4, Meeting additional requirements. 5, Getting a decision. 6, Appealing a decision. 7, Receiving or enrolling in the benefit. 8, Renewals, updates, or withdrawing from a program. " class="wp-image-2364" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-1024x448.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-300x131.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-768x336.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-1536x671.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map-2048x895.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="2438" height="1065" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN.jpg" alt="A map showing the 8 steps in the end-to-end service delivery process. 1, Awareness and learning about programs. 2, Application and providing requirements. 3, Waiting to hear back from government. 4, Meeting additional requirements. 5, Getting a decision. 6, Appealing a decision. 7, Receiving or enrolling in the benefit. 8, Renewals, updates, or withdrawing from a program. " class="wp-image-2412" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN.jpg 2438w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN-300x131.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN-1024x447.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN-768x335.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN-1536x671.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2025/01/CDS_Blog_Post_-_E2EF2B_-_Map_-_EN-2048x895.jpg 2048w" sizes="auto, (max-width: 2438px) 100vw, 2438px" />
 
 
-<p style="font-size:14px">Caption: A map showing the 8 steps in the end-to-end service delivery process. 1: Awareness and learning about programs. 2: Application and providing requirements. 3: Waiting to hear back from government. 4: Meeting additional requirements. 5: Getting a decision. 6: Appealing a decision. 7: Receiving or enrolling in the benefit. 8: Renewals, updates, or withdrawing from a program.</p>
+<p style="font-size:14px">Caption: A map showing the 8 steps in the end-to-end service delivery journey. 1: Awareness and learning about programs. 2: Application and providing requirements. 3: Waiting to hear back from government. 4: Meeting additional requirements. 5: Getting a decision. 6: Appealing a decision. 7: Receiving or enrolling in the benefit. 8: Renewals, updates, or withdrawing from a program.</p>
 
 
 
