@@ -312,4 +312,10 @@ meta-subject:
 homepage:
   other: "Page d’accueil"
 ga4-linkedin:
-  other: "FR_LinkedIn"        
+  other: "FR_LinkedIn"
+tagged-with:
+  other: "Balisé avec&nbsp;"
+topics:
+  other: "Sujets&nbsp;"
+view-tags:
+  other: "Voir les billets balisés avec:"
