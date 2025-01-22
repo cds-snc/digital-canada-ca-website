@@ -9,7 +9,7 @@ about-this-site:
 aria-canada-website:
   other: "Gouvernement du Canada"
 aria-cds-website:
-  other: "Accéder à la page d'accueil"  
+  other: "Accéder à la page d'accueil"
 blogue:
   other: "Blogue"
 canada-ca-link:
@@ -27,7 +27,7 @@ email:
 ga:
   other: 'UA-102484926-2'
 ga4:
-  other: 'G-GY7PEWBY0K'  
+  other: 'G-GY7PEWBY0K'
 goc:
   other: "Gouvernement du Canada"
 goc-symbol:
@@ -91,7 +91,7 @@ read-all-blogs:
 rss-feed-url:
   other: "/blogue/index.xml"
 skip-to-content:
-  other: "Passer au contenu principal"  
+  other: "Passer au contenu principal"
 terms-and-conditions:
   other: "Modalités"
 resources:
@@ -109,7 +109,7 @@ roadmap:
 how-cds-started:
   other: "Les débuts du SNC"
 past-projects:
-  other: "Anciens projets"   
+  other: "Anciens projets"
 terms-link:
   other: "/transparence/avis/"
 accessibility-link:
@@ -121,7 +121,7 @@ roadmap-link:
 how-cds-started-link:
   other: "https://numerique.canada.ca/les-debuts-du-snc/"
 past-projects-link:
-  other: "/anciens-projets/"  
+  other: "/anciens-projets/"
 top-of-page:
   other: "Haut de la page"
 twitter:
@@ -169,11 +169,11 @@ menu:
 footer-links:
   other: "Liens en bas de page"
 filter-search:
-  other: "Filtrer par type"      
+  other: "Filtrer par type"
 search:
   other: "Rechercher"
 enter-search:
-  other: "Que recherchez-vous?"   
+  other: "Que recherchez-vous?"
 load-more:
   other: "Afficher plus" 
 close:
@@ -183,9 +183,9 @@ results:
 search-site:
   other: "Rechercher sur le site"
 how-we-can-help:
-  other: "Comment nous pouvons vous aider"     
+  other: "Comment nous pouvons vous aider"
 product-image-alt:
-  other: "Une personne utilisant plusieurs outils numériques offrant différentes fonctionnalités pour faire fonctionner un service en ligne."  
+  other: "Une personne utilisant plusieurs outils numériques offrant différentes fonctionnalités pour faire fonctionner un service en ligne."
 join-our-team:
   other: "Joignez-vous à notre équipe"
 join-our-team-description:
@@ -193,7 +193,7 @@ join-our-team-description:
 job-postings:
   other: "Offres d’emploi"
 read-our-blog-posts:
-  other: "Lire tous les billets"  
+  other: "Lire tous les billets"
 careers-tag:
   other: "carrieres-tag" 
 read-our-blog-tag:
@@ -230,7 +230,6 @@ product-url:
   other: "/produits/"
 privacy-page-url:
   other: "/transparence/confidentialite/"
-
 fip-logo-alt:
   other: "Symbole du gouvernement du Canada"
 fip-header:
@@ -238,7 +237,7 @@ fip-header:
 homepage-built-by-title:
   other: "Des outils créés par le gouvernement, pour le gouvernement."
 homepage-built-by-list-one:
-  other: "Sécurité"              
+  other: "Sécurité"
 homepage-built-by-list-two:
   other: "Accessibilité"
 homepage-built-by-list-three:
@@ -250,11 +249,11 @@ homepage-built-by-list-five:
 homepage-built-by-list-six:
   other: "Maintenance par nos équipes internes"
 homepage-built-by-image-alt:
-  other: "Un téléphone affichant diverses applications. Une clé est posée devant le téléphone et un cadenas flotte devant l’écran."   
+  other: "Un téléphone affichant diverses applications. Une clé est posée devant le téléphone et un cadenas flotte devant l’écran."
 homepage-used-by-hundred-title:
-  other: "Des outils utilisés par des centaines de fonctionnaires, notamment dans les entités suivantes : "             
+  other: "Des outils utilisés par des centaines de fonctionnaires, notamment dans les entités suivantes : "
 homepage-used-by-hundred-list-one:
-  other: "Immigration, Réfugiés et Citoyenneté Canada"  
+  other: "Immigration, Réfugiés et Citoyenneté Canada"
 homepage-used-by-hundred-list-two:
   other: "Emploi et développement social Canada"
 homepage-used-by-hundred-list-three:
@@ -264,9 +263,9 @@ homepage-used-by-hundred-list-four:
 homepage-used-by-hundred-list-five:
   other: "Santé Canada"
 homepage-used-by-image-alt:
-  other: "Une personne debout devant une image de la Terre. Autour d’elle se trouvent des portraits de gens connectés par un réseau de lignes."   
+  other: "Une personne debout devant une image de la Terre. Autour d’elle se trouvent des portraits de gens connectés par un réseau de lignes."
 contact-cds:
-  other: "Gardons le contact"          
+  other: "Gardons le contact"
 newsletter:
   other: "Infolettre"
 linkedin:
@@ -274,42 +273,48 @@ linkedin:
 footer-heading:
   other: "Service numérique canadien (SNC)"
 footer-contact-us:
-  other: "Contactez le SNC"  
+  other: "Contactez le SNC"
 footer-jobs:
   other: "Emplois au SNC"
 footer-jobs-link:
-  other: "/emplois/"   
+  other: "/emplois/"
 footer-security:
   other: "Sécurité"
 footer-security-link:
-  other: "/avis-de-securite/"                 
+  other: "/avis-de-securite/"
 footer-privacy:
   other: "Confidentialité"
 footer-privacy-link:
-  other: "/confidentialite/"  
+  other: "/confidentialite/"
 footer-terms:
   other: "Avis"
 footer-terms-link:
-  other: "/avis/"  
+  other: "/avis/"
 footer-visit-canada-ca:
   other: "Visitez Canada.ca"
 footer-visit-canada-ca-link:
-  other: "https://www.canada.ca/fr.html"  
+  other: "https://www.canada.ca/fr.html"
 esdc:
   other: "Emploi et Développement social Canada"
 aa-language:
-  other: "fra"  
+  other: "fra"
 meta-description:
   other: "Service numérique canadien, Des produits numériques pour le gouvernement du Canada, Envoyez des courriels et des messages texte automatisés, Créez des formulaires en ligne accessibles, Composants réutilisables conformes aux normes du Web, Des outils créés par le gouvernement, pour le gouvernement"
 meta-keywords:
-  other: "Service numérique canadien, produits de plateforme, Notification GC, Formulaires GC, GC Design System, Articles GC, Générateur de confidentialité, Alerte COVID, Explorez les avantages et les services, Les justificatifs numériques,"                        
+  other: "Service numérique canadien, produits de plateforme, Notification GC, Formulaires GC, GC Design System, Articles GC, Générateur de confidentialité, Alerte COVID, Explorez les avantages et les services, Les justificatifs numériques,"
 meta-title:
   other: "Page d'accueil"
 meta-identifier:
   other: "Service_numérique_canadien"
 meta-subject:
-  other: "GC numérique, Service numérique canadien, services numériques, numérique du gouvernement, plateform, source ouverte; accessibilité, nuage, API, egile, essais,"                                 
+  other: "GC numérique, Service numérique canadien, services numériques, numérique du gouvernement, plateform, source ouverte; accessibilité, nuage, API, egile, essais,"
 homepage:
   other: "Page d’accueil"
 ga4-linkedin:
-  other: "FR_LinkedIn"        
+  other: "FR_LinkedIn"
+tagged-with:
+  other: "Balisé avec&nbsp;"
+topics:
+  other: "Sujets&nbsp;"
+view-tags:
+  other: "Voir les billets balisés avec:"
