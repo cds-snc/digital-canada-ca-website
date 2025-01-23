@@ -2,7 +2,7 @@
 layout: blog
 title: '5 conseils pour faire de vos présentations de véritables bijoux'
 description: >-
-  Philippe Tardif, chef de marque au SNC, nous fait part de cinq conseils sur la façon de créer et — plus important encore — livrer des présentations qui se démarquent.
+  Philippe Tardif, chef de marque au SNC, nous fait part de cinq conseils sur la façon de créer et — plus important encore — livrer des présentations qui se démarquent. 
 author: 'Philippe Tardif, chef de marque au SNC'
 date: '2022-08-18T12:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/banner_making_presentations_memorable_f9e0ae0042.jpeg
