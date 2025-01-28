@@ -1,0 +1,77 @@
+{{ define "title" }}
+<div class="page-banner standard">
+  <div class="container">
+    <div class="page-banner--title">
+      <h1>{{ i18n "tagged-with" }}: {{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+  <div class="row">
+    <section class="col-md-8">
+      <ul id ="blog-list-result" class="blogpost-list">
+        {{ $currentTag := .Title}}
+        {{ range .Pages }}
+        {{ if in .Params.tags $currentTag }}
+        <li class="post">
+          <article class="post-container">
+            <div class="text-container">
+              <div style="margin-top: 1rem;">
+                <a href="{{ .Permalink }}" class="blog-title">
+                  <h2 style="font-size: 2.2rem; font-weight:600;">{{ .Title | markdownify }}</h2>
+                </a>
+              </div>
+              <div class="date">
+                <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "January 2, 2006" }}</time>
+              </div>
+              <div class="author">
+                <span>{{ .Params.author }}</span>
+              </div>
+              <div class="summary">
+                <p>{{ .Params.description }}</p>
+              </div>
+              <gcds-button size="small" button-role="secondary" button-id="read-full-post-btn" type="link" href="{{ .Permalink }}">
+                {{ i18n "read-more" }}
+                <span style="display: none;">: {{ .Title }}</span>
+                <gcds-icon name="fa-solid fa-chevron-right" | size="inherit"></gcds-icon>
+              </gcds-button>
+              <div class="tags">
+                <p><b>{{ i18n "topics" }}:</b>&nbsp;
+                  {{ $tags := .Params.tags }}
+                  {{ range $index, $tag := $tags }}
+                  <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ if ne (add $index 1) (len $tags) }}, {{ end }}
+                  {{ end }}
+                </p>
+              </div>
+            </div>
+          </article>
+        </li>
+        {{ end }}
+        {{ end }}
+      </ul>
+      <div class="container" style="display: flex; flex-direction: column;">
+        <div style="margin-left: auto; margin-right: auto; margin-bottom: 2rem;">
+          <gcds-button id="blog-btn" button-id="load-more-blog-btn">{{ i18n "load-more"}} <gcds-icon name="fa-solid fa-chevron-right fa-rotate-90"></gcds-icon></gcds-button>
+        </div>
+      </div>
+    </section>
+    <aside class="col-md-4">
+      <div class="container">
+        <div class="row">
+          <h2 class="h3" style="margin-top: 4rem;">{{ i18n "view-tags" }}</h2>
+          <ul class="blogpost-list lst-spcd">
+            {{ range .Site.Taxonomies.tags }}
+            <li>
+              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}

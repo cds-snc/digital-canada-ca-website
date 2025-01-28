@@ -29,7 +29,7 @@ email:
 ga:
   other: 'UA-102484926-1'
 ga4:
-  other: 'G-3WTCYDQ14P'  
+  other: 'G-3WTCYDQ14P'
 goc:
   other: "Government of Canada"
 goc-symbol:
@@ -121,7 +121,7 @@ roadmap-link:
 how-cds-started-link:
   other: "/how-cds-started/"
 past-projects-link:
-  other: "/past-projects/"  
+  other: "/past-projects/"
 top-of-page:
   other: "Top of Page"
 twitter:
@@ -129,7 +129,7 @@ twitter:
 view-product:
   other: "View this product"
 careers:
-  other: "Careers"  
+  other: "Careers"
 partnerships:
   other: "Partnerships"
 more-posts:
@@ -165,23 +165,23 @@ menu:
 footer-links:
   other: "Footer links"
 filter-search:
-  other: "Filter by type"      
+  other: "Filter by type"
 search:
   other: "Search" 
 enter-search:
   other: "Enter your search"
 load-more:
-  other: "Load more"    
+  other: "Load more"
 close:
   other: "Close"
 results:
   other: "results"
 search-site:
-  other: "Search on the website"    
+  other: "Search on the website"
 how-we-can-help:
-  other: "How we can help"      
+  other: "How we can help"
 product-image-alt:
-  other: "One person using multiple digital tools with different functions to run an online service."  
+  other: "One person using multiple digital tools with different functions to run an online service."
 join-our-team:
   other: "Join our team"
 join-our-team-description:
@@ -189,7 +189,7 @@ join-our-team-description:
 job-postings:
   other: "Job postings"
 read-our-blog-posts:
-  other: "Read our blog posts"     
+  other: "Read our blog posts"
 careers-tag:
   other: "careers-tag" 
 read-our-blog-tag:
@@ -215,7 +215,7 @@ product-checklist-item-five:
 product-checklist-item-six:
   other: "Bilingual"
 product-checklist-item-seven:
-  other: "Free to use"  
+  other: "Free to use"
 product-title:
   other: "Product"
 product-homepage-description:
@@ -226,7 +226,6 @@ product-url:
   other: "/product/"
 privacy-page-url:
   other: "/legal/privacy"
-
 fip-logo-alt:
   other: "Government of Canada logo"
 fip-header:
@@ -234,7 +233,7 @@ fip-header:
 homepage-built-by-title:
   other: "Built by government for government"
 homepage-built-by-list-one:
-  other: "Secure"              
+  other: "Secure"
 homepage-built-by-list-two:
   other: "Accessible"
 homepage-built-by-list-three:
@@ -246,11 +245,11 @@ homepage-built-by-list-five:
 homepage-built-by-list-six:
   other: "Supported by our in house team"
 homepage-built-by-image-alt:
-  other: "A phone displaying various applications. A key lays by the phone and a lock hovers in front."  
+  other: "A phone displaying various applications. A key lays by the phone and a lock hovers in front."
 homepage-used-by-hundred-title:
-  other: "Used by hundreds of public servants, including those from:"             
+  other: "Used by hundreds of public servants, including those from:"
 homepage-used-by-hundred-list-one:
-  other: "Immigration, Refugees and Citizenship Canada"  
+  other: "Immigration, Refugees and Citizenship Canada"
 homepage-used-by-hundred-list-two:
   other: "Employment and Social Development Canada"
 homepage-used-by-hundred-list-three:
@@ -260,7 +259,7 @@ homepage-used-by-hundred-list-four:
 homepage-used-by-hundred-list-five:
   other: "Health Canada"
 homepage-used-by-image-alt:
-  other: "A person standing in front of an image of earth. Around this person are portraits of people connected by a network of lines."  
+  other: "A person standing in front of an image of earth. Around this person are portraits of people connected by a network of lines."
 contact-cds:
   other: "Connect with us" 
 newsletter:
@@ -274,23 +273,23 @@ footer-contact-us:
 footer-jobs:
   other: "Jobs at CDS"
 footer-jobs-link:
-  other: "/jobs/"    
+  other: "/jobs/"
 footer-security:
   other: "Security"
 footer-security-link:
-  other: "/security-notice/"                
+  other: "/security-notice/"
 footer-privacy:
   other: "Privacy"
 footer-privacy-link:
-  other: "/privacy/"  
+  other: "/privacy/"
 footer-terms:
   other: "Terms and Conditions"
 footer-terms-link:
-  other: "/terms/"  
+  other: "/terms/"
 footer-visit-canada-ca:
   other: "Visit Canada.ca"
 footer-visit-canada-ca-link:
-  other: "https://www.canada.ca/en.html"  
+  other: "https://www.canada.ca/en.html"
 esdc:
   other: "Employment and Social Development Canada"
 aa-language:
@@ -298,14 +297,20 @@ aa-language:
 meta-description:
   other: "Canadian Digital Service, Digital products for the Government of Canada, Send automated email and text notifications, Create accessible online forms, Reusable components and web standards, Built by government for government"
 meta-keywords:
-  other: "Canadian Digital Service, Platform products, GC Notify, GC Forms, GC Design System, GC Articles, Privacy generator, COVID Alert, Find benefits and services, Digital Credentials, Sign-in Canada"                        
+  other: "Canadian Digital Service, Platform products, GC Notify, GC Forms, GC Design System, GC Articles, Privacy generator, COVID Alert, Find benefits and services, Digital Credentials, Sign-in Canada"
 meta-title:
   other: "Home"
 meta-identifier:
   other: "Canadian_Digital_Service"
 meta-subject:
-  other: "GC digital, Canadian Digital Service, digital services, digital government, platform, open source, accessibility, cloud, API, agile, testing"        
+  other: "GC digital, Canadian Digital Service, digital services, digital government, platform, open source, accessibility, cloud, API, agile, testing"
 homepage:
   other: "Home page"
 ga4-linkedin:
-  other: "EN_LinkedIn"    
+  other: "EN_LinkedIn"
+tagged-with:
+  other: "Tagged with"
+topics:
+  other: "Topics"
+view-tags:
+  other: "View posts tagged with:"
