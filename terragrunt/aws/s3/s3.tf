@@ -1,5 +1,5 @@
 module "s3_buckets" {
-  source      = "github.com/cds-snc/terraform-modules?ref=v9.6.8"
+  source      = "github.com/cds-snc/terraform-modules//S3?ref=v9.6.8"
   for_each    = var.buckets
   bucket_name = each.key
 
