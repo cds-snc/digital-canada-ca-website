@@ -48,6 +48,10 @@ languages:
           name: Blog
           url: /blog/
           weight: 3
+        - identifier: jobs
+          name: Jobs at CDS
+          url: /jobs/
+          weight: 4
 
   fr:
     languageCode: fr-CA
@@ -79,6 +83,10 @@ languages:
           name: Blogue
           url: /blogue/
           weight: 3
+        - identifier: emplois
+          name: Emplois au SNC
+          url: /emplois/
+          weight: 4
 
 outputs:
   home: [HTML, RSS, JSON]
