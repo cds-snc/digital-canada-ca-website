@@ -1,5 +1,5 @@
 module "log_bucket" {
-  source            = "github.com/cds-snc/terraform-modules?ref=v9.6.8"
+  source            = "github.com/cds-snc/terraform-modules//S3_log_bucket?ref=v9.6.8"
   bucket_name       = "cds-website-waf-bucket-logs"
   billing_tag_value = var.billing_code
 }
