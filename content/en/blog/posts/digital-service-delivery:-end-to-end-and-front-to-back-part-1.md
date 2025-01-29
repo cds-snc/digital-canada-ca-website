@@ -173,7 +173,7 @@ translationKey: blog-e2e-f2b1
 
 
 
-<p><strong>Now that we’ve explored the linear steps for end to end service delivery, in our next post we’ll explore our definition of the “front-to-back” layers that enable delivery.</strong> These include everything from the public facing “front of house” to the deeper layers of people, processes, and technology that are often behind the scenes, but are equally critical to delivering great services.&nbsp;&nbsp;</p>
+<p><strong>Now that we’ve explored the linear steps for end to end service delivery, in <a href="https://digital.canada.ca/2025/01/16/digital-service-delivery-end-to-end-and-front-to-back-part-2/">our next post</a> we’ll explore our definition of the “front-to-back” layers that enable delivery.</strong> These include everything from the public facing “front of house” to the deeper layers of people, processes, and technology that are often behind the scenes, but are equally critical to delivering great services.  </p>
 
 
 
