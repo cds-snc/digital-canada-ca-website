@@ -1,0 +1,18 @@
+{{ define "title" }}
+    <div class="page-banner sorry-error">
+        <div class="container">
+            <div class="page-banner--title">
+                <h1>{{ i18n "not-found" }}</h1>
+            </div>
+        </div>
+    </div>
+{{ end }}
+
+{{ define "main"}}
+    <div class="container">
+        <div class="col-md-10 form-sub-section">
+            {{ $path := printf "%s%s%s" "404." (string ($.Site.Language)) ".html" }}
+            {{ partial  $path }}
+        </div>
+    </div>
+{{ end }}
