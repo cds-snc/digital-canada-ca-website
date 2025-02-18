@@ -1,0 +1,13 @@
+<!-- layouts/partials/topic-sub-pages.html -->
+<section class="topic-sub-pages">
+  <h2>Topic Sub-pages</h2>
+  <div class="grid">
+    {{ range .Params.sub_pages }}
+      <div class="card">
+        <div class="icon"></div>
+        <h3>{{ .title }}</h3>
+        <p>{{ .description }}</p>
+      </div>
+    {{ end }}
+  </div>
+</section>

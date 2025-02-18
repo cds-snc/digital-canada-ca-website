@@ -1,0 +1,9 @@
+<!-- layouts/partials/sidebar.html -->
+<nav class="sidebar">
+  <h2>{{ .Title }}</h2>
+  <ul>
+    {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

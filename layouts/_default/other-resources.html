@@ -1,0 +1,12 @@
+<!-- layouts/partials/other-resources.html -->
+<section class="other-resources">
+  <h2>Other Resources</h2>
+  <ul>
+    {{ range .Params.other_resources }}
+      <li>
+        <a href="{{ .url }}" target="_blank">{{ .title }}</a>
+        <p>{{ .description }}</p>
+      </li>
+    {{ end }}
+  </ul>
+</section>
