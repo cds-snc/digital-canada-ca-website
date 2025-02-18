@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="sd-layout-container">
+  {{ partial "sd-sidebar.html" . }}
+  
+  <main class="sd-main-content">
+    <h1>{{ .Title }}</h1>
+    
+    {{ with .Params.intro }}
+    <div class="sd-content-intro">
+      {{ . | markdownify }}
+    </div>
+    {{ end }}
+    
+    <div class="sd-content">
+      {{ .Content }}
+    </div>
+    
+    {{ if .Params.other_resources }}
+      {{ partial "sd-other-resources.html" . }}
+    {{ end }}
+    
+    {{ partial "sd-feedback.html" . }}
+  </main>
+</div>
+{{ end }}

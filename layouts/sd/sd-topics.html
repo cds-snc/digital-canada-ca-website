@@ -1,0 +1,40 @@
+<!-- layouts/topics/sd-topic.html -->
+{{ define "main" }}
+<div class="sd-layout-container">
+  {{ partial "sd-sidebar.html" . }}
+  
+  <main class="sd-main-content">
+    <h1>{{ .Title }}</h1>
+    
+    {{ with .Params.intro_text }}
+    <div class="sd-topic-intro">
+      {{ . | markdownify }}
+    </div>
+    {{ end }}
+    
+    <div class="sd-topic-content">
+      {{ .Content }}
+    </div>
+    
+    {{ if .Params.sub_pages }}
+    <section class="sd-topic-sub-pages">
+      <h2>Related Content</h2>
+      <div class="grid">
+        {{ range .Pages }}
+        <div class="card">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description }}</p>
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+    
+    {{ if .Params.other_resources }}
+      {{ partial "sd-other-resources.html" . }}
+    {{ end }}
+    
+    {{ partial "sd-feedback.html" . }}
+  </main>
+</div>
+{{ end }}
