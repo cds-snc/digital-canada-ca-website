@@ -1,43 +1,80 @@
-{{ define "index" }}
-
-<!-- Illustrations by StorySet - https://storyset.com/` -->
-
-
-<section class="partnership-products">
-  {{ $home_products := where .Site.Pages "Section" "==" "our-products"}}
-  <div class="container">
-    <div class="row equal">
-      {{ range $prod_index, $prod := after 1 $home_products}}
-      {{ if and (ne $prod_index 0) (eq (mod $prod_index 2) 0) (ne .Params.description nil)}}
-    </div>
-    <div class="row equal">
-      {{ end }}
-      <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
-        <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
-          img-src="{{ .Params.image }}" imgAlt="{{ .Params.imageAlt }}" data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
+{{ define "renderSection" }}
+{{ $sectionTitle := .sectionTitle }}
+{{ $products := .products }}
+{{ if $products }}
+  <section class="container">
+    <h2>{{ $sectionTitle }}</h2>
+    
+    <!-- Group products into rows of 2 -->
+    {{ $rowCount := div (len $products) 2 }}
+    {{ if ne (mod (len $products) 2) 0 }}
+      {{ $rowCount = add $rowCount 1 }}
+    {{ end }}
+    
+    {{ range $row_index := seq 0 (sub $rowCount 1) }}
+      <div class="row equal">
+        {{ $startIdx := mul $row_index 2 }}
+        {{ $endIdx := math.Min (add $startIdx 2) (len $products) }}
+        
+        {{ range $i := seq $startIdx (sub $endIdx 1) }}
+          {{ with index $products $i }}
+            {{ if ne .Params.description nil }}
+              <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
+                <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
+                  data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
       </div>
+    {{ end }}
+  </section>
+{{ end }}
+{{ end }}
 
-      {{end}}
-    </div>
+{{ define "index" }}
+<!-- Illustrations by StorySet - https://storyset.com/` -->
+<section class="partnership-products">
+  <h2 class="wb-inv">{{ i18n "homepage-section-title" }}</h2>
+  {{ $home_products := where .Site.Pages "Section" "==" "our-products" }}
+  
+  {{ $sectionOne := slice }}
+  {{ $sectionTwo := slice }}
+  {{ $sectionThree := slice }}
+  {{ $sectionFour := slice }}
+  
+  {{ range $home_products }}
+    {{ if and (ge .Weight 2) (le .Weight 3) }}
+      {{ $sectionOne = $sectionOne | append . }}
+    {{ else if and (ge .Weight 4) (le .Weight 6) }}
+      {{ $sectionTwo = $sectionTwo | append . }}
+    {{ else if and (ge .Weight 7) (le .Weight 8) }}
+      {{ $sectionThree = $sectionThree | append . }}
+    {{ else if and (ge .Weight 9) (le .Weight 10) }}
+      {{ $sectionFour = $sectionFour | append . }}
+    {{ end }}
+  {{ end }}
 
+  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-one") "products" $sectionOne) }}
+  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-two") "products" $sectionTwo) }}
+  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-three") "products" $sectionThree) }}
+  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-four") "products" $sectionFour) }}
 
-  </div>
   <div>
     <div class="first-list">
       <div class="container">
         <!--  -->
         <div class="row built-by" >
           <div class="col-xs-12">
-            <img src="/img/cds/homepage-built-by-gov.svg" alt="{{ i18n "homepage-built-by-image-alt" }}" />
+            <img src="/img/cds/homepage-built-by-gov.svg" alt='{{ i18n "homepage-built-by-image-alt" }}' />
           </div>
 
           <div class="col-xs-12">
-            <h2>{{ i18n "homepage-built-by-title" }}</h2>
+            <h3>{{ i18n "homepage-built-by-title" }}</h3>
             <ul>
               <li> {{ i18n "homepage-built-by-list-one" }}</li>
               <li> {{ i18n "homepage-built-by-list-two" }}</li>
               <li> {{ i18n "homepage-built-by-list-three" }}</li>
-              <li> {{ i18n "homepage-built-by-list-four" }}</li>
               <li> {{ i18n "homepage-built-by-list-five" }}</li>
               <li> {{ i18n "homepage-built-by-list-six" }}</li>
             </ul>
@@ -45,30 +82,7 @@
         </div>
       </div>
     </div>
-    <div class="second-list">
-      <div class="container">
-
-        <div class="row built-by">
-          <div class="col-xs-12">
-            <h2>{{ i18n "homepage-used-by-hundred-title" }}</h2>
-            <ul>
-              <li>{{ i18n "homepage-used-by-hundred-list-one" }}</li>
-              <li>{{ i18n "homepage-used-by-hundred-list-two" }}</li>
-              <li>{{ i18n "homepage-used-by-hundred-list-three" }}</li>
-              <li>{{ i18n "homepage-used-by-hundred-list-four" }}</li>
-              <li>{{ i18n "homepage-used-by-hundred-list-five" }}</li>
-            </ul>
-          </div>
-          <div>
-            <img src="/img/cds/homepage-used-by-hundreds.svg" alt="{{ i18n "homepage-used-by-image-alt" }}" />
-          </div>
-        </div>
-        
-      </div>
-    </div>
   </div>
-
-
 </section>
 
 {{ end }}
