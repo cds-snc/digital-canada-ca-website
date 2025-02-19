@@ -1,0 +1,17 @@
+{{ if isset $.Page.Params "topic" }}
+    <gcds-grid tag="article" columns-desktop="1fr 1fr" columns-tablet="1fr 1fr" columns="1fr">
+{{ else }}
+    <gcds-grid tag="article" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" columns="1fr">
+{{ end }}
+    {{ range where .Site.RegularPages ".Params.Topic" .Params.topics }}
+        <gcds-card
+            card-title-tag="h3"
+            card-title="{{ .Title }}"
+            href="{{ .Permalink }}"
+            description="{{ .Description }}"
+            img-src="/img/toolkit/agile.svg"
+            img-alt="alt for this image"
+        >
+        </gcds-card>
+    {{ end }}
+</gcds-grid>

@@ -1,0 +1,14 @@
+{{ if isset $.Page.Params "topic" }}
+<gcds-grid tag="article" columns-desktop="1fr 1fr" columns-tablet="1fr 1fr" columns="1fr">
+{{ else }}
+<gcds-grid tag="article" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" columns="1fr">
+{{ end }}
+    {{ range $.Page.Params.resources }}
+        <gcds-card
+                card-title="{{ .name }}"
+                href="{{ .url }}"
+                description="{{ .description }}"
+            >
+        </gcds-card>
+    {{ end }}
+</gcds-grid>

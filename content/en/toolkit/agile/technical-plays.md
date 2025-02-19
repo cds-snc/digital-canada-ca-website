@@ -1,8 +1,9 @@
 ---
-title: 'AGILE SUBTOPIC1'
+title: 'Technical plays to build an effective service'
 description: "Information about your privacy and the protection of your personal information."
-url: /toolkit/agile/subtopic1
+url: /toolkit/agile/technical-plays-to-build-an-effective service
 layout: toolkit/single
+topic: agile
 ---
 
 

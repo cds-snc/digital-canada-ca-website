@@ -52,6 +52,11 @@ languages:
           name: Jobs at CDS
           url: /jobs/
           weight: 4
+      toolkit:
+        - identifier: About
+          name: About
+          url: /toolkit/about/  
+          weight: 1
 
   fr:
     languageCode: fr-CA
@@ -87,7 +92,11 @@ languages:
           name: Emplois au SNC
           url: /emplois/
           weight: 4
-
+      toolkit:
+        - identifier: À propos
+          name: À propos
+          url: /toolkit/a-propos/
+          weight: 1
 outputs:
   home: [HTML, RSS, JSON]
   page: HTML

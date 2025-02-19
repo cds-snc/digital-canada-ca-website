@@ -322,5 +322,11 @@ tagged-with:
   other: "Tagged with"
 topics:
   other: "Topics"
+toolkit-title:
+  other: "Service & Digital Toolkit"
+toolkit-footer-feedback:
+  other: "Feedback"
+toolkit-footer-feedback-link:
+  other: "#"
 view-tags:
   other: "View posts tagged with:"

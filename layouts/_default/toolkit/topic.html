@@ -99,16 +99,14 @@
       <meta name="dcterms.creator" content='{{ i18n "esdc" }}' />
       <meta name="dcterms.accessRights" content="2" />
       <meta name="dcterms.service" content="ESDC-EDSC_CDS-SNC" />
-      <section id="wb-cont" class="toolkit-content">
-          {{ if isset .Params "topic" }}
-            <gcds-grid tag="article" columns-desktop="1fr 3fr" columns-tablet="1fr 3fr" columns="1fr">
-              <div class = "toolkit-sidebar">
-                {{ .Params.Title }}
-                {{ .TableOfContents }}
-              </div>
-          {{ end }}
-        <section class="toolkit-text">
-          {{ if and (ne .RelPermalink .Site.BaseURL) (ne .RelPermalink "/toolkit/") (ne .RelPermalink "/toolkit-fr/") }}
+      <section id="wb-cont">
+        <section class="toolkit-content">
+          <div class = "toolkit-sidebar">
+            {{ if isset .Params "topic"}}
+              {{ .TableOfContents }}
+            {{ end }}
+          </div>
+          <div>
               <div class="container">
                   {{ $title := i18n .Params.title }}
                   {{ with $title }}
@@ -116,19 +114,13 @@
                   {{ else }}
                   <h1>{{ .Params.title }}</h1>
                   {{ end }}
-                  {{ if .Params.subtitle }}
-                  <span class="page-title-sub">
-                    {{ .Params.subtitle }} <a href="{{ .Params.link }}">{{ .Params.tag }}</a>
-                  </span>
-                  {{ end }}
               </div>
-          {{ end }}
           {{ .Content }}
+        </div>
         </section>
-        {{ if isset .Params "topic" }}
-          </gcds-grid>
-        {{ end }}
       </section>
+      {{ block "index" . }}
+      {{ end }}
     </main>
     {{ if or (eq .Params.translationKey "formError") (eq .Params.translationKey "thankYou") (eq .RelPermalink "/404.html") }}
     <div role="contentinfo" class="footer bottom">

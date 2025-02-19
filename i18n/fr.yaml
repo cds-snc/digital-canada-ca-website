@@ -326,5 +326,11 @@ tagged-with:
   other: "Balisé avec&nbsp;"
 topics:
   other: "Sujets&nbsp;"
+toolkit-title:
+  other: "Service & Digital Toolkit FR"
+toolkit-footer-feedback:
+  other: "Feedback"
+toolkit-footer-feedback-link:
+  other: "#"
 view-tags:
   other: "Voir les billets balisés avec:"

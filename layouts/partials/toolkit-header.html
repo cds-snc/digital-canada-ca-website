@@ -1,0 +1,39 @@
+{{ $currentLang := .Language.Lang }}
+
+{{ $toolkitURL := (print (.Site.BaseURL | absLangURL) "toolkit/") }}
+{{ if eq $currentLang "fr" }}
+    {{ $toolkitURL = (print (.Site.BaseURL | absLangURL) "toolkit-fr/") }}
+{{ end }}
+
+<gcds-header lang-href="#" skip-to-href="#">
+    {{ range .Translations }}
+    <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}" href-lang='{{ if eq $currentLang "en" }}fr{{ else }}en{{ end }}'></gcds-lang-toggle>
+    {{ end }}
+
+    <gcds-top-nav label="Top navigation" alignment="right" slot="menu">
+        <gcds-nav-link href="{{ $toolkitURL }}" lang="{{ .Language }}" class="toolkit-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="toolkitLogo" >
+            <span class="sr-only">{{ i18n "toolkit-title" }}</span>
+        </gcds-nav-link>
+        {{ $title := .Params.title }}
+        <gcds-nav-group  open-trigger="Topics" menu-label="Topics">
+            {{ range where .Site.RegularPages ".Params.Topic" "toolkit" }}
+                <gcds-nav-link href="{{ .Permalink }}" {{ if eq $title .Title }} current{{ end }}>{{ .Title }}</gcds-nav-link>
+            {{ end }}
+        </gcds-nav-group>
+        {{ range $menu := .Site.Menus.toolkit }}
+            <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics-navigation="header:Canadian Digital Service: {{ .Name }}" class="{{ if eq $title .Identifier }} menu-underline{{ end }}">{{ .Name }}</gcds-nav-link>
+        {{ end }}
+    </gcds-top-nav>
+
+    {{ if and (not (eq .RelPermalink "/toolkit/")) (not (eq .RelPermalink "/toolkit-fr/")) }}
+        <gcds-breadcrumbs slot="breadcrumb">
+            <gcds-breadcrumbs-item href="{{ $toolkitURL }}"> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
+            {{ if and (isset .Params "topic") (ne .Params.Topic "toolkit") }}
+                {{ with .GetPage .Params.Topic }}
+                    <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
+                {{ end }}
+            {{ end }}
+            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title | truncate 40 }}</gcds-breadcrumbs-item>
+        </gcds-breadcrumbs>
+    {{ end }}
+</gcds-header>

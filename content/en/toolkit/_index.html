@@ -1,9 +1,32 @@
 ---
-title: 'Da Toolkit'
+Title: Service and Digital Toolkit
 description: "Information about your privacy and the protection of your personal information."
 url: /toolkit/
 layout: toolkit/single
+resources:
+    - name: GC Design System
+      description: Design consistent web experiences.
+      url: https://design-system.alpha.canada.ca/en/
+    - name: GC Notify
+      description: Send automated email and text notifications.
+      url: https://notification.canada.ca/
+    - name: GC Forms
+      description: Create accessible online forms.
+      url: https://articles.alpha.canada.ca/forms-formulaires/
+    - name: Canada.ca Content Style Guide
+      description: Write accessible and clear content.
+      url: https://design.canada.ca/style-guide/
 ---
-
-
-<p>blah blah blah</p>
+<gcds-grid tag="article" columns-desktop="1fr 1fr" columns-tablet="1fr 1fr" columns="1fr">
+    <div>
+        <h1>Welcome to the Service & Digital toolkit.</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consectetur velit a sagittis vestibulum. Cras in euismod massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla eu mattis nisl, et tempor massa.</p>
+    </div>
+    <figure>
+        <img src="../img/toolkit/landing.svg" alt="Two people are constructing a house-like structure with large yellow and gray blocks indoors.">
+        <figcaption class="credit">illustration via storyset</figcaption>
+    </figure>
+</gcds-grid>
+{{< toolkit/topics topics="toolkit" >}}
+<h2>Tools</h2>
+{{< toolkit/resources >}}
