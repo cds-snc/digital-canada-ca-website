@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="layout-container">
+  <!-- Sidebar Navigation -->
+  {{ partial "sidebar.html" . }}
+
+  <!-- Main Content Area -->
+  <main class="main-content">
+    <h1>{{ .Title }}</h1>
+    <div class="content-description">
+      {{ .Content }}
+    </div>
+
+    <!-- Topic Sub-Pages -->
+    {{ partial "topic-sub-pages.html" . }}
+
+    <!-- Other Resources -->
+    {{ partial "other-resources.html" . }}
+
+    <!-- Feedback Section -->
+    {{ partial "feedback.html" . }}
+  </main>
+</div>
+{{ end }}

@@ -145,6 +145,13 @@
           {{ .Content }}
         </section>
         {{ end }}
+        <div style="background: #eee; padding: 10px;">
+          <p>Layout: {{ .Layout }}</p>
+          <p>Kind: {{ .Kind }}</p>
+          <p>Type: {{ .Type }}</p>
+          <p>Section: {{ .Section }}</p>
+          <p>RelPermalink: {{ .RelPermalink }}</p>
+        </div>
       </section>
       {{ block "index" . }}
       {{ end }}

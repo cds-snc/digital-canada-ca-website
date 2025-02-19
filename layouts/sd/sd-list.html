@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="sd-layout-container">
+  {{ partial "sd-sidebar.html" . }}
+  
+  <main class="sd-main-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    <!-- List child pages -->
+    {{ range .Pages }}
+    <article class="sd-content-summary">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Description }}</p>
+    </article>
+    {{ end }}
+  </main>
+</div>
+{{ end }}
