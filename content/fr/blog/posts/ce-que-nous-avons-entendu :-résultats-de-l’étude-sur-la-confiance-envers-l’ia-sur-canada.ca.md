@@ -86,18 +86,10 @@ translationKey: ai-trust-study-blog
 <img loading="lazy" decoding="async" width="480" height="500" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed.png" alt="" class="wp-image-2607" style="width: 480px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-288x300.png 288w" sizes="auto, (max-width: 480px) 100vw, 480px" />
 
 
-<p>Texte de remplacement: Une section simulée d’une page Web Canada.ca consacrée aux dépôts directs sur laquelle figure une image d’une femme provenant d’une banque d’images.</p>
-
-
-
 <p>Image&nbsp;2&nbsp;: Image d’une page de sujet décorative</p>
 
 
-<img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2.png" alt="" class="wp-image-2614" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />
-
-
-<p>Texte de remplacement&nbsp;: Une capture d’écran d’une page simulée de Canada.ca sur la gestion financière sur laquelle figure une image non générée par l’IA de 3 personnes ayant un immeuble à la place de leur tête.</p>
-</details>
+<img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2.png" alt="" class="wp-image-2614" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-1-2-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" /></details>
 
 
 
@@ -132,32 +124,20 @@ translationKey: ai-trust-study-blog
 <img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-2.png" alt="" class="wp-image-2617" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-2.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-2-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />
 
 
-<p>Texte de remplacement&nbsp;: Une capture d’écran d’une page simulée de Canada.ca sur laquelle figure une image de trois personnes ayant un immeuble à la place de leur tête. Sur l’image, il y a une citation indiquant «&nbsp;Générée par l’IA OpenAI (2023)&nbsp;».</p>
-
-
-
 <p>2&nbsp;: Source&nbsp;: DALL-E [IA] (2023)</p>
 
 
 <img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-3.png" alt="" class="wp-image-2619" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-3.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-3-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />
 
 
-<p>Texte de remplacement&nbsp;: Une capture d’écran d’une page simulée de Canada.ca sur laquelle figure une image de trois personnes ayant un immeuble à la place de leur tête. Sur l’image, il y a une citation indiquant «&nbsp;Source&nbsp;: DALL-E [IA] (2023)&nbsp;».</p>
-
-
-
 <p>3&nbsp;: Créée avec l’IA</p>
-
-
-
-<p>Texte de remplacement&nbsp;: Une capture d’écran d’une page simulée de Canada.ca sur laquelle figure une image de trois personnes ayant un immeuble à la place de leur tête assortie d’une boîte indiquant «&nbsp;Créée avec l’IA&nbsp;» dans le coin inférieur à droite.</p>
 
 
 <img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-7.png" alt="" class="wp-image-2640" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-7.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-7-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" /></details>
 
 
 
-<p><strong> </strong>Les données qualitatives ont révélé que les personnes préféraient l’emploi du mot « Source ». Une personne a relevé qu’« il est bien d’avoir une source, surtout quand il s’agit d’un site gouvernemental. »  Toutefois, plusieurs personnes ont mentionné qu’il était préférable de favoriser la simplicité. Certains ont été déconcertés par les noms des outils et des entreprises comme ils ne les connaissaient pas. En raison de la préférence négligeable du public envers les citations, le BTN a décidé que la recommandation serait d’employer le mot « Source : créée avec l’IA », et de supprimer les dates, les outils et les entreprises mentionnés afin de simplifier le tout pour le public cible.</p>
+<p><strong>&nbsp;</strong>Les données qualitatives ont révélé que les personnes préféraient l’emploi du mot «&nbsp;Source&nbsp;». Une personne a relevé qu’«&nbsp;il est bien d’avoir une source, surtout quand il s’agit d’un site gouvernemental.&nbsp;»&nbsp; Toutefois, plusieurs personnes ont mentionné qu’il était préférable de favoriser la simplicité. Certains ont été déconcertés par les noms des outils et des entreprises comme ils ne les connaissaient pas. En raison de la préférence négligeable du public envers les citations, le BTN a décidé que la recommandation serait d’employer le mot «&nbsp;Source&nbsp;: créée avec l’IA&nbsp;», et de supprimer les dates, les outils et les entreprises mentionnés afin de simplifier le tout pour le public cible.</p>
 
 
 
