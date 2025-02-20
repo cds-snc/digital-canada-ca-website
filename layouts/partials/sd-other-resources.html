@@ -1,0 +1,19 @@
+<!-- layouts/partials/sd-other-resources.html -->
+<section class="resources">
+  <h2>{{ i18n "sd-resources" }}</h2>
+  {{ with (index .Params "other-resources-text") }}
+  <p>{{ . }}</p>
+  {{ end }}
+  
+  <gcds-grid tag="section" columns="1fr 1fr" equal-row-height gap="40">
+    {{ range (index .Params "other-resources-url") }}
+      <gcds-card 
+        card-title="{{ .text }}"
+        card-title-tag="h3"
+        href="{{ .url }}"
+        description="{{ .description }}"
+      >
+      </gcds-card>
+    {{ end }}
+  </gcds-grid>
+</section>

@@ -1,0 +1,31 @@
+<!-- Tools Section -->
+<section>
+  {{ $context := . }}
+  {{ $tools := .Params.tools }}
+  {{ $hasSidenav := false }}
+  
+  {{ if reflect.IsMap . }}
+    {{ $sectionTitle := .section_title | default (i18n "sd-tools") }}
+    <h2>{{ $sectionTitle }}</h2>
+    {{ $context = .context }}
+    {{ $tools = .Params.tools }}
+    {{ $hasSidenav = .has_sidenav | default false }}
+  {{ else }}
+    <h2>{{ i18n "sd-tools" }}</h2>
+  {{ end }}
+  
+  <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
+    {{ range $tools }}
+      {{ $productPath := printf "/our-products/%s" . }}
+      {{ with ($context.Site.GetPage $productPath) }}
+        <gcds-card 
+          card-title="{{ .Title }}"
+          card-title-tag="h3"
+          href="{{ .Params.url }}"
+          description="{{ .Description }}"
+        >
+        </gcds-card>
+      {{ end }}
+    {{ end }}
+  </gcds-grid>
+</section> 

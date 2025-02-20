@@ -1,0 +1,23 @@
+<!-- layouts/partials/sd-subtopic-nav.html -->
+<aside class="col-md-4">
+  <gcds-side-nav label="{{ .Title }}">
+    <!-- Content outline group -->
+    <gcds-nav-group open-trigger="On this page" menu-label="Page sections">
+      {{ $headers := findRE "<h2.*?>(.|\n)*?</h2>" .Content }}
+      {{ range $headers }}
+        {{ $header := . | plainify }}
+        {{ $anchor := $header | urlize }}
+        <gcds-nav-link href="#{{ $anchor }}">{{ $header }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+
+    <!-- Related resources group - if you want to keep this structure -->
+    {{ if (index .Params "related-resources") }}
+    <gcds-nav-group open-trigger="Related resources" menu-label="Related resources">
+      {{ range (index .Params "related-resources") }}
+        <gcds-nav-link href="{{ .url }}">{{ .text }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+  </gcds-side-nav>
+</aside>

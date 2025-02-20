@@ -1,0 +1,23 @@
+////////////////////////////////////////////////////////////
+//
+// CDS Service and Delivery Toolkit LOGO
+//
+////////////////////////////////////////////////////////////
+
+.cds-sd-logo {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-self: center;
+    height: 2.78rem;
+    width: 13.88rem;
+  
+    // BILINGUAL SPECIFIC CDS LOGO
+    &.en {
+      background-image: url("../img/sd/cds-sd-logo-blk-en.svg");
+    }
+    &.fr {
+      background-image: url("../img/sd/cds-logo-blk-fr.svg");
+    }
+  }
+  

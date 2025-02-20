@@ -1,0 +1,54 @@
+<!-- Blog Posts Section -->
+<section>
+  {{ $context := . }}
+  {{ $posts := .Params.blog_posts }}
+  {{ $hasSidenav := false }}
+  {{ $site := .context.Site }}
+  
+  <!-- Debug info -->
+  <div style="display: none">
+    Is Map: {{ reflect.IsMap . }}
+    Context type: {{ printf "%T" $context }}
+    Posts: {{ printf "%#v" $posts }}
+  </div>
+  
+  {{ if reflect.IsMap . }}
+    {{ $sectionTitle := .section_title | default (i18n "sd-blog-posts") }}
+    <h2>{{ $sectionTitle }}</h2>
+    {{ $context = .context }}
+    {{ $posts = .Params.blog_posts }}
+    {{ $hasSidenav = .has_sidenav | default false }}
+    {{ $site = .context.Site }}
+    <!-- Debug after map context -->
+    <div style="display: none">
+      Updated Posts: {{ printf "%#v" $posts }}
+      Context type after: {{ printf "%T" $context }}
+      Site Pages Count: {{ len $site.RegularPages }}
+      Blog Section Pages: {{ range where $site.RegularPages "Section" "blog" }}
+        Page: {{ .File.BaseFileName }} | {{ .RelPermalink }}
+      {{ end }}
+    </div>
+  {{ else }}
+    <h2>{{ i18n "sd-blog-posts" }}</h2>
+  {{ end }}
+  
+  <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
+    {{ range $posts }}
+      {{ $currentPost := . }}
+      <!-- Debug each post -->
+      <div style="display: none">Looking for post: {{ $currentPost }}</div>
+      {{ range where $site.RegularPages "Section" "blog" }}
+        {{ $urlPath := path.Base .RelPermalink }}
+        {{ $urlPath = strings.TrimSuffix "/" $urlPath }}
+        {{ if eq $urlPath $currentPost }}
+          <gcds-card 
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+          >
+          </gcds-card>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </gcds-grid>
+</section> 

@@ -1,0 +1,17 @@
+{{ define "baseof" }}
+  {{ template "service-digital-toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container mrgn-tp-md">
+    <div class="row mrgn-tp-md">
+        {{ partial "sd-subtopic-nav.html" . }}
+
+        <main class="col-md-8">
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Params.Description }}</p>
+            {{ .Content }}
+        </main>
+    </div>
+</div>
+{{ end }} 

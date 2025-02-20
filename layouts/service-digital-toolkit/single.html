@@ -1,0 +1,15 @@
+{{ define "baseof" }}
+  {{ template "service-digital-toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+    <main class="mrgn-tp-md">
+      <section class="cnt-wdth-lmtd">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+      </section>
+    </main>
+  </div>
+</div>
+{{ end }} 

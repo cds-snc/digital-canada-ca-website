@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="container mrgn-tp-md">
+  <div class="row mrgn-tp-md">
+    {{ partial "sd-sidenav.html" . }}
+
+    <main class="col-md-8">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+
+      <!-- List child pages -->
+      <section>
+        <h2>{{ i18n "sd-resources" }}</h2>
+        <gcds-grid columns="1fr 1fr" equal-row-height gap="40">
+        {{ range .Pages }}
+          <gcds-card
+            card-title="{{ .Title }}"
+            href="{{ .RelPermalink }}"
+            card-title-tag="h3"
+            description="{{ .Description }}"
+          ></gcds-card>
+          {{ end }}
+        </gcds-grid>
+      </section>
+
+      {{ if .Params.tools }}
+        {{ partial "sd-tools.html" (dict "section_title" .Params.tools_section_title "context" . "Params" .Params "has_sidenav" true) }}
+      {{ end }}
+
+      {{ if .Params.blog_posts }}
+        {{ partial "sd-blog-posts.html" (dict "section_title" .Params.blog_posts_section_title "context" . "Params" .Params "has_sidenav" true) }}
+      {{ end }}
+
+      {{ partial "sd-feedback.html" . }}
+
+    </main>
+  </div>
+</div>
+{{ end }}
