@@ -2,32 +2,29 @@
 {{ $sectionTitle := .sectionTitle }}
 {{ $products := .products }}
 {{ if $products }}
-  <section class="container">
-    <h2>{{ $sectionTitle }}</h2>
+  <section class="container mrgn-tp-md mrgn-bttm-lg">
+    <h2 class="mrgn-tp-md">{{ $sectionTitle }}</h2>
     
     <!-- Group products into rows of 2 -->
     {{ $rowCount := div (len $products) 2 }}
     {{ if ne (mod (len $products) 2) 0 }}
       {{ $rowCount = add $rowCount 1 }}
     {{ end }}
-    
-    {{ range $row_index := seq 0 (sub $rowCount 1) }}
-      <div class="row equal">
+    <gcds-grid columns="1fr 1fr" equal-row-height gap="40">
+      {{ range $row_index := seq 0 (sub $rowCount 1) }}
         {{ $startIdx := mul $row_index 2 }}
         {{ $endIdx := math.Min (add $startIdx 2) (len $products) }}
         
         {{ range $i := seq $startIdx (sub $endIdx 1) }}
-          {{ with index $products $i }}
-            {{ if ne .Params.description nil }}
-              <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
-                <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
-                  data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
-              </div>
-            {{ end }}
-          {{ end }}
+        {{ with index $products $i }}
+        {{ if ne .Params.description nil }}
+          <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
+          data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
         {{ end }}
-      </div>
-    {{ end }}
+        {{ end }}
+        {{ end }}
+      {{ end }}
+    </gcds-grid>
   </section>
 {{ end }}
 {{ end }}
