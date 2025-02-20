@@ -8,7 +8,7 @@ date: '2025-02-18T16:52:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/AI_Trust_Study_Blog_Post_EN.jpg
 image-alt: 3 individuals standing around a tablet showing icons depicting graphs, charts, and an AI robot icon.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/AI_Trust_Study_Blog_Post_EN.jpg
-translationKey: ce-que-nous-avons-entendu-resultats-de-letude-sur-la-confiance-envers-lia-sur-canada-ca
+translationKey: ai-trust-study-blog
 ---
 
 <p>Le <a href="https://numerique.canada.ca/2024/05/15/un-objectif-commun-am%C3%A9liorer-ensemble-les-services-en-ligne/" target="_blank" rel="noreferrer noopener">Bureau de la transformation numérique (BTN)</a> du Service numérique canadien (SNC) constitue l’équipe de conception de <a href="http://canada.ca" target="_blank" rel="noreferrer noopener">Canada.ca</a>. Cette petite équipe est composée de chercheur·euses, de designers, de développeur·euse·s et de spécialistes en communication qui possèdent une expertise en conception de contenu et d’interactions, en recherche d’utilisateur et en rédaction claire.&nbsp;</p>
