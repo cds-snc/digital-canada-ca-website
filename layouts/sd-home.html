@@ -1,0 +1,98 @@
+<!-- layouts/sd-home.html -->
+{{ define "main" }}
+<div class="sd-landing-container">
+  <!-- Hero Section -->
+  <section class="sd-hero-section container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <h1 class="sd-hero-title">{{ .Title }}</h1>
+        {{ with .Params.hero_text }}
+        <p class="sd-hero-description">{{ . }}</p>
+        {{ end }}
+      </div>
+      <div class="col-md-6">
+        {{ with .Params.hero_image }}
+        <img 
+          src="{{ . }}" 
+          alt="{{ $.Params.hero_image_alt }}"
+          class="sd-hero-image"
+          loading="eager"
+        >
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Topics Section -->
+  <section class="sd-topics-section container-fluid">
+    <div class="row">
+      {{ range first 3 (where .Site.RegularPages "Type" "topics") }}
+      <div class="col-md-4">
+        <gcds-card url="{{ .RelPermalink }}" type="link">
+          <h3 slot="heading">{{ .Title }}</h3>
+          <p slot="description">{{ .Description }}</p>
+        </gcds-card>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- Sub-topics Section -->
+  <section class="sd-sub-topics-section container-fluid">
+    <h2>{{ .Params.subtopics_title }}</h2>
+    <p>{{ .Params.subtopics_description }}</p>
+    
+    <div class="row">
+      {{ range .Params.subtopics }}
+      <div class="col-md-4 mb-4">
+        <gcds-card url="{{ .url }}" type="link">
+          <h3 slot="heading">{{ .title }}</h3>
+          <p slot="description">{{ .description }}</p>
+          {{ with .icon }}
+          <img slot="icon" src="{{ . }}" alt="" />
+          {{ end }}
+        </gcds-card>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+</div>
+
+<style>
+.sd-hero-section {
+  padding: 4rem 0;
+  background-color: var(--gcds-color-blue-50);
+}
+
+.sd-hero-title {
+  margin-bottom: 1.5rem;
+}
+
+.sd-hero-description {
+  font-size: var(--gcds-font-size-400);
+  line-height: 1.5;
+}
+
+.sd-hero-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.sd-topics-section {
+  padding: 4rem 0;
+}
+
+.sd-sub-topics-section {
+  padding: 4rem 0;
+  background-color: var(--gcds-color-gray-50);
+}
+
+.sd-sub-topics-section h2 {
+  margin-bottom: 1rem;
+}
+
+.sd-sub-topics-section > p {
+  margin-bottom: 2rem;
+}
+</style>
+{{ end }}
