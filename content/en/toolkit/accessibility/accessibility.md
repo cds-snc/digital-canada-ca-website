@@ -3,17 +3,17 @@ title: 'Accessibility'
 description: "Information about accessibility."
 url: /toolkit/accessibility
 layout: toolkit/single
+contentType: accessibility
 topic: toolkit
 resources:
-    - name: Example link 1
-      description: Sample description 1
-      url: https://example.com/
-    - name: Example link 2
-      description: Sample description 2
-      url: https://example.com/
-    - name: Example link 3
-      description: Sample description 3
-      url: https://example.com/
+    - name: GC Design System
+      description: Design consistent web experiences.
+      url: https://design-system.alpha.canada.ca/en/
+    - name: Canada.ca Content Style Guide
+      description: Write accessible and clear content.
+      url: https://design.canada.ca/style-guide/
+    - name: "How updating GC Notify’s accessibility statement helped us build better"
+      url: https://digital.canada.ca/2024/09/04/how-updating-gc-notifys-accessibility-statement-helped-us-build-better/
 ---
 
  
