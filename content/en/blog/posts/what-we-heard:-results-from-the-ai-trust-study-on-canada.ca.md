@@ -89,11 +89,7 @@ translationKey: ai-trust-study-blog
 <p>Image 2: Decorative topic page image&nbsp;</p>
 
 
-<img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1.png" alt="A screenshot of a mock Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI." class="wp-image-2583" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />
-
-
-<p></p>
-</details>
+<img loading="lazy" decoding="async" width="480" height="466" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1.png" alt="A screenshot of a mock Canada.ca page about money management with an image of 3 people with buildings for heads not created by AI." class="wp-image-2583" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1.png 480w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/house-mo-en-1-1-300x291.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" /></details>
 
 
 
@@ -232,14 +228,6 @@ translationKey: ai-trust-study-blog
 
 
 <ul class="wp-block-list">
-<li>People who checked ’that AI was used’ were significantly more likely to also check that images and text made with AI were labelled, and labelled with more details.</li>
-
-
-
-<li>People who checked ’that AI wasn’t used’ tended not to check any other AI items.</li>
-
-
-
 <li><strong>The use of AI is not key to improving trust, but it can damage it.</strong> By being transparent about the use of AI, we help to maintain trust in the Canada.ca brand.&nbsp;</li>
 
 
