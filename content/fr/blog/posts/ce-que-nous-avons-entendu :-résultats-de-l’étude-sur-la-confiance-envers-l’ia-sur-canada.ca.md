@@ -230,14 +230,6 @@ Texte de remplacement : Un diagramme à barre qui démontre que 47 % des personn
 
 
 <ul class="wp-block-list">
-<li>Les personnes qui ont sélectionné «&nbsp;L’IA a été utilisé&nbsp;» avaient considérablement plus tendance à dire que les images et les textes générés avec l’IA étaient identifiés, et ce de manière plus détaillée.</li>
-
-
-
-<li>Les personnes qui ont sélectionné «&nbsp;L’IA n’a pas été utilisé&nbsp;» avaient davantage tendance à ne pas sélectionner d’autres éléments IA.</li>
-
-
-
 <li><strong>L’usage de l’IA n’apporterait pas plus de confiance&nbsp;; il pourrait même la miner.</strong> En étant transparents en ce qui a trait à l’usage de l’IA, nous aidons à maintenir la confiance qu’éprouve la population du Canada envers la marque Canada.ca.&nbsp;</li>
 
 
