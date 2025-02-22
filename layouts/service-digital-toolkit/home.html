@@ -1,0 +1,64 @@
+{{ define "baseof" }}
+  {{ template "service-digital-toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="sd-landing container">
+  <!-- Hero Section -->
+  <section class="sd-hero-section container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+        <h1 class="sd-hero-title">{{ .Title }}</h1>
+        {{ with .Params.hero_text }}
+        <p class="sd-hero-description">{{ . }}</p>
+        {{ end }}
+      </div>
+      <div class="col-md-6">
+        {{ with .Params.hero_image }}
+        <img  src="{{ . }}" 
+          alt="{{ $.Params.hero_image_alt }}"
+          class="sd-hero-image"
+          loading="eager">
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Topics Section -->
+  <section class="sd-topics-section container-fluid ">
+    <h2 class="wb-inv">Main Topics</h2>
+    <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
+      {{ range where (where .Site.Pages "Section" "service-digital-toolkit") "Kind" "section" }}
+        {{ if ne .RelPermalink "/service-digital-toolkit/" }}
+            <gcds-card 
+            img-src="https://place-hold.it/300x168.png"
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+            description="{{ .Description }}"
+            >
+            </gcds-card>
+        {{ end }}
+      {{ end }}
+      </gcds-grid>
+  </section>
+
+  <!-- Tools Section -->
+  <section class="sd-tools-section container-fluid">
+    <h2>{{ .Params.tools_title }}</h2>
+    <p>{{ .Params.tools_description }}</p>
+    <gcds-grid columns="1fr 1fr 1fr" equal-row-height gap="40">
+      {{ range .Params.tools }}
+        <gcds-card 
+          card-title="{{ .title }}"
+          card-title-tag="h3"
+          href="{{ .url }}"
+          description="{{ .description }}"
+        >
+        </gcds-card>
+      {{ end }}
+    </gcds-grid>
+  </section>
+</div>
+{{ end }}
+

@@ -1,0 +1,10 @@
+<nav class="container breadcrumbs">
+    <gcds-breadcrumbs>
+        <gcds-breadcrumbs-item href="/service-digital-toolkit">Service & Digital Toolkit</gcds-breadcrumbs-item>
+        {{ if .CurrentSection }}
+            {{ if and (ne .CurrentSection.RelPermalink "/service-digital-toolkit/") (ne .CurrentSection.RelPermalink .RelPermalink) }}
+                <gcds-breadcrumbs-item href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</gcds-breadcrumb>
+            {{ end }}
+        {{ end }}
+    </gcds-breadcrumbs>
+</nav>

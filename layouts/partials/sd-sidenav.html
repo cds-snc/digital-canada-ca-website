@@ -1,0 +1,24 @@
+<!-- layouts/partials/sd-sidenav.html -->
+<aside class="col-md-4">
+  <gcds-side-nav label="{{ .CurrentSection.Title }}">
+    {{ $currentPage := . }}
+    <!-- Topic sub-pages group -->
+    <gcds-nav-group open-trigger="{{ .CurrentSection.Title }} sub-pages" menu-label="{{ .CurrentSection.Title }} pages">
+      {{ range .CurrentSection.Pages }}
+        <gcds-nav-link 
+          href="{{ .RelPermalink }}"
+          {{ if eq $currentPage.RelPermalink .RelPermalink }}current{{ end }}
+        >{{ .Title }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+
+    <!-- Other resources group -->
+    {{ if (index .CurrentSection.Params "other-resources-url") }}
+    <gcds-nav-group open-trigger="Other resources" menu-label="Other resources">
+      {{ range (index .CurrentSection.Params "other-resources-url") }}
+        <gcds-nav-link href="{{ .url }}">{{ .text }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+  </gcds-side-nav>
+</aside>

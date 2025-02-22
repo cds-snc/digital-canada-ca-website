@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="container mrgn-tp-md">
+  <div class="row mrgn-tp-md">
+    {{ partial "sd-sidenav.html" . }}
+
+    <main class="col-md-8">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+
+      <!-- List child pages -->
+      <section>
+        <h2>{{ .CurrentSection.Title }} sub-pages</h2>
+        <p>Nam rutrum diam eleifend odio porta iaculis. Nulla vel nibh et metus eleifend pretium non faucibus sem. Etiam scelerisque id nunc ut volutpat. Donec venenatis augue quis ante tristique ultrices. Vivamus leo velit, efficitur quis neque id, tincidunt lacinia eros. Sed et urna non diam convallis consequat vel ut ligula. Sed nec auctor magna, laoreet ornare enim. Sed ultricies mollis ante, ac dapibus ligula euismod ut. Quisque tincidunt sem at finibus faucibus. </p>
+        <gcds-grid columns="1fr 1fr" equal-row-height gap="40">
+        {{ range .Pages }}
+          <gcds-card
+            card-title="{{ .Title }}"
+            href="{{ .RelPermalink }}"
+            card-title-tag="h3"
+            description="{{ .Description }}"
+            img-src="https://place-hold.it/300x168.png"
+          ></gcds-card>
+          {{ end }}
+        </gcds-grid>
+      </section>
+      {{ if ( index .Params "other-resources" ) }}
+        {{ partial "sd-other-resources.html" . }}
+      {{ end }}
+
+      {{ partial "sd-feedback.html" . }}
+
+    </main>
+  </div>
+</div>
+{{ end }}
