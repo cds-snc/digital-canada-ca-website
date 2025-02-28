@@ -185,7 +185,7 @@ product-image-alt:
 join-our-team:
   other: "Join our team"
 join-our-team-description:
-  other: "Be part of a team that’s passionate about digital services and positive change."
+  other: "Be part of a team that's passionate about digital services and positive change."
 job-postings:
   other: "Job postings"
 read-our-blog-posts:
@@ -197,7 +197,7 @@ read-our-blog-tag:
 product-tag:
   other: "product-tag"
 product-description:
-  other: "Building government solutions so you don’t have to."
+  other: "Building government solutions so you don't have to."
 product-intro:
   other: "We provide tools that public servants can use to modernize their service delivery, cut down on procurement costs, and deliver a great user experience. Think of these tools as small interconnected services that you can plug right into your current systems." 
 product-checklist-title:
@@ -324,3 +324,16 @@ topics:
   other: "Topics"
 view-tags:
   other: "View posts tagged with:"
+
+sd-credits:
+  other: "illustration via storyset"
+sd-resources:
+  other: "Resources"
+sd-tools:
+  other: "Tools"
+sd-blog-posts:
+  other: "Examples from our work"
+sd-name:
+  other: "Service and Digital Toolkit"
+sd-topics:
+  other: "Topics"
