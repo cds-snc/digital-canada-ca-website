@@ -1,0 +1,12 @@
+{{ define "baseof" }}
+  {{ template "toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+  <section class="cnt-wdth-lmtd">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </section>
+</div>
+{{ end }} 

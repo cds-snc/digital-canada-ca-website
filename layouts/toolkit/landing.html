@@ -1,0 +1,50 @@
+{{ define "baseof" }}
+  {{ template "toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="toolkit-landing container">
+  <!-- Hero Section -->
+  <gcds-grid columns="1fr 1fr">
+    <section>
+      <h1 class="toolkit-hero-title">{{ .Params.hero_title }}</h1>
+      {{ with .Params.hero_text }}
+      <p class="toolkit-hero-description">{{ . | markdownify }}</p>
+      {{ end }}
+    </section>
+    {{ with .Params.hero_image }}
+    <div>
+      <img  src="{{ . }}" 
+      alt="{{ $.Params.hero_image_alt }}"
+      class="toolkit-hero-image"
+      loading="eager">
+      <div style="display: flex; justify-content: flex-end;">
+        <small>{{  i18n "toolkit-credits" }}</small>
+      </div>
+    </div>
+    {{ end }}
+  </gcds-grid>
+
+
+  <!-- Main Topics Section -->
+  <section>
+    <h2 class="wb-inv">{{ i18n "toolkit-topics" }}</h2>
+    <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
+      {{ range where (where .Site.Pages "Section" "service-digital-toolkit") "Kind" "section" }}
+        {{ if ne .RelPermalink "/service-digital-toolkit/" }}
+            <gcds-card 
+            img-src="{{ .Params.img_url }}"
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+            description="{{ .Description }}"
+            >
+            </gcds-card>
+        {{ end }}
+      {{ end }}
+      </gcds-grid>
+  </section>
+
+  {{ partial "toolkit-tools.html" (dict "context" . "Params" .Params "has_sidenav" false) }}
+</div>
+{{ end }}
