@@ -1,0 +1,12 @@
+{{/*
+  This partial is used to display a feedback message at the bottom of the page.
+  It is used in the `layouts/service-digital-toolkit/list.html` layout and the `layouts/service-digital-toolkit/sub-topic.html` layout.
+
+  Available variables:
+  - i18n: a function to translate a key to the current language.
+*/}}
+
+<div class="toolkit-feedback" style="padding: 40px 0">
+  <hr />
+  <p>{{ i18n "toolkit-feedback-text" | markdownify }}</p>
+</div>

@@ -329,15 +329,17 @@ topics:
 view-tags:
   other: "Voir les billets balisés avec:"
 
-sd-credits:
+toolkit-credits:
   other: "Illustration fournie par Storyset"
-sd-resources:
+toolkit-feedback-text:
+  other: "Croyez-vous qu'il manque quelque chose d'important sur cette page? Ou peut-être avez-vous une suggestion pour l'améliorer? Nous aimerions avoir votre avis! Partagez vos commentaires avec nous à : [CDS-SNC@servicecanada.gc.ca](mailto:CDS-SNC@servicecanada.gc.ca)"
+toolkit-resources:
   other: "Ressources"
-sd-title:
+toolkit-title:
   other: "Boîte à outils en matière de numérique et de services"
-sd-tools:
+toolkit-tools:
   other: "Outils"
-sd-blog-posts:
+toolkit-blog-posts:
   other: "Exemples de notre travail"
-sd-topics:
+toolkit-topics:
   other: "Sujets"

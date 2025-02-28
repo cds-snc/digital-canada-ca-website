@@ -1,0 +1,41 @@
+{{/*
+This section is used to display related blog posts on a blog post page. It is used in the list/topic pages layout.
+
+The section expects a list of blog post URLs to be passed in as a parameter. The section will then display the blog post cards for each of the URLs passed in.
+*/}}
+
+<section>
+  {{ $context := . }}
+  {{ $posts := .Params.blog_posts }}
+  {{ $hasSidenav := false }}
+  {{ $site := .context.Site }}
+
+  {{ if reflect.IsMap . }}
+    {{ $sectionTitle := .section_title | default (i18n "toolkit-blog-posts") }}
+    <h2>{{ $sectionTitle }}</h2>
+    {{ $context = .context }}
+    {{ $posts = .Params.blog_posts }}
+    {{ $hasSidenav = .has_sidenav | default false }}
+    {{ $site = .context.Site }}
+  {{ else }}
+    <h2>{{ i18n "toolkit-blog-posts" }}</h2>
+  {{ end }}
+
+  <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
+    {{ range $posts }}
+      {{ $currentPost := . }}
+      {{ range where $site.RegularPages "Section" "blog" }}
+        {{ $urlPath := path.Base .RelPermalink }}
+        {{ $urlPath = strings.TrimSuffix "/" $urlPath }}
+        {{ if eq $urlPath $currentPost }}
+          <gcds-card 
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+          >
+          </gcds-card>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </gcds-grid>
+</section> 

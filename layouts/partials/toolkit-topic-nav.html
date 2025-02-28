@@ -1,0 +1,40 @@
+{{/* This partial is used to render the side navigation for a topic page. It is included in the sd/list layout.
+
+The partial expects the following variables to be set:
+ - .CurrentSection: The current section of the page.
+ - .CurrentSection.Title: The title of the current section.
+ - .CurrentSection.Pages: The pages in the current section.
+ - .CurrentSection.Params.other-resources-url: A list of other resources.
+
+The partial renders the following components:
+ - gcds-side-nav: The side navigation component.
+ - gcds-nav-group: The navigation group component.
+ - gcds-nav-link: The navigation link component.
+
+The partial uses the following shortcodes:
+ - eq: A shortcode that compares two values.
+ */}}
+
+<aside class="col-md-4">
+  <gcds-side-nav label="{{ .CurrentSection.Title }}">
+    {{ $currentPage := . }}
+    <!-- Topic sub-pages group -->
+    <gcds-nav-group open-trigger="{{ .CurrentSection.Title }} sub-pages" menu-label="{{ .CurrentSection.Title }} pages">
+      {{ range .CurrentSection.Pages }}
+        <gcds-nav-link 
+          href="{{ .RelPermalink }}"
+          {{ if eq $currentPage.RelPermalink .RelPermalink }}current{{ end }}
+        >{{ .Title }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+
+    <!-- Other resources group -->
+    {{ if (index .CurrentSection.Params "other-resources-url") }}
+    <gcds-nav-group open-trigger="Other resources" menu-label='{{ i18n "toolkit-resources" }}'>
+      {{ range (index .CurrentSection.Params "other-resources-url") }}
+        <gcds-nav-link href="{{ .url }}">{{ .text }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+  </gcds-side-nav>
+</aside>

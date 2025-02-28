@@ -325,15 +325,17 @@ topics:
 view-tags:
   other: "View posts tagged with:"
 
-sd-credits:
+toolkit-credits:
   other: "illustration via storyset"
-sd-resources:
+toolkit-feedback-text:
+  other: "Do you think this page is missing something important? Or maybe you have a suggestion to make it better? We’d love to hear from you! Share your feedback with us at: [CDS-SNC@servicecanada.gc.ca](mailto:CDS-SNC@servicecanada.gc.ca)"
+toolkit-resources:
   other: "Resources"
-sd-tools:
+toolkit-tools:
   other: "Tools"
-sd-blog-posts:
+toolkit-blog-posts:
   other: "Examples from our work"
-sd-name:
+toolkit-name:
   other: "Service and Digital Toolkit"
-sd-topics:
+toolkit-topics:
   other: "Topics"

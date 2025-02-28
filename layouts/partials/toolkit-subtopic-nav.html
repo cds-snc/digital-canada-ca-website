@@ -1,0 +1,40 @@
+{{/* 
+This partial is used to render the side navigation for a subtopic page.
+
+The partial expects the following variables to be set:
+ - .Title: The title of the page.
+ - .Content: The content of the page.
+ - .Params.related-resources: A list of related resources.
+
+The partial uses the following shortcodes:
+ - findRE: A shortcode that finds all the regular expressions in a string.
+ - plainify: A shortcode that removes all the HTML tags from a string.
+ - urlize: A shortcode that converts a string into a URL-friendly format.
+
+The partial renders the following components:
+ - gcds-side-nav: The side navigation component.
+ - gcds-nav-group: The navigation group component.
+ - gcds-nav-link: The navigation link component.
+*/}}
+
+<aside class="col-md-4">
+  <gcds-side-nav label="{{ .Title }}">
+    <!-- Content outline group -->
+    <gcds-nav-group open-trigger="On this page" menu-label="Page sections">
+      {{ $headers := findRE "<h2.*?>(.|\n)*?</h2>" .Content }}
+      {{ range $headers }}
+        {{ $header := . | plainify }}
+        {{ $anchor := $header | urlize }}
+        <gcds-nav-link href="#{{ $anchor }}">{{ $header }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+
+    {{ if (index .Params "related-resources") }}
+    <gcds-nav-group open-trigger='Related resources' menu-label='{{ i18n "toolkit-resources" }}'>
+      {{ range (index .Params "related-resources") }}
+      <gcds-nav-link href='{{ .url }}'>{{ .text }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+  </gcds-side-nav>
+</aside>
