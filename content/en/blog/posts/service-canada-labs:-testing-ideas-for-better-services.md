@@ -3,7 +3,7 @@ layout: blog
 title: 'Service Canada Labs: Testing ideas for better services'
 description: >-
   Learn how the team at Service Canada Labs is working to design and deliver better services and benefits for people in Canada
-author: 'Rosanne Li, Business strategies consultant, Service Canada Labs.'
+author: 'Rosanne Li, Product Manager, Service Canada Labs.'
 date: '2025-02-04T11:35:38'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Service_Canada_Labs_Blog_Blog_Post.jpg
 image-alt: A diverse group of people standing together, holding up colorful speech bubbles, symbolizing communication and collaboration.
