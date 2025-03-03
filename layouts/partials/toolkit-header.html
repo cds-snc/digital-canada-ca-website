@@ -3,24 +3,28 @@ This is a variation header for the Service Digital Toolkit. It includes the S&D 
 */}}
 
 {{ $currentLang := .Language.Lang }}
+{{ $section := cond (eq $currentLang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+{{ $aboutPath := cond (eq $currentLang "en") "/service-digital-toolkit/about/" "/boite-a-outils-en-matiere-de-numerique-et-de-services/a-propos/" }}
+{{ $topicsLabel := cond (eq $currentLang "en") "Topics" "Sujets" }}
+
 <gcds-header lang-href="#" skip-to-href="#">
     {{ range .Translations }}
     <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}" href-lang='{{ if eq $currentLang "en" }}fr{{ else }}en{{ end }}'></gcds-lang-toggle>
     {{ end }}
 
-    <gcds-top-nav label="Top navigation" alignment="right" slot="menu">
-        <gcds-nav-link href="/service-digital-toolkit/" lang="{{ .Language }}" class="cds-toolkit-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-toolkit-logo" ></gcds-nav-link>
+    <gcds-top-nav label='{{ cond (eq $currentLang "en") "Top navigation" "Navigation principale" }}' alignment="right" slot="menu">
+        <gcds-nav-link href="/{{ $section }}/" lang="{{ .Language }}" class="cds-toolkit-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-toolkit-logo" ></gcds-nav-link>
 
         <!-- Topics Dropdown -->
-        <gcds-nav-group open-trigger="Topics" menu-label="Topics">
-            {{ range where (where .Site.Pages "Section" "service-digital-toolkit") "Kind" "section" }}
-                {{ if ne .RelPermalink "/service-digital-toolkit/" }}
+        <gcds-nav-group open-trigger="{{ $topicsLabel }}" menu-label="{{ $topicsLabel }}">
+            {{ range where (where .Site.Pages "Section" $section) "Kind" "section" }}
+                {{ if ne .RelPermalink (printf "/%s/" $section) }}
             <gcds-nav-link href="{{ .RelPermalink }}">{{ .Title }}</gcds-nav-link>
                 {{ end }}
             {{ end }}
         </gcds-nav-group>
 
         <!-- About link -->
-        <gcds-nav-link href="/service-digital-toolkit/about/">About</gcds-nav-link>
+        <gcds-nav-link href="{{ $aboutPath }}">{{ cond (eq $currentLang "en") "About" "À propos" }}</gcds-nav-link>
     </gcds-top-nav>
 </gcds-header>

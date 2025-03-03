@@ -24,14 +24,54 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
   <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
     {{ range $posts }}
       {{ $currentPost := . }}
+      {{ $found := false }}
       {{ range where $site.RegularPages "Section" "blog" }}
         {{ $urlPath := path.Base .RelPermalink }}
         {{ $urlPath = strings.TrimSuffix "/" $urlPath }}
+        
+        <!-- Try to match on URL path basename -->
         {{ if eq $urlPath $currentPost }}
+          {{ $found = true }}
           <gcds-card 
             card-title="{{ .Title }}"
             card-title-tag="h3"
             href="{{ .RelPermalink }}"
+          >
+          </gcds-card>
+        {{ else }}
+          <!-- Try to match on file basename -->
+          {{ if eq .File.ContentBaseName $currentPost }}
+            {{ $found = true }}
+            <gcds-card 
+              card-title="{{ .Title }}"
+              card-title-tag="h3"
+              href="{{ .RelPermalink }}"
+            >
+            </gcds-card>
+          {{ else }}
+            <!-- Match by containing the slug in file path -->
+            {{ if (in .File.Path (printf "posts/%s" $currentPost)) }}
+              {{ $found = true }}
+              <gcds-card 
+                card-title="{{ .Title }}"
+                card-title-tag="h3"
+                href="{{ .RelPermalink }}"
+              >
+              </gcds-card>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      
+      <!-- If still not found, try direct path (original method) -->
+      {{ if not $found }}
+        {{ $blogPath := printf "/blog/posts/%s" $currentPost }}
+        {{ $blogPost := $site.GetPage $blogPath }}
+        {{ if $blogPost }}
+          <gcds-card 
+            card-title="{{ $blogPost.Title }}"
+            card-title-tag="h3"
+            href="{{ $blogPost.RelPermalink }}"
           >
           </gcds-card>
         {{ end }}

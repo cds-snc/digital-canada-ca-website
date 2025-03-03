@@ -1,5 +1,5 @@
 ---
-description: "Apprennez et à mettre en œuvre l'accessibilité dans vos projets numériques."
+description: "Se sensibiliser aux principes de l’accessibilité et veiller à ce qu’ils soient reflétés dans vos"
 link: "https://a11y.canada.ca/fr/"
 title: "Boîte à outils de l'accessibilité numérique"
 weight: 0

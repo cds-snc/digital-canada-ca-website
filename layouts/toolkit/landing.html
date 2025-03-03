@@ -30,19 +30,23 @@
   <section>
     <h2 class="wb-inv">{{ i18n "toolkit-topics" }}</h2>
     <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
-      {{ range where (where .Site.Pages "Section" "service-digital-toolkit") "Kind" "section" }}
-        {{ if ne .RelPermalink "/service-digital-toolkit/" }}
-            <gcds-card 
+      {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+      {{ $sectionPage := $.Site.GetPage $section }}
+      {{ $currentPath := .RelPermalink }}
+      
+      {{ range where .Site.Pages "Kind" "section" }}
+        {{ if and (ne .RelPermalink $currentPath) (.Parent) (eq .Parent.RelPermalink $sectionPage.RelPermalink) }}
+          <gcds-card 
             img-src="{{ .Params.img_url }}"
             card-title="{{ .Title }}"
             card-title-tag="h3"
             href="{{ .RelPermalink }}"
             description="{{ .Description }}"
-            >
-            </gcds-card>
+          >
+          </gcds-card>
         {{ end }}
       {{ end }}
-      </gcds-grid>
+    </gcds-grid>
   </section>
 
   {{ partial "toolkit-tools.html" (dict "context" . "Params" .Params "has_sidenav" false) }}

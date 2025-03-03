@@ -109,7 +109,7 @@
   <header role="banner">
     {{ partial "toolkit-header.html" . }}
 
-    {{ if and ( not ( eq .RelPermalink "/service-digital-toolkit/" ) ) ( not ( eq .RelPermalink "/" ) ) }}
+    {{ if and ( not ( eq .RelPermalink ( i18n "toolkit-landing-url" ) ) ) ( not ( eq .RelPermalink "/" ) ) }}
       {{ partial "toolkit-breadcrumb.html" . }}
     {{ end }}
   </header>

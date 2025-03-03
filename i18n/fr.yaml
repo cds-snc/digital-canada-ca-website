@@ -335,11 +335,13 @@ toolkit-feedback-text:
   other: "Croyez-vous qu'il manque quelque chose d'important sur cette page? Ou peut-être avez-vous une suggestion pour l'améliorer? Nous aimerions avoir votre avis! Partagez vos commentaires avec nous à : [CDS-SNC@servicecanada.gc.ca](mailto:CDS-SNC@servicecanada.gc.ca)"
 toolkit-resources:
   other: "Ressources"
-toolkit-title:
+toolkit-name:
   other: "Boîte à outils en matière de numérique et de services"
 toolkit-tools:
   other: "Outils"
 toolkit-blog-posts:
-  other: "Exemples de notre travail"
+  other: "Exemples de nos travaux"
 toolkit-topics:
   other: "Sujets"
+toolkit-landing-url:
+  other: "/boite-a-outils-en-matiere-de-numerique-et-de-services/"
