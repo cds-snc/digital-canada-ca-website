@@ -26,7 +26,7 @@ The toolkit-tools.html partial can be included in any page to display a list of 
     <h2>{{ i18n "toolkit-tools" }}</h2>
   {{ end }}
 
-  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr" columns="1fr">
+  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr">
     {{ range $tools }}
     {{ $productPath := printf "/our-products/%s" . }}
     {{ with ($context.Site.GetPage $productPath) }}

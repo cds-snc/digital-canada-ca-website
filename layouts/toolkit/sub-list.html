@@ -3,16 +3,15 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="container mrgn-tp-md">
-    <div class="row mrgn-tp-md">
-        {{ partial "toolkit-subtopic-nav.html" . }}
+    <gcds-grid columns="1fr 3fr" columns-desktop="1fr 3fr" columns-tablet="1fr">
 
-        <main class="col-md-8">
+        {{ partial "toolkit-subtopic-nav.html" . }}
+        
+        <main>
             <h1>{{ .Title }}</h1>
             <p>{{ .Params.Description }}</p>
             {{ .Content }}
             {{ partial "toolkit-feedback.html" . }}
         </main>
-    </div>
-</div>
+    </gcds-grid>
 {{ end }} 

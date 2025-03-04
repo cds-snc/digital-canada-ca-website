@@ -108,7 +108,7 @@
   <header role="banner">
     {{ partial "toolkit-header.html" . }}
   </header>
-  <main role="main" property="mainContentOfPage">
+  <div role="main" property="mainContentOfPage">
     <section id="wb-cont">
       {{ block "main" . }}
       <section class="content">
@@ -118,7 +118,7 @@
     </section>
     {{ block "index" . }}
     {{ end }}
-  </main>
+  </div>
   {{ if or (eq .Params.translationKey "formError") (eq .Params.translationKey "thankYou") (eq .RelPermalink "/404.html") }}
   <div role="contentinfo" class="footer bottom">
   {{ else }}

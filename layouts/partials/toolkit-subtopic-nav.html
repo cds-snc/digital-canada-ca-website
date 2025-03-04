@@ -17,7 +17,7 @@ The partial renders the following components:
 */}}
 
 <aside>
-  <gcds-side-nav label="{{ i18n "on-this-page" }}">
+  <gcds-side-nav label='{{ i18n "on-this-page" }}'>
     <!-- Content outline group -->
     {{ $h2headers := findRE "<h2.*?>(.|\n)*?</h2>" .Content }}
     {{ range $h2headers }}

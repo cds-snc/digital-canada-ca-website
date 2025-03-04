@@ -12,7 +12,7 @@
     <section>
       <h2>{{ i18n "toolkit-resources" }}</h2>
         
-      <gcds-grid columns-desktop="1fr 1fr" columns="1fr">
+      <gcds-grid columns="1fr 1fr" columns-desktop="1fr 1fr" columns-tablet=" 1fr 1fr">
         {{ range .Pages }}
         <gcds-card
         card-title="{{ .Title }}"
@@ -37,4 +37,4 @@
   </main>
   
 </gcds-grid>
-  {{ end }}
+{{ end }}
