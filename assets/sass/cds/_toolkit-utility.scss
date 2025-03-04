@@ -1,0 +1,120 @@
+
+@charset "utf-8";
+
+////
+// UTILITIES
+////
+.sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+
+////
+// GENERAL TYPOGRAPHY, SPACING
+////
+body {
+    font: var(--gcds-font-text);
+    color: var(--gcds-text-primary);
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    -webkit-margin-after: var(--gcds-spacing-300);
+    margin-block-end: var(--gcds-spacing-300);
+    -webkit-margin-before: var(--gcds-spacing-600);
+    margin-block-start: var(--gcds-spacing-600);
+    max-width: 65ch;
+}
+
+p {
+    -webkit-margin-before: 0;
+    margin-block-start: 0;
+}
+
+h1 {
+    font: var(--gcds-font-h1);
+    -webkit-margin-before: 0;
+    margin-block-start: 0;
+
+    &::after {
+        display: block;
+        content: "";
+        width: var(--gcds-heading-h1-border-width);
+        -webkit-margin-before: var(--gcds-heading-h1-border-margin);
+        margin-block-start: var(--gcds-heading-h1-border-margin);
+        height: var(--gcds-heading-h1-border-height);
+        background-color: var(--gcds-heading-h1-border-background);
+    }
+}
+
+h2 {
+    font: var(--gcds-font-h2);
+}
+
+h3 {
+    font: var(--gcds-font-h3);
+}
+
+h4 {
+    font: var(--gcds-font-h4);
+}
+
+h5 {
+    font: var(--gcds-font-h5);
+}
+
+h6 {
+    font: var(--gcds-font-h6);
+}
+
+figcaption {
+    font: var(--gcds-font-text-small);
+    -webkit-margin-after: var(--gcds-spacing-300);
+    margin-block-end: var(--gcds-spacing-300);
+    &.credit {
+        font-size: 0.75rem;
+        text-align: right;
+    }
+}
+
+////
+// NAV LOGO
+////
+.toolkit-logo {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    align-self: center;
+    height: 2.78rem;
+    width: 13.88rem;
+    background-image: url("../img/toolkit/toolkit-logo.svg");
+}
+
+////
+// GENERAL LAYOUT
+////
+.landing-text {
+    max-width: 40ch;
+}
+
+.toolkit-content {
+    width: 90%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-bottom: var(--gcds-spacing-900);
+}
+
+////
+// TOPIC CARD IMAGES AND ICONS
+////
+.gcds-card__image::after {
+    display: block;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: red;
+}

@@ -11,7 +11,7 @@ translationKey: interaction-design-at-cds
 
 ## Our practice
 
-Interaction designers employ a user-centered approach rooted in usability research and fundamental rules of perception and cognition to inform products and services that help people accomplish their tasks in a timely and effective manner.
+Interaction designers employ a user-centred approach rooted in usability research and fundamental rules of perception and cognition to inform products and services that help people accomplish their tasks in a timely and effective manner.
 
 To enable and guide a successful means of interaction between the government and the public, our interaction designers use an iterative design process to build products that are tailored to suit the abilities and needs of the people who use them. The hope is that, at the end of the process, people reach their goals with a sense of satisfaction rather than frustration.
 
