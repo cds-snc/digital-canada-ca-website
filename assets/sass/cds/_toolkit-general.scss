@@ -21,6 +21,15 @@ body {
     color: var(--gcds-text-primary);
 }
 
+#wb-cont {
+    max-width: var(--gcds-container-xl);
+    margin: 0 auto;
+}
+
+.cnt-wdth-lmtd {
+    max-width: 65ch;
+}
+
 p, h1, h2, h3, h4, h5, h6 {
     -webkit-margin-after: var(--gcds-spacing-300);
     margin-block-end: var(--gcds-spacing-300);
@@ -81,31 +90,14 @@ figcaption {
 }
 
 ////
-// NAV LOGO
-////
-.toolkit-logo {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    align-self: center;
-    height: 2.78rem;
-    width: 13.88rem;
-    background-image: url("../img/toolkit/toolkit-logo.svg");
-}
-
-////
 // GENERAL LAYOUT
 ////
-.landing-text {
-    max-width: 40ch;
+.toolkit-landing {
+    padding-bottom: var(--gcds-spacing-850);
 }
 
-.toolkit-content {
-    width: 90%;
-    max-width: 1140px;
-    margin: 0 auto;
-    padding-bottom: var(--gcds-spacing-900);
+.toolkit-feedback {
+    max-width: 65ch;
 }
 
 ////

@@ -15,7 +15,7 @@ The partial expects the following parameters to be passed in the front matter of
   <p>{{ . }}</p>
   {{ end }}
 
-  <gcds-grid tag="section" columns="1fr 1fr" equal-row-height gap="40">
+  <gcds-grid tag="section" columns-desktop="1fr 1fr" columns-tablet="1fr" columns="1fr">
     {{ range (index .Params "other-resources-url") }}
       <gcds-card 
         card-title="{{ .text }}"

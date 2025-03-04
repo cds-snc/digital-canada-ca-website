@@ -21,7 +21,7 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
     <h2>{{ i18n "toolkit-blog-posts" }}</h2>
   {{ end }}
 
-  <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
+  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr" columns="1fr">
     {{ range $posts }}
       {{ $currentPost := . }}
       {{ $found := false }}

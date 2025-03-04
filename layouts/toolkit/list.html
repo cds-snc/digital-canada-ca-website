@@ -1,38 +1,40 @@
 {{ define "main" }}
-<div class="container mrgn-tp-md">
-  <div class="row mrgn-tp-md">
-    {{ partial "toolkit-topic-nav.html" . }}
 
-    <main class="col-md-8">
-      <h1>{{ .Title }}</h1>
-      {{ .Content }}
-
-      <!-- List child pages -->
-      <section>
-        <h2>{{ i18n "toolkit-resources" }}</h2>
-        <gcds-grid columns="1fr 1fr" equal-row-height gap="40">
+<gcds-grid tag="article" columns-desktop="1fr 3fr" columns-tablet="1fr" columns="1fr">
+  
+  {{ partial "toolkit-topic-nav.html" . }}
+  
+  <main>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    <!-- List child pages -->
+    <section>
+      <h2>{{ i18n "toolkit-resources" }}</h2>
+        
+      <gcds-grid columns-desktop="1fr 1fr" columns="1fr">
         {{ range .Pages }}
-          <gcds-card
-            card-title="{{ .Title }}"
-            href="{{ .RelPermalink }}"
-            card-title-tag="h3"
-            description="{{ .Description }}"
-          ></gcds-card>
-          {{ end }}
-        </gcds-grid>
-      </section>
-
-      {{ if .Params.tools }}
-        {{ partial "toolkit-tools.html" (dict "section_title" .Params.tools_section_title "context" . "Params" .Params "has_sidenav" true) }}
-      {{ end }}
-
-      {{ if .Params.blog_posts }}
-        {{ partial "toolkit-related-blog-posts.html" (dict "section_title" .Params.blog_posts_section_title "context" . "Params" .Params "has_sidenav" true) }}
-      {{ end }}
-
-      {{ partial "toolkit-feedback.html" . }}
-
-    </main>
-  </div>
-</div>
-{{ end }}
+        <gcds-card
+        card-title="{{ .Title }}"
+        href="{{ .RelPermalink }}"
+        card-title-tag="h3"
+        description="{{ .Description }}"
+        ></gcds-card>
+        {{ end }}
+      </gcds-grid>
+    </section>
+    
+    {{ if .Params.tools }}
+    {{ partial "toolkit-tools.html" (dict "section_title" .Params.tools_section_title "context" . "Params" .Params "has_sidenav" true) }}
+    {{ end }}
+    
+    {{ if .Params.blog_posts }}
+    {{ partial "toolkit-related-blog-posts.html" (dict "section_title" .Params.blog_posts_section_title "context" . "Params" .Params "has_sidenav" true) }}
+    {{ end }}
+    
+    {{ partial "toolkit-feedback.html" . }}
+    
+  </main>
+  
+</gcds-grid>
+  {{ end }}

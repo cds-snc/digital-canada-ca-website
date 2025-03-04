@@ -11,7 +11,6 @@ The partial uses the range function to iterate over the tools array. For each to
 
 The toolkit-tools.html partial can be included in any page to display a list of tools.
 */}}
-
  <section>
   {{ $context := . }}
   {{ $tools := .Params.tools }}
@@ -27,14 +26,14 @@ The toolkit-tools.html partial can be included in any page to display a list of 
     <h2>{{ i18n "toolkit-tools" }}</h2>
   {{ end }}
 
-  <gcds-grid columns="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" equal-row-height gap="40">
+  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr" columns="1fr">
     {{ range $tools }}
-      {{ $productPath := printf "/our-products/%s" . }}
-      {{ with ($context.Site.GetPage $productPath) }}
+    {{ $productPath := printf "/our-products/%s" . }}
+    {{ with ($context.Site.GetPage $productPath) }}
         <gcds-card 
           card-title="{{ .Title }}"
           card-title-tag="h3"
-          href="{{ .Params.url }}"
+          href="{{ .Params.link }}"
           description="{{ .Description }}"
         >
         </gcds-card>
