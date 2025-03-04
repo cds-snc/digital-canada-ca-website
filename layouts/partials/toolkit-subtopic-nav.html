@@ -16,34 +16,32 @@ The partial renders the following components:
  - gcds-nav-link: The navigation link component.
 */}}
 
-<aside class="col-md-4">
-  <gcds-side-nav label="{{ .Title }}">
+<aside>
+  <gcds-side-nav label="{{ i18n "on-this-page" }}">
     <!-- Content outline group -->
-    <gcds-nav-group open-trigger="On this page" menu-label="Page sections">
-      {{ $h2headers := findRE "<h2.*?>(.|\n)*?</h2>" .Content }}
-      {{ range $h2headers }}
-        {{ $h2header := . | plainify }}
-        {{ $h2anchor := $h2header | urlize }}
-        {{ $h2content := index (findRE (printf "<h2.*?>%s</h2>(.|\n)*?(?:<h2|$)" $h2header) $.Content) 0 }}
-        {{ $h3headers := findRE "<h3.*?>(.|\n)*?</h3>" $h2content }}
+    {{ $h2headers := findRE "<h2.*?>(.|\n)*?</h2>" .Content }}
+    {{ range $h2headers }}
+      {{ $h2header := . | plainify }}
+      {{ $h2anchor := $h2header | urlize }}
+      {{ $h2content := index (findRE (printf "<h2.*?>%s</h2>(.|\n)*?(?:<h2|$)" $h2header) $.Content) 0 }}
+      {{ $h3headers := findRE "<h3.*?>(.|\n)*?</h3>" $h2content }}
+      
+      {{ if $h3headers }}
+      <!-- H2 with H3 children becomes a nav group -->
+      <gcds-nav-group open-trigger="{{ $h2header }}">
+        <!-- Add a nav link for the h2 with a special class -->
+        <gcds-nav-link href="#{{ $h2anchor }}" class="h2-nav-link">{{ $h2header }}</gcds-nav-link>
         
-        {{ if $h3headers }}
-        <!-- H2 with H3 children becomes a nav group -->
-        <gcds-nav-group open-trigger="{{ $h2header }}">
-          <!-- Add a nav link for the h2 with a special class -->
-          <gcds-nav-link href="#{{ $h2anchor }}" class="h2-nav-link">{{ $h2header }}</gcds-nav-link>
-          
-          {{ range $h3headers }}
-            {{ $h3header := . | plainify }}
-            {{ $h3anchor := $h3header | urlize }}
-            <gcds-nav-link href="#{{ $h3anchor }}">{{ $h3header }}</gcds-nav-link>
-          {{ end }}
-        </gcds-nav-group>
-        {{ else }}
-        <!-- H2 with no H3 children becomes a nav link -->
-        <gcds-nav-link href="#{{ $h2anchor }}">{{ $h2header }}</gcds-nav-link>
+        {{ range $h3headers }}
+          {{ $h3header := . | plainify }}
+          {{ $h3anchor := $h3header | urlize }}
+          <gcds-nav-link href="#{{ $h3anchor }}">{{ $h3header }}</gcds-nav-link>
         {{ end }}
+      </gcds-nav-group>
+      {{ else }}
+      <!-- H2 with no H3 children becomes a nav link -->
+      <gcds-nav-link href="#{{ $h2anchor }}">{{ $h2header }}</gcds-nav-link>
       {{ end }}
-    </gcds-nav-group>
+    {{ end }}
   </gcds-side-nav>
 </aside>
