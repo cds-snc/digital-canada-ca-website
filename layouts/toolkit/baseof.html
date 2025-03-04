@@ -11,9 +11,13 @@
   <!-- Meta data -->
   <meta name="description" content="{{ .Params.description }}">
   <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
-  {{ partial "analytics.html" }}
+  <meta name="dcterms.tite" content="{{ .Params.Title }}" />
+  <meta name="dcterms.language" content='{{ i18n "aa-language" }}' />
+  <meta name="dcterms.creator" content='{{ i18n "esdc" }}' />
+  <meta name="dcterms.accessRights" content="2" />
+  <meta name="dcterms.service" content="ESDC-EDSC_CDS-SNC" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" />
-
+  
   <!-- GC Design System -->
   {{ if ( eq .RelPermalink "/" ) }}
   <meta name="description" content='{{ i18n "meta-description" }}'/>
@@ -27,7 +31,7 @@
   <meta name="dcterms.modified" title="W3CDTF" content="2024-04-16"/>
   <meta name="dcterms.identifier" content='{{ i18n "meta-identifier" }}'/> 
   {{ end }}
-
+  
   <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
   
   <!-- Load appropriate toolkit styles based on section -->
@@ -52,12 +56,7 @@
 
   <!-- Production Script for Adobe Analytics-->
   <script src=https://assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js></script>
-  <meta name="dcterms.tite" content="{{ .Params.Title }}" />
-  <meta name="dcterms.language" content='{{ i18n "aa-language" }}' />
-  <meta name="dcterms.creator" content='{{ i18n "esdc" }}' />
-  <meta name="dcterms.accessRights" content="2" />
-  <meta name="dcterms.service" content="ESDC-EDSC_CDS-SNC" />
-
+  
   <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
   <!-- EN -->
   <script>
@@ -78,6 +77,7 @@
     })(window,document,'script','dataLayer','GTM-T7JHWPJ');
   }
   </script>
+  {{ partial "analytics.html" }}
   <!-- GOOGLE OPTIMIZE -->
   <!-- EN -->
   <script src="https://www.googleoptimize.com/optimize.js?id=OPT-TKWHLPM"></script>
