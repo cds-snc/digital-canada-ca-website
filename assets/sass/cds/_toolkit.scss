@@ -1,3 +1,5 @@
+@import "toolkit-reset";
+@import "toolkit-utility";
 @import "toolkit-nav";
 
 .toolkit-landing {
@@ -13,4 +15,13 @@
   line-height: 1.25;
   margin-bottom: 10px;
   margin-top: 38px;
+}
+
+// Styles for the h2-nav-link class in the service-digital-toolkit
+.service-digital-toolkit {
+  gcds-nav-link.h2-nav-link {
+    font-weight: 600;
+    color: #26374a;
+    // You can add more styles as needed
+  }
 }
