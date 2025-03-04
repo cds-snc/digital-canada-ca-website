@@ -38,6 +38,21 @@
   {{- $target := printf "/sass/cds.css" }}
   {{- $css := resources.Get "sass/cds.scss" | toCSS (dict "targetPath" $target)}}
   <link rel="stylesheet" href='{{ print $css.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}' media="screen" />
+  
+  <!-- Load appropriate toolkit styles based on section -->
+  {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+  
+  {{ if eq .Section $section }}
+    <!-- Service Digital Toolkit specific styles -->
+    {{- $toolkitTarget := printf "/sass/service-toolkit.css" }}
+    {{- $toolkitCss := resources.Get "sass/service-toolkit.scss" | toCSS (dict "targetPath" $toolkitTarget)}}
+    <link rel="stylesheet" href='{{ print $toolkitCss.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}' media="screen" />
+  {{ else if eq .Type "toolkit" }}
+    <!-- Regular toolkit styles for other toolkit pages -->
+    {{- $toolkitTarget := printf "/sass/toolkit.css" }}
+    {{- $toolkitCss := resources.Get "sass/toolkit.scss" | toCSS (dict "targetPath" $toolkitTarget)}}
+    <link rel="stylesheet" href='{{ print $toolkitCss.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}' media="screen" />
+  {{ end }}
   <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
   <link rel="alternate" type="application/rss+xml" title='{{ i18n "canadian-digital-service" }}' href='{{ i18n "rss-feed-url" }}' />
   <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.0/dist/gcds/gcds.css">
