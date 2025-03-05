@@ -1,6 +1,7 @@
 ---
 cascade:
   type: toolkit
+date: 2025-03-05
 description: Comprehensive guides and resources for development practices
 layout: landing
 hero_image: "/img/toolkit/block-cuate-1.svg"

@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Éléments essentiels à garder à l’esprit lors de la construction de services et de produits dans un contexte agile.
 layout: sub-list
 title: Principes pour la création de services par les équipes de produit
@@ -14,7 +14,7 @@ translationKey: principles-for-how-product-teams-build-services
 
 ## Lorsque vous façonnez un service
 
-1. **Mettez au point un prototype tôt et souvent.** Utilisez les prototypes tôt pour obtenir des commentaires plus précis sur les besoins et pour clarifier nos idées. Ne vous attachez pas aux prototypes, utilisez-les comme outils d’apprentissage.  
+1. **Mettez au point un prototype tôt et souvent.** Utilisez les prototypes assez tôt pour obtenir des commentaires plus précis sur les besoins et pour clarifier vos idées. Ne vous attachez pas aux prototypes, utilisez-les comme outils d’apprentissage.  
 2. **Commencez par une tranche ou une couche particulière du parcours de service.** Choisissez une tranche ou une couche étroite du parcours sur laquelle vous souhaitez vous concentrer. Se concentrer sur l’amélioration de cette tranche ou couche devrait mieux répondre à certains besoins clés de l’utilisateur·trice, sans nuire à personne d’autre.  
 3. **Créez une feuille de route et un arriéré en fonction des besoins des gens.** Chaque élément de l’arriéré devrait correspondre à&nbsp;:  
    1. Un point du parcours de l’utilisateur·trice.  
@@ -23,15 +23,15 @@ translationKey: principles-for-how-product-teams-build-services
 
 ## Lorsque vous créez un produit
 
-1. **Utiliser *juste assez* de conception, de recherche, d’ingénierie et de gestion de produits pour répondre aux besoins des gens.**  
+1. **Utilisez *juste assez* de conception, de recherche, d’ingénierie et de gestion de produits pour répondre aux besoins des gens.**  
    1. Effectuez suffisamment de recherches pour connaître les besoins des gens.  
-   2. Faites juste assez de conception et d’ingénierie pour que nous soyons sûrs que notre produit répond à ces besoins de façon sécuritaire et durable.  
+   2. Faites juste assez de conception et d’ingénierie pour que vous soyez sûrs que votre produit réponde à ces besoins de façon sécuritaire et durable.  
    3. Disposez d’un nombre suffisant de processus de gestion des produits pour atteindre nos objectifs et respecter ces principes.  
-2. **Test d'utilisabilité, changement et répétition.** Nous testons nos services avec ceux et celles qui les utilisent encore et encore. Nous réglons les problèmes majeurs et mineurs au fur et à mesure que nous les identifions.
+2. **Test d'utilisabilité, changement et répétition.** Testez vos services avec ceux et celles qui les utilisent encore et encore. Réglez les problèmes majeurs et mineurs au fur et à mesure que vous les identifiez.
 
 ## En cours de route
 
-1. **Mettez l’accent sur les changements bureaucratiques, techniques et de processus dont nous *avons le plus* besoin pour répondre aux besoins des gens.** Nous ne pouvons pas faire tous les changements que nous souhaiterions. Comprenez l’esprit d’une règle ou d’un processus et essayez de la respecter.  
-2. **Chaque discipline devrait savoir (en gros) ce que font les autres et comment leur travail est lié.** Cela ne veut pas dire que nous ne travaillons pas parfois de façon indépendante, mais cela signifie que nous savons tous comment rassembler les pièces.  
+1. **Mettez l’accent sur les changements bureaucratiques, techniques et de processus dont vous *avez le plus* besoin pour répondre aux besoins des gens.** Vous ne pouvez pas faire tous les changements que vous souhaitez. Comprenez l’esprit d’une règle ou d’un processus et essayez de la respecter.  
+2. **Chaque discipline devrait savoir (en gros) ce que font les autres et comment leur travail est lié.** Cela ne veut pas dire que vous ne travaillez pas parfois de façon indépendante, mais cela signifie que vous savez tous comment rassembler les pièces.  
 3. **Travaillez dans un environnement ouvert.** Partagez autant de travail en cours avec vos collègues membres de l’équipe et vos partenaires autant que possible.  
-4. **Mesurez et célébrez les progrès progressifs.** Sélectionnez, suivez et rendez compte des mesures clés à l’aide de notre [cadre d’évaluation](https://ressources.alpha.canada.ca/ressource/cadre-evaluation-produits). Célébrez les petits succès autant que les impacts majeurs.
+4. **Mesurez et célébrez les progrès progressifs.** Sélectionnez, suivez et rendez compte des mesures clés à l’aide d’un cadre d’évaluation. Célébrez les petits succès autant que les impacts majeurs.

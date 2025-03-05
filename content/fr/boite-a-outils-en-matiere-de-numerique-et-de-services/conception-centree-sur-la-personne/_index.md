@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Concevoir avec la participation des utilisatrices et utilisateurs dès le départ pour mieux répondre à leurs besoins et à leurs attentes.
 img_url: /img/toolkit/user-centred-design.svg
 layout: list

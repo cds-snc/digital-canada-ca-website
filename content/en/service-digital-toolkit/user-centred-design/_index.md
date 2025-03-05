@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Design with users from the start to better meet their needs and expectations.
 img_url: /img/toolkit/user-centred-design.svg
 layout: list
@@ -13,7 +13,7 @@ blog_posts:
   - "a-conducting-user-research-with-nrcan"
   - "writing-without-excluding-inclusivity-in-the-french-language"
 topic: "user-centred-design"
-title: User centred design
+title: User-centred design
 translationKey: user-centred-design
 ---
 People expect services to be easy to use, inclusive, and reliable. By designing with users and prioritizing accessibility and inclusivity from the start, we can better meet these needs and expectations. At the Canadian Digital Service (CDS), we leverage a wide range of skills and expertise across the entire design process – such as service design, content design and interaction design – to significantly improve the experience and outcomes for people using our digital services.

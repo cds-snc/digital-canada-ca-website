@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Nos pratiques et principes pour la conception d’interactions au SNC.
 layout: sub-list
 title: Conception d’interaction au SNC

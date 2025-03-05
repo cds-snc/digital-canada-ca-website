@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Our commitment to accessibility and inclusivity
 layout: sub-list
 title: Our commitment to accessibility and inclusivity
@@ -11,7 +11,7 @@ translationKey: our-commitment-to-accessibility-and-inclusivity
 
 ## Why this matters
 
-Research, design, and development decisions are not neutral. Every decision either raises or lowers barriers to participation. We are committed to making decisions that lower barriers to create inclusive products, services, environments, and experiences.
+Research, design and development decisions are not neutral. Every decision either raises or lowers barriers to participation. We are committed to making decisions that lower barriers to create inclusive products, services, environments and experiences.
 
 Inclusive design is more than meeting accessibility compliance. It is much more than checking a few boxes to make sure colour and contrast ratios meet standards. Inclusive design starts at the very beginning of any project, before pixels get pushed, before pens even hit sketchbooks.
 
@@ -21,9 +21,9 @@ Inclusive design is more than meeting accessibility compliance. It is much more 
 
 ## Our standard
 
-At a minimum, our services strive to meet level AA of the [Web Content Accessibility Guidelines 2.1 (WCAG 2.1)](https://www.w3.org/TR/WCAG21/). We've tried to meet and, in some cases, exceed that standard. Applying a service-design lens also helps ensure our services are accessible across all channels involved — from the most common browsers, platforms, and devices people will use to access services to common assistive technologies.
+At a minimum, our services strive to meet level AA of the [Web Content Accessibility Guidelines 2.1 (WCAG 2.1)](https://www.w3.org/TR/WCAG21/). We've tried to meet and, in some cases, exceed that standard. Applying a service-design lens also helps ensure our services are accessible across all channels involved — from the most common browsers, platforms and devices people will use to access services to common assistive technologies.
 
-From the start, we work with the people who will use a product, including people with disabilities. We work across all disciplines — blurring the lines between research, development, design, and accessibility. Our goal, for whatever we're working on, is to make it better than it was yesterday.
+From the start, we work with the people who will use a product, including people with disabilities. We work across all disciplines — blurring the lines between research, development, design and accessibility. Our goal, for whatever we're working on, is to make it better than it was yesterday.
 
 ## Our principles of accessibility
 
@@ -31,11 +31,11 @@ From the start, we work with the people who will use a product, including people
 * Include accessibility from the start of service design.  
 * Strive to have a clear purpose and well-defined goals.  
 * Ensure that content is clear, use plain language.  
-* Provide helpful wayfinding — *help people navigate to relevant content.*  
+* Provide helpful wayfinding — help people navigate to relevant content.  
 * Accommodate a range of people's needs by providing choice and flexibility.  
-* Include people with disabilities in user research, design, and testing of services.  
+* Include people with disabilities in user research, design and testing of services.  
 * Use solid structure by building to standards: work to exceed WCAG 2.1 AA.  
 * Test the online parts of a service for compatibility with assistive technologies.  
 * Have champions for accessibility on product teams and internal support teams.  
-* Resources should be compatible with current and future tools, include redundant modalities by offering choice.  
+* Resources should be compatible with current and future tools, including redundant modalities by offering choice.  
 * Providing a community feedback layer to partners, users or other stakeholders, such as an accessibility statement, to continually improve services.

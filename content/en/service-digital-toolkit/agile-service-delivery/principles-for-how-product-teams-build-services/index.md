@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Essential things to keep in mind when building services and products in an agile context.
 layout: sub-list
 title: Principles for how product teams build services
@@ -23,15 +23,15 @@ translationKey: principles-for-how-product-teams-build-services
 
 ## As you build a product
 
-1. **Use *just enough* design, research, engineering, and product management to meet people’s needs.**  
+1. **Use *just enough* design, research, engineering and product management to meet people’s needs.**  
    1. Do just robust enough research that we know what people’s needs are.  
    2. Do just enough design and engineering that we’re confident our product meets those needs safely and sustainably.  
    3. Have just enough product management processes that we meet our objectives and follow these principles.  
-2. **Usability test, change, and repeat.** We test our services with the people who use them over and over again. We resolve both major and minor issues as we identify them.
+2. **Usability test, change and repeat.** We test our services with the people who use them over and over again. We resolve both major and minor issues as we identify them.
 
 ## Along the way
 
-1. **Focus on making the bureaucratic, process and technical changes we *most* need to meet people’s needs.** We can’t make every change we might want to. Understanding the spirit of a rule or process and try and meet it.  
-2. **Each discipline should know (roughly) what each other are doing and how their work relates**. That doesn’t mean we don’t sometimes work independently, but it does mean we each know how the pieces fit back together.  
+1. **Focus on making the bureaucratic, process and technical changes we *most* need to meet people’s needs.** We can’t make every change we might want to. Understanding the spirit of a rule or process is key as we aim to meet it.  
+2. **Each discipline should know (roughly) what each other is doing and how their work relates**. That doesn’t mean we don’t sometimes work independently, but it does mean we each know how the pieces fit back together.  
 3. **Work in the open.** Share as much of your work in progress with your fellow team members and partners as you possibly can.  
-4. **Measure and celebrate incremental progress.** Select, track and report on key metrics using our [evaluation framework](https://resources.alpha.canada.ca/resource/product-evaluation-framework). Celebrate small success as much as major impacts.
+4. **Measure and celebrate incremental progress.** Select, track and report on key metrics using an evaluation framework. Celebrate small success as much as major impacts.

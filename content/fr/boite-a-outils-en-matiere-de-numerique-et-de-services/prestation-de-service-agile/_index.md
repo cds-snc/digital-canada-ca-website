@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-03-05
 description: Implement continuous, iterative delivery to keep up with users’ evolving needs.
 layout: list
 img_url: /img/toolkit/agile.svg

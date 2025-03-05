@@ -1,5 +1,5 @@
 ---
-date: 2025-02-20
+date: 2025-03-05
 description: En savoir plus sur la Boîte à outils en matière de numérique et de services et sa mission d'autonomisation de la transformation numérique dans le secteur public.
 layout: single
 title: À propos des outils du numérique et des services

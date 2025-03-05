@@ -2,6 +2,7 @@
 cascade:
   type: toolkit
 description: Guides et ressources complets pour les pratiques de développement
+date: 2025-03-05
 hero_image: "/img/toolkit/block-cuate-1.svg"
 hero_image_alt: "Illustration d'un homme et d'une femme construisant une structure avec de grands blocs géométriques et des fenêtres, une étagère et des plantes en arrière-plan."
 hero_text: |
