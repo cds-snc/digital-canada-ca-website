@@ -8,6 +8,7 @@ Both [digital.canada.ca](http://digital.canada.ca) (English site) and [numerique
 
 **Table of contents:** 
 * How to install and run
+* Accessibility Testing
 * Content Management System (CMS)
     * How to contribute
     * Submitting pull requests
@@ -31,6 +32,39 @@ Powered by [Hugo](https://gohugo.io/) and [GC Design System Components](https://
    ```
 
 The English and French versions will be hosted at [localhost:1313](http://localhost:1313) and [localhost:1314](http://localhost:1314), respectively.
+
+## Accessibility Testing
+
+We have two approaches for running accessibility tests:
+
+### Jest with Axe-core
+
+Run the accessibility tests:
+```
+npm run a11y:test      # Test all pages
+npm run a11y:test:en   # Test only English pages 
+npm run a11y:test:fr   # Test only French pages
+```
+
+This runs automated accessibility tests on key pages using jest-axe.
+
+### Visual Regression Testing with BackstopJS
+
+Create reference screenshots:
+```
+npm run backstop:reference      # All pages
+npm run backstop:reference:en   # English pages only
+npm run backstop:reference:fr   # French pages only
+```
+
+Run the tests:
+```
+npm run backstop:test      # All pages
+npm run backstop:test:en   # English pages only
+npm run backstop:test:fr   # French pages only
+```
+
+This performs visual regression testing and also runs axe-core accessibility tests on each page.
 
 ## Content Management System (CMS)
 We use [GC Articles](https://github.com/cds-snc/gc-articles) as our content management system (CMS). 
@@ -63,6 +97,13 @@ Ceci est le site officiel du Service numérique canadien.
 
 Les sites [digital.canada.ca](http://digital.canada.ca/) (site en anglais) et [numerique.canada.ca](http://numerique.canada.ca/) (site en français) sont tous deux publiés à partir de ce référentiel.
 
+**Table des matières :** 
+* Installation et exécution
+* Tests d'accessibilité
+* Système de gestion de contenu (SGC)
+    * Apportez votre contribution
+    * Soumettre des demandes de tirage (pull request)
+
 ## Installation et exécution
 
 Créé à l’aide de [Hugo](https://gohugo.io/) et des [composants du Système de design GC](https://github.com/cds-snc/gcds-components).
@@ -86,6 +127,39 @@ Créé à l’aide de [Hugo](https://gohugo.io/) et des [composants du Système 
    ```
 
 Les versions française et anglaise seront hébergées à [localhost:1314](http://localhost:1314) et à [localhost:1313](http://localhost:1313), respectivement.
+
+## Tests d'accessibilité
+
+Nous avons deux approches pour exécuter des tests d'accessibilité :
+
+### Jest avec Axe-core
+
+Exécuter les tests d'accessibilité :
+```
+npm run a11y:test      # Tester toutes les pages
+npm run a11y:test:en   # Tester uniquement les pages en anglais 
+npm run a11y:test:fr   # Tester uniquement les pages en français
+```
+
+Cela exécute des tests d'accessibilité sur des pages clés à l'aide de jest-axe.
+
+### Tests de régression visuelle avec BackstopJS
+
+Créer des captures d'écran de référence :
+```
+npm run backstop:reference      # Toutes les pages
+npm run backstop:reference:en   # Pages en anglais uniquement
+npm run backstop:reference:fr   # Pages en français uniquement
+```
+
+Exécuter les tests :
+```
+npm run backstop:test      # Toutes les pages
+npm run backstop:test:en   # Pages en anglais uniquement
+npm run backstop:test:fr   # Pages en français uniquement
+```
+
+Cela effectue des tests de régression visuelle et exécute également des tests d'accessibilité axe-core sur chaque page.
 
 ## Système de gestion de contenu (SGC)
 

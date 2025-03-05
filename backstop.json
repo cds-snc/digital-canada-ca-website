@@ -1,0 +1,96 @@
+{
+  "id": "toolkit-accessibility",
+  "viewports": [
+    {
+      "label": "small",
+      "width": 375,
+      "height": 667
+    },
+    {
+      "label": "medium",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "label": "large",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "EN - Toolkit Homepage",
+      "url": "http://localhost:1313/service-digital-toolkit/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "EN - Toolkit Accessibility",
+      "url": "http://localhost:1313/service-digital-toolkit/accessibility/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "EN - Toolkit User-Centred Design",
+      "url": "http://localhost:1313/service-digital-toolkit/user-centred-design/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "EN - Toolkit Agile Service Delivery",
+      "url": "http://localhost:1313/service-digital-toolkit/agile-service-delivery/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "FR - Toolkit Homepage",
+      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "FR - Toolkit Accessibility",
+      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/accessibilite/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "FR - Toolkit User-Centred Design",
+      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/conception-centree-sur-la-personne/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    },
+    {
+      "label": "FR - Toolkit Agile Service Delivery",
+      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/prestation-de-service-agile/",
+      "delay": 500,
+      "requireSameDimensions": true,
+      "onReadyScript": "puppet/axeA11yCheck.js"
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}
