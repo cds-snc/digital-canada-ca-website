@@ -22,7 +22,7 @@ The partial renders the following components:
     {{ $h2headers := findRE `<gcds-heading tag="h2".*?>(.|\n)*?</gcds-heading>` .Content }}
     {{ range $h2headers }}
       {{ $h2header := . | plainify }}
-      {{ $h2anchor := $h2header | urlize }}
+      {{ $h2id := index (findRE `<gcds-heading tag="h2" id="([^"]*)"` .) 0 | replaceRE `<gcds-heading tag="h2" id="([^"]*)".*` "$1" }}
       {{ $h2content := index (findRE (printf `<gcds-heading tag="h2".*?>%s</gcds-heading>(.|\n)*?(?:<gcds-heading tag="h2"|$)` $h2header) $.Content) 0 }}
       {{ $h3headers := findRE `<gcds-heading tag="h3".*?>(.|\n)*?</gcds-heading>` $h2content }}
       
@@ -30,17 +30,17 @@ The partial renders the following components:
       <!-- H2 with H3 children becomes a nav group -->
       <gcds-nav-group open-trigger="{{ $h2header }}">
         <!-- Add a nav link for the h2 with a special class -->
-        <gcds-nav-link href="#{{ $h2anchor }}">{{ $h2header }}</gcds-nav-link>
+        <gcds-nav-link href="#{{ $h2id }}">{{ $h2header }}</gcds-nav-link>
         
         {{ range $h3headers }}
           {{ $h3header := . | plainify }}
-          {{ $h3anchor := $h3header | urlize }}
-          <gcds-nav-link href="#{{ $h3anchor }}">{{ $h3header }}</gcds-nav-link>
+          {{ $h3id := index (findRE `<gcds-heading tag="h3" id="([^"]*)"` .) 0 | replaceRE `<gcds-heading tag="h3" id="([^"]*)".*` "$1" }}
+          <gcds-nav-link href="#{{ $h3id }}">{{ $h3header }}</gcds-nav-link>
         {{ end }}
       </gcds-nav-group>
       {{ else }}
       <!-- H2 with no H3 children becomes a nav link -->
-      <gcds-nav-link href="#{{ $h2anchor }}">{{ $h2header }}</gcds-nav-link>
+      <gcds-nav-link href="#{{ $h2id }}">{{ $h2header }}</gcds-nav-link>
       {{ end }}
     {{ end }}
   </gcds-side-nav>
