@@ -1,0 +1,9 @@
+{{- if or (eq .Page.Section "service-digital-toolkit") (eq .Page.Section "boite-a-outils-en-matiere-de-numerique-et-de-services") -}}
+  {{- if and (ge .Level 1) (le .Level 6) -}}
+  <gcds-heading tag="h{{ .Level }}" id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</gcds-heading>
+  {{- else -}}
+  <h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</h{{ .Level }}>
+  {{- end -}}
+{{- else -}}
+  <h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</h{{ .Level }}>
+{{- end -}}

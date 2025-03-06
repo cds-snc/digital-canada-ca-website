@@ -3,13 +3,13 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="container">
-  <section class="cnt-wdth-lmtd">
-    <h1>{{ .Title }}</h1>
+<gcds-container tag="main">
+  <section>
+    <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
     {{ .Content }}
   </section>
   {{ partial "toolkit-feedback.html" . }}
-</div>
+</gcds-container>
 
 
 {{ end }} 

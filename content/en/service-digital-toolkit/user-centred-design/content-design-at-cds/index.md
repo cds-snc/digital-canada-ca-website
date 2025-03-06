@@ -9,19 +9,13 @@ translationKey: content-design-at-cds
 
 *This was originally created for internal use by our design community. It is not a complete overview of content design, but rather documentation that was used previously to support onboarding, find alignment and spark conversations about our practice and standards within the Canadian Digital Service (CDS).*
 
-## 
-
 ## Our practice
 
 Content design is a user experience (UX) practice focused on meeting the information needs of users, and how to best organize and present that information in English and French. Content design helps people find what they need, understand what they find and use it to meet their needs.
 
-### 
-
 ### What do we mean when we say “content design”?
 
 *"Content design is concerned with what things mean, not with making the words sound pretty. Content design is concept design."* — Jonathon Colman
-
-### 
 
 ### At CDS, our content designers are primarily concerned with:
 
@@ -31,8 +25,6 @@ Content design is a user experience (UX) practice focused on meeting the informa
 * **Creating** the least amount of content and user interface (UI) for an experience to make sense.  
 * **Iterating** on language and processes based on data and qualitative insights.  
 * **Championing** readability and accessibility of information.
-
-## 
 
 ## Our approach
 

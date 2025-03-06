@@ -7,11 +7,11 @@
 
         {{ partial "toolkit-subtopic-nav.html" . }}
         
-        <main>
-            <h1>{{ .Title }}</h1>
-            <p>{{ .Params.Description }}</p>
+        <gcds-container tag="main">
+            <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
+            <gcds-text>{{ .Params.Description }}</gcds-text>
             {{ .Content }}
             {{ partial "toolkit-feedback.html" . }}
-        </main>
+        </gcds-container>
     </gcds-grid>
 {{ end }} 

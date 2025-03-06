@@ -12,13 +12,13 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
 
   {{ if reflect.IsMap . }}
     {{ $sectionTitle := .section_title | default (i18n "toolkit-blog-posts") }}
-    <h2>{{ $sectionTitle }}</h2>
+    <gcds-heading tag="h2">{{ $sectionTitle }}</gcds-heading>
     {{ $context = .context }}
     {{ $posts = .Params.blog_posts }}
     {{ $hasSidenav = .has_sidenav | default false }}
     {{ $site = .context.Site }}
   {{ else }}
-    <h2>{{ i18n "toolkit-blog-posts" }}</h2>
+    <gcds-heading tag="h2">{{ i18n "toolkit-blog-posts" }}</gcds-heading>
   {{ end }}
 
   <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr" columns="1fr">

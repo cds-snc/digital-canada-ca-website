@@ -4,13 +4,13 @@
   
   {{ partial "toolkit-topic-nav.html" . }}
   
-  <main>
-    <h1>{{ .Title }}</h1>
+  <gcds-container tag="main">
+    <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
     {{ .Content }}
     
     <!-- List child pages -->
     <section>
-      <h2>{{ i18n "toolkit-resources" }}</h2>
+      <gcds-heading tag="h2">{{ i18n "toolkit-resources" }}</gcds-heading>
         
       <gcds-grid columns="1fr 1fr" columns-desktop="1fr 1fr" columns-tablet=" 1fr 1fr">
         {{ range .Pages }}
@@ -34,7 +34,7 @@
     
     {{ partial "toolkit-feedback.html" . }}
     
-  </main>
+  </gcds-container>
   
 </gcds-grid>
 {{ end }}

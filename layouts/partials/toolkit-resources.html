@@ -10,9 +10,9 @@ The partial expects the following parameters to be passed in the front matter of
 */}}
 
 <section class="resources">
-  <h2>{{ i18n "toolkit-resources" }}</h2>
+  <gcds-heading tag="h2">{{ i18n "toolkit-resources" }}</gcds-heading>
   {{ with (index .Params "other-resources-text") }}
-  <p>{{ . }}</p>
+  <gcds-text>{{ . }}</gcds-text>
   {{ end }}
 
   <gcds-grid tag="section" columns-desktop="1fr 1fr" columns-tablet="1fr" columns="1fr">

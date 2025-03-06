@@ -18,12 +18,12 @@ The toolkit-tools.html partial can be included in any page to display a list of 
 
   {{ if reflect.IsMap . }}
     {{ $sectionTitle := .section_title | default (i18n "toolkit-tools") }}
-    <h2>{{ $sectionTitle }}</h2>
+    <gcds-heading tag="h2">{{ $sectionTitle }}</gcds-heading>
     {{ $context = .context }}
     {{ $tools = .Params.tools }}
     {{ $hasSidenav = .has_sidenav | default false }}
   {{ else }}
-    <h2>{{ i18n "toolkit-tools" }}</h2>
+    <gcds-heading tag="h2">{{ i18n "toolkit-tools" }}</gcds-heading>
   {{ end }}
 
   <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr">

@@ -16,8 +16,8 @@ The partial uses the following shortcodes:
  - eq: A shortcode that compares two values.
  */}}
 
-<aside>
-  <gcds-side-nav label="{{ .CurrentSection.Title }}">
+<gcds-container tag="aside">
+  <gcds-side-nav label='{{ i18n "on-this-page" }}'>
     {{ $currentPage := . }}
     <!-- Topic sub-pages group -->
     <gcds-nav-group open-trigger='{{ i18n "toolkit-resources" }}' menu-label="{{ .CurrentSection.Title }} pages">
@@ -40,7 +40,7 @@ The partial uses the following shortcodes:
         {{ range (where $.Site.RegularPages "Section" "our-products") }}
           {{ if (eq .File.ContentBaseName $toolSlug) }}
             {{ $found = true }}
-            <gcds-nav-link href="{{ .RelPermalink }}">{{ .Title }}</gcds-nav-link>
+            <gcds-nav-link href="{{ .Params.link }}">{{ .Title }}</gcds-nav-link>
           {{ end }}
         {{ end }}
         
@@ -99,4 +99,4 @@ The partial uses the following shortcodes:
     </gcds-nav-group>
     {{ end }}
   </gcds-side-nav>
-</aside>
+</gcds-container>

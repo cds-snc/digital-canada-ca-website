@@ -3,13 +3,13 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="toolkit-landing container">
+<gcds-container tag="main">
   <!-- Hero Section -->
   <gcds-grid columns="1fr 1fr">
     <section>
-      <h1 class="toolkit-hero-title">{{ .Params.hero_title }}</h1>
+      <gcds-heading tag="h1">{{ .Params.hero_title }}</gcds-heading>
       {{ with .Params.hero_text }}
-      <p class="toolkit-hero-description">{{ . | markdownify }}</p>
+      <gcds-text>{{ . | markdownify }}</gcds-text>
       {{ end }}
     </section>
     {{ with .Params.hero_image }}
@@ -28,7 +28,9 @@
 
   <!-- Main Topics Section -->
   <section>
-    <h2 class="wb-inv">{{ i18n "toolkit-topics" }}</h2>
+    <gcds-sr-only>
+      <gcds-heading tag="h2">{{ i18n "toolkit-topics" }}</gcds-heading>
+    </gcds-sr-only>
     <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
       {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
       {{ $sectionPage := $.Site.GetPage $section }}
@@ -50,5 +52,5 @@
   </section>
 
   {{ partial "toolkit-tools.html" (dict "context" . "Params" .Params "has_sidenav" false) }}
-</div>
+</gcds-container>
 {{ end }}
