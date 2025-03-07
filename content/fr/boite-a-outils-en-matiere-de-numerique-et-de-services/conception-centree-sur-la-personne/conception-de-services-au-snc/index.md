@@ -43,7 +43,7 @@ Nous avons décomposé notre méthode de conception de services en compétences 
 
 Ces compétences se chevauchent avec divers rôles au sein de nos équipes, mais cela ne signifie pas pour autant que les concepteur·trice·s de services font le travail de chercheur·se·s ou de concepteur·trice·s d’interactions, par exemple. Il s’agit d’une représentation des diverses compétences qui englobent la conception de services et de la façon dont ces compétences peuvent être mises en pratique par un·e concepteur·trice de services — ou un autre rôle au sein d’une équipe multidisciplinaire — pour soutenir la prestation d’un service.
 
-### 1- Coordination
+### 1\. Coordination
 
 * **Encadrement&nbsp;:** Si la conception de services est un sport d’équipe, le ou la concepteur·trice de services est responsable de l’encadrement de cette équipe. La conception de services est un état d’esprit ou une lentille, et l’objectif du concepteur ou de la conceptrice de services est de défendre cet état d’esprit au sein de son équipe.  
 * **Stratégie de conception&nbsp;:** Les concepteur·trice·s de services utilisent la stratégie de conception pour imaginer les futurs possibles du produit ou du service, en élaborant des solutions idéales pour répondre aux questions clés de l’équipe de produit.  
@@ -61,7 +61,7 @@ Ces compétences se chevauchent avec divers rôles au sein de nos équipes, mais
 * Gestionnaire de produit/Propriétaire du service  
 * Parties prenantes
 
-### 2- Communication
+### 2\. Communication
 
 * **Narration&nbsp;:** Un·e concepteur·trice de service efficace sait raconter l’histoire du service de bout en bout, les différentes expériences des acteur·trice·s impliqué·e·s et la façon dont les défis peuvent être surmontés. La narration dans une perspective de conception de services raconte l’histoire de l’état actuel et du cheminement vers l’état idéal.  
 * **Visualisation&nbsp;:** Il s’agit du gagne-pain de la conception de services. La visualisation du schéma de parcours utilisateur·trice et les plans du service aident à créer un alignement au sein de votre équipe et fournissent un contexte aux parties prenantes externes.  
@@ -79,7 +79,7 @@ Ces compétences se chevauchent avec divers rôles au sein de nos équipes, mais
 * Ensemble de l’équipe de produit  
 * Parties prenantes externes
 
-### 3- Création
+### 3\. Création
 
 * **Idéation&nbsp;:** Générer des idées pour fournir du carburant et du matériel source pour mettre des solutions innovantes entre les mains des utilisateur·trice·s.  
 * **Prototypage&nbsp;:** Développer une version préliminaire d’un service qui permet à l’équipe d’explorer des idées et de montrer aux utilisateur·trice·s l’intention d’une conception.  
@@ -97,7 +97,7 @@ Ces compétences se chevauchent avec divers rôles au sein de nos équipes, mais
 * Conception de contenu et conception d’interactions  
 * Développement
 
-### 4- Conclusion
+### 4\. Conclusion
 
 * **Recherche&nbsp;:** Comprendre les comportements, les besoins et les motivations des personnes qui utilisent le service grâce à des méthodes de rétroaction.  
 * **Synthèse&nbsp;:** Synthétiser les conclusions issues de la recherche, combiner les domaines en un tout et donner un sens à l’information.  

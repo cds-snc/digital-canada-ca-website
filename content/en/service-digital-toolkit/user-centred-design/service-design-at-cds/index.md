@@ -43,7 +43,7 @@ We have broken down our service design methodology into skills that fall within 
 
 These skills overlap with various roles on our teams and it is not meant to suggest that service designers do the job of say researchers or interaction designers. It is a representation of the diverse skills that encompass service design and how these skills can be practiced by a service designer — or another role within a multidisciplinary team — to support the delivery of a service.
 
-### 1- Coordinate
+### 1\. Coordinate
 
 * **Coaching:** If service design is a team sport, then the service designer is responsible for coaching that team. Service design is a mindset or lens, and the goal of the service designer is to champion that mindset within their team.  
 * **Design strategy:** Service designers use design strategy to envision possible futures for the product or service, crafting ideal solutions to answer key questions on the product team.  
@@ -61,7 +61,7 @@ These skills overlap with various roles on our teams and it is not meant to sugg
 * Product manager / service owner  
 * Stakeholders
 
-### 2- Communicate
+### 2\. Communicate
 
 * **Storytelling:** Telling the story of the end-to-end service, the different experiences of the actors involved and how pain points can be alleviated is integral to being an effective service designer. Storytelling within a service design perspective is telling the story of the current state and how it can be informed into an ideal state.  
 * **Visualization:** Visualization is the bread and butter of service design. Being able to visualize the user journey map and service blueprints helps create alignment within our teams and provides context to external stakeholders.  
@@ -79,7 +79,7 @@ These skills overlap with various roles on our teams and it is not meant to sugg
 * Entire product team  
 * External stakeholders
 
-### 3- Create
+### 3\. Create
 
 * **Ideation:** Generating ideas, ideation provides fuel and source material for getting innovative solutions into the hands of users.  
 * **Prototyping:** Developing a draft version of a service that allows the team to explore ideas and show the intention behind the design concept to users.  
@@ -97,7 +97,7 @@ These skills overlap with various roles on our teams and it is not meant to sugg
 * Content design and Interaction design  
 * Development
 
-### 4- Conclude
+### 4\. Conclude
 
 * **Research:** Understanding behaviors, needs and motivations of people using the service through feedback methodologies.  
 * **Synthesis:** Synthesizing feedback from research, combining areas into a whole and bringing meaning to the information.  
