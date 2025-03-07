@@ -9,7 +9,6 @@
         
         <gcds-container tag="main">
             <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
-            <gcds-text>{{ .Params.Description }}</gcds-text>
             {{ .Content }}
             {{ partial "toolkit-feedback.html" . }}
             {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
