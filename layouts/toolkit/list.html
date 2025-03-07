@@ -33,6 +33,8 @@
     {{ end }}
     
     {{ partial "toolkit-feedback.html" . }}
+
+    {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
     
   </gcds-container>
   

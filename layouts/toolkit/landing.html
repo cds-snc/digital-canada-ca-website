@@ -13,15 +13,13 @@
       {{ end }}
     </section>
     {{ with .Params.hero_image }}
-    <div>
-      <img  src="{{ . }}" 
-      alt="{{ $.Params.hero_image_alt }}"
-      class="toolkit-hero-image"
-      loading="eager">
-      <div style="display: flex; justify-content: flex-end;">
-        <small>{{  i18n "toolkit-credits" }}</small>
-      </div>
-    </div>
+      <figure class="landing-image">
+        <img  src="{{ . }}" 
+          alt="{{ $.Params.hero_image_alt }}"
+          class="toolkit-hero-image"
+          loading="eager">
+        <figcaption class="credit">{{  i18n "toolkit-credits" }}</figcaption>
+      </figure> 
     {{ end }}
   </gcds-grid>
 
@@ -52,5 +50,6 @@
   </section>
 
   {{ partial "toolkit-tools.html" (dict "context" . "Params" .Params "has_sidenav" false) }}
+  {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
 </gcds-container>
 {{ end }}

@@ -110,13 +110,8 @@
   <div role="main" property="mainContentOfPage">
     <section id="wb-cont">
       {{ block "main" . }}
-      <section class="content">
         {{ .Content }}
-      </section>
       {{ end }}
-      <gcds-date-modified>
-        {{ if .Params.date }}{{ .Params.date.Format "2006-01-02" }}{{ end }}
-      </gcds-date-modified>
     </section>
     {{ block "index" . }}
     {{ end }}

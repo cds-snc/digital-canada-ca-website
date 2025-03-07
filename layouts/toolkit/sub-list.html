@@ -12,6 +12,7 @@
             <gcds-text>{{ .Params.Description }}</gcds-text>
             {{ .Content }}
             {{ partial "toolkit-feedback.html" . }}
+            {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
         </gcds-container>
     </gcds-grid>
 {{ end }} 
