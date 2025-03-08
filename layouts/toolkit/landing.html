@@ -1,0 +1,55 @@
+{{ define "baseof" }}
+  {{ template "toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<gcds-container tag="main">
+  <!-- Hero Section -->
+  <gcds-grid columns="1fr 1fr">
+    <section>
+      <gcds-heading tag="h1">{{ .Params.hero_title }}</gcds-heading>
+      {{ with .Params.hero_text }}
+      <gcds-text>{{ . | markdownify }}</gcds-text>
+      {{ end }}
+    </section>
+    {{ with .Params.hero_image }}
+      <figure class="landing-image">
+        <img  src="{{ . }}" 
+          alt="{{ $.Params.hero_image_alt }}"
+          class="toolkit-hero-image"
+          loading="eager">
+        <figcaption class="credit">{{  i18n "toolkit-credits" }}</figcaption>
+      </figure> 
+    {{ end }}
+  </gcds-grid>
+
+
+  <!-- Main Topics Section -->
+  <section>
+    <gcds-sr-only>
+      <gcds-heading tag="h2">{{ i18n "toolkit-topics" }}</gcds-heading>
+    </gcds-sr-only>
+    <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
+      {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+      {{ $sectionPage := $.Site.GetPage $section }}
+      {{ $currentPath := .RelPermalink }}
+      
+      {{ range where .Site.Pages "Kind" "section" }}
+        {{ if and (ne .RelPermalink $currentPath) (.Parent) (eq .Parent.RelPermalink $sectionPage.RelPermalink) }}
+          <gcds-card 
+            img-src="{{ .Params.img_url }}"
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+            description="{{ .Description }}"
+          >
+          </gcds-card>
+        {{ end }}
+      {{ end }}
+    </gcds-grid>
+  </section>
+
+  {{ partial "toolkit-tools.html" (dict "context" . "Params" .Params "has_sidenav" false) }}
+  {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
+</gcds-container>
+{{ end }}

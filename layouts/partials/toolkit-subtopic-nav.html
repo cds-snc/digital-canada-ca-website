@@ -1,0 +1,47 @@
+{{/* 
+This partial is used to render the side navigation for a subtopic page.
+
+The partial expects the following variables to be set:
+ - .Title: The title of the page.
+ - .Content: The content of the page.
+
+The partial uses the following shortcodes:
+ - findRE: A shortcode that finds all the regular expressions in a string.
+ - plainify: A shortcode that removes all the HTML tags from a string.
+ - urlize: A shortcode that converts a string into a URL-friendly format.
+
+The partial renders the following components:
+ - gcds-side-nav: The side navigation component.
+ - gcds-nav-group: The navigation group component.
+ - gcds-nav-link: The navigation link component.
+*/}}
+
+<gcds-container tag="aside">
+  <gcds-side-nav label='{{ i18n "on-this-page" }}'>
+    <!-- Content outline group -->
+    {{ $h2headers := findRE `<gcds-heading tag="h2".*?>(.|\n)*?</gcds-heading>` .Content }}
+    {{ range $h2headers }}
+      {{ $h2header := . | plainify }}
+      {{ $h2id := index (findRE `<gcds-heading tag="h2" id="([^"]*)"` .) 0 | replaceRE `<gcds-heading tag="h2" id="([^"]*)".*` "$1" }}
+      {{ $h2content := index (findRE (printf `<gcds-heading tag="h2".*?>%s</gcds-heading>(.|\n)*?(?:<gcds-heading tag="h2"|$)` $h2header) $.Content) 0 }}
+      {{ $h3headers := findRE `<gcds-heading tag="h3".*?>(.|\n)*?</gcds-heading>` $h2content }}
+      
+      {{ if $h3headers }}
+      <!-- H2 with H3 children becomes a nav group -->
+      <gcds-nav-group open-trigger="{{ $h2header }}">
+        <!-- Add a nav link for the h2 with a special class -->
+        <gcds-nav-link href="#{{ $h2id }}">{{ $h2header }}</gcds-nav-link>
+        
+        {{ range $h3headers }}
+          {{ $h3header := . | plainify }}
+          {{ $h3id := index (findRE `<gcds-heading tag="h3" id="([^"]*)"` .) 0 | replaceRE `<gcds-heading tag="h3" id="([^"]*)".*` "$1" }}
+          <gcds-nav-link href="#{{ $h3id }}">{{ $h3header }}</gcds-nav-link>
+        {{ end }}
+      </gcds-nav-group>
+      {{ else }}
+      <!-- H2 with no H3 children becomes a nav link -->
+      <gcds-nav-link href="#{{ $h2id }}">{{ $h2header }}</gcds-nav-link>
+      {{ end }}
+    {{ end }}
+  </gcds-side-nav>
+</gcds-container>

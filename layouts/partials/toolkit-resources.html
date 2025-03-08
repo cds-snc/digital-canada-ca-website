@@ -1,0 +1,29 @@
+{{/*
+This partial is used to display a list of resources on a page.
+The partial uses the gcds-grid and gcds-card components to display the resources.
+The partial expects the following parameters to be passed in the front matter of the page:
+  - other-resources-text: The text to display above the resources.
+  - other-resources-url: An array of objects containing the following properties:
+    - text: The title of the resource.
+    - url: The URL of the resource.
+    - description: A description of the resource.
+*/}}
+
+<section class="resources">
+  <gcds-heading tag="h2">{{ i18n "toolkit-resources" }}</gcds-heading>
+  {{ with (index .Params "other-resources-text") }}
+  <gcds-text>{{ . }}</gcds-text>
+  {{ end }}
+
+  <gcds-grid tag="section" columns-desktop="1fr 1fr" columns-tablet="1fr" columns="1fr">
+    {{ range (index .Params "other-resources-url") }}
+      <gcds-card 
+        card-title="{{ .text }}"
+        card-title-tag="h3"
+        href="{{ .url }}"
+        description="{{ .description }}"
+      >
+      </gcds-card>
+    {{ end }}
+  </gcds-grid>
+</section>

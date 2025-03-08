@@ -16,6 +16,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      autoHeadingID: true
 
 languages:
   en:

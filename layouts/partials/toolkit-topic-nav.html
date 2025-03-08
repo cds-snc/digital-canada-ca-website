@@ -1,0 +1,102 @@
+{{/* This partial is used to render the side navigation for a topic page. It is included in the toolkit/list layout.
+
+The partial expects the following variables to be set:
+ - .CurrentSection: The current section of the page.
+ - .CurrentSection.Title: The title of the current section.
+ - .CurrentSection.Pages: The pages in the current section.
+ - .CurrentSection.Params.tools: A list of tools.
+ - .CurrentSection.Params.blog_posts: A list of blog posts examples.
+
+The partial renders the following components:
+ - gcds-side-nav: The side navigation component.
+ - gcds-nav-group: The navigation group component.
+ - gcds-nav-link: The navigation link component.
+
+The partial uses the following shortcodes:
+ - eq: A shortcode that compares two values.
+ */}}
+
+<gcds-container tag="aside">
+  <gcds-side-nav label='{{ i18n "on-this-page" }}'>
+    {{ $currentPage := . }}
+    <!-- Topic sub-pages group -->
+    <gcds-nav-group open-trigger='{{ i18n "toolkit-resources" }}' menu-label="{{ .CurrentSection.Title }} pages">
+      {{ range .CurrentSection.Pages }}
+        <gcds-nav-link 
+          href="{{ .RelPermalink }}"
+          {{ if eq $currentPage.RelPermalink .RelPermalink }}current{{ end }}
+        >{{ .Title }}</gcds-nav-link>
+      {{ end }}
+    </gcds-nav-group>
+
+    <!-- Tools group -->
+    {{ if (index .CurrentSection.Params "tools") }}
+    <gcds-nav-group open-trigger="Tools" menu-label='{{ i18n "toolkit-tools" }}'>
+      {{ range (index .CurrentSection.Params "tools") }}
+        {{ $toolSlug := . }}
+        {{ $found := false }}
+        
+        <!-- Find the tool by more flexible matching -->
+        {{ range (where $.Site.RegularPages "Section" "our-products") }}
+          {{ if (eq .File.ContentBaseName $toolSlug) }}
+            {{ $found = true }}
+            <gcds-nav-link href="{{ .Params.link }}">{{ .Title }}</gcds-nav-link>
+          {{ end }}
+        {{ end }}
+        
+        <!-- If still not found, try direct path (original method) -->
+        {{ if not $found }}
+          {{ $productPath := printf "/our-products/%s" . }}
+          {{ $product := $.Site.GetPage $productPath }}
+          {{ if $product }}
+            <gcds-nav-link href="{{ $product.RelPermalink }}">{{ $product.Title }}</gcds-nav-link>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+
+    <!-- Example of our work group -->
+    {{ if (index .CurrentSection.Params "blog_posts") }}
+    <gcds-nav-group open-trigger='{{ i18n "toolkit-blog-posts" }}' menu-label='{{ i18n "toolkit-blog-posts" }}'>
+      {{ range (index .CurrentSection.Params "blog_posts") }}
+        {{ $blogSlug := . }}
+        {{ $found := false }}
+        
+        <!-- Find the blog post by more flexible matching -->
+        {{ range (where $.Site.RegularPages "Section" "blog") }}
+          {{ $urlPath := path.Base .RelPermalink }}
+          {{ $urlPath = strings.TrimSuffix "/" $urlPath }}
+          
+          <!-- Try to match on URL path basename -->
+          {{ if eq $urlPath $blogSlug }}
+            {{ $found = true }}
+            <gcds-nav-link href="{{ .RelPermalink }}">{{ .Title }}</gcds-nav-link>
+          {{ else }}
+            <!-- Try to match on file basename-->
+            {{ if eq .File.ContentBaseName $blogSlug }}
+              {{ $found = true }}
+              <gcds-nav-link href="{{ .RelPermalink }}">{{ .Title }}</gcds-nav-link>
+            {{ else }}
+              <!-- Match by containing the slug in file path -->
+              {{ if (in .File.Path (printf "posts/%s" $blogSlug)) }}
+                {{ $found = true }}
+                <gcds-nav-link href="{{ .RelPermalink }}">{{ .Title }}</gcds-nav-link>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        
+        <!-- If still not found, try direct path (original method) -->
+        {{ if not $found }}
+          {{ $blogPath := printf "/blog/posts/%s" . }}
+          {{ $blogPost := $.Site.GetPage $blogPath }}
+          {{ if $blogPost }}
+            <gcds-nav-link href="{{ $blogPost.RelPermalink }}">{{ $blogPost.Title }}</gcds-nav-link>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </gcds-nav-group>
+    {{ end }}
+  </gcds-side-nav>
+</gcds-container>

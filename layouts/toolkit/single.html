@@ -1,0 +1,16 @@
+{{ define "baseof" }}
+  {{ template "toolkit/baseof.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<gcds-container tag="main">
+  <section>
+    <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
+    {{ .Content }}
+  </section>
+  {{ partial "toolkit-feedback.html" . }}
+  {{ partial "toolkit-date.html" (dict "context" . "Params" .Params) }}
+</gcds-container>
+
+
+{{ end }} 

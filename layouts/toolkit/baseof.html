@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html class="no-js" lang="{{ (string ( $.Site.Language) ) }}" dir="ltr">
+{{ $pageTitle := i18n .Params.title }}
+{{ $titleKey := .Params.title }}
+{{ $js := resources.Get "js/cds-app.js" | js.Build (dict "params" .Site.Params ) }}
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <title>{{ with $pageTitle }}{{ $pageTitle }}{{ else }}{{ .Params.title }}{{ end }} - {{ i18n "canadian-digital-service" }}</title>
+
+  <!-- Meta data -->
+  <meta name="description" content="{{ .Params.description }}">
+  <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
+  <meta name="dcterms.tite" content="{{ .Params.Title }}" />
+  <meta name="dcterms.language" content='{{ i18n "aa-language" }}' />
+  <meta name="dcterms.creator" content='{{ i18n "esdc" }}' />
+  <meta name="dcterms.accessRights" content="2" />
+  <meta name="dcterms.service" content="ESDC-EDSC_CDS-SNC" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" />
+  
+  <!-- GC Design System -->
+  {{ if ( eq .RelPermalink "/" ) }}
+  <meta name="description" content='{{ i18n "meta-description" }}'/>
+  <meta name="keywords" content='{{ i18n "meta-keywords" }}'/>
+  <meta name="dcterms.title" content='{{ i18n "meta-title" }}'/>
+  <meta name="dcterms.description" content='{{ i18n "meta-description" }}'/>
+  <meta name="dcterms.creator" content='{{ i18n "canadian-digital-service" }}'/>
+  <meta name="dcterms.language" title="ISO639-2/T" content='{{ i18n "aa-language" }}'/>
+  <meta name="dcterms.subject" title="gccore" content='{{ i18n "meta-subject" }}'/>
+  <meta name="dcterms.issued" title="W3CDTF" content="2013-12-13"/>
+  <meta name="dcterms.modified" title="W3CDTF" content="2024-04-16"/>
+  <meta name="dcterms.identifier" content='{{ i18n "meta-identifier" }}'/> 
+  {{ end }}
+  
+  <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
+  
+  <!-- Load appropriate toolkit styles based on section -->
+  {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+  
+  <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+  <link rel="alternate" type="application/rss+xml" title='{{ i18n "canadian-digital-service" }}' href='{{ i18n "rss-feed-url" }}' />
+ 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous">
+
+  <!-- GC Design System -->
+  <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.32.0/dist/gcds/gcds.css">
+  <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.32.0/dist/gcds/gcds.esm.js"></script>
+  <script nomodule src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.32.0/dist/gcds/gcds.js"></script>
+
+
+  {{- $toolkitTarget := printf "/sass/toolkit.css" }}
+  {{- $toolkitCss := resources.Get "sass/toolkit.scss" | toCSS (dict "targetPath" $toolkitTarget)}}
+  <link rel="stylesheet" href='{{ print $toolkitCss.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}' media="screen" />
+
+
+  <!-- Production Script for Adobe Analytics-->
+  <script src=https://assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js></script>
+  
+  <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+  <!-- EN -->
+  <script>
+    if (window.location.host == 'digital.canada.ca') {
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+          'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-PZ6LLXT');
+    } else if ( window.location.host == 'numerique.canada.ca' ) {
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T7JHWPJ');
+  }
+  </script>
+  {{ partial "analytics.html" }}
+  <!-- GOOGLE OPTIMIZE -->
+  <!-- EN -->
+  <script src="https://www.googleoptimize.com/optimize.js?id=OPT-TKWHLPM"></script>
+  <!-- FR -->
+  <script src="https://www.googleoptimize.com/optimize.js?id=OPT-MS9WLFR"></script>
+  <!-- Font Awesome (Icons) -->
+  <!-- <script src="https://kit.fontawesome.com/892cb27850.js" crossorigin="anonymous"></script> -->
+  <noscript>
+    <link rel="stylesheet" href="/lib-cds/gcweb-dist/wet-boew/css/noscript.min.css" />
+  </noscript>
+  <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+  <!-- EN -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZ6LLXT" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- FR -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7JHWPJ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager -->
+</head>
+
+{{ with $pageTitle }}
+<body vocab="http://schema.org/" typeof="WebPage" class="{{ lower $titleKey | urlize }}">
+{{ else }}
+<body vocab="http://schema.org/" typeof="WebPage" class='{{ if eq .Section "blog"}}page-blogpost{{ else }}{{ lower  $titleKey | urlize }}{{ end }}'>
+{{ end }}
+  <header role="banner">
+    {{ partial "toolkit-header.html" . }}
+  </header>
+  <div role="main" property="mainContentOfPage">
+    <section id="wb-cont">
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </section>
+    {{ block "index" . }}
+    {{ end }}
+  </div>
+  {{ if or (eq .Params.translationKey "formError") (eq .Params.translationKey "thankYou") (eq .RelPermalink "/404.html") }}
+  <div role="contentinfo" class="footer bottom">
+  {{ else }}
+  <div role="contentinfo" class="footer">
+  {{ end }}
+    <!-- Web component code (HTML, Angular, Vue) -->
+    {{ partial "footer.html" }}
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+    integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+  <script src="/js/lazyload.js" async=""></script>
+  <script type="text/javascript">_satellite.pageBottom();</script>
+</body>
+</html>
