@@ -2,63 +2,70 @@
 {{ $sectionTitle := .sectionTitle }}
 {{ $products := .products }}
 {{ if $products }}
-  <section class="container">
-    <h2>{{ $sectionTitle }}</h2>
+  <section class="container mrgn-tp-md mrgn-bttm-lg">
+    <h2 class="mrgn-tp-md">{{ $sectionTitle }}</h2>
     
     <!-- Group products into rows of 2 -->
     {{ $rowCount := div (len $products) 2 }}
     {{ if ne (mod (len $products) 2) 0 }}
       {{ $rowCount = add $rowCount 1 }}
     {{ end }}
-    
-    {{ range $row_index := seq 0 (sub $rowCount 1) }}
-      <div class="row equal">
+    <gcds-grid columns="1fr 1fr" equal-row-height gap="40">
+      {{ range $row_index := seq 0 (sub $rowCount 1) }}
         {{ $startIdx := mul $row_index 2 }}
         {{ $endIdx := math.Min (add $startIdx 2) (len $products) }}
         
         {{ range $i := seq $startIdx (sub $endIdx 1) }}
-          {{ with index $products $i }}
-            {{ if ne .Params.description nil }}
-              <div class="col-md-6 col-xs-12" style="margin-top: 1rem; margin-bottom: 1rem;">
-                <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
-                  data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
-              </div>
-            {{ end }}
-          {{ end }}
+        {{ with index $products $i }}
+        {{ if ne .Params.description nil }}
+          <gcds-card card-title="{{ .Params.title }}" href="{{ .Params.link }}" description="{{ .Params.description }}"
+          data-gc-analytics-exit="{{ .Params.title }}"></gcds-card>
         {{ end }}
-      </div>
-    {{ end }}
+        {{ end }}
+        {{ end }}
+      {{ end }}
+    </gcds-grid>
   </section>
 {{ end }}
 {{ end }}
 
 {{ define "index" }}
 <!-- Illustrations by StorySet - https://storyset.com/` -->
-<section class="partnership-products" id="products-section">
+<section class="partnership-products">
   <h2 class="wb-inv">{{ i18n "homepage-section-title" }}</h2>
+  
   {{ $home_products := where .Site.Pages "Section" "==" "our-products" }}
+  {{ $indexPage := .Page }}
   
-  {{ $sectionOne := slice }}
-  {{ $sectionTwo := slice }}
-  {{ $sectionThree := slice }}
-  {{ $sectionFour := slice }}
-  
-  {{ range $home_products }}
-    {{ if and (ge .Weight 2) (le .Weight 3) }}
-      {{ $sectionOne = $sectionOne | append . }}
-    {{ else if and (ge .Weight 4) (le .Weight 6) }}
-      {{ $sectionTwo = $sectionTwo | append . }}
-    {{ else if and (ge .Weight 7) (le .Weight 8) }}
-      {{ $sectionThree = $sectionThree | append . }}
-    {{ else if and (ge .Weight 9) (le .Weight 10) }}
-      {{ $sectionFour = $sectionFour | append . }}
+  {{ if isset $indexPage.Params "sections" }}
+    {{ range $sectionIndex, $section := $indexPage.Params.sections }}
+      {{ $sectionProducts := slice }}
+      
+      {{ range $productIndex, $productName := $section.products }}
+        {{ $found := false }}
+        {{ range $home_products }}
+          {{ $path := path.Base .File.Path }}
+          {{ $filename := index (split $path ".") 0 }}
+          {{ if eq $filename $productName }}
+            {{ $sectionProducts = $sectionProducts | append . }}
+            {{ $found = true }}
+          {{ end }}
+        {{ end }}
+        
+        {{ if not $found }}
+          {{ warnf "Product not found: %s in section %s" $productName $section.title }}
+        {{ end }}
+      {{ end }}
+      
+      {{ if $sectionProducts }}
+        {{ template "renderSection" (dict "sectionTitle" $section.title "products" $sectionProducts) }}
+      {{ else }}
+        {{ warnf "Empty section or no products found for section: %s" $section.title }}
+      {{ end }}
     {{ end }}
+  {{ else }}
+    {{ warnf "No sections defined in front matter for %s" $indexPage.File.Path }}
   {{ end }}
-
-  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-one") "products" $sectionOne) }}
-  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-two") "products" $sectionTwo) }}
-  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-three") "products" $sectionThree) }}
-  {{ template "renderSection" (dict "sectionTitle" (i18n "homepage-section-title-four") "products" $sectionFour) }}
 
   <div>
     <div class="first-list">
