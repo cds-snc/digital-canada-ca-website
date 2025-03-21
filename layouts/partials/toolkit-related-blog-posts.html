@@ -1,0 +1,81 @@
+{{/*
+This section is used to display related blog posts on a blog post page. It is used in the list/topic pages layout.
+
+The section expects a list of blog post URLs to be passed in as a parameter. The section will then display the blog post cards for each of the URLs passed in.
+*/}}
+
+<section>
+  {{ $context := . }}
+  {{ $posts := .Params.blog_posts }}
+  {{ $hasSidenav := false }}
+  {{ $site := .context.Site }}
+
+  {{ if reflect.IsMap . }}
+    {{ $sectionTitle := .section_title | default (i18n "toolkit-blog-posts") }}
+    <gcds-heading tag="h2">{{ $sectionTitle }}</gcds-heading>
+    {{ $context = .context }}
+    {{ $posts = .Params.blog_posts }}
+    {{ $hasSidenav = .has_sidenav | default false }}
+    {{ $site = .context.Site }}
+  {{ else }}
+    <gcds-heading tag="h2">{{ i18n "toolkit-blog-posts" }}</gcds-heading>
+  {{ end }}
+
+  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr" columns="1fr">
+    {{ range $posts }}
+      {{ $currentPost := . }}
+      {{ $found := false }}
+      {{ range where $site.RegularPages "Section" "blog" }}
+        {{ $urlPath := path.Base .RelPermalink }}
+        {{ $urlPath = strings.TrimSuffix "/" $urlPath }}
+        
+        <!-- Try to match on URL path basename -->
+        {{ if eq $urlPath $currentPost }}
+          {{ $found = true }}
+          <gcds-card 
+            card-title="{{ .Title }}"
+            card-title-tag="h3"
+            href="{{ .RelPermalink }}"
+          >
+          </gcds-card>
+        {{ else }}
+          <!-- Try to match on file basename -->
+          {{ if eq .File.ContentBaseName $currentPost }}
+            {{ $found = true }}
+            <gcds-card 
+              card-title="{{ .Title }}"
+              card-title-tag="h3"
+              href="{{ .RelPermalink }}"
+            >
+            </gcds-card>
+          {{ else }}
+            <!-- Match by containing the slug in file path -->
+            {{ if (in .File.Path (printf "posts/%s" $currentPost)) }}
+              {{ $found = true }}
+              <gcds-card 
+                card-title="{{ .Title }}"
+                card-title-tag="h3"
+                href="{{ .RelPermalink }}"
+              >
+              </gcds-card>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      
+      <!-- If still not found, try direct path (original method) -->
+      {{ if not $found }}
+        {{ $blogPath := printf "/blog/posts/%s" $currentPost }}
+        {{ $blogPost := $site.GetPage $blogPath }}
+        {{ if $blogPost }}
+          <gcds-card 
+            card-title="{{ $blogPost.Title }}"
+            card-title-tag="h3"
+            href="{{ $blogPost.RelPermalink }}"
+          >
+          </gcds-card>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </gcds-grid>
+</section> 

@@ -1,7 +1,7 @@
 not-found:
   other: "Désolé"
 all-newsletter-link:
-  other: "Lire l’infolettre"
+  other: "Lire l'infolettre"
 all-newsletter-past:
   other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=5fe89f4d28"
 about-this-site:
@@ -63,7 +63,7 @@ next-post:
 meet-the-team:
   other: "Rencontrer l'équipe"
 rencontrez-lequipe:
-  other: "Rencontrez l’équipe"
+  other: "Rencontrez l'équipe"
 partner:
   other: "Partenaire"
 partnerships:
@@ -143,21 +143,21 @@ version-history:
 roadmap-date-modified:
   other: "Date de modification:"
 website-usability-testing:
-  other: "Test d’utilisabilité du site Web"
+  other: "Test d'utilisabilité du site Web"
 cppd-research:
   other: "Participez à notre recherche"
 subscribe-title:
   other: "Abonnez-vous à notre infolettre"
 subscribe-note:
-  other: "Inscrivez-vous à l’infolettre pour tout savoir sur nos postes à pourvoir, nos possibilités d’apprentissage et nos derniers projets."
+  other: "Inscrivez-vous à l'infolettre pour tout savoir sur nos postes à pourvoir, nos possibilités d'apprentissage et nos derniers projets."
 subscribe-id:
   other: "//canada.us15.list-manage.com/subscribe/post?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28"
 email-address:
   other: "Adresse courriel"
 subscribe:
-  other: "S’inscrire"
+  other: "S'inscrire"
 view-privacy-notice:
-  other: "Consulter l’avis de confidentialité"
+  other: "Consulter l'avis de confidentialité"
 privacy-notice:
   other: "Avis de confidentialité"
 apply-now:
@@ -189,9 +189,9 @@ product-image-alt:
 join-our-team:
   other: "Joignez-vous à notre équipe"
 join-our-team-description:
-  other: "Faites partie d’une équipe passionnée par les services numériques et le changement positif."
+  other: "Faites partie d'une équipe passionnée par les services numériques et le changement positif."
 job-postings:
-  other: "Offres d’emploi"
+  other: "Offres d'emploi"
 read-our-blog-posts:
   other: "Lire tous les billets"
 careers-tag:
@@ -203,7 +203,7 @@ product-tag:
 product-description:
   other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-intro:
-  other: "Nous fournissons des outils qui permettent aux fonctionnaires de moderniser la prestation de leurs services, de réduire les coûts liés à l’approvisionnement et d’offrir une excellente expérience pour les utilisateurs. Imaginez une série de petits services interreliés qui s’intègrent directement à vos systèmes actuels. " 
+  other: "Nous fournissons des outils qui permettent aux fonctionnaires de moderniser la prestation de leurs services, de réduire les coûts liés à l'approvisionnement et d'offrir une excellente expérience pour les utilisateurs. Imaginez une série de petits services interreliés qui s'intègrent directement à vos systèmes actuels. " 
 product-checklist-title:
   other: "Nos produits sont :"
 product-checklist-item-one:
@@ -255,11 +255,11 @@ homepage-built-by-list-three:
 homepage-built-by-list-four:
   other: "Gratuité"
 homepage-built-by-list-five:
-  other: "Simplicité d’intégration"
+  other: "Simplicité d'intégration"
 homepage-built-by-list-six:
   other: "Maintenance par nos équipes internes"
 homepage-built-by-image-alt:
-  other: "Un téléphone affichant diverses applications. Une clé est posée devant le téléphone et un cadenas flotte devant l’écran."
+  other: "Un téléphone affichant diverses applications. Une clé est posée devant le téléphone et un cadenas flotte devant l'écran."
 homepage-used-by-hundred-title:
   other: "Des outils utilisés par des centaines de fonctionnaires, notamment dans les entités suivantes : "
 homepage-used-by-hundred-list-one:
@@ -273,7 +273,7 @@ homepage-used-by-hundred-list-four:
 homepage-used-by-hundred-list-five:
   other: "Santé Canada"
 homepage-used-by-image-alt:
-  other: "Une personne debout devant une image de la Terre. Autour d’elle se trouvent des portraits de gens connectés par un réseau de lignes."
+  other: "Une personne debout devant une image de la Terre. Autour d'elle se trouvent des portraits de gens connectés par un réseau de lignes."
 contact-cds:
   other: "Gardons le contact"
 newsletter:
@@ -319,7 +319,7 @@ meta-identifier:
 meta-subject:
   other: "GC numérique, Service numérique canadien, services numériques, numérique du gouvernement, plateform, source ouverte; accessibilité, nuage, API, egile, essais,"
 homepage:
-  other: "Page d’accueil"
+  other: "Page d'accueil"
 ga4-linkedin:
   other: "FR_LinkedIn"
 tagged-with:
@@ -328,3 +328,22 @@ topics:
   other: "Sujets&nbsp;"
 view-tags:
   other: "Voir les billets balisés avec:"
+
+toolkit-credits:
+  other: "Illustration fournie par Storyset"
+toolkit-feedback-text:
+  other: "Croyez-vous qu'il manque quelque chose d'important sur cette page? Ou peut-être avez-vous une suggestion pour l'améliorer? Nous aimerions avoir votre avis! Partagez vos commentaires avec nous à : [cds-snc@servicecanada.gc.ca](mailto:cds-snc@servicecanada.gc.ca)"
+toolkit-resources:
+  other: "Ressources"
+toolkit-name:
+  other: "Boîte à outils en matière de numérique et de services"
+toolkit-tools:
+  other: "Outils"
+toolkit-blog-posts:
+  other: "Exemples de nos travaux"
+toolkit-topics:
+  other: "Sujets"
+toolkit-landing-url:
+  other: "/boite-a-outils-en-matiere-de-numerique-et-de-services/"
+on-this-page:
+  other: "Sur cette page"

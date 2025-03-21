@@ -1,0 +1,43 @@
+{{/*  
+The toolkit-tools.html  partial is a reusable component that displays a list of tools. It uses the gcds-grid and gcds-card components to display the tools. The partial accepts a context object that contains the following properties: 
+ - section_title : The title of the section. 
+ - context : The context object. 
+ - tools : An array of tools. 
+ - has_sidenav : A boolean value that indicates whether the page has a side navigation.
+ 
+If the context object is a map, the partial uses the properties of the map. Otherwise, it uses the default values. The partial uses the gcds-grid component to display the tools in a grid layout. The columns attribute specifies the number of columns in the grid. If the page has a side navigation, the grid has two columns. Otherwise, it has three columns. The equal-row-height attribute ensures that all the rows have the same height. The  gap  attribute specifies the gap between the grid items.
+
+The partial uses the range function to iterate over the tools array. For each tool, it retrieves the corresponding page in the our-products section using the GetPage method of the site object. It then uses the gcds-card component to display the tool. The card-title attribute specifies the title of the card. The card-title-tag attribute specifies the tag to use for the title. The href attribute specifies the URL of the tool. The description attribute specifies the description of the tool.
+
+The toolkit-tools.html partial can be included in any page to display a list of tools.
+*/}}
+ <section>
+  {{ $context := . }}
+  {{ $tools := .Params.tools }}
+  {{ $hasSidenav := false }}
+
+  {{ if reflect.IsMap . }}
+    {{ $sectionTitle := .section_title | default (i18n "toolkit-tools") }}
+    <gcds-heading tag="h2">{{ $sectionTitle }}</gcds-heading>
+    {{ $context = .context }}
+    {{ $tools = .Params.tools }}
+    {{ $hasSidenav = .has_sidenav | default false }}
+  {{ else }}
+    <gcds-heading tag="h2">{{ i18n "toolkit-tools" }}</gcds-heading>
+  {{ end }}
+
+  <gcds-grid columns-desktop="{{ if $hasSidenav }}1fr 1fr{{ else }}1fr 1fr 1fr{{ end }}" columns-tablet="1fr 1fr">
+    {{ range $tools }}
+    {{ $productPath := printf "/our-products/%s" . }}
+    {{ with ($context.Site.GetPage $productPath) }}
+        <gcds-card 
+          card-title="{{ .Title }}"
+          card-title-tag="h3"
+          href="{{ .Params.link }}"
+          description="{{ .Description }}"
+        >
+        </gcds-card>
+      {{ end }}
+    {{ end }}
+  </gcds-grid>
+</section> 

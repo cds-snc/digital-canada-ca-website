@@ -16,7 +16,16 @@
     "build:stage": "hugo --environment staging",
     "stage-server": "node stage-server.js",
     "run-staging": "hugo server --environment staging",
-    "uuid": "jest -- uuid.test.js"
+    "uuid": "jest -- uuid.test.js",
+    "a11y:test": "jest accessibility.test.js",
+    "a11y:test:en": "HUGO_PORT_EN=1313 TEST_URL_PATTERN=:1313 jest accessibility.test.js",
+    "a11y:test:fr": "HUGO_PORT_FR=1314 TEST_URL_PATTERN=:1314 jest accessibility.test.js",
+    "backstop:test": "backstop test",
+    "backstop:test:en": "TEST_ENV=en backstop test --filter='EN -'",
+    "backstop:test:fr": "TEST_ENV=fr backstop test --filter='FR -'",
+    "backstop:reference": "backstop reference",
+    "backstop:reference:en": "TEST_ENV=en backstop reference --filter='EN -'",
+    "backstop:reference:fr": "TEST_ENV=fr backstop reference --filter='FR -'"
   },
   "repository": {
     "type": "git",
@@ -26,6 +35,12 @@
   "license": "ISC",
   "homepage": "https://github.com/cds-snc/digital-canada-ca-website#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "axios": "^1.6.8",
+    "axe-core": "^4.10.2",
+    "jest": "^29.7.0",
+    "jest-axe": "^10.0.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^26.0.0",
+    "puppeteer": "^24.3.1"
   }
 }

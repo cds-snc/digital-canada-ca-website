@@ -1,0 +1,5 @@
+{{ if or (eq .Page.Section "service-digital-toolkit") (eq .Page.Section "boite-a-outils-en-matiere-de-numerique-et-de-services") }}
+<gcds-text>{{ .Text | safeHTML }}</gcds-text>
+{{ else }}
+<p>{{ .Text | safeHTML }}</p>
+{{ end }}
