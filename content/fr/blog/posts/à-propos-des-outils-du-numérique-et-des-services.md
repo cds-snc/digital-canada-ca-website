@@ -3,7 +3,7 @@ layout: blog
 title: 'À propos des outils du numérique et des services'
 description: >-
   Vic Chan et Eman El-Fayomi partagent les outils du numérique et des services, une bibliothèque de ressources pratiques basées sur les expériences et les apprentissages du SNC, conçue pour aider les équipes du GC à concevoir et à fournir de meilleurs services numériques.
-author: ''
+author: 'Vic Chan (responsable du site Web du SNC) et Eman El-Fayomi (directrice de la conception de service et du conseil au SNC)'
 date: '2025-03-24T08:58:16'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/03/Service_DigitalToolkit_2025_Blog_Post_FR.jpg
 image-alt: Fonctionnaires qui utilisent un ensemble de ressources pour créer des services accessibles.
