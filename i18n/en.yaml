@@ -319,8 +319,12 @@ view-tags:
 
 toolkit-credits:
   other: "illustration via storyset"
+toolkit-feedback-title: 
+  other: "Help us improve"
 toolkit-feedback-text:
-  other: "Do you think this page is missing something important? Or maybe you have a suggestion to make it better? We’d love to hear from you! Share your feedback with us at: [cds-snc@servicecanada.gc.ca](mailto:cds-snc@servicecanada.gc.ca)"
+  other: "Do you think this page is missing something important? Or maybe you have a suggestion to make it better? We’d love to hear from you!"
+toolkit-feedback-text-email:
+  other: "Share your feedback with us at: <gcds-link href='mailto:cds-snc@servicecanada.gc.ca'>CDS-SNC@servicecanada.gc.ca</gcds-link>"
 toolkit-resources:
   other: "Resources"
 toolkit-tools:
