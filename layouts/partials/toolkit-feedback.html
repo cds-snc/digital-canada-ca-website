@@ -8,5 +8,7 @@
 
 <div class="toolkit-feedback" style="padding: 40px 0">
   <hr />
-  <gcds-text>{{ i18n "toolkit-feedback-text" | markdownify }}</gcds-text>
+  <h2 id="toolkitFeedback">{{ i18n "toolkit-feedback-title" }}</h2>
+  <gcds-text>{{ i18n "toolkit-feedback-text" }}</gcds-text>
+  <gcds-text>{{ i18n "toolkit-feedback-text-email" | safeHTML }}</gcds-text>
 </div>
