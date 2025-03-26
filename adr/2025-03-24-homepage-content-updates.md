@@ -1,4 +1,6 @@
-# Homepage logic
+# Homepage architecture decision record
+
+## Overview
 The homepage architecture should work better for the CDS site because:
 
   1. Each language's _index.html defines its own sections and product lists
@@ -18,4 +20,4 @@ The homepage architecture should work better for the CDS site because:
   With this implementation, we can maintain the homepage layout by simply editing the front
   matter in the _index.html files for each language.
 
-Date modified: 2025-03-24
+Date modified: 2025-03-25
