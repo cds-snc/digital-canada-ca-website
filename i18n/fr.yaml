@@ -332,7 +332,7 @@ toolkit-feedback-text-email:
 toolkit-resources:
   other: "Ressources"
 toolkit-name:
-  other: "Boîte à outils en matière de numérique et de services"
+  other: "Les outils du numériques et des services"
 toolkit-tools:
   other: "Outils"
 toolkit-blog-posts:
@@ -340,6 +340,6 @@ toolkit-blog-posts:
 toolkit-topics:
   other: "Sujets"
 toolkit-landing-url:
-  other: "/boite-a-outils-en-matiere-de-numerique-et-de-services/"
+  other: "/les-outils-du-numeriques-et-de-services/"
 on-this-page:
   other: "Sur cette page"

@@ -30,7 +30,7 @@
       <gcds-heading tag="h2">{{ i18n "toolkit-topics" }}</gcds-heading>
     </gcds-sr-only>
     <gcds-grid tag="section" columns-desktop="1fr 1fr 1fr" columns-tablet="1fr 1fr" equal-row-height gap="40">
-      {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "boite-a-outils-en-matiere-de-numerique-et-de-services" }}
+      {{ $section := cond (eq $.Site.Language.Lang "en") "service-digital-toolkit" "les-outils-du-numeriques-et-de-services" }}
       {{ $sectionPage := $.Site.GetPage $section }}
       {{ $currentPath := .RelPermalink }}
       

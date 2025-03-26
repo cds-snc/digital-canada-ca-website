@@ -19,10 +19,10 @@ describe('Website Accessibility Tests', () => {
     `http://localhost:${EN_PORT}/service-digital-toolkit/user-centred-design/`,
     `http://localhost:${EN_PORT}/service-digital-toolkit/agile-service-delivery/`,
     // French pages
-    `http://localhost:${FR_PORT}/boite-a-outils-en-matiere-de-numerique-et-de-services/`,
-    `http://localhost:${FR_PORT}/boite-a-outils-en-matiere-de-numerique-et-de-services/accessibilite/`,
-    `http://localhost:${FR_PORT}/boite-a-outils-en-matiere-de-numerique-et-de-services/conception-centree-sur-la-personne/`,
-    `http://localhost:${FR_PORT}/boite-a-outils-en-matiere-de-numerique-et-de-services/prestation-de-service-agile/`
+    `http://localhost:${FR_PORT}/les-outils-du-numeriques-et-de-services/`,
+    `http://localhost:${FR_PORT}/les-outils-du-numeriques-et-de-services/accessibilite/`,
+    `http://localhost:${FR_PORT}/les-outils-du-numeriques-et-de-services/conception-centree-sur-la-personne/`,
+    `http://localhost:${FR_PORT}/les-outils-du-numeriques-et-de-services/prestation-de-service-agile/`
   ];
 
   // Allow filtering pages with environment variables

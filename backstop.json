@@ -48,28 +48,28 @@
     },
     {
       "label": "FR - Toolkit Homepage",
-      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/",
+      "url": "http://localhost:1314/les-outils-du-numeriques-et-de-services/",
       "delay": 500,
       "requireSameDimensions": true,
       "onReadyScript": "puppet/axeA11yCheck.js"
     },
     {
       "label": "FR - Toolkit Accessibility",
-      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/accessibilite/",
+      "url": "http://localhost:1314/les-outils-du-numeriques-et-de-services/accessibilite/",
       "delay": 500,
       "requireSameDimensions": true,
       "onReadyScript": "puppet/axeA11yCheck.js"
     },
     {
       "label": "FR - Toolkit User-Centred Design",
-      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/conception-centree-sur-la-personne/",
+      "url": "http://localhost:1314/les-outils-du-numeriques-et-de-services/conception-centree-sur-la-personne/",
       "delay": 500,
       "requireSameDimensions": true,
       "onReadyScript": "puppet/axeA11yCheck.js"
     },
     {
       "label": "FR - Toolkit Agile Service Delivery",
-      "url": "http://localhost:1314/boite-a-outils-en-matiere-de-numerique-et-de-services/prestation-de-service-agile/",
+      "url": "http://localhost:1314/les-outils-du-numeriques-et-de-services/prestation-de-service-agile/",
       "delay": 500,
       "requireSameDimensions": true,
       "onReadyScript": "puppet/axeA11yCheck.js"
