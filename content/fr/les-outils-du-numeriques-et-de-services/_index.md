@@ -25,4 +25,7 @@ tools:
 translationKey: service-digital-toolkit
 type: toolkit
 url: /les-outils-du-numeriques-et-de-services/
+aliases:
+  - /boite-a-outils-en-matiere-de-numerique-et-de-services/
+  - /boite-a-outils-en-matiere-de-numerique-et-de-services/index.html
 ---
