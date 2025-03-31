@@ -1,6 +1,6 @@
 ---
 date: 2025-03-05
-description: Implement continuous, iterative delivery to keep up with users’ evolving needs.
+description: Mettre en œuvre une livraison continue et itérative qui suit l’évolution des besoins des personnes faisant appel à vos services.
 layout: list
 img_url: /img/toolkit/agile.svg
 tools:
