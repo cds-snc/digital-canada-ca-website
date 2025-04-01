@@ -28,7 +28,7 @@ translationKey: blog-introducing-sd-toolkit
 
 
 
-<li>Documentation on <a href="https://drive.google.com/drive/u/2/folders/1UJRwCUVGVVdlt5txYk9B3_mUkDjqrxt-" target="_blank" rel="noreferrer noopener">user-centered service design</a> practices, standards, and tools, including <a href="https://drive.google.com/drive/u/2/folders/1MKNbcMz09PJdoKvw6y3fZ5GZzeoJzWU1" target="_blank" rel="noreferrer noopener">interaction design</a> and <a href="https://drive.google.com/drive/u/2/folders/1Rb530Z2foqOGI5e1D32tA5pEpuyZhLo5" target="_blank" rel="noreferrer noopener">content design</a>.</li>
+<li>Documentation on <a href="https://digital.canada.ca/service-digital-toolkit/user-centred-design/" target="_blank" rel="noreferrer noopener">user-centered service design</a> practices, standards, and tools, including <a href="https://digital.canada.ca/service-digital-toolkit/user-centred-design/interaction-design-at-cds/" target="_blank" rel="noreferrer noopener">interaction design</a> and <a href="https://digital.canada.ca/service-digital-toolkit/user-centred-design/content-design-at-cds/" target="_blank" rel="noreferrer noopener">content design</a>.</li>
 </ul>
 
 
