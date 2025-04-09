@@ -17,6 +17,8 @@ The partial renders the following components:
 */}}
 
 <gcds-container tag="aside">
+  <h2 aria-hidden="true" class="topic-nav-mobile-heading">On this page</h2>
+  <a class="sr-only" href="#pageContent">Skip to page content</a>
   <gcds-side-nav label='{{ i18n "on-this-page" }}'>
     <!-- Content outline group -->
     {{ $h2headers := findRE `<gcds-heading tag="h2".*?>(.|\n)*?</gcds-heading>` .Content }}
