@@ -3,11 +3,11 @@
 {{ end }}
 
 {{ define "main" }}
-    <gcds-grid columns="1fr 3fr" columns-desktop="1fr 3fr" columns-tablet="1fr">
+    <gcds-grid columns="1fr" columns-desktop="1fr 3fr" columns-tablet="1fr">
 
         {{ partial "toolkit-subtopic-nav.html" . }}
         
-        <gcds-container tag="main">
+        <gcds-container tag="main" id="pageContent">
             <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
             {{ .Content }}
             {{ partial "toolkit-feedback.html" . }}

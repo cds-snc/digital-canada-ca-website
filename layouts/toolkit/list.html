@@ -4,7 +4,7 @@
   
   {{ partial "toolkit-topic-nav.html" . }}
   
-  <gcds-container tag="main">
+  <gcds-container tag="main" id="pageContent">
     <gcds-heading tag="h1">{{ .Title }}</gcds-heading>
     {{ .Content }}
     
@@ -12,7 +12,7 @@
     <section>
       <gcds-heading tag="h2">{{ i18n "toolkit-resources" }}</gcds-heading>
         
-      <gcds-grid columns="1fr 1fr" columns-desktop="1fr 1fr" columns-tablet=" 1fr 1fr">
+      <gcds-grid columns="1fr" columns-desktop="1fr 1fr" columns-tablet="1fr 1fr">
         {{ range .Pages }}
         <gcds-card
         card-title="{{ .Title }}"

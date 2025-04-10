@@ -20,3 +20,16 @@
     background-image: url("../img/toolkit/cds-toolkit-logo-blk-fr.svg");
   }
 }
+
+
+.topic-nav-mobile-heading {
+  font: var(--gcds-side-nav-heading-font);
+  margin-block-end: var(--gcds-side-nav-heading-margin);
+  margin-top: 0;
+}
+
+@media only screen and (min-width: 64em) {
+  .topic-nav-mobile-heading {
+    display: none;
+  }
+}
