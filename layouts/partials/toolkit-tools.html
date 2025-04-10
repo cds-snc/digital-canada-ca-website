@@ -35,6 +35,7 @@ The toolkit-tools.html partial can be included in any page to display a list of 
           card-title-tag="h3"
           href="{{ .Params.link }}"
           description="{{ .Description }}"
+          data-gc-analytics-exit="{{ .Title }}"
         >
         </gcds-card>
       {{ end }}

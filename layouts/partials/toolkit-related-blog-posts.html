@@ -36,6 +36,7 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
             card-title="{{ .Title }}"
             card-title-tag="h3"
             href="{{ .RelPermalink }}"
+            data-gc-analytics-exit="{{ .Title }}"
           >
           </gcds-card>
         {{ else }}
@@ -46,6 +47,7 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
               card-title="{{ .Title }}"
               card-title-tag="h3"
               href="{{ .RelPermalink }}"
+              data-gc-analytics-exit="{{ .Title }}"
             >
             </gcds-card>
           {{ else }}
@@ -56,6 +58,7 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
                 card-title="{{ .Title }}"
                 card-title-tag="h3"
                 href="{{ .RelPermalink }}"
+                data-gc-analytics-exit="{{ .Title }}"
               >
               </gcds-card>
             {{ end }}
@@ -72,6 +75,7 @@ The section expects a list of blog post URLs to be passed in as a parameter. The
             card-title="{{ $blogPost.Title }}"
             card-title-tag="h3"
             href="{{ $blogPost.RelPermalink }}"
+            data-gc-analytics-exit="{{ $blogPost.Title }}"
           >
           </gcds-card>
         {{ end }}
