@@ -29,13 +29,13 @@ Ce rôle est un poste de durée déterminée de 1 an et est classé IT-01 dans l
 - Effectuer des tests et analyser les données pour surveiller la qualité, la sécurité, les expériences de l’interface utilisateur et identifier des zones d’amélioration.
 - Développer et mettre en oeuvre des procédures pour la révision continue des applications web.
 - Surveiller et maintenir les fonctionnalités des applications web.
-- Analyser et résoudre des tickets de support  et des problèmes par le biais de réalisation de diagnostics, d’analyse des causes profondes et de la collaboration avec les autres équipes afin de résoudre les problèmes sur l’ensemble des produits de la plateforme BTN.
+- Analyser et résoudre des tickets de support et des problèmes par le biais de réalisation de diagnostics, d’analyse des causes profondes et de la collaboration avec les autres équipes afin de résoudre les problèmes sur l’ensemble des produits de la plateforme BTN.
 - Aider à assurer le maintien et l’amélioration de la documentation technique associée aux environnements clients pris en charge.
 - Travailler au sein d’une équipe de produits multidisciplinaire avec d’autres experts en la matière, en soutenant les efforts de développement des produits et outils pour Canada.ca.
 
 **Qualifications :**
 - Familiarité avec l’analyse et la résolution de problèmes techniques.
-- Maitrîse des langages de script/programmation: JavaScript, Java et Python.
+- Maîtrise des langages de script/programmation: JavaScript, Java et Python.
 - Familiarité avec les services cloud comme AWS et/ou Azure pour les applications modernes et leurs croissances
 - Application d’une approche axée sur les données pour résoudre les problèmes; vous aimez comprendre les tendances et utiliser ces connaissances pour améliorer l’expérience de nos “utilisateurs” (vos pairs du Gouvernement du Canada).
 - Utilisation d’un bon mélange de professionnalisme et d’amabilité dans toutes vos communications.
