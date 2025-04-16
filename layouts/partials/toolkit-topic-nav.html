@@ -33,7 +33,7 @@ The partial uses the following shortcodes:
 
     <!-- Tools group -->
     {{ if (index .CurrentSection.Params "tools") }}
-    <gcds-nav-group open-trigger="Tools" menu-label='{{ i18n "toolkit-tools" }}'>
+    <gcds-nav-group open-trigger="{{ i18n "toolkit-tools" }}" menu-label='{{ i18n "toolkit-tools" }}'>
       {{ range (index .CurrentSection.Params "tools") }}
         {{ $toolSlug := . }}
         {{ $found := false }}
