@@ -4,10 +4,11 @@ type: section
 title: 'Platform Technician  — Digital Transformation Office'
 description: >-
   This role is a 1-year term position and is classified as an IT-01 in the Information Technology (IT), English essential. This fully remote position is open to applicants located anywhere in the country.  For this opportunity, priority will be given to candidates currently employed by the Federal Public Service.
-linkHidden: false
+linkHidden: true
 translationKey: apr-2025-platform-technician-dto
 leverId: null
 formHidden: true
+draft: true
 ---
 
 ## About CDS 
