@@ -11,10 +11,7 @@ Qu’il s’agisse d’adopter des méthodes de travail agiles, de concevoir des
 
 ## Qu’est-ce qu’on y retrouve?
 
-S’appuyant sur des expériences réelles et des leçons apprises par le Service numérique canadien (SNC) et ses partenaires, les ONS offrent des conseils souples, structurés et bilingues sur les sujets suivants&nbsp;:
- Prestation de services agile
-Conception centrée sur la personne
-Accessibilité
+S’appuyant sur des expériences réelles et des leçons apprises par le Service numérique canadien (SNC) et ses partenaires, les ONS offrent des conseils souples, structurés et bilingues sur les sujets suivants : accessibilité, prestation de services agile, et conception centrée sur la personne.
 
 ## Contribuez à façonner les outils
 
