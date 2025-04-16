@@ -12,10 +12,7 @@ Whether you’re adopting agile ways of working, designing accessible services, 
 
 ## What’s inside?
 
-Built on real experiences and learnings from the Canadian Digital Service (CDS) and its partners, the SDT offers flexible, structured and bilingual guidance on:
-Agile service delivery
-User-centred design
-Accessibility
+Built on real experiences and learnings from the Canadian Digital Service (CDS) and its partners, the SDT offers flexible, structured and bilingual guidance on: accessibility, agile service delivery and user-centred design.
 
 ## Help shape the toolkit
 
