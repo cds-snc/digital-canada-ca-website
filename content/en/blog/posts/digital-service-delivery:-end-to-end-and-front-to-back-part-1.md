@@ -8,6 +8,7 @@ date: '2025-01-15T10:22:20'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2.jpg
 image-alt: A flashlight highlights the steps people are navigating through to find what they’re looking for.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2.jpg
+tags: [""]
 translationKey: blog-e2e-f2b1
 ---
 
@@ -63,7 +64,7 @@ translationKey: blog-e2e-f2b1
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
 <ul class="wp-block-list">
 <li>People are made aware of, and can find the program online.</li>
 </ul>
