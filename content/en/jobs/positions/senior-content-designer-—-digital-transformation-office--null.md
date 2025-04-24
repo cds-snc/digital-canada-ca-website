@@ -36,11 +36,11 @@ For this opportunity, priority will be given to candidates currently employed by
 - Providing advice to the GC web community about design patterns and content design
 
 **Qualifications:**
-- Experience creating, updating and formatting  web content using HTML and/or content management systems 
 - Ability to create original content on a diverse group of topics
 - Experience in simplifying complex concepts to  support findability, understandability, and usability
 - Experience working alongside colleagues to rapidly prototype
-- Ability to write in plain language 
+- Ability to write in plain language
+- Experience creating, updating and formatting web content using HTML and/or content management systems 
 - Knowledge and understanding of technology, and new digital  trends 
 - Ability to manage competing priorities  
 - Knowledge of web accessibility standards, including WCAG 2.0 
