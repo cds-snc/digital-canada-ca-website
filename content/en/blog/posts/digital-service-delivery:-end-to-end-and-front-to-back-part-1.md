@@ -63,7 +63,7 @@ translationKey: blog-e2e-f2b1
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
 <ul class="wp-block-list">
 <li>People are made aware of, and can find the program online.</li>
 </ul>
