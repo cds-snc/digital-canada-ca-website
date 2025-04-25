@@ -36,11 +36,11 @@ La priorité d’embauche sera accordée aux candidats et candidates qui sont d�
 - Conseiller la communauté web du GC sur les modèles de conception et la conception du contenu
 
 **Qualifications :**
-- Expérience de la création, de la mise à jour et du formatage de contenu web à l'aide de HTML et/ou de systèmes de gestion de contenu 
 - Capacité de créer du contenu original sur un groupe diversifié de sujets
 - Expérience de la simplification de concepts complexes pour favoriser la facilité de repérage, de compréhension et d'utilisation
 - Expérience de la collaboration avec des collègues pour créer rapidement des prototypes
 - Capacité de rédiger en langage clair 
+- Expérience de la création, de la mise à jour et du formatage de contenu web à l'aide de HTML et/ou de systèmes de gestion de contenu
 - Connaissance et compréhension de la technologie et des nouvelles tendances numériques 
 - Capacité de gérer des priorités concurrentes 
 - Connaissance des normes d'accessibilité au web, y compris WCAG 2.0 
