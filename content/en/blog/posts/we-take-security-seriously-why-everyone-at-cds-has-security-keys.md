@@ -10,6 +10,7 @@ date: 2019-08-15T13:00:00.000Z
 image: https://de2an9clyit2x.cloudfront.net/yubikey_3_f8e7460aeb.jpg
 image-alt: A hand pushing their yubikey.
 translationKey: yubikey-post
+tags: ["Communications","Design and Communications","Research"]
 thumb: https://de2an9clyit2x.cloudfront.net/small_yubikey_3_f8e7460aeb.jpg
 ---
 I have fears; big, big fears. Fears of waking up in the morning and seeing the Canadian Digital Service’s cloud assets vandalized or destroyed because some bad actor got a hold of someone's credentials and decided to muck around. Hey, this fear is real and even the most conscientious of us are vulnerable.
