@@ -45,7 +45,7 @@
                 <p><b>{{ i18n "topics" }}:</b>&nbsp;
                   {{ $tags := .Params.tags }}
                   {{ range $index, $tag := $tags }}
-                  <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ . }}</a>{{ if ne (add $index 1) (len $tags) }}, {{ end }}
+                  <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}' target="_self">{{ . }}</a>{{ if ne (add $index 1) (len $tags) }}, {{ end }}
                   {{ end }}
                 </p>
               </div>
@@ -70,7 +70,7 @@
           <ul class="blogpost-list lst-spcd">
             {{ range .Site.Taxonomies.tags }}
             <li>
-              <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+              <a href="{{ .Page.RelPermalink }}" target="_self">{{ .Page.Title }}</a>
             </li>
             {{ end }}
           </ul>
