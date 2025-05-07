@@ -45,7 +45,7 @@ translationKey: blog-introducing-sd-toolkit
 
 
 
-<p>Unlike a static set of best practices, the toolkit is a living resource that focuses on the ‘how,’ and provides adaptable guidance that public servants can shape to fit their own contexts across the GC. Rather than prescribing a one-size-fits-all approach, we want to help empower users to take what’s useful, apply it in their own way, and drive meaningful change within their teams.</p>
+<p>Unlike a static set of best practices, the toolkit is a living resource that focuses on the &#8216;how,&#8217; and provides adaptable guidance that public servants can shape to fit their own contexts across the GC. Rather than prescribing a one-size-fits-all approach, we want to help empower users to take what’s useful, apply it in their own way, and drive meaningful change within their teams.</p>
 
 
 
