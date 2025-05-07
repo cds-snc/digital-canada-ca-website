@@ -2,14 +2,28 @@
 <section>
     <div class="container">
         <div class="row">
-            <!-- col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 -->
-            <div class="col-sm-9 col-xs-12">
+            <div class="col-md-8">
                 <ul id ="blog-list-result" class="blogpost-list">
                     <li id="my-blog-li" class="post"></li>
                 </ul>
 
 
             </div>
+            <div class="col-md-4">
+                <aside>
+                    <div class="container">
+                        <div class="row">
+                            <h2 class="h3" style="margin-top: 4rem;">{{ i18n "view-tags" }}</h2>
+                            <ul class="blogpost-list lst-spcd">
+                                {{ range .Site.Taxonomies.tags }}
+                                <li>
+                                    <a href="{{ .Page.RelPermalink }}" target="_self">{{ .Page.Title }}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
 
         </div>
 

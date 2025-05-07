@@ -165,6 +165,9 @@
     {{ if eq .Section  "blog" }}
     <script type="text/javascript" src="/js/blog.js"></script>
     {{ end }}
+    {{ if eq .Section  "tags" }}
+    <script type="text/javascript" src="/js/tags.js"></script>
+    {{ end }}
     <script src="/js/lazyload.js" async=""></script>
     <script type="text/javascript">_satellite.pageBottom();</script>
   </body>

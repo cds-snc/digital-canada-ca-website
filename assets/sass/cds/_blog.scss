@@ -163,7 +163,19 @@
     }
   }
 }
+.hidden-post {
+  display: none;
+}
 
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+}
+
+.fade-out-hidden {
+  display: none;
+}
 ////////////////////////////////////////////////////
 //
 // SINGLE BLOG
