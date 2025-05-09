@@ -87,6 +87,4 @@ There is no one good way to create and deliver an effective presentation. Rememb
 
 No one becomes an expert of slide decks or a better speaker overnight. Putting together and delivering knockout presentations that will motivate audiences to do more than just listen takes time and practice. 
 
-Weave your story so your message becomes clear, compelling, and memorable. 
-
-May you have happy and effective presentations!
+Weave your story so your message becomes clear, compelling, and memorable. May you have happy and effective presentations!
