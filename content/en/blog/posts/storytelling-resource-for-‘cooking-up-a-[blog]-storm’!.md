@@ -67,7 +67,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" style="max-width: 100%;height: auto"></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" style="max-width: 100%;height: auto"></figure>
 
 
 
@@ -83,7 +83,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>The main takeaways for readers.</li>
 
 
@@ -141,7 +141,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Identify tasty, memorable quotes and use them for social media promotion.</strong> This can help make the blog appealing to potential readers and increase the content’s reach. For bilingual Government of Canada Twitter accounts, English quotes need to be around 220 characters (max), so the French translation fits too (280 characters max).</li>
 
 
