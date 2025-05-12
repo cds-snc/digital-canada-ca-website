@@ -331,7 +331,7 @@ translationKey: blog-ircc-gcnotify
 
 
 
-<p>When a client enquiry is received by ACETS, it triggers a unique GC Notify automatic response template, based on the location of the office, to be sent to that client as a confirmation that their enquiry was received. The template also provides useful information such as frequently asked questions (FAQs).&nbsp;</p>
+<p>When a client enquiry is received by ACETS, it triggers a unique <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+">GC Notify</a> automatic response template, based on the location of the office, to be sent to that client as a confirmation that their enquiry was received. The template also provides useful information such as frequently asked questions (FAQs). </p>
 
 
 
