@@ -15,7 +15,7 @@ translationKey: blog-ircc-gcnotify
 
 
 
-<p>We sat down with <a href="https://www.canada.ca/en/immigration-refugees-citizenship.html" target="_blank" rel="noreferrer noopener">Immigration Refugee and Citizenship Canada’s (IRCC)</a> Global Network Optimization and Modernization (GNOM) team to discuss how <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a> has been a useful tool for when they need to communicate with clients across the globe in their local languages.</p>
+<p>We sat down with <a href="https://www.canada.ca/en/immigration-refugees-citizenship.html" target="_blank" rel="noreferrer noopener">Immigration Refugee and Citizenship Canada’s (IRCC)</a> Global Network Optimization and Modernization (GNOM) team to discuss how <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_multilingual_updates&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_multilingual_updates&amp;utm_id=Notify_home+" target="_blank" rel="noreferrer noopener">GC Notify</a> has been a useful tool for when they need to communicate with clients across the globe in their local languages.</p>
 
 
 
