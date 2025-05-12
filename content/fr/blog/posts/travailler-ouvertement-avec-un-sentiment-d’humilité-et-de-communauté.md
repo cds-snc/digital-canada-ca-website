@@ -119,7 +119,7 @@ translationKey: blog-work-open-community
 
 
 
-<p>Cette démarche ne sera pas sans défis ni embûches, mais une bonne dose d’humilité et de courage vous permettront de créer votre communauté ou de vous joindre à la nôtre. Si vous avez besoin d’un peu d’aide pour donner le coup d’envoi, n’hésitez pas à nous contacter (<a href="mailto:cds-snc@servicecanada.gc.ca">par courriel</a>)!</p>
+<p>Cette démarche ne sera pas sans défis ni embûches, mais une bonne dose d’humilité et de courage vous permettront de créer votre communauté ou de vous joindre à la nôtre. Si vous avez besoin d’un peu d’aide pour donner le coup d’envoi, n’hésitez pas à nous contacter (<a href="mailto:cds-snc@tbs-sct.gc.ca">par courriel</a>)!</p>
 
 
 
