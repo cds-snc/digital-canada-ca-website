@@ -59,7 +59,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Canada’s population is gender-diverse, we need to write for all. </strong>According to the 2021 census, women make up <a href="https://www150.statcan.gc.ca/n1/pub/12-581-x/2022001/sec7-eng.htm" target="_blank" rel="noreferrer noopener">50.9% of the population</a> of Canada. There are more women than men in Canada! Transgender and non-binary folks makeup <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm" target="_blank" rel="noreferrer noopener">0.33%</a>. Therefore, women, transgender people, and non-binary folks form the majority of people in Canada. We need to write in a way that accurately reflects the people we serve.<br></li>
 
 
@@ -89,7 +89,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Pluralize the noun.</strong><br>For example, instead of saying &#8220;The supervisor must give feedback to his/her employees monthly&#8221;, you can instead say “Supervisors must give feedback to their employees monthly”. By pluralizing the subject, we have avoided using he (il) or she (elle).&nbsp;<br></li>
 
 
