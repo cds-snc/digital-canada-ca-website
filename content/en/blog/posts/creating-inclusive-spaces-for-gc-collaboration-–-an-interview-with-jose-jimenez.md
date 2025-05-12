@@ -15,7 +15,7 @@ translationKey: blog-inclusive-spaces
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“There&#8217;s a quote from the Hamilton musical that says ‘Legacy. What is a legacy? It&#8217;s planting seeds in a garden you never get to see.’ It has always struck me, particularly working in the public service.”</p>
 <cite>– Jose Jimenez (Growth team for CDS Platform products).</cite></blockquote>
 
