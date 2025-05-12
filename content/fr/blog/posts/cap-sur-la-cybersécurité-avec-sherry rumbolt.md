@@ -89,25 +89,25 @@ translationKey: blog-cyber-safe-sherry
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Deux étapes valent mieux qu’une.</strong> Dès que vous le pouvez, utilisez l’authentification à deux ou à plusieurs facteurs pour protéger vos comptes personnels et vos accès aux systèmes que vous utilisez.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Faites preuve de vigilance.</strong> Si quelque chose vous semble suspect, il y a sûrement une bonne raison. N’ouvrez pas et ne téléchargez pas de pièces jointes provenant d’expéditeur·rice·s inconnu·e·s ou suspect·e·s. Avant de cliquer sur un lien, survolez-le avec votre curseur pour vous assurer qu’il dirige bien vers le site que vous cherchez à visiter.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Variez les mots de passe.</strong> La réutilisation de mots de passe continue de poser problème. Le fait d’utiliser le même mot de passe sur plusieurs systèmes, plateformes et applications représente une vulnérabilité que les pirates informatiques vont toujours tenter d’exploiter pour accéder à de multiples points d’entrée. Assurez votre sécurité en ligne en utilisant des mots de passe robustes et uniques pour chacun de vos différents comptes. Un outil de gestion de mots de passe est un atout fantastique pour la génération et la sauvegarde de mots de passe unique pour tous vos comptes.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Vérifiez les fuites de données. </strong>L’outil «&nbsp;<a href="https://haveibeenpwned.com/" target="_blank" rel="noreferrer noopener">Have I Been Pwned</a>&nbsp;(en anglais) » entretient une base de données de combinaisons d’identifiants et de mots de passe provenant de fuites publiques. Ces données sont tirées d’atteintes rendues publiques via divers sites du Web ou du Web clandestin.&nbsp;</li>
 </ol>
 
