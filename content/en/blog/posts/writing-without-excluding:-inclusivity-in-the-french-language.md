@@ -27,7 +27,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<p>One of the guiding values of public service is <a href="https://www.csps-efpc.gc.ca/about_us/cve-eng.aspx#rfp">respect for people</a>. It is our duty to treat all people with dignity and fairness. One of our values at CDS is to <strong>put people at the heart of our services</strong>. Inclusivity, diversity, and accessibility are at the very core of everything we do. In a nutshell, we make sure everyone is included and treated the same way. When communicating with the public or designing public-facing <a href="https://digital.canada.ca/">tools</a>, we need to make sure everyone feels involved, included, and represented, regardless of their age or gender. And of course, this is all done in <a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/">both of Canada’s official languages</a>!</p>
+<p>One of the guiding values of public service is <a href="https://www.csps-efpc.gc.ca/about_us/cve-eng.aspx#rfp">respect for people</a>. It is our duty to treat all people with dignity and fairness. One of our values at CDS is to <strong>put people at the heart of our services</strong>. Inclusivity, diversity, and accessibility are at the very core of everything we do. In a nutshell, we make sure everyone is included and treated the same way. When communicating with the public or designing public-facing <a href="https://digital.canada.ca/">tools</a>, we need to make sure everyone feels involved, included, and represented, regardless of their age or gender. And of course, this is all done in <a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/">both of Canada’s official languages</a>! </p>
 
 
 
@@ -103,9 +103,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Les <strong>directeurs </strong>sont responsables de l’évaluation des <strong>employés</strong>. (Use of the masculine form by default)
-<ul>
+<ul class="wp-block-list">
 <li>The directors are responsible for evaluating the employees.</li>
 </ul>
 </li>
@@ -113,9 +113,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>La direction est responsable de l’évaluation du personnel. (Epicene writing)
-<ul>
+<ul class="wp-block-list">
 <li>Management is responsible for evaluating the staff.</li>
 </ul>
 </li>
@@ -123,9 +123,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nous nous sommes <strong>entretenus</strong> avec les <strong>intervenants</strong>. (Use of the masculine form by default)
-<ul>
+<ul class="wp-block-list">
 <li>We have discussed it with the stakeholders.</li>
 </ul>
 </li>
@@ -133,9 +133,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nous avons échangé avec les parties prenantes. (Epicene writing)
-<ul>
+<ul class="wp-block-list">
 <li>We have discussed it with the stakeholders.</li>
 </ul>
 </li>
@@ -147,7 +147,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<p>This is why we decided to complement epicene writing with some abbreviated doublets and a touch of interpuncts. This solution allows us to write neutral content when space is limited, like for <a href="https://twitter.com/CDS_GC">tweets</a> or <a href="https://digital.canada.ca/careers/">job postings </a>, where role names come up a lot. But moderation is key; accessibility is just as important as inclusivity, and we aim to keep our texts readable.</p>
+<p>This is why we decided to complement epicene writing with some abbreviated doublets and a touch of interpuncts. This solution allows us to write neutral content when space is limited, like for <a href="https://twitter.com/CDS_GC">tweets</a> or <a href="https://digital.canada.ca/jobs">job postings</a>, where role names come up a lot. But moderation is key; accessibility is just as important as inclusivity, and we aim to keep our texts readable.</p>
 
 
 
