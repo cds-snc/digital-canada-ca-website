@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/11/221025_Fearless
 translationKey: blog-nov-24-22
 ---
 
-<p><em>“I wish I’d known about CDS sooner!“&nbsp;</em></p>
+<p><em>“I wish I’d known about CDS sooner!“</em></p>
 
 
 
@@ -55,7 +55,13 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>Reference materials built through our previous engagements and based on our experience at CDS</li><li>Peers across government who have faced similar challenges and found ways to circumvent them</li></ul>
+<ul class="wp-block-list">
+<li>Reference materials built through our previous engagements and based on our experience at CDS</li>
+
+
+
+<li>Peers across government who have faced similar challenges and found ways to circumvent them</li>
+</ul>
 
 
 
@@ -75,7 +81,17 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>make better use of funding and contracts</li><li>make the case for digital transformation</li><li>identify how you might build and sustain your service delivery&nbsp;</li></ul>
+<ul class="wp-block-list">
+<li>make better use of funding and contracts</li>
+
+
+
+<li>make the case for digital transformation</li>
+
+
+
+<li>identify how you might build and sustain your service delivery&nbsp;</li>
+</ul>
 
 
 
@@ -107,7 +123,7 @@ translationKey: blog-nov-24-22
 
 
 
-<p>We recently worked with another team at the Treasury Board of Canada Secretariat (TBS) who were interested in improving the experience of people using the  <a href="https://search.open.canada.ca/nap5/">Open Government National Action Plan Tracker (NAP).</a> The National Action Plan on Open Government commits to making the Government of Canada more transparent and accountable. The tracker monitors progress on commitments made in the plan.  Working with the team at TBS, we helped identify and prioritize usability issues in order to improve the user experience of the tracker tool. We provided the Open Government team with a report prioritizing 29 issues that could impact the usability of the tool, supported with suggestions on how to improve the experience for the different users who access the tracker. </p>
+<p>We recently worked with another team at the Treasury Board of Canada Secretariat (TBS) who were interested in improving the experience of people using the&nbsp; <a href="https://search.open.canada.ca/nap5/">Open Government National Action Plan Tracker (NAP).</a> The National Action Plan on Open Government commits to making the Government of Canada more transparent and accountable. The tracker monitors progress on commitments made in the plan.&nbsp; Working with the team at TBS, we helped identify and prioritize usability issues in order to improve the user experience of the tracker tool. We provided the Open Government team with a report prioritizing 29 issues that could impact the usability of the tool, supported with suggestions on how to improve the experience for the different users who access the tracker.&nbsp;</p>
 
 
 
@@ -127,7 +143,25 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>Meeting to understand what you’re working on</li><li>Discussing and confirming how we might partner</li><li>Agreeing on what we’ll deliver, our roles, responsibilities, expectations, and time commitment</li><li>Starting to work together</li><li>Connecting with you to evaluate the impact of our work&nbsp;</li></ul>
+<ul class="wp-block-list">
+<li>Meeting to understand what you’re working on</li>
+
+
+
+<li>Discussing and confirming how we might partner</li>
+
+
+
+<li>Agreeing on what we’ll deliver, our roles, responsibilities, expectations, and time commitment</li>
+
+
+
+<li>Starting to work together</li>
+
+
+
+<li>Connecting with you to evaluate the impact of our work&nbsp;</li>
+</ul>
 
 
 
@@ -135,9 +169,9 @@ translationKey: blog-nov-24-22
 
 
 
-<p>While there’s never a wrong time to reach out to us, there are definitely moments where we can provide timely advice.&nbsp;</p>
+<p>While there’s never a wrong time to reach out to us, there are definitely moments where we can provide timely advice.</p>
 
 
 
-<p>And the best way to get started? <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">Have a conversation with us!&nbsp;</a></p>
+<p>And the best way to get started? <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">Have a conversation with us</a>!</p>
 
