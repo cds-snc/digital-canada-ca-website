@@ -30,7 +30,7 @@ translationKey: blog-covid-updates-3yrs
 <p>Cela fait plus de trois ans maintenant que nous utilisons les données pour rédiger du contenu utile pour le <a href="https://numerique.canada.ca/2020/05/13/obtenir-les-nouvelles-sur-la-covid-19-service-de-notification-par-courriel/" target="_blank" rel="noreferrer noopener">service de notifications par courriel «  Obtenir les nouvelles sur la COVID-19  »</a>. Des données recueillies auprès du public ont aidé notre équipe à diffuser des renseignements qui intéressaient la population canadienne et qui portaient sur le virus, ses effets, les mesures de santé publique, les vaccins et les traitements. Au plus fort de la pandémie, nous avons atteint un sommet de 58  469 abonnements confirmés et avons envoyé plus de 10 millions de notifications par courriel, attirant plus de 400  000 visites sur le site Canada.ca.</p>
 
 
-<img decoding="async" loading="lazy" width="1024" height="430" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-1024x430.png" alt="" class="wp-image-1009" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-1024x430.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-300x126.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-768x323.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="430" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-1024x430.png" alt="" class="wp-image-1009" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-1024x430.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-300x126.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST-768x323.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_FR-NEWEST.png 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
 <p style="font-size:11px">Infographie présentant les évènements clés du service « Obtenir les nouvelles sur la COVID-19 ». Les évènements clés sont les suivants: plus de 58 000 abonnements confirmés, un total de 10 millions de notifications envoyées par courriel, 3 années de service, 22 000 clics sur le lien Comment prendre un rendez-vous pour les vaccins contre la COVID-19 en 2 semaines, 400,000 visites sur le site canada.ca depuis des notifications par courriel.</p>
@@ -65,7 +65,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Selon les observations du comportement de nos abonné·e·s (clics, etc.), nous avons ajusté la fréquence de nos messages. Dès le début, des courriels étaient envoyés chaque jour, puis chaque semaine, et ensuite aux deux semaines. Nous privilégions désormais l’envoi de courriels uniquement lorsque de nouveaux renseignements nous sont parvenus ou lorsqu’une nouvelle situation survient.</li>
 </ul>
 
