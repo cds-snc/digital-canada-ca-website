@@ -80,7 +80,7 @@ translationKey: blog-mining-canmet
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>​​<a href="https://www.youtube.com/watch?v=HkfHJK8Jl4g&amp;list=PLaVanXjNJwPuHkF6bxPyAyO4gEHS5hIzM&amp;index=4" target="_blank" rel="noreferrer noopener">Première partie&nbsp;: Règles en tant que code</a> (Partie&nbsp;1 — EFPC)</li>
 
 
