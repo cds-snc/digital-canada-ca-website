@@ -23,7 +23,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size wp-block-heading" id="h-le-gouvernement-canadien-bilinguisme-et-inclusivite"><strong>Le gouvernement canadien : bilinguisme et inclusivité</strong></h2>
+<h2 class="wp-block-heading has-large-font-size" id="h-le-gouvernement-canadien-bilinguisme-et-inclusivite"><strong>Le gouvernement canadien : bilinguisme et inclusivité</strong></h2>
 
 
 
@@ -31,7 +31,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size wp-block-heading"><strong>Le français : une langue genrée et binaire</strong></h2>
+<h2 class="wp-block-heading has-large-font-size"><strong>Le français : une langue genrée et binaire</strong></h2>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size wp-block-heading"><strong>Les pistes de solution</strong></h2>
+<h2 class="wp-block-heading has-large-font-size"><strong>Les pistes de solution</strong></h2>
 
 
 
@@ -99,7 +99,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size wp-block-heading"><strong>Les solutions au SNC : Beaucoup de rédaction épicène et une touche de point médian</strong></h2>
+<h2 class="wp-block-heading has-large-font-size"><strong>Les solutions au SNC : Beaucoup de rédaction épicène et une touche de point médian</strong></h2>
 
 
 
@@ -111,9 +111,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Les<strong> directeurs</strong> sont responsables de l’évaluation des <strong>employés.</strong> (Emploi du masculin par défaut)
-<ul>
+<ul class="wp-block-list">
 <li>La direction est responsable de l’évaluation du personnel. (Écriture épicène)</li>
 </ul>
 </li>
@@ -121,9 +121,9 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Nous nous sommes <strong>entretenus</strong> avec les <strong>intervenants</strong>. (Emploi du masculin par défaut)
-<ul>
+<ul class="wp-block-list">
 <li>Nous avons échangé avec les parties prenantes. (Écriture épicène)</li>
 </ul>
 </li>
@@ -135,7 +135,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<p>C’est pourquoi nous avons décidé d’ajouter à la norme de la rédaction épicène une certaine dose de doublets abrégés et de points médians. Cette solution nous permet de rendre notre contenu neutre lorsque nous ne disposons que peu d’espace, comme dans le cas de nos <a href="https://twitter.com/SNC_GC">tweets</a> ou de nos <a href="https://numerique.canada.ca/carrieres/">possibilités d’emploi</a>, où les noms de postes tendent à se répéter. Mais nous faisons preuve de mesure; l’accessibilité compte autant que l’inclusivité, et notre objectif est de conserver des textes lisibles.</p>
+<p>C’est pourquoi nous avons décidé d’ajouter à la norme de la rédaction épicène une certaine dose de doublets abrégés et de points médians. Cette solution nous permet de rendre notre contenu neutre lorsque nous ne disposons que peu d’espace, comme dans le cas de nos <a href="https://twitter.com/SNC_GC">tweets</a> ou de nos <a href="https://numerique.canada.ca/emplois/">possibilités d’emploi</a>, où les noms de postes tendent à se répéter. Mais nous faisons preuve de mesure; l’accessibilité compte autant que l’inclusivité, et notre objectif est de conserver des textes lisibles.</p>
 
 
 
