@@ -59,7 +59,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>100&nbsp;% des personnes interrogées ont indiqué vouloir que les réunions aient un ordre du jour ou un processus ;</li>
 
 
@@ -94,7 +94,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>N’hésitez pas à nous donner votre avis, aussi bien concernant l’animation des réunions que la participation à ces dernières.</li>
 
 
@@ -148,7 +148,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Bien qu’une personne de l’équipe (nom) soit responsable de gérer ce processus, tout le monde est invité à fournir ses idées ou à apporter son aide !</li>
 
 
@@ -166,7 +166,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Solliciter la contribution de l’équipe des politiques&nbsp;: d’abord par le biais d’une discussion lors de la rétrospective de l’équipe sur les «&nbsp;tâches ménagères&nbsp;» au bureau (lien), puis dans le cadre de ce sondage pour une contribution plus ciblée.&nbsp;</li>
 
 
@@ -264,7 +264,7 @@ translationKey: blog-meetings-principles
 <p>R&nbsp;: Sam Burton</p>
 
 
-<img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png" alt="" class="wp-image-1311" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-2048x888.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png" alt="" class="wp-image-1311" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-2048x888.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
 <p style="font-size:12px">Légende&nbsp;: Pour entamer ce processus, l’animateur ou l’animatrice recueille la rétroaction de l’équipe concernant l’état actuel des réunions à l’aide d’une séance de rétrospective et d’un sondage en ligne. L’équipe se met ensuite d’accord sur ses objectifs communs pour l’amélioration des réunions en examinant ensemble la rétroaction recueillie. À l’aide des objectifs ainsi définis, l’animateur ou l’animatrice rédige et modifie au besoin les principes de réunion dans un document accessible à toute l’équipe. De cette façon, tout le monde peut offrir sa rétroaction de manière asynchrone. Une fois que les principes sont approuvés par l’équipe et la direction, l’équipe peut commencer à les appliquer! Le processus se répète ensuite lorsque l’animateur ou l’animatrice vient recueillir de la rétroaction.</p>
@@ -275,9 +275,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>«&nbsp;Nous voulons un lien plus explicite avec l’inclusion et l’équité.&nbsp;»&nbsp;</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Nous avons donc demandé à la gestionnaire du programme de diversité, d’équité et d’inclusion du SNC ses conseils et sa rétroaction au sujet de nos principes.</li>
 </ul>
 </li>
@@ -285,9 +285,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>«&nbsp;Il nous faut davantage de lignes directrices dans certains domaines, comme la prise en compte des fuseaux horaires et la séparation des responsabilités de la prise de note et de l’animation.&nbsp;»</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Nous avons donc ajouté aux principes des éléments spécifiques à la planification, ou encore à la gestion du temps.</li>
 </ul>
 </li>
@@ -295,9 +295,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>«&nbsp;Comment allons-nous communiquer ces principes aux personnes qui rejoindront l’équipe et veiller à ce que tout le monde les garde à l’esprit ?&nbsp;»</strong>
-<ul>
+<ul class="wp-block-list">
 <li>Nous avons donc créé des liens entre les principes relatifs aux réunions et d’autres documents incontournables de l’équipe (comme la documentation d’intégration). Nous avons décidé que les responsables de l’équipe des politiques mèneraient une phase de test appliquant les nouveaux principes, réfléchiraient à cette expérience et effectueraient des changements au besoin.</li>
 </ul>
 </li>
@@ -306,25 +306,25 @@ translationKey: blog-meetings-principles
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Exemple&nbsp;: Lisez les principes de l’équipe des politiques pour la planification de réunions utiles et équitables.</summary>
-<ol>
+<ol class="wp-block-list">
 <li><strong>Nous reconnaissons que les réunions, comme tous les aspects du travail et de la vie, sont influencées par des systèmes d’oppression, </strong><a href="https://www.cwsworkshop.org/PARC_site_B/dr-culture.html" target="_blank" rel="noreferrer noopener"><strong>la culture de la suprématie blanche (en anglais)</strong></a><strong> et le colonialisme, ainsi que par nos expériences et préjugés individuels.</strong><br><br>Dans la pratique, cela peut se traduire par une utilisation intentionnelle des rituels linguistiques (p. ex., la reconnaissance des territoires autochtones au début d’une réunion) et une garantie de la pluralité des voix (p. ex., veiller à la diversité de genre ou de race lors de l’organisation d’une table ronde). Cela signifie également qu’il faut nommer et déconstruire les termes ou les notions qui ont historiquement contribué à l’oppression systémique.&nbsp;&nbsp;<br></li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Nous veillons à ce que chaque réunion ait au moins un·e organisateur·rice et un·e animateur·rice qui collaborent pour s’attaquer au travail difficile afin de faciliter les choses, et ce, en vue d’assurer le succès des participant·e·s.&nbsp;</strong><br><br>Les invitations aux réunions comprennent par exemple une description de l’objectif, des résultats attendus et des processus impliqués. Pour une réunion de l’équipe des politiques, cela peut comprendre&nbsp;:<br><br><strong>But</strong>&nbsp;: Discuter de l’ébauche de principes, obtenir de la rétroaction sur cette ébauche et veiller à ce que les attentes soient alignées quant à la façon d’appliquer les principes.<br><strong>Résultat</strong>&nbsp;: Préparation de l’équipe des politiques à mettre en œuvre l’ébauche de proposition.<br><strong>Processus</strong>&nbsp;: 20&nbsp;minutes consacrée à la lecture en silence et aux commentaires, suivi d’une discussion.<br></li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>En tant qu’organisateur·rice·s ou animateur·rice·s, nous visons l’inclusion et l’équité dans la planification et la conception de nos réunions dans le but de placer les gens au cœur de nos réunions.</strong><br><br>Prenons un exemple&nbsp;: les membres de l’équipe ont généralement de nombreuses réunions chaque jour. Nous signalons donc les cas où la participation est optionnelle et précisons l’ordre du jour des réunions à l’avance. Cela permet aux membres de l’équipe d’améliorer leur gestion du temps et de tirer le meilleur parti des réunions, le tout, pour de meilleurs résultats.<br></li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Lorsque nous rencontrons les participant·e·s, nous prenons soin les un·e·s des autres.</strong><br><br>Nous nous efforçons par exemple de bâtir des <a href="https://static1.squarespace.com/static/5b6af3b236099ba883a28b1e/t/5dcc5b2ae2b90a3c5af08fc5/1573673770842/From+Safe+Spaces+to+Brave+Spaces_2013.pdf">espaces d’encouragement (document en anglais)</a>.<strong> </strong>Ces espaces favorisent le dialogue par la reconnaissance des différences et la responsabilisation individuelle.</li>
 </ol>
 </details>
@@ -348,19 +348,19 @@ translationKey: blog-meetings-principles
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Petites astuces pour les équipes souhaitant créer leurs propres principes!</summary>
-<ol>
+<ol class="wp-block-list">
 <li><strong>Obtenez l’accord de la direction pour la mise en œuvre des principes.&nbsp;</strong><br><br>Bien que les principes de l’équipe des politiques aient été le fruit d’une initiative ascendante (c.-à-d. élaborés en équipe), le soutien de la direction était nécessaire à l’adoption et à la mise en œuvre de ces principes.<br></li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Tenez compte des valeurs de votre organisme et de la culture et du contexte qui influencent vos réunions.&nbsp;</strong><br><br>Les principes de réunion de l’équipe des politiques reconnaissent notamment que les réunions, comme tous les aspects du travail et de la vie, sont influencées par des systèmes d’oppression, la culture de la suprématie blanche et le colonialisme, ainsi que par nos expériences et préjugés individuels. Cela correspond à l’engagement plus global de l’organisme envers le principe d’inclusivité et nous encourage à répondre aux inégalités présentes dans tous les aspects de notre travail.&nbsp;<br></li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Définissez les rôles et les attentes qui y correspondent dans le cadre des réunions, en veillant à ce que les valeurs de votre organisme soient respectées.</strong><br><br>Les principes de réunion de l’équipe des politiques définissent par exemple des attentes spécifiques envers les organisateur·rice·s ou animateur·rice·s concernant la création d’espaces inclusifs et équitables lors de la planification de réunions. Cela implique de prendre du temps pour les rapports humains, d’éviter les invitations forçant les gens à enchaîner une multitude de réunions et de veiller à ce que les réunions se terminent soient plus tôt que prévu, soit à l’heure prévue.</li>
 </ol>
 </details>
@@ -395,7 +395,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Communiquer à l’avance des tableaux de rétrospective, laisser aux gens le temps de réfléchir à ce dont ils souhaitent discuter pendant la réunion ;</li>
 
 
