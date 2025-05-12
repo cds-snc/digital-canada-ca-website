@@ -63,7 +63,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>100% said they want meetings to have an agenda and/or process;</li>
 
 
@@ -98,7 +98,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Please feel free to share thoughts from both the perspective of a meeting facilitator and participant.</li>
 
 
@@ -152,7 +152,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>While there’s a designated team member(s) (name) responsible for running this process, it is open to any and all ideas/offers of help!</li>
 
 
@@ -170,7 +170,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Solicit input from Policy team: First discussed in team’s office housework retro (linked) and now more targeted input through this survey.</li>
 
 
@@ -264,7 +264,7 @@ translationKey: blog-meetings-principles
 <p>A: Sam Burton</p>
 
 
-<img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png" alt="" class="wp-image-1292" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-2048x888.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png" alt="" class="wp-image-1292" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-2048x888.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
 <p style="font-size:12px">Image caption: To start the process, the facilitator gathers feedback from the team on the current state of meetings (via a retro session and an online survey). Then, the team aligns on what their common goals are for improved meetings (by meeting to analyze the feedback). Using the goals, the facilitator then drafts and iterates on the meeting principles in a shared doc with the team, so they can share feedback asynchronously. Once the principles are agreed on by the team and management, the team can start using them! The process then repeats by the facilitator checking back in for feedback.</p>
@@ -275,9 +275,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>“We want more explicit connections to inclusion and equity.”&nbsp;</strong>
-<ul>
+<ul class="wp-block-list">
 <li>We connected with CDS’s Diversity, Equity, and Inclusion Program Manager for guidance and feedback on the principles.</li>
 </ul>
 </li>
@@ -285,9 +285,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>“We need more guidance in some areas, like keeping time zones in mind and separating the notetaker and facilitator roles.”</strong> 
-<ul>
+<ul class="wp-block-list">
 <li>We got more specific about things like scheduling and time management in the principles.</li>
 </ul>
 </li>
@@ -295,9 +295,9 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>“How will we communicate these to new team members, and ensure they’re kept top-of-mind for everyone?”</strong>
-<ul>
+<ul class="wp-block-list">
 <li>We created connections between the meeting principles and other foundational team documents (like onboarding) and decided Policy Team Leads would facilitate an initial pilot where we’d put the principles into practice, reflect on how it went, and make any changes needed.</li>
 </ul>
 </li>
@@ -306,25 +306,25 @@ translationKey: blog-meetings-principles
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Example: Read our Policy team’s principles for planning useful and equitable meetings.</summary>
-<ol>
+<ol class="wp-block-list">
 <li><strong>We recognize that meetings, like all aspects of work and life, are influenced by systems of oppression, </strong><a href="https://www.cwsworkshop.org/PARC_site_B/dr-culture.html" target="_blank" rel="noreferrer noopener"><strong>white supremacy culture</strong></a><strong>, and colonialism, as well as by our individual experiences and biases.</strong><br><br>In practice, this might mean being intentional about our use of language rituals (e.g. land acknowledgments to start a meeting), ensuring a plurality of voices are offered the spotlight (e.g. when organizing a panel conversation, ensuring gender or racial uniformity is not present, whenever possible). It also means naming and deconstructing terms or concepts that have historically contributed to systemic oppression.&nbsp;&nbsp;<br></li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>We ensure that every meeting has at least one organizer and one facilitator, who collaborate to do the hard work to make things easier by ensuring meeting participants are set up for success.&nbsp;</strong><br><br>For example, meeting invites contain <strong>POP descriptions</strong> (purpose, outcome and process). For a Policy team meeting, that may include:<br><strong>Purpose</strong>: To discuss and gather feedback on the draft principles, and in particular make sure our expectations about how to implement them are aligned.<br><strong>Outcome</strong>: The Policy team is ready to start implementing the draft proposal.<br><strong>Process</strong>: 20 minutes of silent reading/commenting and then discussion.<br></li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>When we are organizers or facilitators, we put people at the heart of our meetings by striving to be inclusive and equitable in planning and design.</strong><br><br>For example, team members often have many meetings in a day, so we mark attendance as optional when it applies and provide meeting agendas in advance. This allows team members to improve their time management and get the most value out of meetings, enabling them to better deliver.<br></li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>When we are meeting attendees, we take care of each other.</strong><br><br>For example, we strive to create <a href="https://static1.squarespace.com/static/5b6af3b236099ba883a28b1e/t/5dcc5b2ae2b90a3c5af08fc5/1573673770842/From+Safe+Spaces+to+Brave+Spaces_2013.pdf" target="_blank" rel="noreferrer noopener">brave spaces</a>, which encourage dialogue by recognizing differences and holding each person accountable.</li>
 </ol>
 </details>
@@ -348,19 +348,19 @@ translationKey: blog-meetings-principles
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Quick tips for teams interested in establishing their own meeting principles!</summary>
-<ol>
+<ol class="wp-block-list">
 <li><strong>Get buy-in from management to implement the principles.&nbsp;</strong><br><br>While the Policy team’s principles were a bottom-up initiative (developed as a team), support from management was necessary to ensure they were adopted and implemented.<br></li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Consider your organizational values and acknowledge the culture and context that influences your meetings.&nbsp;</strong><br><br>For example, Policy Team Meeting Principles recognize that, like all aspects of work and life, meetings are influenced by systems of oppression, white supremacy culture, colonialism, and individual experience and bias. This aligns with our broader organizational commitment to inclusivity, and encourages us to address inequities that permeate all aspects of work.&nbsp;<br></li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Identify meeting roles and define their expectations, making sure they connect with your organizational values.</strong><br><br>For example, the Policy team meeting principles set specific expectations for organizers or facilitators to create inclusive and equitable spaces when planning meetings. This includes making time to connect as humans, avoiding booking meetings that would put participants in a long block of back-to-back meetings, and making sure meetings end early or on time.</li>
 </ol>
 </details>
@@ -391,7 +391,7 @@ translationKey: blog-meetings-principles
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Sharing retro boards in advance, giving us time to think about what we’d like to discuss in the meeting;</li>
 
 
