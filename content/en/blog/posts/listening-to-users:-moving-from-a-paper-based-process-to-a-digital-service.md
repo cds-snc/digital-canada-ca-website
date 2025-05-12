@@ -19,7 +19,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 class="wp-block-heading" id="h-untangling-an-acronym-cfdss-and-the-work-they-do"><strong>Untangling an acronym: CFDSS and the work they do&nbsp;</strong></h3>
+<h3 class="wp-block-heading" id="h-untangling-an-acronym-cfdss-and-the-work-they-do-nbsp"><strong>Untangling an acronym: CFDSS and the work they do&nbsp;</strong></h3>
 
 
 
@@ -51,7 +51,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Engaging users in the design process by speaking directly with people who applied for a PAL in the past;</li>
 
 
@@ -105,5 +105,5 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<p>Besides listening to, learning from, and testing with users to improve its service, the team credits having <strong>a senior leader championing their work as a key condition for success</strong>. It’s fundamental to have a sponsor in senior leadership to create space for the team to experiment and learn, and to clearly articulate the value and impact of the work. The project sponsor for the RCMP is a consistent supporter, and pushed for the team to operate in an agile, multidisciplinary environment from the very start.&nbsp;<br><br>Are you a public servant working on improving services for people in Canada? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us!</a></p>
+<p>Besides listening to, learning from, and testing with users to improve its service, the team credits having <strong>a senior leader championing their work as a key condition for success</strong>. It’s fundamental to have a sponsor in senior leadership to create space for the team to experiment and learn, and to clearly articulate the value and impact of the work. The project sponsor for the RCMP is a consistent supporter, and pushed for the team to operate in an agile, multidisciplinary environment from the very start. <br><br>Are you a public servant working on improving services for people in Canada? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us!</a></p>
 
