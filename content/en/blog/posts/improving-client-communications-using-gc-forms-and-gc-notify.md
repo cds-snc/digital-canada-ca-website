@@ -31,7 +31,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q1-what-was-the-project-about"><strong>Q1. What was the project about?</strong></h2>
+<h2 class="wp-block-heading has-luminous-vivid-amber-background-color has-background" id="h-q1-what-was-the-project-about"><strong>Q1. What was the project about?</strong></h2>
 
 
 
@@ -43,7 +43,21 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<ul><li>Make it easier for smaller-scale suppliers to compete for Government of Canada work;</li><li>Increase the speed of procurement processes;</li><li>Reduce the effort required for low-risk procurement; and</li><li>Help public servants at ESDC better meet the <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a> of working in the open by default.</li></ul>
+<ul class="wp-block-list">
+<li>Make it easier for smaller-scale suppliers to compete for Government of Canada work;</li>
+
+
+
+<li>Increase the speed of procurement processes;</li>
+
+
+
+<li>Reduce the effort required for low-risk procurement; and</li>
+
+
+
+<li>Help public servants at ESDC better meet the <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC Digital Standards</a> of working in the open by default.</li>
+</ul>
 
 
 
@@ -63,7 +77,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q2-how-did-gc-forms-and-gc-notify-help-improve-the-service"><strong>Q2. How did GC Forms and GC Notify help improve the service?</strong></h2>
+<h2 class="wp-block-heading has-text-align-left has-luminous-vivid-amber-background-color has-background" id="h-q2-how-did-gc-forms-and-gc-notify-help-improve-the-service"><strong>Q2. How did GC Forms and GC Notify help improve the service?</strong></h2>
 
 
 
@@ -87,7 +101,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="747" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-1024x747.jpeg" alt="" class="wp-image-659" style="max-width: 100%;height: auto" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-1024x747.jpeg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-300x219.jpeg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-768x560.jpeg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1.jpeg 1480w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="747" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-1024x747.jpeg" alt="" class="wp-image-659" style="max-width: 100%;height: auto" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-1024x747.jpeg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-300x219.jpeg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1-768x560.jpeg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Sign-up-to-receive-updates-about-the-micro-acquisition-pilot-including-notifications-of-new-opportunities_EN-1.jpeg 1480w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -99,7 +113,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1004" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-1004x1024.jpeg" alt="" class="wp-image-657" style="max-width: 100%;height: auto" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-1004x1024.jpeg 1004w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-294x300.jpeg 294w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-768x783.jpeg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN.jpeg 1059w" sizes="(max-width: 1004px) 100vw, 1004px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1004" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-1004x1024.jpeg" alt="" class="wp-image-657" style="max-width: 100%;height: auto" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-1004x1024.jpeg 1004w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-294x300.jpeg 294w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN-768x783.jpeg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Feedback-on-the-Micro-acquisitions-pilot_EN.jpeg 1059w" sizes="auto, (max-width: 1004px) 100vw, 1004px" /></figure>
 
 
 
@@ -115,39 +129,53 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<ol start="1"><li><strong>Using PDFs for data collection isn’t accessible – using GC Forms is.</strong> We used PDFs before adopting GC Forms, which wasn’t great for us or our suppliers. We ran into issues editing them and didn’t have the budget to purchase PDF editing software. GC Forms helped us create an accessible solution in a few days, rather than a few months!</li></ol>
+<ol class="wp-block-list" start="1">
+<li><strong>Using PDFs for data collection isn’t accessible – using GC Forms is.</strong> We used PDFs before adopting GC Forms, which wasn’t great for us or our suppliers. We ran into issues editing them and didn’t have the budget to purchase PDF editing software. GC Forms helped us create an accessible solution in a few days, rather than a few months!</li>
+</ol>
 
 
 
-<ol start="2"><li><strong>Twitter as a notification method didn’t reach our target audience, mailing lists did.</strong> Before adopting GC Notify, the team used Twitter to notify suppliers about new opportunities. This wasn’t great because user feedback showed that a large portion of our target audience weren’t using Twitter. When we set up our email list (using GC Forms as the subscribing method and GC Notify as the notification method), we were able to better reach our target audience and gain more supplier subscribers.</li></ol>
+<ol class="wp-block-list" start="2">
+<li><strong>Twitter as a notification method didn’t reach our target audience, mailing lists did.</strong> Before adopting GC Notify, the team used Twitter to notify suppliers about new opportunities. This wasn’t great because user feedback showed that a large portion of our target audience weren’t using Twitter. When we set up our email list (using GC Forms as the subscribing method and GC Notify as the notification method), we were able to better reach our target audience and gain more supplier subscribers.</li>
+</ol>
 
 
 
-<ol start="3"><li><strong>Being a Government of Canada service, bilingualism was a must – so we needed customizable solutions.</strong> GC Notify let us customize messages in English and French and make templates, saving time for future messages. GC Forms is also a bilingual tool and the CDS team helped us make sure our web forms can be toggled to access content in either official language.</li></ol>
+<ol class="wp-block-list" start="3">
+<li><strong>Being a Government of Canada service, bilingualism was a must – so we needed customizable solutions.</strong> GC Notify let us customize messages in English and French and make templates, saving time for future messages. GC Forms is also a bilingual tool and the CDS team helped us make sure our web forms can be toggled to access content in either official language.</li>
+</ol>
 
 
 
-<ol start="4"><li><strong>Individual notifications take significantly more time than automated delivery.</strong> Automation (via GC Notify and an Excel sheet) saved us time by automatically customizing and sending the messages, as well as dealing with confirmation delivery messages. They stayed in the tool (instead of flooding our inboxes</li></ol>
+<ol class="wp-block-list" start="4">
+<li><strong>Individual notifications take significantly more time than automated delivery.</strong> Automation (via GC Notify and an Excel sheet) saved us time by automatically customizing and sending the messages, as well as dealing with confirmation delivery messages. They stayed in the tool (instead of flooding our inboxes</li>
+</ol>
 
 
 
-<ol start="5"><li><strong>Sending manual notifications increases risk of error – automation can give more peace of mind.</strong> We didn’t want people missing information due to manual errors, and automation helped prevent this. When it comes to instilling public trust, reducing errors in public service work is pretty important.</li></ol>
+<ol class="wp-block-list" start="5">
+<li><strong>Sending manual notifications increases risk of error – automation can give more peace of mind.</strong> We didn’t want people missing information due to manual errors, and automation helped prevent this. When it comes to instilling public trust, reducing errors in public service work is pretty important.</li>
+</ol>
 
 
 
-<ol start="6"><li><strong>Incomplete form submissions are time consuming – mandatory fields can help.</strong> To reduce the back-and-forth, we switched to using GC Forms for data submission because it required all mandatory fields be filled. This resulted in more accurate data and prevented incomplete submissions.</li></ol>
+<ol class="wp-block-list" start="6">
+<li><strong>Incomplete form submissions are time consuming – mandatory fields can help.</strong> To reduce the back-and-forth, we switched to using GC Forms for data submission because it required all mandatory fields be filled. This resulted in more accurate data and prevented incomplete submissions.</li>
+</ol>
 
 
 
-<ol start="7"><li><strong>Unstructured data collection prevents automated form processing.</strong> Using GC Forms enabled structured data collection that allowed for the automation of form submissions. For our first call for proposals, we used PDFs that would copy values from what was already written in the form, which was not very efficient. If we ran a second call for proposals using GC Forms, we could have used an HTML script to automate this process. While we were unable to automate this in our context due to policy constraints, having structured data still made it easier to manually consolidate the data we received.</li></ol>
+<ol class="wp-block-list" start="7">
+<li><strong>Unstructured data collection prevents automated form processing.</strong> Using GC Forms enabled structured data collection that allowed for the automation of form submissions. For our first call for proposals, we used PDFs that would copy values from what was already written in the form, which was not very efficient. If we ran a second call for proposals using GC Forms, we could have used an HTML script to automate this process. While we were unable to automate this in our context due to policy constraints, having structured data still made it easier to manually consolidate the data we received.</li>
+</ol>
 
 
 
-<h2 class="has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q3-why-do-you-think-public-servants-should-try-gc-forms-gc-notify"><strong>Q3. Why do you think public servants should try GC Forms &amp; GC Notify?</strong></h2>
+<h2 class="wp-block-heading has-luminous-vivid-amber-background-color has-background" id="h-q3-why-do-you-think-public-servants-should-try-gc-forms-amp-gc-notify"><strong>Q3. Why do you think public servants should try GC Forms &amp; GC Notify?</strong></h2>
 
 
 
-<h3 class="wp-block-heading" id="h-gc-forms-gc-notify-meet-your-and-the-public-s-needs"><strong>GC Forms &amp; GC Notify meet your and the public’s needs</strong></h3>
+<h3 class="wp-block-heading" id="h-gc-forms-amp-gc-notify-meet-your-and-the-public-s-needs"><strong>GC Forms &amp; GC Notify meet your and the public’s needs</strong></h3>
 
 
 
