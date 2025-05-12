@@ -43,7 +43,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Assessing the learners’ current skills;</li>
 
 
@@ -121,7 +121,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN202&amp;cm_locale=en" target="_blank" rel="noreferrer noopener">Digital in Practice (DDN202)</a></li>
 
 
@@ -151,7 +151,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN206&amp;cm_locale=en" target="_blank" rel="noreferrer noopener">Modernizing Public Services for Managers (DDN206)</a></li>
 
 
@@ -165,7 +165,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN204&amp;cm_locale=en" target="_blank" rel="noreferrer noopener">Discover Digital for Executives (DDN204)</a></li>
 
 
