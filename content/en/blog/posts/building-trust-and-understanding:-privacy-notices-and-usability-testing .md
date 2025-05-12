@@ -31,7 +31,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“As government employees, we need to take extra care to empower participants by providing them with information about who we are, why we’re doing research, how their data will be used, and their right to withdraw at any time during the process. This is one way we manage real and perceived power imbalances between ourselves as public servants and participants, so that their decision to take part in usability testing is not unduly influenced.”</p>
 </blockquote>
 
@@ -57,7 +57,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Removing passive voice and simplifying sentence structure</strong><br><strong>Before</strong>: “If a correction has been made to your personal information, we will ensure that any institution we’ve shared it with corrects their records as well.”<br><br><strong>After</strong>: “If you make corrections, then we’ll correct this information in the research records for X and Y.”<br><br></li>
 
 
@@ -67,7 +67,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>You’ve read and understood this page and agree to participate.</li>
 
 
