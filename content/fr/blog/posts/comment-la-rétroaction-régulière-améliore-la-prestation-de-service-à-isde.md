@@ -39,13 +39,13 @@ translationKey: blog-design-critiques-ised
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Recherche auprès des utilisateur·rice·s et conception&nbsp;:</strong> Nous réalisons des recherches auprès des personnes vouées à utiliser un produit ou service pour déterminer leurs besoins et nous concevons et testons des expériences utilisateur en conséquence. En réalisant des recherches auprès des utilisateur·rice·s et en décelant des obstacles potentiels ou existants, nous pouvons suggérer des améliorations concrètes.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Aide à l’expérimentation&nbsp;:</strong> Nous collaborons avec notre clientèle (des fonctionnaires gérant les services d’ISDE) pour concevoir des expériences de recherche centrées sur leur travail. Nous réalisons également des expériences qui nous sont proposées. Il arrive par exemple que les équipes nous soumettent différentes options et que nous les aidions à effectuer des tests pour les orienter vers la solution la plus performante. Cela peut être aussi général qu’une comparaison entre diverses options stratégiques ou aussi précis qu’une comparaison entre les différentes versions d’un courriel.</li>
 </ol>
 
@@ -149,31 +149,31 @@ translationKey: blog-design-critiques-ised
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Commencez à petite échelle. </strong>Pour l’adoption de rituels de critique, le plus dur est de se lancer. Commencez par des séances de 15&nbsp;minutes et voyez où cela vous mène.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Répartissez la charge de travail. </strong>La planification des rituels de critique peut impliquer beaucoup de tâches administratives, surtout pour les groupes plus importants dans lesquels les présentateur·rice·s se relaient. La collaboration permet d’alléger cette charge de travail, notamment en alternant les responsabilités de planification.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Faire preuve de curiosité sans se faire d’idées. </strong>Ne partez pas du principe qu’il faut suivre telle ou telle règle. Au lieu de prendre position, posez des questions sur le service et sur sa conception afin d’encourager la créativité et d’explorer les possibilités d’amélioration.&nbsp;</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Préparez un environnement sûr sur le plan psychologique pour offrir ou recevoir de la rétroaction.</strong> Les personnes présentant leur travail doivent préciser le type de rétroaction qu’elles souhaitent recevoir (comme un avis sur une fonctionnalité ou sur les couleurs choisies), le groupe-cible auquel elles s’adressent et les résultats visés. Elles peuvent prendre des notes elles-mêmes pour demander à un·e collègue de s’en charger (afin de pouvoir se concentrer sur la présentation et obtenir des observations précieuses sur leur travail). Les personnes participantes doivent se prononcer sur le travail présenté, et non sur la personne qui le présente. Elles doivent offrir un avis constructif, honnête et respectueux, et ce, que cet avis soit positif ou négatif.</li>
 </ol>
 
 
 
-<ol start="5">
+<ol class="wp-block-list" start="5">
 <li><strong>N’abusez pas du temps des personnes participantes. </strong>Faites attention à l’heure et veillez à ne pas dépasser régulièrement le temps alloué à la réunion (ce qui peut arriver de temps en temps, lors de discussions critiques particulièrement utiles). Si la réunion se prolonge au-delà du temps prévu, la personne ayant présenté son travail peut indiquer à ses collègues qu’il est possible&nbsp;— mais pas obligatoire&nbsp;— de poursuivre la réunion pour poser d’autres questions ou donner son avis.</li>
 </ol>
 
