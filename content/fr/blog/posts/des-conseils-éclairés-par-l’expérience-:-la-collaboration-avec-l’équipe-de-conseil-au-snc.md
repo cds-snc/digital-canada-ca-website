@@ -55,7 +55,13 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>des documents de référence élaborés à partir de nos engagements précédents et enrichis par notre expérience au SNC;</li><li>des pairs au sein du gouvernement qui ont été confronté·s à des défis similaires et ont trouvé des moyens de les contourner.</li></ul>
+<ul class="wp-block-list">
+<li>des documents de référence élaborés à partir de nos engagements précédents et enrichis par notre expérience au SNC;</li>
+
+
+
+<li>des pairs au sein du gouvernement qui ont été confronté·s à des défis similaires et ont trouvé des moyens de les contourner.</li>
+</ul>
 
 
 
@@ -75,7 +81,17 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>mieux utiliser les financements et les contrats;</li><li>prouver le bien-fondé de la transformation numérique;</li><li>déterminer la manière de construire et de préserver votre prestation de services.&nbsp;</li></ul>
+<ul class="wp-block-list">
+<li>mieux utiliser les financements et les contrats;</li>
+
+
+
+<li>prouver le bien-fondé de la transformation numérique;</li>
+
+
+
+<li>déterminer la manière de construire et de préserver votre prestation de services.&nbsp;</li>
+</ul>
 
 
 
@@ -107,7 +123,7 @@ translationKey: blog-nov-24-22
 
 
 
-<p>Récemment, nous avons collaboré avec une autre équipe du Secrétariat du Conseil du Trésor du Canada (SCT) qui souhaitait améliorer l’expérience des personnes à l’aide de <a href="https://rechercher.ouvert.canada.ca/nap5/">l’outil de suivi pour le Plan d&#8217;action national pour un gouvernement ouvert</a>. Ce plan a pour objectif d’améliorer la transparence et le processus de reddition de comptes du gouvernement canadien. Le système de suivi assure le suivi des engagements présentés dans le plan.&nbsp; Par ailleurs, grâce à notre collaboration avec cette équipe du SCT, nous avons aidé à cerner et hiérarchiser les problèmes d’utilisabilité dans le but d’améliorer l’expérience utilisateur avec l’outil de suivi. Nous avons également fourni un rapport classant par ordre de priorité 29 problèmes susceptibles d’avoir un impact sur l’utilisabilité de l’outil, accompagné de suggestions sur la manière d’améliorer l’expérience des différents utilisateur·rice·s.&nbsp;</p>
+<p>Récemment, nous avons collaboré avec une autre équipe du Secrétariat du Conseil du Trésor du Canada (SCT) qui souhaitait améliorer l’expérience des personnes à l’aide de <a href="https://rechercher.ouvert.canada.ca/nap5/">l’outil de suivi pour le Plan d&rsquo;action national pour un gouvernement ouvert</a>. Ce plan a pour objectif d’améliorer la transparence et le processus de reddition de comptes du gouvernement canadien. Le système de suivi assure le suivi des engagements présentés dans le plan.&nbsp; Par ailleurs, grâce à notre collaboration avec cette équipe du SCT, nous avons aidé à cerner et hiérarchiser les problèmes d’utilisabilité dans le but d’améliorer l’expérience utilisateur avec l’outil de suivi. Nous avons également fourni un rapport classant par ordre de priorité 29 problèmes susceptibles d’avoir un impact sur l’utilisabilité de l’outil, accompagné de suggestions sur la manière d’améliorer l’expérience des différents utilisateur·rice·s.&nbsp;</p>
 
 
 
@@ -127,7 +143,25 @@ translationKey: blog-nov-24-22
 
 
 
-<ul><li>se rencontrer pour connaître votre travail actuel;</li><li>avoir une discussion pour déterminer la nature de notre collaboration;</li><li>s’entendre sur ce que nous fournirons, nos rôles, nos responsabilités, nos attentes et le temps que nous nous engageons à vous offrir;</li><li>amorcer la collaboration;</li><li>communiquer avec vous pour évaluer l’incidence de votre travail.&nbsp;</li></ul>
+<ul class="wp-block-list">
+<li>se rencontrer pour connaître votre travail actuel;</li>
+
+
+
+<li>avoir une discussion pour déterminer la nature de notre collaboration;</li>
+
+
+
+<li>s’entendre sur ce que nous fournirons, nos rôles, nos responsabilités, nos attentes et le temps que nous nous engageons à vous offrir;</li>
+
+
+
+<li>amorcer la collaboration;</li>
+
+
+
+<li>communiquer avec vous pour évaluer l’incidence de votre travail.&nbsp;</li>
+</ul>
 
 
 
@@ -139,5 +173,5 @@ translationKey: blog-nov-24-22
 
 
 
-<p>La meilleure façon de démarrer, <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">c’est d’entrer en communication avec nous!&nbsp;</a></p>
+<p>La meilleure façon de démarrer, <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">c’est d’entrer en communication avec nous! </a></p>
 
