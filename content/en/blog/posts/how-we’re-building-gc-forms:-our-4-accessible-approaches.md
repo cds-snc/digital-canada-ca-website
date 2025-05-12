@@ -14,6 +14,7 @@ translationKey: blog-gcforms-accessible-approaches
 <p>When building products for government, accessibility isn’t just about compliance, it&#8217;s good strategy too. Making space for this work is crucial — it supports the government in delivering improved services and removes barriers to access them.</p>
 
 
+
 <p>GC Forms is one of the <a href="https://articles.alpha.canada.ca/forms-formulaires/">tools we offer federal public servants</a> to support their digital service delivery. It’s easy to use and helps quickly create and manage online forms that are secure, bilingual, accessible, and Government of Canada branded.</p>
 
 
@@ -26,7 +27,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Setting-up automated tests to catch the majority of issues;</li>
 
 
@@ -101,12 +102,12 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Using the <a href="https://yarnpkg.com/">yarn</a> or <a href="https://www.npmjs.com/">npm</a> package managers, search and add these software packages to your development dependencies: cypress, axe-core, and cypress-axe.</li>
 
 
 
-<li><span>Add one simple configuration line in Cypress itself: import “cypress-axe”;</span>   <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="260" height="59" class="wp-image-859" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-1.png" alt=""></figure><p style="font-size:11px"></li>
+<li><span>Add one simple configuration line in Cypress itself: import “cypress-axe”;</span>   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="260" height="59" class="wp-image-859" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-1.png" alt=""></figure><p style="font-size:11px"></li>
 </ol>
 
 
@@ -115,7 +116,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<p>3. Configure your Axe options in your test file (read <a href="https://www.deque.com/axe/core-documentation/api-documentation/#options-parameter">Axe’s API documentation</a> for guidance).   <figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="512" height="120" class="wp-image-861" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png" alt="" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2-300x70.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></figure><p style="font-size:11px"></p>
+<p>3. Configure your Axe options in your test file (read <a href="https://www.deque.com/axe/core-documentation/api-documentation/#options-parameter">Axe’s API documentation</a> for guidance).   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="512" height="120" class="wp-image-861" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png" alt="" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2-300x70.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure><p style="font-size:11px"></p>
 
 
 
@@ -127,7 +128,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>cy.visit(path);</li>
 
 
@@ -140,7 +141,7 @@ translationKey: blog-gcforms-accessible-approaches
 </ol>
 
 
-<img decoding="async" loading="lazy" width="512" height="303" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png" alt="" class="wp-image-863" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3-300x178.png 300w" sizes="(max-width: 512px) 100vw, 512px" />
+<img loading="lazy" decoding="async" width="512" height="303" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png" alt="" class="wp-image-863" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3-300x178.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" />
 
 
 <p></p>
@@ -230,7 +231,7 @@ translationKey: blog-gcforms-accessible-approaches
 <h5 class="wp-block-heading"><strong>Guidance to help with GC design research</strong></h5>
 
 
-<!-- GUIDES - need to replace -->
+
 <p>We’ve created resources to help plan your <a href="https://digital.canada.ca/guides/guide-usability-testing/">testing methods</a> and run <a href="https://digital.canada.ca/guides/guide-interviewing/">research interviews</a>, and we also offer a service to help you <a href="https://privacy-statements.cds.alpha.canada.ca/en/">generate privacy and consent forms for research sessions</a>.</p>
 
 
@@ -247,7 +248,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Dragon NaturallySpeaking with Chrome;</li>
 
 
@@ -297,7 +298,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“I find that the word alpha is a little bit out of context because I can&#8217;t think of what it would be related to and where in the form it would be relevant” – design research participant</p>
 </blockquote>
 
