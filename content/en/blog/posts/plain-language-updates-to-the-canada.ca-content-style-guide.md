@@ -200,7 +200,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#toc6" target="_blank" rel="noreferrer noopener"><strong>Read section 2.0</strong></a></div>
 </div>
 </details>
@@ -212,7 +212,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://design.canada.ca/style-guide/#toc6" target="_blank" rel="noreferrer noopener"><strong>Read section 2.0</strong></a></div>
 </div>
 </details>
@@ -250,7 +250,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-1-4" target="_blank" rel="noreferrer noopener"><strong>Read section 2.1</strong></a></div>
 </div>
 </details>
@@ -278,7 +278,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-2-1" target="_blank" rel="noreferrer noopener"><strong>Read section 2.2</strong></a></div>
 </div>
 </details>
@@ -290,7 +290,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-3" target="_blank" rel="noreferrer noopener"><strong>Read section 2.3</strong></a></div>
 </div>
 </details>
