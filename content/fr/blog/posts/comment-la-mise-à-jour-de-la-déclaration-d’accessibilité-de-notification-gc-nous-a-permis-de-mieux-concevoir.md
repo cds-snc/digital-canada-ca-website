@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccess
 translationKey: blog-gcnotify-accessibility-sprints
 ---
 
-<p>Au SNC, nous améliorons continuellement l’accessibilité de <a href="https://numerique.canada.ca" target="_blank" rel="noreferrer noopener">nos produits</a>.</p>
+<p>Au SNC, nous améliorons continuellement l’accessibilité de <a href="https://numerique.canada.ca/?utm_source=FR_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_products" target="_blank" rel="noreferrer noopener">nos produits</a>.</p>
 
 
 
@@ -119,7 +119,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Par exemple, une des sections du tableau des problèmes s’intitulait « Diverses technologies d’assistance, y compris les lecteurs d’écran. » Nous l’avons renommée « La compatibilité avec diverses technologies d’assistance, notamment les lecteurs d’écran. » <a href="https://notification.canada.ca/accessibilite#:~:text=Compatibilit%C3%A9%20avec%20diverses%20technologies%20d%E2%80%99assistance%2C%20y%20compris%20les%20lecteurs%20d%E2%80%99%C3%A9cran" target="_blank" rel="noreferrer noopener"><strong>Cette modification</strong></a><strong> précise et renforce l’idée que ce ne sont pas les technologies d’assistance qui posent problème, mais la compatibilité de Notification GC avec ces technologies. C’est ce que nous nous efforçons d’améliorer.</strong></p>
+<p>Par exemple, une des sections du tableau des problèmes s’intitulait «&nbsp;Diverses technologies d’assistance, y compris les lecteurs d’écran.&nbsp;» Nous l’avons renommée «&nbsp;La compatibilité avec diverses technologies d’assistance, notamment les lecteurs d’écran.&nbsp;» <a href="https://notification.canada.ca/accessibilite#:~:text=Compatibilit%C3%A9%20avec%20diverses%20technologies%20d%E2%80%99assistance%2C%20y%20compris%20les%20lecteurs%20d%E2%80%99%C3%A9cran" target="_blank" rel="noreferrer noopener"><strong>Cette modification</strong></a><strong> précise et renforce l’idée que ce ne sont pas les technologies d’assistance qui posent problème, mais la compatibilité de Notification GC avec ces technologies. C’est ce que nous nous efforçons d’améliorer.</strong></p>
 
 
 
@@ -211,7 +211,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<li><strong>Améliorer le travail grâce aux </strong><a href="https://numerique.canada.ca/2023/12/18/comment-la-r%C3%A9troaction-r%C3%A9guli%C3%A8re-am%C3%A9liore-la-prestation-de-service-%C3%A0-isde/" target="_blank" rel="noreferrer noopener"><strong>critiques de contenu</strong></a><strong>.</strong><br>Nous remercions les concepteur·rice·s de contenu qui ont participé à l’amélioration de la déclaration d’accessibilité de Notification GC. Amy Morris (Système de design GC) a proposé le <a href="https://notification.canada.ca/accessibilite#h-known-issues-of-gc-notify-s-user-interface" target="_blank" rel="noreferrer noopener">format du tableau</a>. Anik Brazeau (<a href="https://articles.alpha.canada.ca/forms-formulaires/fr/" target="_blank" rel="noreferrer noopener">Formulaires GC</a>) a rappelé l’importance de mettre l’information la plus pertinente en avant-plan afin que le lectorat puisse trouver les problèmes qui le concernent. Par exemple, notre déclaration permet rapidement au lectorat de trouver les problèmes qui touchent <a href="https://notification.canada.ca/accessibilite#:~:text=Crit%C3%A8re%20WCAG-,Firefox%20seulement,-En%20essayant%20de" target="_blank" rel="noreferrer noopener">« Firefox seulement »</a>.</li>
+<li><strong>Améliorer le travail grâce aux </strong><a href="https://numerique.canada.ca/2023/12/18/comment-la-r%C3%A9troaction-r%C3%A9guli%C3%A8re-am%C3%A9liore-la-prestation-de-service-%C3%A0-isde/" target="_blank" rel="noreferrer noopener"><strong>critiques de contenu</strong></a><strong>.</strong><br>Nous remercions les concepteur·rice·s de contenu qui ont participé à l’amélioration de la déclaration d’accessibilité de Notification GC. Amy Morris (Système de design GC) a proposé le <a href="https://notification.canada.ca/accessibilite#h-known-issues-of-gc-notify-s-user-interface" target="_blank" rel="noreferrer noopener">format du tableau</a>. Anik Brazeau (<a href="https://articles.alpha.canada.ca/forms-formulaires/fr/" target="_blank" rel="noreferrer noopener">Formulaires GC</a>) a rappelé l’importance de mettre l’information la plus pertinente en avant-plan afin que le lectorat puisse trouver les problèmes qui le concernent. Par exemple, notre déclaration permet rapidement au lectorat de trouver les problèmes qui touchent <a href="https://notification.canada.ca/accessibilite#:~:text=Crit%C3%A8re%20WCAG-,Firefox%20seulement,-En%20essayant%20de" target="_blank" rel="noreferrer noopener">«&nbsp;Firefox seulement&nbsp;»</a>.</li>
 </ol>
 </details>
 
