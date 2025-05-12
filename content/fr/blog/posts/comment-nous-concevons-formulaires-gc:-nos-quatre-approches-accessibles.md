@@ -27,7 +27,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>Configurer des tests automatisés pour repérer la majorité des problèmes ;</li>
 
 
@@ -109,7 +109,7 @@ translationKey: blog-gcforms-accessible-approaches
 <p> 2. Ajoutez une ligne de configuration simple dans Cypress : importez « cypress-axe »;</p>
 
 
-<img decoding="async" loading="lazy" width="260" height="59" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-1.png" alt="" class="wp-image-860" style="max-width: 100%;height: auto;">
+<img loading="lazy" decoding="async" width="260" height="59" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-1.png" alt="" class="wp-image-860" style="max-width: 100%;height: auto;">
 
 
 <p style="font-size:11px">Texte de remplacement&nbsp;: Capture d’écran de la configuration de ligne dans Cypress. Ajout de “import “cypress-axe”;” sous “// Import Axe-Core library”.</p>
@@ -123,7 +123,7 @@ translationKey: blog-gcforms-accessible-approaches
 <p></p>
 
 
-<img decoding="async" loading="lazy" width="512" height="120" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png" alt="" class="wp-image-862" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2-300x70.png 300w" sizes="(max-width: 512px) 100vw, 512px" />
+<img loading="lazy" decoding="async" width="512" height="120" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png" alt="" class="wp-image-862" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-2-300x70.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" />
 
 
 <p style="font-size:11px">Texte de remplacement&nbsp;: Capture d’écran de la façon dont l’équipe Formulaires GC a configuré ses options Axe en testant pour&nbsp;: “wcag21aa”, “wcag2aa”, “best-practice” et “section508”.</p>
@@ -134,7 +134,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li>cy.visit(path);</li>
 
 
@@ -147,7 +147,7 @@ translationKey: blog-gcforms-accessible-approaches
 </ol>
 
 
-<img decoding="async" loading="lazy" width="512" height="303" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png" alt="" class="wp-image-864" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3-300x178.png 300w" sizes="(max-width: 512px) 100vw, 512px" />
+<img loading="lazy" decoding="async" width="512" height="303" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png" alt="" class="wp-image-864" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2023/02/Tip-image-3-300x178.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" />
 
 
 <p style="font-size:11px">Texte de remplacement&nbsp;: Capture d’écran des trois&nbsp;lignes de code dans le fichier de test Cypress de Formulaires&nbsp;: “cy.visit(path); cy.injectAxe(); cy.checkA11y(null, A11Y_OPTIONS);”.</p>
@@ -232,7 +232,7 @@ translationKey: blog-gcforms-accessible-approaches
 <details class="wp-block-cds-snc-accordion"><summary>Ressources en matière de recherche : Concevoir des expériences accessibles relatives au produit</summary>
 <h5 class="wp-block-heading"><strong>Conseils concernant la recherche en conception au sein du GC</strong></h5>
 
-<!-- GUIDES - need to replace -->
+
 
 <p>Nous avons créé des ressources pour vous aider à planifier vos <a href="https://numerique.canada.ca/guides/guide-tests-d-utilisabilite/">méthodes de test</a> et à mener <a href="https://numerique.canada.ca/guides/guide-entrevue/">des entrevues de recherche</a>. Nous offrons également un service pour vous aider à <a href="https://privacy-statements.cds.alpha.canada.ca/fr/">générer des formulaires de confidentialité et de consentement pour les séances de recherche.</a></p>
 
@@ -250,7 +250,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Dragon NaturallySpeaking avec Chrome ;</li>
 
 
@@ -300,7 +300,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p> «&nbsp;Je trouve que le terme alpha n’a pas vraiment sa place ici, car je ne vois pas à quoi il pourrait se rapporter ni à quel endroit du formulaire il serait pertinent » — une personne participant à la recherche en conception</p>
 </blockquote>
 
@@ -357,7 +357,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<p>Nous aimerions également remercier les personnes qui ont rendu tout cela possible. Elles nous ont apporté leur aide tout au long du processus d’approvisionnement, de l’audit, de la recherche en conception et de la formation. Merci à Mario Garneau (chef de Système de design GC et de la livraison, plateforme), Adrianne Lee (chercheuse en conception, Notification GC) et Jesse Burcsik (responsable du bien-être et du développement de l&#8217;équipe, plateforme) pour leur soutien.</p>
+<p>Nous aimerions également remercier les personnes qui ont rendu tout cela possible. Elles nous ont apporté leur aide tout au long du processus d’approvisionnement, de l’audit, de la recherche en conception et de la formation. Merci à Mario Garneau (chef de Système de design GC et de la livraison, plateforme), Adrianne Lee (chercheuse en conception, Notification GC) et Jesse Burcsik (responsable du bien-être et du développement de l&rsquo;équipe, plateforme) pour leur soutien.</p>
 
 
 
