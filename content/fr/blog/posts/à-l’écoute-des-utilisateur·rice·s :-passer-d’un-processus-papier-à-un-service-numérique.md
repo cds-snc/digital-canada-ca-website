@@ -43,7 +43,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>l’appel à leur participation au processus de conception en communiquant directement avec les personnes qui avaient déjà présenté une demande de PPA;</li>
 
 
