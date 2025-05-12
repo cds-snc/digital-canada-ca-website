@@ -19,12 +19,12 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
 <p><strong>For those not familiar with natural health products, <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/information-kit.html">Health Canada&#8217;s regulations</a> (which began in 2004) define them as:</strong></p>
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Probiotics;</li>
 
 
@@ -114,7 +114,7 @@ translationKey: blog-pbs-christine-patrick
 <h2 class="wp-block-heading" id="h-q3-can-you-describe-how-you-re-using-gc-forms"><strong>Q3: Can you describe how you’re using GC Forms?</strong></h2>
 
 
-<img loading="lazy" decoding="async" width="1920" height="1080" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg" alt="" class="wp-image-1131" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg 1920w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<img loading="lazy" decoding="async" width="1920" height="1080" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg" alt="" class="wp-image-1131" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg 1920w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" />
 
 
 <p style="font-size:12px">Alt text: The collaboration journey of the NNHPD and GC Forms teams was 6 steps. First, assess needs. Second, find a solution (GC Forms in this case). Third, collaborate and build the form. Fourth, do a mindful review. Fifth, integrate the form into the service. Sixth, see if the form helps as needed and iterate to improve.</p>
@@ -133,37 +133,37 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Assessing the issue and determining what’s needed in a solution.</strong><br><br>To explore our options in creating a web form that would meet our needs, we initially mapped out what our must-have items were (including the information we were looking to obtain from companies submitting their market status updates). This helped us figure out the fields needed on the web form.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Exploring solutions that address our target issue.</strong><br><br>Determining our needs first allowed us to better see what could potentially help, narrowing our search and saving us time exploring products that wouldn’t meet our needs.<br><br>Through this exploration, and the power of word of mouth, we came across GC Forms. By already doing the work of determining our needs, the GC Forms team was able to give us guidance on what was feasible, given our short turnaround time. We wanted to get the form up and running as soon as possible, so that companies could submit their status updates for appropriate monitoring.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Collaborating with the GC Forms team to build our service form.</strong><br><br>Once we knew GC Forms could meet our needs, we started collaborating with the team to build our NHP market notification web form. GC Forms provided us with lots of insight on forms creation – like guidance on the flow of our web form, so it was easier for companies to understand and fill out.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Reviewing the product, being mindful of policy factors and data processing.</strong><br><br>To ensure market status updates were being submitted by an appropriate contact, we worked with GC Forms to implement a web form attestation, for the applicant to attest to their regulatory responsibilities. In exploring what was possible, we landed on the use of a checkbox with mandatory contact information. This makes it so we only receive information from appropriate contacts who’ve already been authorized to provide market status updates for the identified products.<br><br>In addition to collaborating on the content of the web form, the GC Forms team was also mindful in asking us how the information collected from the web form would be harvested, to advise us how to best handle the output. In analyzing our operational needs, we determined we would use an internal general email inbox.</li>
 </ol>
 
 
 
-<ol start="5">
+<ol class="wp-block-list" start="5">
 <li><strong>Integrating the designed form into our service.</strong><br><br>After our data processing chat with GC Forms, we created our general inbox. The GC Forms team was then able to direct the output of each web form submission as a separate email in our general inbox. This allows us to efficiently receive the product market status updates, and enables us to easily monitor the incoming volume.<br><br>Once everything was set up and the form went live, we were able to send it to NHP license holders. On July 14, 2022, we sent an email advising them that they can update their product’s market status by completing the new <a href="https://forms-formulaires.alpha.canada.ca/id/167">Natural Health Products Market Notification Web Form</a>. We also provided the link to the form on <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/applications-submissions/product-licensing/licensed-natural-health-products-database.html">our database</a>, so they can easily find it.</li>
 </ol>
 
 
 
-<ol start="6">
+<ol class="wp-block-list" start="6">
 <li><strong>Seeing if the form’s helping as needed and iterating for improvement.</strong><br><br>It’s been about eleven months since our form went live and it’s working well. It was     pretty exciting that we started receiving product market status updates from companies on the same day our form launched!<br><br>We continue to receive a steady flow of market status updates; we have received updates from over 200 companies. Over time, suppliers will gain experience using the form and we can get a better idea of ways we can improve this service offering.</li>
 </ol>
 
@@ -181,7 +181,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Planning and preparing in advance to determine needs;</li>
 
 
@@ -215,7 +215,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Communicating with clients;</li>
 
 
