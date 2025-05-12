@@ -39,13 +39,13 @@ translationKey: blog-design-critiques-ised
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>User research and design:</strong> We perform research with the people who are or will be affected by a product or service to identify their needs, and we design and test user experiences that meet those needs. By researching and identifying potential or existing obstacles with actual end-users, we can suggest tangible ways to improve.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Experimentation support:</strong> We work with our clients (public servants running ISED services) to design research experiments on their work. We also run experiments that are brought to us. For example, teams can bring different options to us and we help test them to advise on which will perform better. This can be as high-level as comparing strategy options, or as specific as comparing email versions.</li>
 </ol>
 
@@ -149,31 +149,31 @@ translationKey: blog-design-critiques-ised
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Start with a low-lift. </strong>The hardest part of adopting critique rituals is starting. Get into the routine by scheduling just 15 minutes and go from there.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Spread the workload. </strong>There can be a lot of administrative work involved in planning critique rituals, especially for larger groups with rotating presenters. It reduces the lift when we work together, such as rotating leads in charge of scheduling.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Come with curiosity, not assumptions. </strong>Don’t assume things have to be done in certain ways. Instead of making statements, ask questions about the service and its design to nurture creativity and explore improvement.&nbsp;</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Be prepared to receive or give feedback in psychologically safe ways</strong>. Presenters should communicate what they’re looking for feedback on (like on a specific feature or colours), as well as who their audience is and what their desired outcome(s) are. Presenters can either take notes themselves or ask a colleague to (to help with focusing on the presentation and getting valuable insights on the work). Participants should talk about the work and not the person, being constructive, honest, and respectful in all feedback (positive and negative).</li>
 </ol>
 
 
 
-<ol start="5">
+<ol class="wp-block-list" start="5">
 <li><strong>Respect participants’ time. </strong>Pay attention to the clock so you don’t regularly go over the allotted meeting time (occasionally it’ll happen when having valuable critique discussions). If the meeting is going over time, the presenter can let participants know it&#8217;s optional to stay and ask remaining questions or give feedback.</li>
 </ol>
 
