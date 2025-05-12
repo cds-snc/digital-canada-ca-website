@@ -84,7 +84,7 @@ translationKey: blog-mining-canmet
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>​​<a href="https://www.youtube.com/watch?v=uaFcM-jQxaM" target="_blank" rel="noreferrer noopener">Part 1: Rules as code</a> (Part 1- CSPS)</li>
 
 
