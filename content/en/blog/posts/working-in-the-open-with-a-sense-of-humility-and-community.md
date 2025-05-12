@@ -127,7 +127,7 @@ translationKey: blog-work-open-community
 
 
 
-<p>It might not be easy and can even be scary the first time. But with a good dose of humility and a bit of courage, you too can create or join an amazing community. If you need a little help getting started, reach out to us (<a href="mailto:cds-snc@servicecanada.gc.ca">by email</a>)!</p>
+<p>It might not be easy and can even be scary the first time. But with a good dose of humility and a bit of courage, you too can create or join an amazing community. If you need a little help getting started, reach out to us (<a href="mailto:cds-snc@tbs-sct.gc.ca">by email</a>)!</p>
 
 
 
