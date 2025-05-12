@@ -43,7 +43,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>évaluons les compétences actuelles des apprenant·e·s;</li>
 
 
@@ -121,7 +121,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN202&amp;cm_locale=fr" target="_blank" rel="noreferrer noopener">Le numérique en pratique (DDN202)</a></li>
 
 
@@ -151,7 +151,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN206&amp;cm_locale=fr" target="_blank" rel="noreferrer noopener">Modernisation des services publics pour les gestionnaires (DDN206)</a></li>
 
 
@@ -165,7 +165,7 @@ translationKey: blog-digital-learning
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><a href="https://catalogue.csps-efpc.gc.ca/product?catalog=DDN204&amp;cm_locale=fr" target="_blank" rel="noreferrer noopener">Découvrez le numérique pour les cadres (DDN204)</a></li>
 
 
