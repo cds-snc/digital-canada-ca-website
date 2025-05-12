@@ -123,5 +123,9 @@ translationKey: blog-esdc-funding-gcnotify
 
 
 
-<p>If you have any questions about the tool, they have a <a href="https://notification.canada.ca/contact?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">contact form</a>, as well as<a href="https://notification.canada.ca/sinscrire-a-une-demo?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener"> upcoming demos</a>. Or if you have questions about how my team’s using GC Notify, you can <a href="mailto:alejandra.p.frankovich@hrsdc-rhdcc.gc.ca" target="_blank" rel="noreferrer noopener">email me</a>.</p>
+<p>If you have any questions about the tool, they have a <a href="https://notification.canada.ca/contact?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">contact form</a>, as well as<a href="https://notification.canada.ca/sinscrire-a-une-demo?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener"> upcoming demos</a>. Or if you have questions about how my team’s using <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+">GC Notify</a>, you can <a href="mailto:alejandra.p.frankovich@hrsdc-rhdcc.gc.ca" target="_blank" rel="noreferrer noopener">email me</a>.</p>
+
+
+
+<p></p>
 

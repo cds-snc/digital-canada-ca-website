@@ -89,25 +89,25 @@ translationKey: blog-cyber-safe-sherry
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Two is always better than one.</strong> Use two-factor or multi-factor authentication at every opportunity to protect your personal accounts and system access.</li>
 </ol>
 
 
 
-<ol start="2">
+<ol class="wp-block-list" start="2">
 <li><strong>Remain vigilant.</strong> If something looks “phishy” it most likely is. Don’t open or download attachments from unknown or suspicious senders. Also, always hover over a link before clicking on it to ensure you’re being directed to the intended website.</li>
 </ol>
 
 
 
-<ol start="3">
+<ol class="wp-block-list" start="3">
 <li><strong>Reuse is bad use</strong>. Password reuse continues to be problematic – using the same password on multiple systems, platforms and applications is a vulnerability and something that hackers will always leverage to gain access to multiple points of entry. Keep yourself protected online using strong, unique passwords for every account you have. A password manager tool is great in assisting with generating and saving unique passwords for all of your accounts.</li>
 </ol>
 
 
 
-<ol start="4">
+<ol class="wp-block-list" start="4">
 <li><strong>Scan for data leaks. </strong>There’s a tool named “<a href="https://haveibeenpwned.com/" target="_blank" rel="noreferrer noopener">Have I Been Pwned</a>” that maintains a database of username and password combinations from public leaks. These are taken from publicly available breaches that can be found via various sites on the web or dark web.&nbsp;</li>
 </ol>
 

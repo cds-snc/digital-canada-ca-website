@@ -15,7 +15,7 @@ translationKey: blog-inclusive-spaces
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>«&nbsp;Il y a une citation de la comédie musicale Hamilton qui dit “Qu’est-ce qu’un legs ? C’est semer un jardin pour ne jamais en voir les fleurs” et ça m’a toujours touché, surtout en tant que fonctionnaire.&nbsp;»</p>
 <cite>— Jose Jimenez (équipe de la croissance pour les produits de la plateforme du SNC).</cite></blockquote>
 

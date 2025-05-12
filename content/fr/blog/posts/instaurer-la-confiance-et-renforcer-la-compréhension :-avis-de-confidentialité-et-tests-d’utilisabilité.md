@@ -31,7 +31,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>«&nbsp;En tant que fonctionnaires du gouvernement, nous devons veiller à outiller les personnes participantes en leur donnant des renseignements sur notre identité, sur la raison pour laquelle nous réalisons une recherche, sur la façon dont leurs données vont être utilisées et sur leur droit de cesser de participer à tout moment du processus. C’est l’une des manières dont nous gérons les inégalités réelles et perçues en matière de pouvoir entre les fonctionnaires et les personnes participantes afin que ces dernières puissent choisir librement de prendre part aux tests d’utilisabilité.&nbsp;»</p>
 </blockquote>
 
@@ -57,7 +57,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Suppression de la voix passive et simplification de la structure de phrase</strong></li>
 </ol>
 
@@ -87,7 +87,7 @@ translationKey: blog-new-privacy-policy
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Vous avez lu et compris cette page et acceptez de participer;</li>
 
 
