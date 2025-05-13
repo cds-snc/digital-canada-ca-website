@@ -19,7 +19,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Nous avons récemment soumis Notification GC à des tests et à des vérifications d’accessibilité, aussi était-il temps de mettre à jour la <a href="https://notification.canada.ca/accueil?utm_source=FR_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">déclaration d’accessibilité</a>. Cela nous a donné l’occasion de revoir le rôle de la déclaration dans notre produit. Nous souhaitons que le contenu présente en détail l’accessibilité de Notification GC, y compris la conformité et les contraintes concernant l’outil. En tenant à jour la déclaration, nous permettons aux utilisateurs et utilisatrices de trouver des solutions de rechange s’ils et elles ont du mal à utiliser Notification GC. </p>
+<p>Nous avons récemment soumis Notification GC à des tests et à des vérifications d’accessibilité, aussi était-il temps de mettre à jour la <a href="https://notification.canada.ca/accueil?utm_source=FR_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">déclaration d’accessibilité</a>. Cela nous a donné l’occasion de revoir le rôle de la déclaration dans notre produit. Nous souhaitons que le contenu présente en détail l’accessibilité de Notification GC, y compris la conformité et les contraintes concernant l’outil. En tenant à jour la déclaration, nous permettons aux utilisateurs et utilisatrices de trouver des solutions de rechange s’ils et elles ont du mal à utiliser Notification GC.&nbsp;</p>
 
 
 
@@ -143,7 +143,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Pendant nos sprints d’accessibilité consécutifs, nous avons utilisé de l’information tirée de ces analyses afin d’identifier et de régler les problèmes, ce qui nous a permis de gagner du temps et de rendre Notification GC encore plus accessible. Vous pouvez en apprendre davantage sur le développement de Notification GC en consultant notre <a href="https://github.com/cds-snc/notification-admin" target="_blank" rel="noreferrer noopener">référentiel GitHub</a>.</p>
+<p>Pendant nos sprints d’accessibilité consécutifs, nous avons utilisé de l’information tirée de ces analyses afin d’identifier et de régler les problèmes, ce qui nous a permis de gagner du temps et de rendre Notification GC encore plus accessible. Vous pouvez en apprendre davantage sur le développement de Notification GC en consultant notre <a href="https://notification.canada.ca/accueil?utm_source=FR_blog_Notify_multilingual_updates&amp;utm_id=Notify_home+" target="_blank" rel="noreferrer noopener">référentiel GitHub</a>.</p>
 
 
 
