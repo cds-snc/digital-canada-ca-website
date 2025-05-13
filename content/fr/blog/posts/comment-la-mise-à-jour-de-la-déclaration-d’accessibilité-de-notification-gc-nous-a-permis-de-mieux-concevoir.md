@@ -19,7 +19,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Nous avons récemment soumis Notification GC à des tests et à des vérifications d’accessibilité, aussi était-il temps de mettre à jour la <a href="https://notification.canada.ca/accessibilite" target="_blank" rel="noreferrer noopener">déclaration d’accessibilité</a>. Cela nous a donné l’occasion de revoir le rôle de la déclaration dans notre produit. Nous souhaitons que le contenu présente en détail l’accessibilité de Notification GC, y compris la conformité et les contraintes concernant l’outil. En tenant à jour la déclaration, nous permettons aux utilisateurs et utilisatrices de trouver des solutions de rechange s’ils et elles ont du mal à utiliser Notification GC.&nbsp;</p>
+<p>Nous avons récemment soumis Notification GC à des tests et à des vérifications d’accessibilité, aussi était-il temps de mettre à jour la <a href="https://notification.canada.ca/accueil?utm_source=FR_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">déclaration d’accessibilité</a>. Cela nous a donné l’occasion de revoir le rôle de la déclaration dans notre produit. Nous souhaitons que le contenu présente en détail l’accessibilité de Notification GC, y compris la conformité et les contraintes concernant l’outil. En tenant à jour la déclaration, nous permettons aux utilisateurs et utilisatrices de trouver des solutions de rechange s’ils et elles ont du mal à utiliser Notification GC. </p>
 
 
 
