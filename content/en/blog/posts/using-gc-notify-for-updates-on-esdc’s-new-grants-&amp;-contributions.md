@@ -19,7 +19,7 @@ translationKey: blog-esdc-funding-gcnotify
 
 
 
-<p>One of the public servants working on this team is Alejandra Frankovich (Program Advisor). She’s sharing the story of how her team adopted GC Notify to improve communications for ESDC’s funding opportunities. <a href="https://notification.canada.ca/?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">GC Notify is a free messaging solution</a>, built and managed by the Canadian Digital Service (CDS). Government teams use it to send service updates and keep the public informed every step of the way.</p>
+<p>One of the public servants working on this team is Alejandra Frankovich (Program Advisor). She’s sharing the story of how her team adopted GC Notify to improve communications for ESDC’s funding opportunities. <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" target="_blank" rel="noreferrer noopener">GC Notify is a free messaging solution</a>, built and managed by the Canadian Digital Service (CDS). Government teams use it to send service updates and keep the public informed every step of the way.</p>
 
 
 
