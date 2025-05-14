@@ -127,37 +127,37 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<ol class="wp-block-list" start="2">
+<ol start="2" class="wp-block-list">
 <li><strong>Les listes de diffusion de Notifications GC se sont avérées plus efficaces que Twitter pour rejoindre notre public cible.</strong> Avant d’adopter Notification GC, l’équipe utilisait Twitter pour informer les fournisseurs des nouvelles offres, une solution peu efficace, car la rétroaction des utilisateur·rice·s indiquait qu’une grande partie de notre public cible n’utilisait pas ce réseau social. Une fois la liste de diffusion créée (en utilisant Formulaires GC comme méthode d’abonnement et Notification GC comme méthode de notification), nous avons été en mesure de mieux rejoindre notre public cible et de gagner plus d’abonné·e·s auprès des fournisseurs.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="3">
+<ol start="3" class="wp-block-list">
 <li><strong>Comme tout service du gouvernement du Canada, le bilinguisme est un impératif qui exige des solutions personnalisables.</strong> Notification GC nous a permis de personnaliser les messages en anglais et en français, ainsi que de créer des modèles de messages, ce qui nous a fait gagner temps et efficacité. Formulaires GC est un outil bilingue et l’équipe du SNC nous a aidé à faire en sorte que nos formulaires Web puissent s’afficher dans les deux langues officielles.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="4">
+<ol start="4" class="wp-block-list">
 <li><strong>Les notifications individuelles prennent beaucoup plus de temps que la livraison automatisée.</strong> L’automatisation des notifications (effectué au moyen de Notification GC et d’un document Excel) nous a fait gagner du temps par la personnalisation et l’envoi automatique de messages, ainsi que le traitement des accusés de réception. Ces messages restaient dans l’outil, évitant de saturer nos boîtes de réception.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="5">
+<ol start="5" class="wp-block-list">
 <li> <strong>L’envoi de notifications manuelles augmente la probabilité d’erreurs, tandis que l’automatisation apporte à cet égard une plus grande tranquillité d’esprit.</strong> Nous voulions éviter que les gens n’oublient de renseigner certaines sections en raison d’erreurs manuelles, et l’automatisation a permis de réduire ce risque. Une telle approche contribue d’ailleurs à renforcer la confiance du public dans le travail de la fonction publique.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="6">
+<ol start="6" class="wp-block-list">
 <li><strong>L’utilisation des champs obligatoires peut s’avérer une solution utile pour une tâche aussi chronophage que le traitement des formulaires incomplets.</strong> Pour réduire les allers-retours, nous avons donc opté d’utiliser Formulaires GC pour la soumission des données, car il exigeait que tous les champs obligatoires soient remplis. De cette façon, nous avons amélioré la qualité des données reçues et évité les soumissions incomplètes.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="7">
+<ol start="7" class="wp-block-list">
 <li><strong>La collecte de données non structurées empêche le traitement automatisé des formulaires.</strong> Grâce à Formulaires GC, nous avons été capables de recueillir des données structurées, ce qui a ensuite permis d’automatiser la soumission de formulaires. Dans notre premier appel de propositions, nous utilisions des formulaires PDF qui copiaient les valeurs inscrites ailleurs dans le formulaire, ce qui n’était pas très efficace. Si jamais nous lancions un deuxième appel de propositions avec Formulaires GC, nous pourrions utiliser un script HTML pour automatiser ce processus. Bien que nous n’ayons pas pu utiliser cette automatisation en raison de contraintes politiques, le fait de disposer de données structurées a tout de même facilité la consolidation manuelle des données reçues.</li>
 </ol>
 
@@ -195,7 +195,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Quant à Notification GC, en toute sincérité, je n’ai aucune suggestion à faire pour améliorer le produit. Nos besoins pour le pilote sur la microacquisition étaient simples et le produit a répondu à nos attentes. J’ai été particulièrement impressionné par les fonctions de test, qui m’ont permis de voir exactement à quoi ressemblaient les messages avant de les envoyer au public. Nous n’avons pas utilisé <a href="https://documentation.notification.canada.ca/fr/">la fonctionnalité API de Notification GC</a>, mais je serais très intéressée de l’essayer la prochaine fois.</p>
+<p>Quant à Notification GC, en toute sincérité, je n’ai aucune suggestion à faire pour améliorer le produit. Nos besoins pour le pilote sur la microacquisition étaient simples et le produit a répondu à nos attentes. J’ai été particulièrement impressionné par les fonctions de test, qui m’ont permis de voir exactement à quoi ressemblaient les messages avant de les envoyer au public. Nous n’avons pas utilisé <a href="https://documentation.notification.canada.ca/fr/?utm_source=FR_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">la fonctionnalité API de Notification GC</a>, mais je serais très intéressée de l’essayer la prochaine fois.</p>
 
 
 
