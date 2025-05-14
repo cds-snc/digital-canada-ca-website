@@ -129,43 +129,43 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<ol class="wp-block-list" start="1">
+<ol start="1" class="wp-block-list">
 <li><strong>Using PDFs for data collection isn’t accessible – using GC Forms is.</strong> We used PDFs before adopting GC Forms, which wasn’t great for us or our suppliers. We ran into issues editing them and didn’t have the budget to purchase PDF editing software. GC Forms helped us create an accessible solution in a few days, rather than a few months!</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="2">
+<ol start="2" class="wp-block-list">
 <li><strong>Twitter as a notification method didn’t reach our target audience, mailing lists did.</strong> Before adopting GC Notify, the team used Twitter to notify suppliers about new opportunities. This wasn’t great because user feedback showed that a large portion of our target audience weren’t using Twitter. When we set up our email list (using GC Forms as the subscribing method and GC Notify as the notification method), we were able to better reach our target audience and gain more supplier subscribers.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="3">
+<ol start="3" class="wp-block-list">
 <li><strong>Being a Government of Canada service, bilingualism was a must – so we needed customizable solutions.</strong> GC Notify let us customize messages in English and French and make templates, saving time for future messages. GC Forms is also a bilingual tool and the CDS team helped us make sure our web forms can be toggled to access content in either official language.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="4">
+<ol start="4" class="wp-block-list">
 <li><strong>Individual notifications take significantly more time than automated delivery.</strong> Automation (via GC Notify and an Excel sheet) saved us time by automatically customizing and sending the messages, as well as dealing with confirmation delivery messages. They stayed in the tool (instead of flooding our inboxes</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="5">
+<ol start="5" class="wp-block-list">
 <li><strong>Sending manual notifications increases risk of error – automation can give more peace of mind.</strong> We didn’t want people missing information due to manual errors, and automation helped prevent this. When it comes to instilling public trust, reducing errors in public service work is pretty important.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="6">
+<ol start="6" class="wp-block-list">
 <li><strong>Incomplete form submissions are time consuming – mandatory fields can help.</strong> To reduce the back-and-forth, we switched to using GC Forms for data submission because it required all mandatory fields be filled. This resulted in more accurate data and prevented incomplete submissions.</li>
 </ol>
 
 
 
-<ol class="wp-block-list" start="7">
+<ol start="7" class="wp-block-list">
 <li><strong>Unstructured data collection prevents automated form processing.</strong> Using GC Forms enabled structured data collection that allowed for the automation of form submissions. For our first call for proposals, we used PDFs that would copy values from what was already written in the form, which was not very efficient. If we ran a second call for proposals using GC Forms, we could have used an HTML script to automate this process. While we were unable to automate this in our context due to policy constraints, having structured data still made it easier to manually consolidate the data we received.</li>
 </ol>
 
@@ -203,7 +203,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/">API functionality</a>, but that would be fun to try out next time!</p>
+<p>For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API">API functionality</a>, but that would be fun to try out next time!</p>
 
 
 
