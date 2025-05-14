@@ -203,7 +203,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API">API functionality</a>, but that would be fun to try out next time!</p>
+<p>For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">API functionality</a>, but that would be fun to try out next time!</p>
 
 
 
