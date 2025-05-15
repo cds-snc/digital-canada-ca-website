@@ -11,7 +11,6 @@ image-alt: >-
   Aaron Snow speaks at a podium in front of a colourful “FWD50” sign, with a
   screen in the background labelled “Challenge accepted.”
 translationKey: we-love-a-good-challenge
-tags: ["Communications","Design and Communications","Research"]
 thumb: https://de2an9clyit2x.cloudfront.net/small_aaron_fwd50_challenge_accepted_en_c88e40476f.jpg
 ---
 Last summer, the federal government brought together Canadian industry leaders to help guide [economic strategies for Canada](https://www.ic.gc.ca/eic/site/098.nsf/eng/home). One of these, the Digital Industries table – chaired by Shopify CEO [Tobi Lütke](https://twitter.com/tobi) – examined how Canada could become a digital leader. Their report was published in September 2018, and [presents a bold vision](https://www.ic.gc.ca/eic/site/098.nsf/vwapj/ISEDC_Digital_Industries.pdf/$FILE/ISEDC_Digital_Industries.pdf) for Canada as a digital society.

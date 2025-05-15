@@ -8,7 +8,6 @@ date: '2024-12-12T13:27:11'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
 image-alt: Transformation des formulaires papier en formulaires en ligne. Ces derniers peuvent être envoyés par l’intermédiaire d’un lien.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
-tags: [""]
 translationKey: blog-cadets-gcforms-gcnotify
 ---
 
