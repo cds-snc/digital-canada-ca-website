@@ -8,6 +8,7 @@ date: '2023-03-20T13:40:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/BLOG_Writing_002.jpg
 image-alt: Une illustration représentant une rangée de crayons multicolores, pour représenter l’écriture inclusive
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/BLOG_Writing_002.jpg
+tags: [""]
 translationKey: blog-ecrire-inclusivite
 ---
 
