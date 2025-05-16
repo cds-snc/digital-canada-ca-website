@@ -8,6 +8,7 @@ date: '2024-03-07T15:03:05'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_FR-copy.jpg
 image-alt: Image présentant trois femmes d'âges et d'origines ethniques différentes sur un fond de couleur lavande qui ressemble à un nuage. Le mot symbole Canada se trouve dans le coin inférieur gauche, également sur le fond de couleur lavande.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_FR-copy.jpg
+tags: [""]
 translationKey: blog-jumana-sylvia-iwd
 ---
 
