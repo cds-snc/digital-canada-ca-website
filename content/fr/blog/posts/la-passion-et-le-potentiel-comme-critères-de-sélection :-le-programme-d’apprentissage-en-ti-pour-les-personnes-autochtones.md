@@ -8,6 +8,7 @@ date: '2024-03-27T11:04:13'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
 image-alt: Une photographie de Jamie Boomhour, le premier diplômé du Programme d’apprentissage en TI pour les personnes autochtones du gouvernement du Canada. On retrouve le logo du programme en arrière plan de l’image.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
+tags: [""]
 translationKey: blog-esdc-indigenous-it
 ---
 
