@@ -8,6 +8,7 @@ date: '2025-03-24T08:58:16'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/03/Service_DigitalToolkit_2025_Blog_Post_FR.jpg
 image-alt: Fonctionnaires qui utilisent un ensemble de ressources pour créer des services accessibles.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/03/Service_DigitalToolkit_2025_Blog_Post_FR.jpg
+tags: [""]
 translationKey: blog-introducing-sd-toolkit
 ---
 
