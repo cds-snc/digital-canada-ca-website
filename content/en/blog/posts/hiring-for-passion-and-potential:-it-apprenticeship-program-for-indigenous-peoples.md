@@ -8,6 +8,7 @@ date: '2024-03-27T11:03:39'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_EN.jpg
 image-alt: An image of Jamie Boomhour, first graduate of the IT Apprenticeship Program for Indigenous Peoples. Reflected in the image background is the logo of the program.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_EN.jpg
+tags: [""]
 translationKey: blog-esdc-indigenous-it
 ---
 
