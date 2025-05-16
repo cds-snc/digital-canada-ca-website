@@ -8,6 +8,7 @@ date: '2024-03-07T15:02:53'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_EN.jpg
 image-alt: Image featuring three women from various ages and ethnic backgrounds on a lavender coloured, cloud like background. The Canada wordmark is in the bottom left corner.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_EN.jpg
+tags: [""]
 translationKey: blog-jumana-sylvia-iwd
 ---
 
