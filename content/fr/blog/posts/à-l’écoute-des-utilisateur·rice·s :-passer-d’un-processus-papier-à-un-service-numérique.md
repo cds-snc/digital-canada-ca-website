@@ -8,6 +8,7 @@ date: '2023-05-04T15:19:18'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post_FR-scaled.jpg
 image-alt: un dessin illustrant un tas de feuilles de papier qui passent d’un dossier à un système numérique dans un ordinateur portable.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post_FR-scaled.jpg
+tags: [""]
 translationKey: blog-digital-solution-rcmp
 ---
 
