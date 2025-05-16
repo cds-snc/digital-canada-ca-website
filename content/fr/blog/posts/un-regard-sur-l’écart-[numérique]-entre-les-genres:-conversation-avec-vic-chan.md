@@ -8,6 +8,7 @@ date: '2023-06-08T10:06:01'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Vic_1200X628_FIP_Blog_Post_FR.png
 image-alt: Un portrait de Vic Chan, responsable de l’équipe du site Web du SNC
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Vic_1200X628_FIP_Blog_Post_FR.png
+tags: [""]
 translationKey: blog-conversation-vic
 ---
 
