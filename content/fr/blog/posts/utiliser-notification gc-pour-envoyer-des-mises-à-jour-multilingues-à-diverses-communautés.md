@@ -8,6 +8,7 @@ date: '2024-07-22T11:22:57'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_-copy.jpg
 image-alt: Icône de message électronique superposée à un globe terrestre et entourée de bulles de texte, représentant l'envoi de messages multilingues partout dans le monde.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_-copy.jpg
+tags: [""]
 translationKey: blog-ircc-gcnotify
 ---
 
