@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_making_presentations_memorabl
 image-alt: Une pierre précieuse verte étincelante entourée de roches. Elle se démarque des autres pierres.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_making_presentations_memorable_f9e0ae0042.jpeg
 translationKey: making-presentations-memorable
+tags: ["Conception et communications"]
 ---
 Il vous est sans doute déjà arrivé d’assister à une présentation désastreuse… trop longue, verbeuse, visuellement surchargée ou tout simplement difficile à suivre. 
 
