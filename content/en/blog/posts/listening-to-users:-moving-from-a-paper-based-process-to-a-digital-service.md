@@ -8,6 +8,7 @@ date: '2023-05-04T15:19:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post-scaled.jpg
 image-alt: A graphic illustration of paper files in a folder moving to a digital system on a laptop.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post-scaled.jpg
+tags: [""]
 translationKey: blog-digital-solution-rcmp
 ---
 
