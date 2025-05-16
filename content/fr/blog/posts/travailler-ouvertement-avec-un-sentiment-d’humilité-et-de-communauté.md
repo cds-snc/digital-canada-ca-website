@@ -8,6 +8,7 @@ date: '2022-11-21T08:43:48'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/11/banner-blog-work-open-community.jpeg
 image-alt: A global community of people working in the open. Together, they’re sharing ideas to improve the code’s quality. Une communauté mondiale de personnes qui travaillent ouvertement. Elles se partagent des idées pour améliorer la qualité du code.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/11/banner-blog-work-open-community.jpeg
+tags: [""]
 translationKey: blog-work-open-community
 ---
 
