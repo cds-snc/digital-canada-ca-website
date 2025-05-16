@@ -8,6 +8,7 @@ date: '2023-01-26T11:04:59'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1_Fr.jpeg
 image-alt: Une image illustrant la simplification de choses complexes. Une corde emmêlée est représentée à côté d’une corde sans nœuds.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1_Fr.jpeg
+tags: [""]
 translationKey: blog-privacy-notices
 ---
 
