@@ -19,7 +19,7 @@ translationKey: blog-esdc-funding-gcnotify
 
 
 
-<p>One of the public servants working on this team is Alejandra Frankovich (Program Advisor). She’s sharing the story of how her team adopted GC Notify to improve communications for ESDC’s funding opportunities. <a href="https://notification.canada.ca/?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">GC Notify is a free messaging solution</a>, built and managed by the Canadian Digital Service (CDS). Government teams use it to send service updates and keep the public informed every step of the way.</p>
+<p>One of the public servants working on this team is Alejandra Frankovich (Program Advisor). She’s sharing the story of how her team adopted GC Notify to improve communications for ESDC’s funding opportunities. <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" target="_blank" rel="noreferrer noopener">GC Notify is a free messaging solution</a>, built and managed by the Canadian Digital Service (CDS). Government teams use it to send service updates and keep the public informed every step of the way.</p>
 
 
 
@@ -95,7 +95,7 @@ translationKey: blog-esdc-funding-gcnotify
 
 
 
-<p>Right now, the most helpful features for us are the <a href="https://documentation.notification.canada.ca/en/" target="_blank" rel="noreferrer noopener">API</a> and <a href="https://notification.canada.ca/formatting-emails" target="_blank" rel="noreferrer noopener">templates</a>. The API automatically updates our subscriber lists for us, so we don’t have to worry about that. We then use our templates for new funding opportunities to create emails. All we have to do is put the program title and link to the funding page in the email template, then press send. It’s all very seamless and doesn’t take a lot of time to offer this helpful service to the public.</p>
+<p>Right now, the most helpful features for us are the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_API+" data-type="link" data-id="https://documentation.notification.canada.ca/en/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_API+" target="_blank" rel="noreferrer noopener">API </a>and <a href="https://notification.canada.ca/formatting-emails" target="_blank" rel="noreferrer noopener">templates</a>. The API automatically updates our subscriber lists for us, so we don’t have to worry about that. We then use our templates for new funding opportunities to create emails. All we have to do is put the program title and link to the funding page in the email <a href="https://notification.canada.ca/formatting-emails?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_templates" data-type="link" data-id="https://notification.canada.ca/formatting-emails?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_templates" target="_blank" rel="noreferrer noopener">template</a>, then press send. It’s all very seamless and doesn’t take a lot of time to offer this helpful service to the public.</p>
 
 
 
@@ -123,5 +123,9 @@ translationKey: blog-esdc-funding-gcnotify
 
 
 
-<p>If you have any questions about the tool, they have a <a href="https://notification.canada.ca/contact?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">contact form</a>, as well as<a href="https://notification.canada.ca/sinscrire-a-une-demo?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener"> upcoming demos</a>. Or if you have questions about how my team’s using GC Notify, you can <a href="mailto:alejandra.p.frankovich@hrsdc-rhdcc.gc.ca" target="_blank" rel="noreferrer noopener">email me</a>.</p>
+<p>If you have any questions about the tool, they have a <a href="https://notification.canada.ca/contact?utm_source=EN_blog-esdc-funding-gcnotify&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs" target="_blank" rel="noreferrer noopener">contact form</a>, as well as <a href="https://notification.canada.ca/register-for-a-demo?utm_source=EN_blog_Notify-grants-contributions&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_demo" data-type="link" data-id="https://notification.canada.ca/register-for-a-demo?utm_source=EN_blog_Notify-grants-contributions&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_demo" target="_blank" rel="noreferrer noopener">upcoming demos</a>. Or if you have questions about how my team’s using <a href="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_home+">GC Notify</a>, you can <a href="mailto:alejandra.p.frankovich@hrsdc-rhdcc.gc.ca" target="_blank" rel="noreferrer noopener">email me</a>.</p>
+
+
+
+<p></p>
 

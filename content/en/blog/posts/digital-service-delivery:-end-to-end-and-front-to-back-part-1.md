@@ -63,7 +63,7 @@ translationKey: blog-e2e-f2b1
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
 <ul class="wp-block-list">
 <li>People are made aware of, and can find the program online.</li>
 </ul>
@@ -169,11 +169,11 @@ translationKey: blog-e2e-f2b1
 
 
 
-<p>Further, when each step of the end-to-end is composed of a number of smaller components, and a service is 6 or more steps end-to-end, it&#8217;s clear how important it is that teams (and products) work together to deliver a consistent experience. CDS provides a few of these reusable components via our products <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Sign in</a>, <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>, and <a href="https://articles.alpha.canada.ca/forms-formulaires/" target="_blank" rel="noreferrer noopener">GC Forms</a> and we work to support consistent online experiences with the <a href="https://design.canada.ca/" target="_blank" rel="noreferrer noopener">Canada.ca specifications</a> and <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">GC Design System</a>. We believe in investing in products like these so that program teams can focus on delivering their services. If you’re interested in learning more about how these products can support service delivery for your team, explore the product pages, book a demo, or try them out for yourself.&nbsp;</p>
+<p>Further, when each step of the end-to-end is composed of a number of smaller components, and a service is 6 or more steps end-to-end, it&#8217;s clear how important it is that teams (and products) work together to deliver a consistent experience. CDS provides a few of these reusable components via our products <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Sign in</a>, <a href="https://notification.canada.ca/?utm_source=EN_blog_digital_service_delivery&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=blog+_digital+_service+" target="_blank" rel="noreferrer noopener">GC Notify</a>, and <a href="https://articles.alpha.canada.ca/forms-formulaires/" target="_blank" rel="noreferrer noopener">GC Forms</a> and we work to support consistent online experiences with the <a href="https://design.canada.ca/" target="_blank" rel="noreferrer noopener">Canada.ca specifications</a> and <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">GC Design System</a>. We believe in investing in products like these so that program teams can focus on delivering their services. If you’re interested in learning more about how these products can support service delivery for your team, explore the product pages, book a demo, or try them out for yourself. </p>
 
 
 
-<p><strong>Now that we’ve explored the linear steps for end to end service delivery, in <a href="https://digital.canada.ca/2025/01/16/digital-service-delivery-end-to-end-and-front-to-back-part-2/">our next post</a> we’ll explore our definition of the “front-to-back” layers that enable delivery.</strong> These include everything from the public facing “front of house” to the deeper layers of people, processes, and technology that are often behind the scenes, but are equally critical to delivering great services.  </p>
+<p><strong>Now that we’ve explored the linear steps for end to end service delivery, in <a href="https://digital.canada.ca/2025/01/16/digital-service-delivery-end-to-end-and-front-to-back-part-2/">our next post</a> we’ll explore our definition of the “front-to-back” layers that enable delivery.</strong> These include everything from the public facing “front of house” to the deeper layers of people, processes, and technology that are often behind the scenes, but are equally critical to delivering great services.&nbsp;&nbsp;</p>
 
 
 

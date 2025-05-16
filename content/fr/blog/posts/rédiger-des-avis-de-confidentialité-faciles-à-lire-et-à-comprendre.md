@@ -15,7 +15,7 @@ translationKey: blog-privacy-notices
 
 
 
-<p>En juin 2020, le Service numérique canadien (SNC) a été invité à collaborer avec Santé Canada pour le développement et le lancement d’un service de notification d’exposition visant à limiter la propagation de la COVID-19. La confiance du public était <a href="https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/">une priorité fondamentale pour Alerte COVID</a> : l’adoption généralisée de l’application en dépendait, et la protection de la vie privée des utilisateur·rice·s était un élément essentiel sur lequel reposait cette confiance. Il fallait donc <a href="https://articles.alpha.canada.ca/covid-alert-alerte-covid/fr/">mettre en œuvre une technologie robuste et visible par le public</a>, et communiquer clairement aux utilisateur·rice·s les données susceptibles d’être collectées et partagées par l’application. Les avis de confidentialité constituent l’un des outils permettant d’atteindre cet objectif.</p>
+<p>En juin 2020, le Service numérique canadien (SNC) a été invité à collaborer avec Santé Canada pour le développement et le lancement d’un service de notification d’exposition visant à limiter la propagation de la COVID-19. La confiance du public était <a href="https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html">une priorité fondamentale pour Alerte COVID</a> : l’adoption généralisée de l’application en dépendait, et la protection de la vie privée des utilisateur·rice·s était un élément essentiel sur lequel reposait cette confiance. Il fallait donc <a href="https://articles.alpha.canada.ca/covid-alert-alerte-covid/fr/">mettre en œuvre une technologie robuste et visible par le public</a>, et communiquer clairement aux utilisateur·rice·s les données susceptibles d’être collectées et partagées par l’application. Les avis de confidentialité constituent l’un des outils permettant d’atteindre cet objectif.</p>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-privacy-notices
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>« Une partie des commentaires du CPVP sur les premières versions de l’application concernait l’utilisation du mot “anonyme” pour décrire le fonctionnement de l’application et les informations qu’elle collecte. “Anonyme” sous-entend qu’il n’y a absolument aucun risque qu’une personne puisse être identifiée. Cependant, bien que nous soyons tous d’accord que le risque est extrêmement faible qu’une personne puisse être réidentifiée au moyen de l’application, il n’est pas forcément nul. Une personne vivant dans une région éloignée et n’interagissant qu’avec une ou deux personnes pourrait théoriquement être identifiée par ses voisins, si ces derniers recevaient des alertes de notification d’exposition, par exemple. »</p>
 </blockquote>
 
@@ -81,10 +81,10 @@ translationKey: blog-privacy-notices
 
 
 
-<p>Par exemple, la <a href="https://notification.canada.ca/confidentialite-old">version précédente de l’avis de confidentialité de Notification GC</a> comptait 2 130 mots; la <a href="https://notification.canada.ca/confidentialite">nouvelle version</a> ne compte que 833 mots (39,1 % de la longueur initiale). L’ancien <a href="https://web.archive.org/web/20220812025105/https://numerique.canada.ca/transparence/confidentialite/">avis de confidentialité du site Web du SNC</a> — en fait un ensemble de trois avis différents — comptait 3 068 mots, tandis que <a href="https://numerique.canada.ca/transparence/confidentialite/">la nouvelle version</a>, qui centralise tous les renseignements nécessaires, compte 685 mots (22,3 % de la longueur initiale).</p>
+<p>Par exemple, la <a href="https://notification.canada.ca/confidentialite-old">version précédente de l’avis de confidentialité de Notification GC</a> comptait 2 130 mots; la<a href="https://notification.canada.ca/confidentialite?utm_source=FR_Notify_writing-privacy-notices&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_privacy" data-type="link" data-id="https://notification.canada.ca/confidentialite?utm_source=FR_Notify_writing-privacy-notices&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_privacy" target="_blank" rel="noreferrer noopener"> nouvelle version</a> ne compte que 833 mots (39,1 % de la longueur initiale). L’ancien <a href="https://web.archive.org/web/20220812025105/https://numerique.canada.ca/transparence/confidentialite/">avis de confidentialité du site Web du SNC</a> — en fait un ensemble de trois avis différents — comptait 3 068 mots, tandis que <a href="https://numerique.canada.ca/transparence/confidentialite/">la nouvelle version</a>, qui centralise tous les renseignements nécessaires, compte 685 mots (22,3 % de la longueur initiale).</p>
 
 
-<img decoding="async" loading="lazy" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots.png" alt="" class="wp-image-793" width="813" height="525" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots.png 866w, https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots-300x194.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots-768x497.png 768w" sizes="(max-width: 813px) 100vw, 813px" />
+<img loading="lazy" decoding="async" width="866" height="560" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots.png" alt="" class="wp-image-793" style="width: 813px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots.png 866w, https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots-300x194.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Avis-de-confidentialite-nombre-de-mots-768x497.png 768w" sizes="auto, (max-width: 866px) 100vw, 866px" />
 
 
 <p></p>
@@ -99,13 +99,13 @@ translationKey: blog-privacy-notices
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>« Je travaille dans la gestion des risques de sécurité informatique et je trouve que les déclarations sur la confidentialité et sur la sécurité de Notification GC sont bien rédigées. J’aime beaucoup le fait que le contenu soit clairement énoncé sur le site Web. »</p>
 </blockquote>
 
 
 
-<p>Nous remercions nos collègues spécialistes en confidentialité du Bureau de la DPI ainsi que du secteur des communications stratégiques et des affaires ministérielles du SCT de nous avoir apporté leur soutien pour faire évoluer ces avis et les améliorer. Nous souhaitons également remercier <a href="https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html">les milliers de personnes qui ont participé au test bêta d’Alerte COVID avant son lancement</a> et nous ont fait part de leurs commentaires sur l’avis de confidentialité et sur le contenu de l’application.</p>
+<p>Nous remercions nos collègues spécialistes en confidentialité du Bureau de la DPI ainsi que du secteur des communications stratégiques et des affaires ministérielles du SCT de nous avoir apporté leur soutien pour faire évoluer ces avis et les améliorer. Nous souhaitons également remercier <a href="https://twitter.com/SNC_GC/status/1286114285345820672">les milliers de personnes qui ont participé au test bêta d’Alerte COVID avant son lancement</a> et nous ont fait part de leurs commentaires sur l’avis de confidentialité et sur le contenu de l’application.</p>
 
 
 

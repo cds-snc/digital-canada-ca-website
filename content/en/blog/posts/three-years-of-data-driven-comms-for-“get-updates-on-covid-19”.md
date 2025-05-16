@@ -15,7 +15,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<p>Three years ago, in the early days of the pandemic, disinformation was rampant. For someone scrolling through their social media feeds, it could be difficult to find credible, clear information in a world of uncertainty and confusion.<br>In March 2020, the need to inform and educate the public about the reality of COVID-19 quickly became apparent, so Health Canada, Service Canada, the Canadian Digital Service, and the Treasury Board of Canada Secretariat set up the &#8220;<a href="https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html" target="_blank" rel="noreferrer noopener">Get updates on COVID-19</a>&#8221; service using <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>. Using a tool like GC Notify, instead of a custom-made solution, allowed the team to get the service up and running quickly, and saved both time and money.</p>
+<p>Three years ago, in the early days of the pandemic, disinformation was rampant. For someone scrolling through their social media feeds, it could be difficult to find credible, clear information in a world of uncertainty and confusion.<br>In March 2020, the need to inform and educate the public about the reality of COVID-19 quickly became apparent, so Health Canada, Service Canada, the Canadian Digital Service, and the Treasury Board of Canada Secretariat set up the &#8220;<a href="https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html" target="_blank" rel="noreferrer noopener">Get updates on COVID-19</a>&#8221; service using <a href="https://notification.canada.ca/?utm_source=EN_Notify_data-driven-comms&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_home" data-type="link" data-id="https://notification.canada.ca/?utm_source=EN_Notify_data-driven-comms&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_home" target="_blank" rel="noreferrer noopener">GC Notify</a>. Using a tool like GC Notify, instead of a custom-made solution, allowed the team to get the service up and running quickly, and saved both time and money.</p>
 
 
 
@@ -30,7 +30,7 @@ translationKey: blog-covid-updates-3yrs
 <p>For over three years now, we&#8217;ve been using data to write helpful content for the <a href="https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/" target="_blank" rel="noreferrer noopener">&#8220;Get Updates on COVID-19&#8221; email notification service</a>. Data insights from the public have guided us in providing information people in Canada are looking for about the virus, its effects, public health measures, vaccines and treatment. In the height of the pandemic, we hit a peak of 58,469 confirmed subscribers, and have sent over 10 million email notifications, driving more than 400,000 visits to canada.ca from people looking for trusted information.</p>
 
 
-<img decoding="async" loading="lazy" width="1024" height="430" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-1024x430.png" alt="" class="wp-image-1020" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-1024x430.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-300x126.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-768x323.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="430" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-1024x430.png" alt="" class="wp-image-1020" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-1024x430.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-300x126.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW-768x323.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/03/NotifyInforgraphie_EN-NEW.png 1200w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
 <p style="font-size:11px">Infographic showcasing “Get updates on Covid- 19 milestones”. Milestones featured: 58,000 confirmed subscribers, 10 million email notifications, 3 years of service, 22,000 clicks on ‘How to book a Covid-19 vaccine appointment’ over two weeks, 400,000 canada.ca visits from email notifications.</p>
@@ -61,7 +61,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Based on observations of subscriber behaviour (click throughs, etc), we’ve adjusted the frequency of our messaging. Emails were sent daily at the outset, then weekly, then biweekly, and now we prioritize only sending emails as new information or situations emerge.</li>
 </ul>
 

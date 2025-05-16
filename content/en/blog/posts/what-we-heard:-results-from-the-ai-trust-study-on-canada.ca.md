@@ -27,7 +27,7 @@ translationKey: ai-trust-study-blog
 
 
 
-<p>As AI continues to be an avenue that many private companies use to complete tasks and communicate/interact with the public and their clients, the DTO believed it was important to conduct an AI Trust study as it related to Canada.ca. As stewards of the Canada.ca brand on the GC’s public-facing websites, it’s part of our job to maintain trust in that brand.&nbsp;</p>
+<p>As AI continues to be an avenue that many private companies use to complete tasks and communicate/interact with the public and their clients, the DTO believed it was important to conduct an AI Trust study as it related to Canada.ca. As stewards of the Canada.ca brand on the GC’s public-facing websites, it’s part of our job to maintain trust in that brand. </p>
 
 
 

@@ -10,8 +10,8 @@ image-alt: A visual representation of simplifying the complex. A tangled rope ad
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1.jpg
 translationKey: blog-privacy-notices
 ---
-<!-- PRODUCT SUITE - need to replace -->
-<p>Privacy notices and website privacy policies can be long documents with confusing language that often never get read. But what if they were shorter &#8211; <strong>let’s say 80% shorter?</strong> And what if they still met legal and policy requirements and provided users with the information they needed in plain language? With the help of our content designers, as well as privacy and legal colleagues, we’re making this a reality in the products we build</a>.</p>
+
+<p>Privacy notices and website privacy policies can be long documents with confusing language that often never get read. But what if they were shorter &#8211; <strong>let’s say 80% shorter?</strong> And what if they still met legal and policy requirements and provided users with the information they needed in plain language? With the help of our content designers, as well as privacy and legal colleagues, we’re making this a reality in the products we build.</p>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-privacy-notices
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>Part of the OPC’s feedback on initial versions of the app was that we used the word “anonymous” to describe how the app works and what information it collects. “Anonymous” implies that there is no risk whatsoever that a person could be identified, however, and although we all agreed that while there’s a very, very low risk that someone could be re-identified through the app, it isn’t necessarily zero. Someone living in a remote area and only interacting with one or two other people could theoretically be identified by their neighbours if they received exposure notification alerts, for example.</p>
 </blockquote>
 
@@ -81,10 +81,10 @@ translationKey: blog-privacy-notices
 
 
 
-<p>For example, the <a href="https://web.archive.org/web/20220817202013/https://notification.canada.ca/privacy">previous version of the GC Notify privacy notice</a> was 1,554 words. The <a href="https://notification.canada.ca/privacy">new GC Notify version</a> is 598 words (2/5ths the original length). The old <a href="https://web.archive.org/web/20221016210538/https://digital.canada.ca/legal/privacy/">CDS website privacy notice</a> was actually three different notices totalling 2,301 words. The <a href="https://digital.canada.ca/legal/privacy/">new CDS website version</a> is 472 words (1/5th the original length) with all the information in one central place.</p>
+<p>For example, the <a href="https://web.archive.org/web/20220817202013/https://notification.canada.ca/privacy">previous version of the GC Notify privacy notice</a> was 1,554 words. <a href="https://notification.canada.ca/privacy?utm_source=EN_Notify_writing-privacy-notices&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_privacy" data-type="link" data-id="https://notification.canada.ca/privacy?utm_source=EN_Notify_writing-privacy-notices&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_privacy">The new GC Notify version</a> is 598 words (2/5ths the original length). The old <a href="https://web.archive.org/web/20221016210538/https://digital.canada.ca/legal/privacy/">CDS website privacy notice</a> was actually three different notices totalling 2,301 words. The <a href="https://digital.canada.ca/legal/privacy/">new CDS website version</a> is 472 words (1/5th the original length) with all the information in one central place.</p>
 
 
-<img decoding="async" loading="lazy" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Privacy-notice-word-count.png" alt="" class="wp-image-791" width="813" height="525" style="max-width: 100%;height: auto;">
+<img loading="lazy" decoding="async" width="765" height="499" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Privacy-notice-word-count.png" alt="" class="wp-image-791" style="width: 813px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Privacy-notice-word-count.png 765w, https://articles.alpha.canada.ca/uploads/sites/25/2023/01/Privacy-notice-word-count-300x196.png 300w" sizes="auto, (max-width: 765px) 100vw, 765px" />
 
 
 <p style="font-size:12px">Alt text: &#8220;A chart titled “Privacy notice word count” with horizontal bars indicating the number of words in two different CDS products (GC Notify and the CDS website). For each, a longer grey bar indicates the original number of words, while a shorter light-green bar indicates the new number of words. Each green bar is about 20 or 30% the length of the associated grey bar, showing how the new versions are much shorter in length.&#8221;</p>
@@ -95,7 +95,7 @@ translationKey: blog-privacy-notices
 
 
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>“I am an IT Security Risk Management practitioner and I think that the GC Notify Privacy and Security statements are well written. I love the fact that they are clearly stated on the website.”</p>
 </blockquote>
 
