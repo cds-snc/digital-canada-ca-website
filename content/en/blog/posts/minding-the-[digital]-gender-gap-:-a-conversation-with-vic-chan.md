@@ -8,6 +8,7 @@ date: '2023-06-08T10:05:37'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Vic_1200X628_FIP_Blog_Post_EN.png
 image-alt: A portrait of Vic Chan, CDS website lead
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Vic_1200X628_FIP_Blog_Post_EN.png
+tags: [""]
 translationKey: blog-conversation-vic
 ---
 
