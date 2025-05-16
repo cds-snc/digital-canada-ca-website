@@ -8,6 +8,7 @@ date: '2023-03-20T13:40:53'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/BLOG_Writing_002-1.jpg
 image-alt: An illustration of a row of multicoloured pencils, to represent inclusive writing.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/BLOG_Writing_002-1.jpg
+tags: [""]
 translationKey: blog-ecrire-inclusivite
 ---
 
