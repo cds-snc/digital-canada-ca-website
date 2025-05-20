@@ -10,6 +10,7 @@ image-alt: Un groupe de 7 personnes se réunit virtuellement pendant 15 minutes.
 
 thumb: https://de2an9clyit2x.cloudfront.net/small_15_minutes_meetings_91e0181bab.jpg
 translationKey: blog-content-critiques
+tags: [""]
 ---
 Les critiques d’équipe sont une pratique exemplaire bien connue des concepteurs de contenu. Mais nous avons eu du mal à savoir comment les mettre en oeuvre au Service numérique canadien (SNC). Pendant longtemps, nous avions à notre horaire quotidien une période de critique facultative que n’importe qui pouvait utiliser à tout moment. Mais puisque ce n’était pas obligatoire, presque personne ne s’y présentait. Ainsi, après des réflexions à la fin de l’automne, nous avons commencé la nouvelle année avec une nouvelle stratégie.   
 

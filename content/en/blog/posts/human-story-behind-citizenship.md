@@ -13,6 +13,7 @@ image-alt: >-
   Vancouver.
 translationKey: human-story-behind-citizenship
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_human_story_citizenship1_76d5a3f84e.jpg
+tags: [""]
 ---
 
 In government, we deliver services that meet fundamental human needs: for belonging, for safety, and for human connection. Becoming a citizen of a new country is one of the most emotional life experiences a person will go through and marks the completion of a long journey.

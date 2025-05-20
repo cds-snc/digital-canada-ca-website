@@ -20,6 +20,7 @@ image-alt: >-
   texte envoyés grâce au service Notification.
 translationKey: notify-blog2
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
+tags: [""]
 ---
 *Mise à jour : Comme tout produit numérique, Notification GC fait l’objet d’améliorations constantes pour répondre aux besoins d’équipes issues de l’ensemble du gouvernement.* *Pour obtenir les derniers renseignements en date, veuillez vous référer à la page consacrée aux [fonctionnalités de Notification GC](https://notification.canada.ca/fonctionnalites).*
 

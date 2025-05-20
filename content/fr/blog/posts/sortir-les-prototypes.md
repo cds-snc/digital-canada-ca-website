@@ -13,6 +13,7 @@ image-alt: >-
   première version de l'application de breffage électronique.
 translationKey: getting-prototypes-out-the-door
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ebriefing_2018_e3c77beee0.jpg
+tags: [""]
 ---
 
 Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Toutes les activités comme les réunions stratégiques, la planification et la définition des exigences qui constituent les étapes typiques du développement d’un logiciel au gouvernement ne font pas le poids comparativement au véritable [test du produit par ses utilisateurs](https://medium.com/code-for-america/what-healthcare-gov-has-to-do-with-the-hawaii-false-alarm-and-what-to-do-about-it-445cb2b7af82).

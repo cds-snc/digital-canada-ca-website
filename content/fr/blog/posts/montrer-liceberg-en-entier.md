@@ -14,6 +14,7 @@ image-alt: >-
   dans un aquarium, alors qu’un petit chien observe.
 translationKey: showing-the-whole-iceberg
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_iceberg_header_9690f17788.jpg
+tags: [""]
 ---
 
 *« Je crois que les équipes comme le SNC sont des équipes de gestion du changement déguisés en équipes de services numériques. »* – Aaron Snow, dirigeant principal

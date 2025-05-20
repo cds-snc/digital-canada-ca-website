@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_positive_masculinity_intro_499c
 image-alt: Des gens aident à faire fleurir un jardin; certains retirent des plantes mortes et d’autres arrosent des plantes en croissance.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_positive_masculinity_intro_499c43c730.jpg
 translationKey: blog-positive-masculinity-intro
+tags: [""]
 ---
 Autrefois, lorsque je visitais mon pays natal du Liban, mon grand-père me disait toujours « fiston, un homme bon c’est quelqu’un qui se trouve une épouse respectable, a des enfants et fournit tout le nécessaire à sa famille ». Mon père, à son tour, m’a répété les mêmes paroles à moi et à mes frères. Mes amis proches les ont aussi entendues. Ces paroles jettent les bases d’une dynamique où les hommes ont le pouvoir et le contrôle. C’est une dynamique qui peut parfois provoquer chez les hommes un sentiment de supériorité, donnant lieu au phénomène de mâle alpha qui ressent le besoin d’exercer sa domination, tant à la maison qu’au travail. 
 

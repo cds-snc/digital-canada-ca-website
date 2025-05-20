@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/procurement_directive_maze_9e6402d02
 image-alt: Une ligne droite traversant un labyrinthe complexe et menant à un document signé.
 thumb: https://de2an9clyit2x.cloudfront.net/small_procurement_directive_maze_9e6402d02b.jpeg
 translationKey: blog-figma-procurement
+tags: [""]
 ---
 L’annexe B, paragraphe B.1.1.4 de la nouvelle [directive sur la gestion de l’approvisionnement](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32692) du secrétariat du Conseil du Trésor (SCT) indique que pour les contrats relatifs à des biens et services à faible risque et de faible valeur, Services publics et Approvisionnement Canada (SPAC), Services partagés Canada (SPC) et les équipes d’approvisionnement ministérielles peuvent désormais accepter les modalités commerciales standard. Cela comprend les abonnements, les logiciels, les applications mobiles, les services infonuagiques et les logiciels libres. Cette nouvelle directive entrée en vigueur en mai 2021 s’applique à toutes sortes d’outils que votre équipe et vous pourriez vouloir vous procurer. 
 

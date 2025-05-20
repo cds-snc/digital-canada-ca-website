@@ -17,6 +17,7 @@ image-alt: >-
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
 thumb: https://de2an9clyit2x.cloudfront.net/small_pm_banner_fix_646dadacee.jpg
+tags: [""]
 ---
 
 Si vous tombez sur quelqu’un de très organisé, curieux, adaptatif, communicatif, empathique et passionné par l’élimination d’obstacles pour faire avancer les choses, vous venez de rencontrer soit un surhumain, soit un gestionnaire de produits.

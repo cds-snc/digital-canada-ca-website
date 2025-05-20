@@ -10,6 +10,7 @@ image-alt: >-
   programmes.
 translationKey: security-hard
 thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
+tags: [""]
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.
 

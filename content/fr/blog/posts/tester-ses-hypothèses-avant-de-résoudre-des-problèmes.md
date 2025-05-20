@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_banner_testing_security_assumpt
 image-alt: Une personne réfléchit à des questions et les approfondit, avant d'essayer d’y trouver des réponses.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_testing_security_assumptions_946d799a9a.jpeg
 translationKey: blog-testing-security-assumptions
+tags: [""]
 ---
 Résoudre un problème qui n'existe pas réellement, est-ce vraiment résoudre un problème? C’est peut-être ce qui se produit lorsque notre travail repose sur des hypothèses et qu’elles ne sont pas mises à l’épreuve. 
 

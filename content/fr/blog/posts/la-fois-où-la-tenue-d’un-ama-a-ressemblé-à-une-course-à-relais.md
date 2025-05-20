@@ -16,6 +16,7 @@ image-alt: >-
   parallèles.
 translationKey: relay-race-ama
 thumb: https://de2an9clyit2x.cloudfront.net/small_ama_banner_032dcb83f7.jpg
+tags: [""]
 ---
 Imaginez que vous êtes le premier coureur d’une course à relais de 400 m. Vous vous placez en position de départ. On donne le signal, et vous vous lancez aussitôt dans un sprint en ne ménageant aucun effort. En vous approchant de la marque des 100 m, vous vous apercevez que personne n’est prêt à prendre le relais. Oh non! Vous devez maintenant continuer sur la même lancée et poursuivre ce sprint jusqu’à la fin de la course.
 

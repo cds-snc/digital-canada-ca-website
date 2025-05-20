@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_pivoting_partnerships_d296e0d
 image-alt: An interconnected web showing people across Canada working together to provide digital services. They put people at the heart of their work.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_pivoting_partnerships_d296e0dc14.jpg
 translationKey: blog-pivoting-partnerships
+tags: [""]
 ---
 Five years ago, we announced the [launch of the Canadian Digital Service](https://digital.canada.ca/2017/07/18/launch-of-the-canadian-digital-service/) (CDS), as a three year-pilot project to help modernize the way the Government of Canada designs and delivers digital services. Since then, we’ve learned and [grown a lot](https://digital.canada.ca/meet-the-team/). Last year, we secured ongoing funding through Budget 2021, so we can continue to partner with government teams and offer government-wide services like [GC Notify](https://notification.canada.ca/), with the confidence that we will be around to maintain and improve them.
 

@@ -13,6 +13,7 @@ image-alt: >-
   aquarium while a small dog watches.
 translationKey: showing-the-whole-iceberg
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_iceberg_header_9690f17788.jpg
+tags: [""]
 ---
 
 *“I believe offices like CDS are change management offices disguised as digital service offices.”* - Aaron Snow, CEO

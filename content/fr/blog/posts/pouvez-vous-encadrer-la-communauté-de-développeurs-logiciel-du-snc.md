@@ -16,6 +16,7 @@ image-alt: >-
   réunion
 translationKey: blog-head-software-dev
 thumb: https://de2an9clyit2x.cloudfront.net/blog_head_software_dev_4d582ff210.jpg
+tags: [""]
 ---
 Le gouvernement numérique et les associations de technologie civique parlent beaucoup de la façon d’habiliter le gouvernement à fournir des services révolutionnaires. Des éléments comme les pratiques agiles, la réflexion conceptuelle et l’utilisation des technologies modernes sont monnaie courante. Au Service numérique canadien (SNC), nous croyons à l’importance de « donner la priorité aux personnes ». C’est pourquoi embaucher la bonne personne est important, voire plus important que ces processus et outils.
 

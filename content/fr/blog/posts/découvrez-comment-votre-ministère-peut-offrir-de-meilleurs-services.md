@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/exporation_map_b1482d69bd.jpeg
 image-alt: Une carte pleine de symboles numériques. Au centre, il y a un ordinateur portatif avec une paire de jumelles regardant de l’écran.
 thumb: https://de2an9clyit2x.cloudfront.net/small_exporation_map_b1482d69bd.jpeg
 translationKey: blog-questions-we-explore
+tags: [""]
 ---
 Comme nous l’avons vu dans [Explorer les conditions de la prestation de services numériques](https://numerique.canada.ca/2021/04/07/explorer-les-conditions-de-la-prestation-de-services-num%C3%A9riques/), la prestation de meilleurs services numériques, c’est un peu comme le jardinage. « Plantez toutes les fleurs que vous voudrez; si les conditions ne sont pas propices à la croissance, les graines ne germeront pas et le jardin ne fleurira pas. » 
 

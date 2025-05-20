@@ -14,6 +14,7 @@ image-alt: >-
   à une cérémonie à Vancouver
 translationKey: human-story-behind-citizenship
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_human_story_citizenship1_76d5a3f84e.jpg
+tags: [""]
 ---
 
 Au gouvernement, nous offrons des services qui répondent aux besoins humains fondamentaux, c’est-à-dire l’appartenance, la sécurité et les relations humaines. Devenir citoyen d’un nouveau pays est l’une des expériences de vie les plus émouvantes qu’une personne vivra et marque la fin d’un long cheminement.

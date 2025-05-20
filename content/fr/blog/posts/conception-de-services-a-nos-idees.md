@@ -14,6 +14,7 @@ image-alt: >-
   tourbillonnent au-dessus de leurs têtes.
 translationKey: service-design-thats-our-jam
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_jam_header_123dc590b3.jpg
+tags: [""]
 ---
 
 Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier [atelier de conception](https://www.youtube.com/watch?v=S_XeFWoR9uU), qui a réuni 30 participants de l’Agence du revenu du Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de mentors en conception, les participants ont échangé des idées sur des enjeux actuels quant aux services du gouvernement du Canada.

@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_pause_rcmp_57c7e7d485.jpeg
 image-alt: Four wood blocks displaying a pause symbol.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_pause_rcmp_57c7e7d485.jpeg
 translationKey: blog-rcmp-most-significant-change
+tags: [""]
 ---
 “Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.” - Ferris Bueller
 

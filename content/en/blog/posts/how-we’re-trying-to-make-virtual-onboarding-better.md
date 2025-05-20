@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/brady_bunch_fef4e4a9a9.jpeg
 image-alt: A video call grid with team members in different locations. They’re waving and interacting with each other.
 thumb: https://de2an9clyit2x.cloudfront.net/small_brady_bunch_fef4e4a9a9.jpeg
 translationKey: blog-virtual-onboarding
+tags: [""]
 ---
 When the pandemic started, life – and work life – changed overnight. For one thing, my commute to work got much shorter. (It’s approximately 8 seconds now.) There’s no more sitting in traffic or running to catch a train. And I definitely don’t miss ‘sardine-ing’ into the office elevators in the morning. Instead, I now make a quick stop at “Café Sana” and join the Talent team’s standup, fully rested and un-squished. 
 

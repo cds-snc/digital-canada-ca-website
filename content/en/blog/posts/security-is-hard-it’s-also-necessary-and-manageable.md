@@ -8,6 +8,7 @@ image: https://de2an9clyit2x.cloudfront.net/airplane_460f30dd8a.jpg
 image-alt: An airplane taking off on a runway at dusk.
 translationKey: security-hard
 thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
+tags: [""]
 ---
 Digital security is hard. Even the best engineering and IT teams are prone to make mistakes at some point. But like airport security, steps and processes along the way keep you safe and secure.
 

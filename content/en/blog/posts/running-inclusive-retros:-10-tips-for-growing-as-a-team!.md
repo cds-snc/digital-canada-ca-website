@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/en_banner_blog_retro_facilitation_ti
 image-alt: A retro activity board outline with plants growing out of it. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_en_banner_blog_retro_facilitation_tips_1cf0d3e501.jpg
 translationKey: blog-retro-facilitation-tips
+tags: [""]
 ---
 Do you ever run retros with your team? 
 

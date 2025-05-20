@@ -15,6 +15,7 @@ image: https://de2an9clyit2x.cloudfront.net/improving_covid_alert_banner_6e181f5
 image-alt: Three people working to improve the COVID Alert application.
 translationKey: covid-alert-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6e181f5c51.jpg
+tags: [""]
 ---
 <section class="page--outer-container-padding">
    <div class="row">

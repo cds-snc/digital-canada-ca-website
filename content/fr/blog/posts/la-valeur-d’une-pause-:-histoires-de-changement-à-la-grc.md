@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_pause_rcmp_57c7e7d485.jpeg
 image-alt: Quatre blocs de bois affichant un symbole de pause.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_pause_rcmp_57c7e7d485.jpeg
 translationKey: blog-rcmp-most-significant-change
+tags: [""]
 ---
 « La vie va assez vite. Si vous ne vous arrêtez pas de temps en temps pour l’apprécier, vous pourriez tout rater. » - Ferris Bueller
 

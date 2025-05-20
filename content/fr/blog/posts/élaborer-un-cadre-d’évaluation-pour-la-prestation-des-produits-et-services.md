@@ -15,6 +15,7 @@ image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur 
 translationKey: evaluation-framework
 thumb: https://de2an9clyit2x.cloudfront.net/small_four_frames_f2c06871f1.jpg
 
+tags: [""]
 ---
  Si vous êtes une personne qui suivez les activités du SNC ou qui travaillez avec ce dernier, vous êtes probablement intéressée par la façon dont nous évaluons le succès de nos produits et partenariats.
 

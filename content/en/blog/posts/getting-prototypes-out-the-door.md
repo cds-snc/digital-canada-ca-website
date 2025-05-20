@@ -13,6 +13,7 @@ image-alt: >-
   e-briefing app.
 translationKey: getting-prototypes-out-the-door
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ebriefing_2018_e3c77beee0.jpg
+tags: [""]
 ---
 
 Getting hands-on feedback from users is the best way to improve a digital product. All of the strategy meetings, planning, and requirements-gathering that are typical steps in developing software in government can’t compare to the experience of

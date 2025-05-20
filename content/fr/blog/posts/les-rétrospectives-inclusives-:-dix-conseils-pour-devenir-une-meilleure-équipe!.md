@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/fr_banner_blog_retro_facilitation_ti
 image-alt: Un tableau d’activités de rétrospective avec des plantes qui poussent à la surface. Texte : Conseils de rétrospective pour améliorer l’équipe .
 thumb: https://de2an9clyit2x.cloudfront.net/small_fr_banner_blog_retro_facilitation_tips_f2c659f9df.jpg
 translationKey: blog-retro-facilitation-tips
+tags: [""]
 ---
 Faites-vous des rétrospectives avec votre équipe? 
 

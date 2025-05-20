@@ -14,6 +14,7 @@ image: https://de2an9clyit2x.cloudfront.net/metrics_covid_alert_blog_banner_d83e
 image-alt: Phones with multiple groupings of tally marks above them.
 translationKey: blog-metrics-app
 thumb: https://de2an9clyit2x.cloudfront.net/small_metrics_covid_alert_blog_banner_d83e1f15da.jpg
+tags: [""]
 ---
 Change is the only constant, especially when it comes to a pandemic. Like most are experiencing, I’ve had to get used to a bit of a different lifestyle – going from listening to obscure bands in eclectic spots across the GTA, to settling down with a Margaret Atwood novel. My Saturdays look very different.
 

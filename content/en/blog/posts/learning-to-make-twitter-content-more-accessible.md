@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/accessibility_tweets_blog_banner_650
 image-alt: A person using screen reading technology with their phone.
 thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_tweets_blog_banner_650f003408.jpg
 translationKey: blog-accessible-tweets
+tags: [""]
 ---
 No one likes to be excluded or have their needs and feelings not considered. At least, I know I sure don’t.
 

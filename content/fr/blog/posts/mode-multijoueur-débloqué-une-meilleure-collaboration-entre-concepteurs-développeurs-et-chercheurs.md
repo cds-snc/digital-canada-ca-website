@@ -17,6 +17,7 @@ image-alt: >-
   à l’effigie du SNC.
 translationKey: multiplayer-figma
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_multiplayer_figma_4b3304945a.jpg
+tags: [""]
 ---
 Bon nombre de jeux sont plus amusants à jouer en mode multijoueur qu’en solo. Vous verriez-vous jouer au basketball tout seul? Plutôt ennuyeux, n’est-ce pas?
 

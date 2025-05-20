@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/A_EN_Blog_Post_image_jpg_bdb43ff50e.
 image-alt: Photograph of Eric Chouinard, RSA Project Manager at Health Canada. They’re being featured in CDS’s "people behind the service" series.
 thumb: https://de2an9clyit2x.cloudfront.net/small_A_EN_Blog_Post_image_jpg_bdb43ff50e.jpg
 translationKey: blog-pbs-series-eric
+tags: [""]
 ---
 Did you hear about the [recent berries recall](https://recalls-rappels.canada.ca/en/alert-recall/below-zero-brand-whole-raspberries-iqf-recalled-due-norovirus)  or the [Kinder one in April](https://recalls-rappels.canada.ca/en/alert-recall/certain-kinder-brand-chocolate-products-recalled-due-possible-salmonella-0)?
 

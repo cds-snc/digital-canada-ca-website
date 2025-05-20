@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_100_weeks_get_updates_en_9568
 image-alt: A person researching GC Notify on their laptop and chatting on the phone with their manager about the tool.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_100_weeks_get_updates_en_9568124f34.jpg
 translationKey: blog-100-weeks-get-updates
+tags: [""]
 ---
 March 7th, 2022 marked 100 weeks of providing people in Canada with reliable, needs-based information through the [Get updates on COVID-19](https://www.canada.ca/covid19updates) service. We’ve crossed many significant milestones along the way: 8.5 million emails sent, 364 000 Canada.ca visits from our emails, and over 100 000 online service subscriptions.
 

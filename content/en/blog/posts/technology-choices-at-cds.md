@@ -16,6 +16,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_technology_choices_at_cds_2017_
 image-alt: A computer screen showing results from a test suite
 translationKey: technology-choices-at-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_technology_choices_at_cds_2017_7fc41ef768.jpg
+tags: [""]
 ---
 A few weeks ago, we opened our [public recruitment campaign](/careers/), looking for designers, developers, data scientists, product managers, and engagement experts. On the developer stream, a number of people have reached out to ask which technology platforms and programming languages we work in. It’s a great question! One of the exciting parts of joining CDS at such an early stage in our existence is that you’ll have a chance to shape how our technology choices evolve. With that in mind – none of these are set in stone – I thought I’d share the current thinking of our developer team, and the two (competing) goals that influence the technologies we choose.
 

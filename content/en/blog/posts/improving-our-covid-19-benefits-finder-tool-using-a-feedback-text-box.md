@@ -10,6 +10,7 @@ image-alt: >-
   usability from 8 different people.
 translationKey: blog-ffhc19-feedback
 thumb: https://de2an9clyit2x.cloudfront.net/small_adrianne_blog_en_8f917cc7df.jpg
+tags: [""]
 ---
 On May 7th, we soft launched the *[Find financial help during COVID-19](http://canada.ca/coronavirus-benefits)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day.
 

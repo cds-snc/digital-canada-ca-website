@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/en_banner_consent_generator_ecbab1db
 image-alt: A Government of Canada website called “Make a form for intercept recruitment and testing,” displayed on a laptop screen and mobile phone.
 thumb: https://de2an9clyit2x.cloudfront.net/small_en_banner_consent_generator_ecbab1db1c.jpeg
 translationKey: blog-consent-generator
+tags: [""]
 ---
 Providing good services isn't just about technology. It's about meeting the raised expectations of a public that knows exactly where their rideshare is and pays for a coffee with a tap of their phone. It’s about understanding how people navigate the world. To do that, we have to research with people a little and often. 
 

@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/groupvac_cds_593fa30b36.jpg
 image-alt: Les membres de l’équipe sont rassemblés et sourient pour une photo.
 translationKey: VAC-CDS-visit
 thumb: https://de2an9clyit2x.cloudfront.net/small_groupvac_cds_593fa30b36.jpg
+tags: [""]
 ---
 En tant qu’analyste d’entreprise consultante à Anciens Combattants Canada (ACC) à Charlottetown, en partenariat avec le Service numérique canadien (SNC), il est difficile de participer à un projet en cours alors que les équipes sont situées dans différentes villes. Malgré nos mêlées quotidiennes à distance, nous ne faisons pas connaissance avec tout le monde, et il est difficile d’associer une voix à un nom sans s’être jamais rencontrés.
 

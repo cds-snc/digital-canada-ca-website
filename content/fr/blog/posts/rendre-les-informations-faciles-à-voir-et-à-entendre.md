@@ -17,6 +17,7 @@ image-alt: >-
   importante de son ordinateur.
 translationKey: blog-screenreader-stuff
 thumb: https://de2an9clyit2x.cloudfront.net/small_screenreader_blog_banner_5e9a928d1d.jpg
+tags: [""]
 ---
 ## Alerte COVID et codes de sauvegarde
 

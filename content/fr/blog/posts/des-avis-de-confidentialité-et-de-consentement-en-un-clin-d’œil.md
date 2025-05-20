@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/fr_banner_consent_generator_94dddc2f
 image-alt: Un site Web du gouvernement du Canada intitulé « Créer un formulaire pour le recrutement et les tests par interception », affiché sur un écran d’ordinateur portable et un téléphone mobile.
 thumb: https://de2an9clyit2x.cloudfront.net/small_fr_banner_consent_generator_94dddc2fa6.jpeg
 translationKey: blog-consent-generator
+tags: [""]
 ---
 Fournir de bons services n’est pas seulement une question de technologie. Il faut savoir répondre aux attentes élevées d’un public qui peut suivre à la seconde près la livraison d’une pizza ou payer un café en appuyant sur un bouton dans une appli. Il s’agit de comprendre comment les gens naviguent dans le monde. Pour ce faire, il faut mener de courtes recherches fréquentes auprès des utilisateurs visés. 
 

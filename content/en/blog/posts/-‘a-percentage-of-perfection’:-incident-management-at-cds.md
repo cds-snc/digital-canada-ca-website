@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_a_percentage_of_perfection_in
 image-alt: A laptop with an alarming red screen, surrounded by hazard signs, sand timer, settings icon, and life buoy.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_a_percentage_of_perfection_incident_management_at_cds_f2f8ea5925.jpeg
 translationKey: security-incident-management-cds
+tags: [""]
 ---
 > *“Accepting that imperfect things still work is fundamental to preventing failures from becoming catastrophes.’’*
 

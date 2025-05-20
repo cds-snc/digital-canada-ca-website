@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_banner_testing_security_assumpt
 image-alt: A person brainstorming questions and then investigating those questions deeper, before trying to fix and find answers for them.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_testing_security_assumptions_946d799a9a.jpeg
 translationKey: blog-testing-security-assumptions
+tags: [""]
 ---
 Is solving a problem that doesn’t actually exist, really solving a problem? When we work off of assumptions – and don’t test them – we may be doing just that. 
 

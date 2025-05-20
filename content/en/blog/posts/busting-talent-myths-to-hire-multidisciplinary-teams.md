@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_ochro_blog_8f66eccf8f.jpeg
 image-alt: A quilt woven together with different patches, designs and team members.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_ochro_blog_8f66eccf8f.jpeg
 translationKey: blog-busting-talent-myths
+tags: [""]
 ---
 *Note: A previous version of this blog was posted in error.*
 

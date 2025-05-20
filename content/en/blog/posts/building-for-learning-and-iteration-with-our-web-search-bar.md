@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/EN_Search_bar_iteration_cb9d810c68.j
 image-alt: Graphic illustration of a team iterating on and improving a website search bar together. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_EN_Search_bar_iteration_cb9d810c68.jpg
 translationKey: blog-website-searchbar-feedback
+tags: [""]
 ---
 If helpful information exists on a website but no one is able to find it, does that information really exist? 
 

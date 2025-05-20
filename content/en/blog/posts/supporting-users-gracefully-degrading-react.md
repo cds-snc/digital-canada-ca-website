@@ -15,6 +15,7 @@ image-alt: >-
   a flip phone, a laptop and a computer tower.
 translationKey: supporting-users-gracefully-degrading-react
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
+tags: [""]
 ---
 
 Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “Reschedule a citizenship test” service in a way that pushes service delivery forward without leaving users behind.

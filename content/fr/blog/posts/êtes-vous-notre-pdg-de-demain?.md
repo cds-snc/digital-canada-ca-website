@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_next_ceo_banner_fr_d6defdafec.j
 image-alt: Un téléphone intelligent posé à côté d’un livre indiquant « Le  chapitre suivant » pour le Service numérique canadien.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_next_ceo_banner_fr_d6defdafec.jpg
 translationKey: blog-ceo-job-search
+tags: [""]
 ---
 Au Service numérique canadien, notre mission est de changer le gouvernement pour mieux servir les gens. Ce n’est pas une mince affaire, mais nous savons que d’autres partagent notre obsession de simplifier les services gouvernementaux. Nous sommes à la recherche de notre PDG de demain, qui nous aidera à évoluer en matière de croissance comme d’impact. Nous cherchons quelqu’un qui saura [soutenir les fonctionnaires](https://digital.canada.ca/roadmap-2025/) et permettre à l’ensemble du gouvernement de développer des logiciels et de fournir des services de façon moderne. Si vous vous reconnaissez dans cette description, nous adorerions recevoir votre candidature.
 

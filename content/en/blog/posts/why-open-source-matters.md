@@ -13,6 +13,7 @@ image-alt: >-
   different blocks.
 translationKey: why-open-source-matters
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_open_source_b720f5ece8.jpg
+tags: [""]
 ---
 A few weeks ago, we posted [a Twitter thread](https://twitter.com/CDS_GC/status/1227971000471560197) on what open source is and how it makes online services better. We get a lot of questions about open source software from across the government. Using open source code – and publishing the software code we write – are some of the Canadian Digital Service’s (CDS) most important principles. If you’re curious why, read on!
 

@@ -13,6 +13,7 @@ image: https://de2an9clyit2x.cloudfront.net/screen_shot_2018_11_01_at_3_42_39_pm
 image-alt: Une collection d'outils de travail
 translationKey: digital-training-needs
 thumb: https://de2an9clyit2x.cloudfront.net/small_screen_shot_2018_11_01_at_3_42_39_pm_a3ff96d004.jpg
+tags: [""]
 ---
 **Mise à jour :** *Renforcement de la capacité numérique : le rapport sur l’analyse des besoins en formation est maintenant disponible sur le site Web de l’Université Dalhousie! [Lisez ici ce que nous avons découvert](/2019/08/30/%C3%A9valuer-les-besoins-en-formation-du-gouvernement-pour-lavenir-de-la-prestation-de-services-num%C3%A9riques/). Merci à tous les fonctionnaires qui ont participé au sondage. Vos réponses contribueront à orienter l’apprentissage sur les disciplines numériques émergentes.*
 

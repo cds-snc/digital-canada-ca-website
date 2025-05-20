@@ -16,6 +16,7 @@ image-alt: >-
   bois.
 translationKey: innovating-esdc
 thumb: https://de2an9clyit2x.cloudfront.net/small_esdc_innovation_fr_c84ca9e64a.jpg
+tags: [""]
 ---
 À Emploi et Développement social Canada, nous avons vraiment commencé à embrasser l’idée d’être novateurs dans la façon dont nous fournissons des services et des informations à nos clients. Ce qui parfois nous semble plus difficile, c’est de nous ouvrir à de nouvelles façons de faire notre travail quotidien *à l’interne*.
 

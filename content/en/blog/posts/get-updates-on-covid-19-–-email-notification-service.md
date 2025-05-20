@@ -13,6 +13,7 @@ image-alt: >-
   their phone.
 translationKey: blog-get-covid-updates
 thumb: https://de2an9clyit2x.cloudfront.net/small_financial_help_covid_19_en_135802d892.jpg
+tags: [""]
 ---
 **"Digital is about applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations." – Tom Loosemore**
 

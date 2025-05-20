@@ -15,6 +15,7 @@ image-alt: >-
   tirées au-dessus de leur tête.
 translationKey: brainstorming-ideation-week
 thumb: https://de2an9clyit2x.cloudfront.net/small_ideas_7f6ab400e5.jpg
+tags: [""]
 ---
 Imaginez-vous au travail, debout devant votre équipe, en train de dire la pire idée que vous ayez jamais eue. Cela vous rend-il mal à l’aise? Nous avons été conditionnés à ne présenter que nos meilleures idées. Mais dire les pires idées possible est exactement ce que j’ai demandé à mon équipe au cours de notre dernière Semaine d’idéation. Permettez-moi d’expliquer pourquoi cet exercice « farfelu » était en fait une très bonne idée.
 

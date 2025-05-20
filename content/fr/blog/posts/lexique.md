@@ -13,6 +13,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_lexicon_8af48d9cd5.jpg
 image-alt: Une illustration d’un combo laveuse-sécheuse.
 translationKey: lexicon
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_lexicon_8af48d9cd5.jpg
+tags: [""]
 ---
 
 ## Pourquoi un lexique?

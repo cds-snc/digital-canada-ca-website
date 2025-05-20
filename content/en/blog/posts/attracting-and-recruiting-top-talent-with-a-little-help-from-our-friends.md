@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/beetletoy_a7a60363e2.jpg
 image-alt: A yellow Volkswagen beetle toy on wooden shelf filled with books.
 translationKey: help-from-friends-HR
 thumb: https://de2an9clyit2x.cloudfront.net/small_beetletoy_a7a60363e2.jpg
+tags: [""]
 ---
 *[We get by with a little help from our friends](https://digital.canada.ca/2019/01/31/we-get-by-with-a-little-help-from-our-friends/) is a blog series profiling the amazing public servants who enable us and our partners to design and deliver better services.*
 

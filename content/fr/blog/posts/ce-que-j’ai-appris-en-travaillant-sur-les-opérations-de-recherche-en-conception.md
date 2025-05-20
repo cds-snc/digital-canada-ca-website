@@ -17,6 +17,7 @@ image-alt: >-
   l’impact qu’ils ont eu sur la personne qu’elle est aujourd’hui.
 translationKey: blog-design-research-ops
 thumb: https://de2an9clyit2x.cloudfront.net/small_anne_marie_blog_banner_b51d016be3.jpg
+tags: [""]
 ---
 Il arrive souvent que les responsabilités d’un poste dépassent la description de poste. Nos valeurs et notre personnalité, les relations que nous construisons et notre approche au travail ont toutes une influence sur l’impact que nous avons et sur la direction qu’un rôle peut prendre.
 

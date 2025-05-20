@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_aaron_snow_eae49285b0.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_aaron_snow_eae49285b0.jpg
+tags: [""]
 ---
 
 In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched the search for CDS's first CEO.](https://digital.canada.ca/2017/09/12/wanted-ceo-cds/) The global search attracted candidates from all over the world.

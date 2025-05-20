@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_newsletter_testing_a152e66ccb.j
 image-alt: 'Doodles in a notebook about planning, iterating, and testing ideas.'
 translationKey: french-newsletter-surveys
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
+tags: [""]
 ---
 
 <div class="blog-diary">

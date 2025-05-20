@@ -16,6 +16,7 @@ image-alt: >-
   and territories.
 translationKey: healthcare-portal-service-design
 thumb: https://de2an9clyit2x.cloudfront.net/small_app_portal_blog_banner_dddd52ec15.jpg
+tags: [""]
 ---
 [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), the free Government of Canada exposure notification app for COVID-19, has been downloaded by over 2 million people. While the app itself is the public-facing touchpoint, there are things going on behind the scenes that enable it to do what it’s designed to do.
 

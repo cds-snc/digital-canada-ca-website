@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475
 image-alt: Une bannière de ruban bleu avec les mots « a mari usque ad mare » en jaune.
 translationKey: striving-for-diversity
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_striving_for_diversity_7cb58475fa.jpg
+tags: [""]
 ---
 
 L’un des principaux avantages de travailler pour le Service numérique canadien (SNC) est que nous avons la possibilité de servir les Canadiens tous les jours. Les fonctionnaires s’efforcent d’avoir des répercussions positives sur les gens partout au Canada. En fait, la devise du Canada est *a mari usque ad mare*, qui signifie *d’un océan à l’autre*, et c’est la vérité. Cela dit, l’expression d’un océan à l’autre englobe beaucoup de gens. Les Autochtones, les immigrants, les réfugiés et les familles qui sont ici depuis des générations, des personnes de toutes les cultures, races, religions, identités et origines. Comment pouvons-nous servir tous ces groupes sur des principes d’égalité et d’équité? Pour commencer, nous pouvons bâtir des équipes aussi diversifiées que les gens que nous servons.

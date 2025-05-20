@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_user_experience_7e314a7e97.jpg
 image-alt: Trois membres de l'équipe du SNC présentent un atelier avec du personnel de IRCC à Vancouver. Deux d'entre eux figurent dans l'image. Ils travaillent ensemble pour écrire des idées sur des notes auto-collantes et ils les placent dans un des quatre quadrants sur le mur.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_user_experience_7e314a7e97.jpg
 translationKey: lets-talk-user-experience
+tags: [""]
 ---
 ![ux-drawing.jpg](https://de2an9clyit2x.cloudfront.net/ux_drawing_3c85289fc0.jpg)
 

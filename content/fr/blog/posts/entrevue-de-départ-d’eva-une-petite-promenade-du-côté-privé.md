@@ -14,6 +14,7 @@ image-alt: >-
   peluche orange portant un chapeau de requin.
 translationKey: take-a-walk-on-the-private-side
 thumb: https://de2an9clyit2x.cloudfront.net/small_eva_blog_6027e5f0f8.jpg
+tags: [""]
 ---
 L’une de nos développeuses bien-aimées, Eva Demers-Brett, membre de l’équipe du gouvernement ouvert (GO), nous quitte ce mois-ci pour entreprendre une aventure passionnante dans le secteur privé 😢. Ce sera la première fois de sa carrière de développeuse qu’elle travaillera à l’extérieur de la fonction publique; c’est pourquoi nous voulions connaître ses réflexions et les leçons qu’elle gardera en tête tandis qu’elle découvre le secteur privé.
 

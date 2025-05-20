@@ -12,6 +12,7 @@ image: https://de2an9clyit2x.cloudfront.net/the_security_in_digital_is_silent_57
 image-alt: Un cadenas ouvert
 translationKey: the-security-in-digital-is-silent
 thumb: https://de2an9clyit2x.cloudfront.net/small_the_security_in_digital_is_silent_5747f1b463.png
+tags: [""]
 ---
 
 J’en arrive à la conclusion qu’écrire sur la sécurité est en fait plus difficile que de la faire appliquer. Cela est probablement attribuable au fait que j’ai évité de parler de mes activités au travail ou d’écrire à ce sujet pendant la majeure partie des dix dernières années. Permettez-moi de vous en dire plus, ça pourrait devenir intéressant.

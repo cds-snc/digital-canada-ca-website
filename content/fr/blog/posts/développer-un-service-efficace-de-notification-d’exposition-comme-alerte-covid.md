@@ -19,6 +19,7 @@ image-alt: >-
   équilibre.
 translationKey: covid-alert-utility-scale
 thumb: https://de2an9clyit2x.cloudfront.net/small_covid_alert_vision_banner_5a8a8a87f1.jpg
+tags: [""]
 ---
 *Le 31 juillet 2020, nous avons lancé Alerte COVID, le service canadien de notification d’exposition à la COVID-19. L’application mobile a été développée ouvertement. Pour poursuivre dans la même veine, nous publierons une série de billets de blogue qui expliquent les choix que nous faisons à mesure que nous continuons de mettre à jour, de tester et d’itérer ce service.*
 

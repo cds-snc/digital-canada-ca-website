@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/the_security_in_digital_is_silent_57
 image-alt: An open lock
 translationKey: the-security-in-digital-is-silent
 thumb: https://de2an9clyit2x.cloudfront.net/small_the_security_in_digital_is_silent_5747f1b463.png
+tags: [""]
 ---
 
 I’ve come to the conclusion that writing about security is harder than actually doing it. This is likely due to having avoided talking or writing about what I’ve done at work for the better part of the last decade. Bear with me, this may be interesting.

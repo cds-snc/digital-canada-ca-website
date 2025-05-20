@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_positive_masculinity_intro_499c
 image-alt: People helping a garden flourish; some are removing dead plants, some are watering growing plants.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_positive_masculinity_intro_499c43c730.jpg
 translationKey: blog-positive-masculinity-intro
+tags: [""]
 ---
 When I was visiting my home country, Lebanon, my grandfather used to say, "Son, a good man is someone who finds a respectable wife, has children, and is the main provider for the family." My father would repeat those words to me and my brothers. My close friends have all heard it too. These words set an expectation for men to be powerful and in control. It could (and sometimes does) make men feel superior, giving way to an alpha male who asserts dominance – both at home and at work. 
 

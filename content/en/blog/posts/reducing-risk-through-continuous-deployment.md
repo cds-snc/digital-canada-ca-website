@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_continuous_deployment_69684377e
 image-alt: A man works at his desk working on code.
 translationKey: reducing-risk-through-continuous-deployment
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_continuous_deployment_69684377ec.jpg
+tags: [""]
 ---
 
 Most of the departments we work with are deploying new versions of their code quarterly, semi-annually, or annually. This fits well with the standard [waterfall software development](https://en.wikipedia.org/wiki/Waterfall_model) process, but it comes with some serious risks.
