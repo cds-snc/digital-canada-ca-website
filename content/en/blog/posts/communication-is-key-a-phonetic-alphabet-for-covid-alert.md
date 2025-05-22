@@ -13,6 +13,7 @@ image-alt: >-
   over the phone.
 translationKey: phonetic-alphabet-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
+tags: [""]
 ---
 Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app.
 

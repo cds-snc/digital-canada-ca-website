@@ -12,6 +12,7 @@ image-alt: >-
   utiliser son ordinateur.
 translationKey: not-perfect
 thumb: https://de2an9clyit2x.cloudfront.net/small_mg_9837_2_7bc5f33d0f.jpg
+tags: [""]
 ---
 L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder.
 

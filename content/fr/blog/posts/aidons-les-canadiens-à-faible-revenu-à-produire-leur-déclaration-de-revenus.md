@@ -16,6 +16,7 @@ image-alt: >-
   main.
 translationKey: Canadians-complete-taxes
 thumb: https://de2an9clyit2x.cloudfront.net/small_img_0880_26a9215f41.jpg
+tags: [""]
 ---
 Tous les jours, les Canadiens utilisent les services gouvernementaux. En tant que fonctionnaires, nous assurons la conception et la prestation de ces services. Bon nombre de ces services sont cruciaux pour les gens qui en ont besoin. Cela veut dire que lorsque les gens ont besoin de services gouvernementaux, ils sont souvent confrontés à de sérieuses difficultés.
 

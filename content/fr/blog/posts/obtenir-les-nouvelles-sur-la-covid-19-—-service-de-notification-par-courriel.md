@@ -13,6 +13,7 @@ image-alt: >-
   «Obtenir les nouvelles sur la COVID-19» sur son téléphone.
 translationKey: blog-get-covid-updates
 thumb: https://de2an9clyit2x.cloudfront.net/small_financial_help_covid_19_fr_d69ae8d21c.jpg
+tags: [""]
 ---
 **« Le numérique consiste à appliquer la culture, les processus, les modèles d’affaires et les technologies de l’ère de l’Internet pour répondre aux attentes élevées des personnes. » – Tom Loosemore**
 

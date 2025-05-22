@@ -13,6 +13,7 @@ image-alt: >-
   and in different locations.
 translationKey: distributed-pm
 thumb: https://de2an9clyit2x.cloudfront.net/small_distributed_pm_blog_c8f11db928.jpg
+tags: [""]
 ---
 It was a cold January day when I first started at The Canadian Digital Service (CDS). I went to the Ottawa office for a two-week onboarding session, after which I’d go back home to a *slightly warmer* Kitchener-Waterloo, to work full-time.
 

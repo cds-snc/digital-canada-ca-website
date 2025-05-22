@@ -12,6 +12,7 @@ image: https://de2an9clyit2x.cloudfront.net/wanted_ceo_cds_2017_992dcbf98e.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
 translationKey: wanted-ceo-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_wanted_ceo_cds_2017_992dcbf98e.jpg
+tags: [""]
 ---
 The services our government provides play an important role in the lives of millions of people.
 

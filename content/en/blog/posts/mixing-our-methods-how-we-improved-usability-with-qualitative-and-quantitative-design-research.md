@@ -17,6 +17,7 @@ image: https://de2an9clyit2x.cloudfront.net/mixed_methods_rcmp_9491d5f5b1.jpg
 image-alt: Two people consulting charts and graphs to help them make informed decisions.
 translationKey: rcmp-mixed-method
 thumb: https://de2an9clyit2x.cloudfront.net/small_mixed_methods_rcmp_9491d5f5b1.jpg
+tags: [""]
 ---
 
 There’s risk involved with doing something new in every industry. So when we come to the table with new methods to deliver digital services in government, we understand why our partners in the public service are cautious or even hesitant to jump on board right away.

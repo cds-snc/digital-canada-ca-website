@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_next_ceo_banner_en_7617774f94.j
 image-alt: A smartphone beside a book that reads “The next chapter” for the Canadian Digital Service.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_next_ceo_banner_en_7617774f94.jpg
 translationKey: blog-ceo-job-search
+tags: [""]
 ---
 At the Canadian Digital Service our mission is to change government to serve people better.  It’s no short order, but we know there are people out there who are as obsessed as we are about making government services easy for people to use. We’re looking for a new CEO to help us scale our growth and impact. We’re looking for someone to put the wind at [public servants’ backs](https://digital.canada.ca/roadmap-2025/) and make it easier for everyone in government to practice modern software development and service delivery. If that’s you, we’d love for you to apply.
 

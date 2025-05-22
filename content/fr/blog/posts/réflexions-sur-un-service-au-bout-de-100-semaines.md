@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_100_weeks_get_updates_fr_698b
 image-alt: A person researching GC Notify on their laptop and chatting on the phone with their manager about the tool.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_100_weeks_get_updates_fr_698bacce89.jpg
 translationKey: blog-100-weeks-get-updates
+tags: [""]
 ---
 Le 7 mars 2022, nous avons franchi le cap des 100 semaines de vie du service [Obtenir les nouvelles sur la COVID-19](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html), un service qui fournit aux Canadiennes et Canadiens des informations fiables et adaptées à leurs besoins. Nous avons franchi de nombreuses étapes importantes en cours de route : 8,5 millions de courriels envoyés, 364 000 visites du site Canada.ca à partir de nos courriels et plus de 100 000 abonnements au service en ligne.
 

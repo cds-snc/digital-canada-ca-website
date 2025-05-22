@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/exporation_map_b1482d69bd.jpeg
 image-alt: Map full of digital symbols. In the centre, there is a laptop with a pair of binoculars looking out from the screen.
 thumb: https://de2an9clyit2x.cloudfront.net/small_exporation_map_b1482d69bd.jpeg
 translationKey: blog-questions-we-explore
+tags: [""]
 ---
 As we talked about in [Exploring the conditions for digital service delivery](https://digital.canada.ca/2021/04/07/exploring-the-conditions-for-digital-service-delivery/), we've learned that delivering better digital services is a lot like gardening. You can plant as many flowers as you want, but if the conditions aren’t suitable for growth, the seeds won’t sprout and your garden won’t thrive. 
 

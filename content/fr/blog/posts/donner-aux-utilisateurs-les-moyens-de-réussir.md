@@ -16,6 +16,7 @@ description: >-
 image-translation: null
 translationKey: setting-users-up-for-success-with-content-design
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_setting_up_users_for_success_0ab67b7ff1.jpg
+tags: [""]
 ---
 
 Vous avez peut-être déjà lu que le SNC travaille avec [Immigration, Réfugiés et Citoyenneté Canada (IRCC)](https://numerique.canada.ca/2017/10/24/circonscrire-un-probleme-de-conception/) pour rendre le processus de [report d’un rendez-vous d’examen de citoyenneté](https://numerique.canada.ca/2018/04/13/reporter-un-rendez-vous-dexamen/) aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie du personnel administratif.

@@ -16,6 +16,7 @@ image-alt: >-
   santé dans diverses provinces et territoires.
 translationKey: healthcare-portal-service-design
 thumb: https://de2an9clyit2x.cloudfront.net/small_app_portal_blog_banner_dddd52ec15.jpg
+tags: [""]
 ---
 [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), l’application gratuite de notification d’exposition à la COVID-19 du gouvernement du Canada, a été téléchargée par plus de 2 millions de personnes. Bien que l’application elle-même soit le point de contact avec le public, il se passe des choses en coulisses sans quoi elle ne fonctionnerait pas.
 

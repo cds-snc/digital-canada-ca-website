@@ -15,6 +15,7 @@ image-alt: >-
   vêtements de différentes couleurs et se promenant.
 translationKey: blog-illustrating-covid-alert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
+tags: [""]
 ---
 Une application mobile sanitaire, qui se concentre sur un moment particulièrement difficile de notre vie, n’est pas toujours ce qu’il y a de plus agréable à construire — ou à utiliser.
 

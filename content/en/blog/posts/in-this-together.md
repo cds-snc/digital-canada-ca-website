@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960
 image-alt: The Ontario Digital Service team
 translationKey: in-this-together
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
+tags: [""]
 ---
 A few weeks ago, I had the chance to participate in the [Connected150 conference](http://www.connected150.ca) and spend some time with our colleagues in the Canadian Digital Service (CDS).
 

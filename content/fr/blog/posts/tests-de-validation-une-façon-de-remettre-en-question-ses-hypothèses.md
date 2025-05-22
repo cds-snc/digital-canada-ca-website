@@ -15,6 +15,7 @@ image-alt: >-
   côte à côte dans des pots blancs et devant un fond blanc.
 translationKey: validation-testing-cra
 thumb: https://de2an9clyit2x.cloudfront.net/small_colourful_cactuses_34eab63a4d.jpg
+tags: [""]
 ---
 Placer les gens au centre de notre travail, c’est aussi avoir confiance qu’ils sont les experts de leur contexte et de leurs besoins.
 

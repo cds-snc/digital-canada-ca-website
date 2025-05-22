@@ -14,6 +14,7 @@ image-alt: >-
   une maison au moyen de différents blocs.
 translationKey: why-open-source-matters
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_open_source_b720f5ece8.jpg
+tags: [""]
 ---
 Il y a quelques semaines, nous avons publié un [fil Twitter](https://twitter.com/SNC_GC/status/1227970738017251335) sur ce qu’est le code source libre et sur la façon dont il améliore les services en ligne. Nous avons reçu beaucoup de questions à ce sujet de partout au gouvernement. Utiliser du code source libre — et publier le code logiciel que nous écrivons — constitue l’un des principes les plus importants au Service numérique canadien. Si vous êtes curieux de savoir pourquoi, poursuivez votre lecture!
 

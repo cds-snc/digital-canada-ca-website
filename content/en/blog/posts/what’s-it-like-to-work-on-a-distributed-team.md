@@ -12,6 +12,7 @@ image-alt: >-
   Hangout
 translationKey: VAC-distributed-interview
 thumb: https://de2an9clyit2x.cloudfront.net/small_google_hangout2_a9a1bb9b37.jpg
+tags: [""]
 ---
 Meet Phil and Emily, distributed team members from Veterans Affairs Canada (VAC) who have been working on the Benefits Finder partnership with us.
 

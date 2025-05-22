@@ -14,6 +14,7 @@ image-alt: >-
   speaker.
 translationKey: cds-student-trust
 thumb: https://de2an9clyit2x.cloudfront.net/small_jose_blog_header_8527c435f6.jpg
+tags: [""]
 ---
 _Thinking back on my eight months as a student at the Canadian Digital Service (CDS), I have come to learn that empowerment is about trust; trust from your leaders and most importantly trust in yourself._
 

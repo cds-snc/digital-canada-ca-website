@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_pivoting_partnerships_d296e0d
 image-alt: Un réseau interconnecté montrant des personnes de tout le Canada qui collaborent pour offrir des services numériques et qui mettent les gens au cœur de leur travail..
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_pivoting_partnerships_d296e0dc14.jpg
 translationKey: blog-pivoting-partnerships
+tags: [""]
 ---
 Il y a cinq ans, nous avons annoncé le [lancement du Service numérique canadien](https://numerique.canada.ca/2017/07/18/lancement-du-service-numerique-canadien/)  (SNC). Il s’agissait alors d’un projet pilote de trois ans avec pour mission d’aider à moderniser la façon dont le gouvernement du Canada concevait et fournissait ses services numériques. Depuis lors, nous avons beaucoup appris et [grandi](https://numerique.canada.ca/rencontrez-lequipe/). L’an dernier, nous avons obtenu un financement permanent par le biais du budget pour l’année 2021. Nous pouvons donc continuer à collaborer avec les équipes gouvernementales et offrir des services pangouvernementaux comme [Notification GC](https://notification.canada.ca/accueil), tout en ayant l’assurance que nous serons toujours là pour les entretenir et les améliorer.
 

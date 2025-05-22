@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_blog_fast_safe_agile_b003ff8c
 image-alt: Two protective helmets – a motorcycle helmet showing “move fast” and a hard hat for construction showing “stay safe.”
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_blog_fast_safe_agile_b003ff8c43.jpg
 translationKey: blog-fast-safe-agile
+tags: [""]
 ---
 It’s a great time to be working in digital service delivery. People are more connected than ever expecting to have access to modern digital services. At the same time, “agile” development — building and testing prototypes in weeks rather than spending years in planning — has gained mainstream acceptance. 
 

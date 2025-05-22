@@ -13,6 +13,7 @@ image-alt: >-
   service homepage in English and French.
 translationKey: introducing-notify
 thumb: https://de2an9clyit2x.cloudfront.net/small_introducing_notify_d264bc51ad.jpg
+tags: [""]
 ---
 Imagine a scenario where every time you use a government service, all necessary information gets to where it’s going, when it needs to, and all along, you’re confident that it will. We’ve spent the past few months working to create a service that can help the Government of Canada meet this goal.
 

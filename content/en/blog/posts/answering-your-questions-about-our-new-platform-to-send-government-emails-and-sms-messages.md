@@ -19,6 +19,7 @@ image-alt: >-
   using the Notify service.
 translationKey: notify-blog2
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
+tags: [""]
 ---
 *Update: Like any digital product, GC Notify is constantly being improved to meet the needs of teams across government.* *For the most up-to-date  information, please refer to the [GC Notify features page](https://notification.canada.ca/features).*
 

@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/HC_Get_Updates_f9a9c93d65.jpg
 image-alt: Une énorme quantité de données provenant de différentes sources sont canalisées dans un seul courriel facile à digérer. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_HC_Get_Updates_f9a9c93d65.jpg
 translationKey: blog-data-healthcanada-notify
+tags: [""]
 ---
 ## Surcharge d’informations
 

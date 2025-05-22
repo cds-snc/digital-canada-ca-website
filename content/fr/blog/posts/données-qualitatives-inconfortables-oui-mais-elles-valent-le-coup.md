@@ -14,6 +14,7 @@ image-alt: >-
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
+tags: [""]
 ---
 Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un.
 

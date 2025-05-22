@@ -16,6 +16,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_global_skills_strategy_42ab3dc4
 image-alt: A woman in silver shoes standing on a subway platform.
 translationKey: global-skills-strategy
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_global_skills_strategy_42ab3dc4c1.jpg
+tags: [""]
 ---
 
 When I started at the Canadian Digital Service (CDS), I was expecting challenges and opportunities, but I hadn’t really thought about the new roads we’d travel to hire the best people. In this blog post, I’ll share our experiences of working with Immigration, Refugees, and Citizenship Canada (IRCC) to bring specialists from around the world into CDS. Specifically, how we used the new Global Skills Strategy to hire our first international team member.

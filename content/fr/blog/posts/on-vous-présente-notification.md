@@ -14,6 +14,7 @@ image-alt: >-
   l’autre en français.
 translationKey: introducing-notify
 thumb: https://de2an9clyit2x.cloudfront.net/small_introducing_notify_d264bc51ad.jpg
+tags: [""]
 ---
 Imaginez un scénario où chaque fois que vous utilisez un service gouvernemental, toute l’information nécessaire est acheminée au bon destinataire, au bon moment, et vous en avez l’assurance du début à la fin. Ces derniers mois, nous avons consacré notre temps à élaborer une solution qui aiderait le gouvernement du Canada à atteindre cet objectif.
 

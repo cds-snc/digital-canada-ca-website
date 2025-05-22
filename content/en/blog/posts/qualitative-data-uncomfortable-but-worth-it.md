@@ -12,6 +12,7 @@ image-alt: >-
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
+tags: [""]
 ---
 
 I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read.

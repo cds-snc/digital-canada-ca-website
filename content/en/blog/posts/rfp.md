@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/rfp_eng_f9ec7032b9.jpg
 image-alt: 'A maple leaf sticker with the words, Strong and Free.'
 translationKey: rfp
 thumb: https://de2an9clyit2x.cloudfront.net/small_rfp_eng_f9ec7032b9.jpg
+tags: [""]
 ---
 
 Today we (the Canadian Digital Service) launched a [Request for Proposals](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00841347) (RFP).

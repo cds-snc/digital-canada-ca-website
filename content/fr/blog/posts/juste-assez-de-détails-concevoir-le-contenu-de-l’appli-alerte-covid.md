@@ -12,6 +12,7 @@ image-alt: >-
   passées dans un filtre, se transforment en deux lignes droites.
 translationKey: content-covidalert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_content_covidalert_blog_198bc0a191.jpg
+tags: [""]
 ---
 Lorsque nous avons commencé à travailler sur [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), nous savions [que l’une des clés du succès était la confiance](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Les gens n’allaient pas télécharger l’application s’ils n’y faisaient pas confiance. Et nous savions que la clé de la confiance était la compréhension.
 

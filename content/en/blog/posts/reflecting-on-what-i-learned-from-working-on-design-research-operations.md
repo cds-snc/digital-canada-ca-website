@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/anne_marie_blog_banner_b51d016be3.jp
 image-alt: A person looking at their reflection, seeing their accomplishments and how it’s formed them into the person they are.
 thumb: https://de2an9clyit2x.cloudfront.net/small_anne_marie_blog_banner_b51d016be3.jpg
 translationKey: blog-design-research-ops
+tags: [""]
 ---
 Most of us know that work often ends up including more than the job description outlined. Our values and personality, the relationships we build, and the way we approach our work  ultimately influence the impact we have and the direction a role can take.
 

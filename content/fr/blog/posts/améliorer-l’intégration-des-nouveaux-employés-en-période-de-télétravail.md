@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/brady_bunch_fef4e4a9a9.jpeg
 image-alt: Un appel vidéo avec x membres de l’équipe à différents endroits. Ils agitent la main et interagissent entre eux, dans un affichage en quadrillage.
 thumb: https://de2an9clyit2x.cloudfront.net/small_brady_bunch_fef4e4a9a9.jpeg
 translationKey: blog-virtual-onboarding
+tags: [""]
 ---
 Lorsque la pandémie s’est déclarée l’an dernier, nos vies personnelles et professionnelles ont été bouleversées du jour au lendemain. De mon côté, le chemin du bureau ne prend maintenant que 8 secondes. La course pour prendre le train le matin, les heures passées dans les embouteillages, s’entasser dans l’ascenseur; tout ça, c’est du passé. Aujourd’hui, je fais un petit arrêt à la machine à café et je rejoins la rencontre quotidienne de mon équipe en un seul clic, la tête reposée. 
 

@@ -18,6 +18,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_productive_collaboration_b08bf0
 image-alt: The product team gathers around the sprint board at a daily standup meeting.
 translationKey: productive-collaboration
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_productive_collaboration_b08bf045d4.jpg
+tags: [""]
 ---
 
 At CDS, we build our product teams to consist of product managers, researchers, designers, developers, policy experts, and communication specialists. But, assembling a multidisciplinary team does not mean the hardest part is done. All of the individuals that you’ve gathered onto your team come from different disciplines and they each have their own preferred ways of working. This includes (but is not limited to) the pace, tools, hours, times of day, environmental conditions, communication methods, and the ways each person prefers to give and receive feedback. With so many different variables, it’s easy for things to quickly get overwhelming.

@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_blog_naming_gov_services_3e99
 image-alt: The letters in the word service displayed on misplaced puzzle pieces. It shows how things don’t always fit together!
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_blog_naming_gov_services_3e9945e4af.jpeg
 translationKey: blog-naming-gov-services
+tags: [""]
 ---
 The words we use as public servants to name government services and programs are important. They shape people’s expectations. Think about it: those words — ideally, carefully chosen — show the people we serve that we can offer the right solutions and resources to meet their needs. When a name doesn’t fit, it’s confusing and can lead to misunderstandings.   
 

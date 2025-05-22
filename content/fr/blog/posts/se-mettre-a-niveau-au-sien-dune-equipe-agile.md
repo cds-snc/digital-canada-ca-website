@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_up_to_speed_030a3f5cc5.jpg
 image-alt: Le tableau de bord d’une voiture avec l’indicateur de vitesse.
 translationKey: getting-up-to-speed
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_up_to_speed_030a3f5cc5.jpg
+tags: [""]
 ---
 
 Conduire le véhicule de quelqu’un d’autre peut parfois être un peu étrange. Il faut ajuster les rétroviseurs et repositionner les sièges et le volant pour assurer son confort. Ce n’est pas votre voiture, mais vous avez quand même une idée générale de l’endroit où les choses devraient être et de la façon dont elles devraient fonctionner. Il devrait en aller de même lorsqu’on se joint à une nouvelle équipe. Dès le départ, vous devriez être en mesure de comprendre assez rapidement le fonctionnement des choses. Se joindre à une nouvelle équipe ne devrait pas vous faire sentir comme si vous montiez dans un hélicoptère et qu’on vous demandait de le faire voler sans avoir reçu aucune formation.

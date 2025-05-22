@@ -12,6 +12,7 @@ image-alt: >-
   waiting to cross the street.
 translationKey: working-across-disciplines
 thumb: https://de2an9clyit2x.cloudfront.net/small_yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
+tags: [""]
 ---
 I took Interactive Multimedia and Design in school, where I learned a solid foundation in both design and development. Professors said we’d likely end up working between these two disciplines, as a bridge. Towards the end of my program, I chose to focus primarily on design. I didn’t realize that, some short years later, I’d be learning how to code again.
 

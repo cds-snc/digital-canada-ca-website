@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/fr_blog_website_searchbar_c25a896c5b
 image-alt: Icône de la barre de recherche du site Web comportant le texte « Que recherchez-vous »
 thumb: https://de2an9clyit2x.cloudfront.net/small_fr_blog_website_searchbar_c25a896c5b.jpg
 translationKey: blog-website-searchbar
+tags: [""]
 ---
 *Avis à nos lecteurs : ceci n’est PAS un billet de blogue ordinaire. Cet article pose un regard technique sur l’ajout d’une fonctionnalité de recherche à un site Web. Spécialistes du développement Web, ce billet vous est destiné!*
 

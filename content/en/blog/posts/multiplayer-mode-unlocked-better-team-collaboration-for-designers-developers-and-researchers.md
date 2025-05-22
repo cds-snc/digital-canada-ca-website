@@ -16,6 +16,7 @@ image-alt: >-
   court together.
 translationKey: multiplayer-figma
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_multiplayer_figma_4b3304945a.jpg
+tags: [""]
 ---
 Many games are more fun to play in multiplayer mode than in single player. Can you imagine playing a game of basketball by yourself? Boring.
 

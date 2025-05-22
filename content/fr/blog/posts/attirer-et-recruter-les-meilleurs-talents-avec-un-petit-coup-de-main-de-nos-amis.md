@@ -16,6 +16,7 @@ image-alt: >-
   livres.
 translationKey: help-from-friends-HR
 thumb: https://de2an9clyit2x.cloudfront.net/small_beetletoy_a7a60363e2.jpg
+tags: [""]
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 

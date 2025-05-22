@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/HC_Get_Updates_f9a9c93d65.jpg
 image-alt: An overwhelming amount of data from different sources being funnelled into one clear email. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_HC_Get_Updates_f9a9c93d65.jpg
 translationKey: blog-data-healthcanada-notify
+tags: [""]
 ---
 ## Information overload
 

@@ -15,6 +15,7 @@ image-alt: >-
   Elvas
 translationKey: why-canada-needs-a-digital-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_why_canada_needs_a_digital_service_2017_83f1ff7d59.jpg
+tags: [""]
 ---
 Pendant plusieurs mois, j’ai travaillé en coulisses pour défendre cette cause qu’est le Service numérique canadien (SNC). J’ai beaucoup réfléchi à la raison d’être d’une organisation dédiée aux services numériques au Canada, ainsi qu’au potentiel de cette organisation de changer la façon de concevoir les services gouvernementaux.
 

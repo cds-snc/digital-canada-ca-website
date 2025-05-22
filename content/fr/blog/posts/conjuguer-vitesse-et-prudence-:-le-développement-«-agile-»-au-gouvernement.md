@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_blog_fast_safe_agile_b003ff8c
 image-alt: Deux casques protecteurs. L’un pour la motocyclette représentant la vitesse, et l’autre à coque dure signifiant la prudence.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_blog_fast_safe_agile_b003ff8c43.jpg
 translationKey: blog-fast-safe-agile
+tags: [""]
 ---
 C’est le moment idéal de travailler dans le domaine de la prestation de services numériques. Les gens sont plus connectés que jamais et s’attendent à avoir accès à des services numériques modernes. Parallèlement, le développement agile — qui prévoit le développement et l’essai de prototypes en quelques semaines plutôt que de consacrer des années à la planification — s’est imposé. 
 

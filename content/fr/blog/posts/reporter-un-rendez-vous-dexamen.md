@@ -13,6 +13,7 @@ image-alt: >-
   au comptoir de service.
 translationKey: reschedule-a-citizenship-appointment
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ircc_april_9f8d1d0bfb.jpg
+tags: [""]
 ---
 
 Notre partenariat avec [Immigration, Réfugiés et Citoyenneté Canada](https://www.canada.ca/fr/immigration-refugies-citoyennete.html) (IRCC) vise à ce que le processus de modification d’un rendez-vous d’examen de citoyenneté soit aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie au personnel de première ligne.

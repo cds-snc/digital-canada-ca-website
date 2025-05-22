@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/accessibility_tweets_blog_banner_650
 image-alt: Une personne utilisant un lecteur d’écran sur son téléphone.
 thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_tweets_blog_banner_650f003408.jpg
 translationKey: blog-accessible-tweets 
+tags: [""]
 ---
 Personne n’aime être exclu, et personne n’aime voir ses besoins et ses sentiments ignorés. Du moins, certainement pas moi.
 

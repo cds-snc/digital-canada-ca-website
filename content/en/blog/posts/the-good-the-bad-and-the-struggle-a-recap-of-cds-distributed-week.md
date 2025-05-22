@@ -12,6 +12,7 @@ image-alt: >-
   at home.
 translationKey: CDS-distributed
 thumb: https://de2an9clyit2x.cloudfront.net/small_google_hangout_9039889404.jpg
+tags: [""]
 ---
 Over the past year, the Canadian Digital Service (CDS) has grown considerably with colleagues in Ottawa, Toronto, Montreal, and Kitchener-Waterloo. Though our Ottawa office has the most amount of people, we’re a distributed organization. That means we work in an environment where everyone, regardless of geographic location, is able to fully contribute to team goals the same way that a team all working out of the same office can.
 

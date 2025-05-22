@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_aaron_snow_eae49285b0.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_aaron_snow_eae49285b0.jpg
+tags: [""]
 ---
 
 En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, [a lancé la recherche du premier dirigeant principal du SNC](https://numerique.canada.ca/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canadien/). Cet exercice a attiré des candidats de partout dans le monde.

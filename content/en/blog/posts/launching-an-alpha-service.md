@@ -15,6 +15,7 @@ image-alt: >-
   mobile phone.
 translationKey: get-updates-blog-2
 thumb: https://de2an9clyit2x.cloudfront.net/small_get_updates_c19_phone_en_211f956e6f.jpg
+tags: [""]
 ---
 *Marcel Saulnier and Jennifer Hollington are ADMs at Health Canada. Marcel oversaw the development and launch of the “[Get Updates on COVID-19](https://www.canada.ca/covid19updates)” email notification service as part of the COVID-19 Task Force. Jennifer’s communications team has taken over the service as it becomes part of Health Canada’s communications function.*
 

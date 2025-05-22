@@ -12,6 +12,7 @@ image: https://de2an9clyit2x.cloudfront.net/covid_alert_vision_banner_5a8a8a87f1
 image-alt: 'A scale, balancing people using the COVID Alert app in the middle. '
 translationKey: covid-alert-utility-scale
 thumb: https://de2an9clyit2x.cloudfront.net/small_covid_alert_vision_banner_5a8a8a87f1.jpg
+tags: [""]
 ---
 *On July 31, 2020, we released COVID Alert, Canada’s COVID-19 exposure notification service.
 The app was built in the open. Continuing in that vein, we’ll be sharing posts that explain the reasons behind the choices we’re making as we continue to update, test, and iterate on this service.*

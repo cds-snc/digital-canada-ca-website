@@ -14,6 +14,7 @@ image: https://de2an9clyit2x.cloudfront.net/wanted_ceo_cds_2017_992dcbf98e.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor'
 translationKey: wanted-ceo-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_wanted_ceo_cds_2017_992dcbf98e.jpg
+tags: [""]
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens.
 

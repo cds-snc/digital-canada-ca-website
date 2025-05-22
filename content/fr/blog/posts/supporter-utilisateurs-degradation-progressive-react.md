@@ -10,6 +10,7 @@ image-alt: >-
   ordinateur portable et une tour d’ordinateur de bureau.
 translationKey: supporting-users-gracefully-degrading-react
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
+tags: [""]
 ---
 
 Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « reporter un examen de citoyenneté » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu.

@@ -8,6 +8,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_service_canada_notify_227a13a00
 image-alt: ' Montgolfière aux couleurs arc-en-ciel dans le ciel.'
 translationKey: blog-service-canada-notify
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_service_canada_notify_227a13a007.jpg
+tags: [""]
 ---
 [Canada.ca](https://www.canada.ca/fr.html), le site Web centralisé du gouvernement du Canada, utilise maintenant Notification pour envoyer des courriels de réponse automatique aux personnes ayant utilisé son [formulaire de questions et commentaires](https://www.canada.ca/fr/contact/questions.html). Ces notifications leur confirment que leur formulaire a été soumis avec succès à un domaine Canada.ca de confiance.
 

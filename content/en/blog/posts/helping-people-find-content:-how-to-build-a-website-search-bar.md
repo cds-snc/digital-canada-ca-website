@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_website_searchbar_0992ac5244.jp
 image-alt: Website search bar icon with text ‘Enter your search’.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_website_searchbar_0992ac5244.jpg
 translationKey: blog-website-searchbar
+tags: [""]
 ---
 *Here's a friendly heads-up to our readers - this is NOT our usual type of post. We've got a technical look at how search functionality can be added to a website. Web Devs, this one's for you!*
 

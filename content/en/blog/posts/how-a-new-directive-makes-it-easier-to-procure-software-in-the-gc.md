@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/procurement_directive_maze_9e6402d02
 image-alt: A straight line going straight through the middle of a confusing maze, leading to a signed document.
 thumb: https://de2an9clyit2x.cloudfront.net/small_procurement_directive_maze_9e6402d02b.jpeg
 translationKey: blog-figma-procurement
+tags: [""]
 ---
 ## TL;DR  _(too long; didn’t read)_
 

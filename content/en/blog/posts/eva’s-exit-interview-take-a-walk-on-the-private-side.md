@@ -13,6 +13,7 @@ image-alt: >-
   animal crab wearing a shark hat.
 translationKey: take-a-walk-on-the-private-side
 thumb: https://de2an9clyit2x.cloudfront.net/small_eva_blog_6027e5f0f8.jpg
+tags: [""]
 ---
 One of our beloved developers and OG team member Eva Demers-Brett is leaving us this month to embark on an exciting opportunity in the private sector 😢. It’ll be her first time working outside the public service during her career as a developer, so we wanted to capture her insights and find out what lessons she’ll bring with her as she takes a walk on the private side.
 

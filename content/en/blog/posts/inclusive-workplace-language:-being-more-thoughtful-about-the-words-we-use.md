@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/word_bubbles_0d3d2006c1.jpg
 image-alt: Different coloured speech bubbles overlapping each other. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_word_bubbles_0d3d2006c1.jpg
 translationKey: blog-inclusive-words
+tags: [""]
 ---
 Words matter. This is certainly true in service design. Here at the Canadian Digital Service (CDS), we try to use words that people use. It helps make the services we create more inclusive and easier to understand.
 

@@ -16,6 +16,7 @@ image-alt: >-
   travail et de nouvelles idées.
 translationKey: inclusive-research-event
 thumb: https://de2an9clyit2x.cloudfront.net/small_inclusive_research_event_4cb5105cda.jpg
+tags: [""]
 ---
 À titre de chercheuses en conception, nous sommes responsables de faire valoir les besoins de chaque personne qui utilise les services du gouvernement. L’une de nos principales préoccupations consiste à mener des recherches qui représentent les besoins de *tous* les utilisateurs — pas seulement les utilisateurs conventionnels. Des facteurs comme la race, les incapacités, l’âge, l’emplacement géographique, le sexe ou l’inhabileté numérique peuvent poser des difficultés pour l’accès aux services gouvernementaux.
 

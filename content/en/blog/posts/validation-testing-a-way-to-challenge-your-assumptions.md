@@ -13,6 +13,7 @@ image-alt: >-
   arranged side by side in white pots, in front of a white background.
 translationKey: validation-testing-cra
 thumb: https://de2an9clyit2x.cloudfront.net/small_colourful_cactuses_34eab63a4d.jpg
+tags: [""]
 ---
 Putting people at the centre of our work means trusting that they’re the experts of their own contexts and needs.
 

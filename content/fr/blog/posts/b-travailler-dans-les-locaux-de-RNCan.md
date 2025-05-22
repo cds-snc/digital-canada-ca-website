@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_colocating_with_NRCAN_e84609704
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
 translationKey: colocating-with-NRCan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_colocating_with_NRCAN_e846097048.jpg
+tags: [""]
 ---
 
 Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle. Les détails de ce partenariat font l’objet du billet [La recherche utilisateur avec RNCan&nbsp;: orienter la conception d’une API – Partie 1.](/2018/02/15/a-la-recherche-utilisateur-avec-rncan/)

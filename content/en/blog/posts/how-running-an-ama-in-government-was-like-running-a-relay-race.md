@@ -12,6 +12,7 @@ image: https://de2an9clyit2x.cloudfront.net/ama_banner_032dcb83f7.jpg
 image-alt: A bird’s-eye view of 4 relay racers running on a track in 4 parallel lanes.
 translationKey: relay-race-ama
 thumb: https://de2an9clyit2x.cloudfront.net/small_ama_banner_032dcb83f7.jpg
+tags: [""]
 ---
 Imagine this: you’re the starting runner in a 400m relay race. You get into the starting position, the gun goes off, and you sprint as hard as you can. As you reach that first 100m mark, you notice there’s no one to pass the baton to. Oh no. Now you have to sprint the whole relay race and keep the momentum going by yourself.
 

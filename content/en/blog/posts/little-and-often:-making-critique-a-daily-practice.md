@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/15_minutes_meetings_91e0181bab.jpg
 image-alt: A group of 7 people meeting virtually for 15 minutes.
 thumb: https://de2an9clyit2x.cloudfront.net/small_15_minutes_meetings_91e0181bab.jpg
 translationKey: blog-content-critiques
+tags: [""]
 ---
 Team critiques are a known best practice for content designers. But we struggled with precisely how to implement them at the Canadian Digital Service (CDS). For a long time we had a daily optional time slot in our calendars that anyone could use any time. But since anybody’s job is nobody’s job, we almost never actually had critique. So late last fall we made a new plan, which we started in January.   
 

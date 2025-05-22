@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_david_https_header_b2045a7bfc.j
 image-alt: 'Illustration of two people painting a giant, physical web page.'
 translationKey: community-driven-coding
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_david_https_header_b2045a7bfc.jpg
+tags: [""]
 ---
 
 If you're looking, you can find community all around you. Open source software development is no exception. By its nature, open source development is community-driven. People share and build on each other's work, making it better for all.

@@ -12,6 +12,7 @@ image-alt: >-
   filter, there are 2 lines, now running in a straight line.
 translationKey: content-covidalert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_content_covidalert_blog_198bc0a191.jpg
+tags: [""]
 ---
 When we first started work on [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), [we knew one of the keys to success was trust](https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/). People would not download the app if they didn’t trust it. And we knew that the key to trust was understanding.
 

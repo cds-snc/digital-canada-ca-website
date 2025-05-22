@@ -12,6 +12,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_accessibility_2018_52c1550c88.j
 image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
 translationKey: challenging-our-assumption
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_accessibility_2018_52c1550c88.jpg
+tags: [""]
 ---
 
 Nous avons récemment reçu des commentaires sur notre [référentiel Github](https://github.com/cds-snc/digital-canada-ca) concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue.

@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/digital_gardeners_65c51a0b12.jpeg
 image-alt: A collection of flowers, leafs, and insects.
 thumb: https://de2an9clyit2x.cloudfront.net/small_digital_gardeners_65c51a0b12.jpeg
 translationKey: blog-digital-gardeners
+tags: [""]
 ---
 When I joined the Canadian Digital Service (CDS), I was excited to work with others to help the government deliver services differently. Previously, I had been on lots of teams and projects aiming to do new things in new ways to serve people better, with varying degrees of success and failure. I was eager to bring my government experience to CDS and help make a difference.   
 

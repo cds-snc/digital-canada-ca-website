@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/mg_9837_2_7bc5f33d0f.jpg
 image-alt: A man uses a split keyboard and other technologies to help use his computer.
 translationKey: not-perfect
 thumb: https://de2an9clyit2x.cloudfront.net/small_mg_9837_2_7bc5f33d0f.jpg
+tags: [""]
 ---
 Accessibility has a reputation for being hard and sometimes even unobtainable. But building inclusive services that work better for everyone isn’t about perfection. It’s about making an effort and seeing progress. When we bring that type of effort every day, transformation happens. On the flip side, when we don’t, the people who may need our services most can’t access them.
 

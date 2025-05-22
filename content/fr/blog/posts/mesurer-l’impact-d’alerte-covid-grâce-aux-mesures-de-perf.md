@@ -18,6 +18,7 @@ image-alt: >-
   d’eux.
 translationKey: blog-metrics-app
 thumb: https://de2an9clyit2x.cloudfront.net/small_metrics_covid_alert_blog_banner_d83e1f15da.jpg
+tags: [""]
 ---
 Le changement est la seule constante, surtout en cas de pandémie. Comme la plupart des gens, j’ai dû m’habituer à un style de vie différent. Alors qu’autrefois je parcourais le Grand Toronto pour écouter des groupes méconnus dans des salles de spectacle insolites, je m’installe maintenant dans mon salon pour lire des romans de Margaret Atwood. Mes samedis sont très différents.
 

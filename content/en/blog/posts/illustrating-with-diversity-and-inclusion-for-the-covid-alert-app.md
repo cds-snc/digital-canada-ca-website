@@ -14,6 +14,7 @@ image-alt: >-
   clothing, going about their day.
 translationKey: blog-illustrating-covid-alert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
+tags: [""]
 ---
 A healthcare app that reminds us of a particularly difficult time is not always going to be a comfortable experience to build - or to use.
 

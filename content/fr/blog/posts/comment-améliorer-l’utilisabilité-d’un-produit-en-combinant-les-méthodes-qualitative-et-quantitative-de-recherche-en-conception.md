@@ -20,6 +20,7 @@ image-alt: >-
   éclairées.
 translationKey: rcmp-mixed-method
 thumb: https://de2an9clyit2x.cloudfront.net/small_mixed_methods_rcmp_9491d5f5b1.jpg
+tags: [""]
 ---
 Dans toute industrie, la nouveauté vient avec des risques. Nous comprenons donc la prudence, voire l’hésitation, de nos partenaires de la fonction publique face aux nouvelles méthodes que nous proposons afin de fournir des services numériques gouvernementaux.
 

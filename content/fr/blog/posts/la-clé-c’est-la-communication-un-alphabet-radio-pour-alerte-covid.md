@@ -13,6 +13,7 @@ image-alt: >-
   un patient au téléphone.
 translationKey: phonetic-alphabet-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
+tags: [""]
 ---
 Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID.
 

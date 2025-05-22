@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_a_percentage_of_perfection_in
 image-alt: Un ordinateur portable avec un écran rouge entouré de panneaux de danger, d'un sablier, d'une icône de paramètres et d'une bouée de sauvetage.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_a_percentage_of_perfection_incident_management_at_cds_f2f8ea5925.jpeg
 translationKey: security-incident-management-cds
+tags: [""]
 ---
 > *« Accepter que les choses imparfaites puissent quand même fonctionner est essentiel pour éviter que les échecs ne deviennent des catastrophes. »*
 

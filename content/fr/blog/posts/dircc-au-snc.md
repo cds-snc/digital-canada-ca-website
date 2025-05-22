@@ -14,6 +14,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_amir_7d10074bf1.jpg
 image-alt: Amir dans l'espace de travail du SNC.
 translationKey: ircc-to-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_amir_7d10074bf1.jpg
+tags: [""]
 ---
 
 À l'origine, j'avais entendu parler du Service numérique canadien (SNC) par mon gestionnaire à IRCC et, en un rien de temps, je commençais à traquer leurs [répertoires GitHub](https://github.com/cds-snc) et à en apprendre davantage sur une bibliothèque frontale appelée [React](https://reactjs.org/). J'étais enthousiaste de sortir de mon silo et de collaborer dans ce qui semblait être un environnement où l'on travaillait avec de nouvelles technologies.

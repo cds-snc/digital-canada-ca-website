@@ -13,6 +13,7 @@ image-alt: >-
   whiteboard.
 translationKey: retrospective-on-energuide-api
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
+tags: [""]
 ---
 
 As our partnership with NRCan on the EnerGuide API winds down, the CDS product team held a retrospective to reflect on our experience, accomplishments and lessons learned.

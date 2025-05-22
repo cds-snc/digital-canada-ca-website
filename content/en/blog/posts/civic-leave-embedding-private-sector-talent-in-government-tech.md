@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/small_maple_leafs_652f66ae34.jpg
 image-alt: 'Photo of people side by side, each holding a maple leaf in their hand.'
 translationKey: civic-leave
 thumb: https://de2an9clyit2x.cloudfront.net/small_small_maple_leafs_652f66ae34.jpg
+tags: [""]
 ---
 It takes a variety of skilled people to create and deliver quality government digital services. Here at CDS, we use multi-disciplinary teams to build simple and effective services for Canadians. This requires a team with diverse skills and backgrounds and expertise from different sectors or even  countries.
 

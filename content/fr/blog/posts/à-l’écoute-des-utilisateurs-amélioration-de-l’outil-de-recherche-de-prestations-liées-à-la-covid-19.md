@@ -16,6 +16,7 @@ image-alt: >-
   utilisabilité de la part de 8 personnes différentes.
 translationKey: blog-ffhc19-feedback
 thumb: https://de2an9clyit2x.cloudfront.net/small_adrianne_blog_fr_bf220fb4f8.jpg
+tags: [""]
 ---
 Le 7 mai, nous avons lancé discrètement l’outil en ligne « [Trouver de l’aide financière pendant la COVID-19](https://covid-prestations.alpha.canada.ca/fr/debut) », en partenariat avec Service Canada. Le but de cet outil codéveloppé est de réduire le stress financier que subissent les Canadiens et les Canadiennes pendant la pandémie. En demandant aux gens de répondre à quelques questions simples de façon anonyme, l’outil leur fournit une liste de prestations adaptée à leur situation. La zone de commentaires que nous y avons incluse a eu une incidence considérable sur notre capacité à améliorer l’outil, grâce aux gens qui l’ont utilisée chaque jour.
 

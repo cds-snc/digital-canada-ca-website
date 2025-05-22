@@ -14,6 +14,7 @@ image-alt: >-
   web.
 translationKey: community-driven-coding
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_david_https_header_b2045a7bfc.jpg
+tags: [""]
 ---
 
 Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. Le développement de logiciels ouverts n’y fait pas exception. De par sa nature, le développement ouvert trouve sa source dans la collectivité. Grâce au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite la tâche de tout le monde.

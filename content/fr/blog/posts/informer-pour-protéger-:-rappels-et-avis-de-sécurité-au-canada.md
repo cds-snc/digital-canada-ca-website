@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/A_FR_Blog_Post_image_224f4374e1.jpg
 image-alt: Portrait d’Eric Chouinard, gestionnaire du projet de rappels et d’avis de sécurité à Santé Canada. Son entrevue est présentée au sein de la série « Les gens au cœur de vos services » du SNC. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_A_FR_Blog_Post_image_224f4374e1.jpg
 translationKey: blog-pbs-series-eric
+tags: [""]
 ---
 Avez-vous pris connaissance du [récent rappel concernant les framboises](https://recalls-rappels.canada.ca/fr/avis-rappel/rappel-framboises-entieres-iqf-marque-below-zero-en-raison-presence-norovirus-1) ou celui [au mois d’avril concernant les produits Kinder](https://recalls-rappels.canada.ca/fr/avis-rappel/rappel-certains-produits-chocolat-marque-kinder-en-raison-presence-possible-0)?
 

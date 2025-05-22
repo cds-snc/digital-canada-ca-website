@@ -12,6 +12,7 @@ image-alt: >-
   des fleurs violettes à la droite.
 translationKey: building-a-research-plan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_building_a_research_plan_54517b04ce.jpg
+tags: [""]
 ---
 
 Une bonne phase de découverte vous fournit toute l’information dont vous avez besoin pour définir le ou les problèmes que vous voulez résoudre. Notre phase de découverte nous a permis de réunir des preuves qui indiquent qu’il était nécessaire de sensibiliser davantage les vétérans à la façon d’accéder les programmes, les services et les prestations qui leur sont offertes par Anciens Combattants Canada (ACC).

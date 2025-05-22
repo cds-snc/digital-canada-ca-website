@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_ochro_blog_8f66eccf8f.jpeg
 image-alt: Une courtepointe tissée avec différents patchs, dessins et membres de l'équipe.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_ochro_blog_8f66eccf8f.jpeg
 translationKey: blog-busting-talent-myths
+tags: [""]
 ---
 Nous avons récemment parlé de la façon dont [on s’en sort avec l’aide de nos amis](https://numerique.canada.ca/2019/03/18/attirer-et-recruter-les-meilleurs-talents-avec-un-petit-coup-de-main-de-nos-amis/).  L'une des questions les plus fréquentes que nous recevons est de savoir comment embaucher des équipes multidisciplinaires. Nous avons donc communiqué avec le Bureau de la dirigeante principale des ressources humaines (BDPRH) pour obtenir des réponses à nos questions et permettre ainsi de démystifier certains mythes.
 

@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/banner_security_snack_time_a5cd2fbf1
 image-alt: Un beigne partiellement mangé, un cadenas, une tasse de café et une souris d’ordinateur.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_security_snack_time_a5cd2fbf11.jpg
 translationKey: blog-security-snack-time
+tags: [""]
 ---
 Qu’est-ce qui vous vient à l’esprit lorsque vous entendez « formation en sécurité informatique »? 
 

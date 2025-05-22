@@ -7,6 +7,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960
 image-alt: L’équipe des Services numériques de l’Ontario.
 translationKey: n-this-together
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
+tags: [""]
 ---
 Il y a environ un mois, j’ai eu la chance de participer à la [conférence Connected150](http://www.connected150.ca) et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC).
 

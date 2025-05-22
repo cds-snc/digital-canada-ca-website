@@ -15,6 +15,7 @@ image-alt: >-
   main.
 translationKey: civic-leave
 thumb: https://de2an9clyit2x.cloudfront.net/small_small_maple_leafs_652f66ae34.jpg
+tags: [""]
 ---
 Il faut une variété de personnes qualifiées pour créer et offrir des services numériques gouvernementaux de qualité. Ici, au Service numérique canadien (SNC), nous avons recours à des équipes multidisciplinaires pour concevoir des services simples et efficaces pour les Canadiens. Ces équipes possèdent des compétences et des expériences variées, ainsi qu’une expertise provenant de divers secteurs et même de différents pays.
 

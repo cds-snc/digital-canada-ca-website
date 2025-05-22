@@ -15,6 +15,7 @@ image-alt: >-
   notebook.
 translationKey: service-assessments
 thumb: https://de2an9clyit2x.cloudfront.net/small_checklist_bf2f5e5013.jpg
+tags: [""]
 ---
 It takes a community of practice to transform government services. Last year, the Government of Canada introduced its [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). These are a set of principles to help teams deliver better quality digital services for Canadians. Since their release, CDS has been exploring how departments can assess themselves against the Standards.
 

@@ -14,6 +14,7 @@ image-alt: >-
   d’accueil de Notification GC en version bêta
 translationKey: blog-notify-beta
 thumb: https://de2an9clyit2x.cloudfront.net/small_notify_blog_beta_banner_fr_56dffd2eb1.jpg
+tags: [""]
 ---
 Depuis le lancement de l’outil Notification GC en 2019, nous avons aidé des équipes gouvernementales à envoyer [plus de 8,8 millions de notifications](https://notification.canada.ca/activity). Suite au développement de la première version du service et de son amélioration en fonction des besoins des utilisateurs, nous nous faisons un grand plaisir d’annoncer que Notification GC passe de la phase alpha à bêta. L’outil est maintenant plus stable, fiable et sécurisé que jamais.
 

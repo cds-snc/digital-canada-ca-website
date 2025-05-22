@@ -12,6 +12,7 @@ image-alt: >-
   the right.
 translationKey: building-a-research-plan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_building_a_research_plan_54517b04ce.jpg
+tags: [""]
 ---
 
 A good discovery phase arms you with all the information you need to define the problem(s) you want to solve. Our discovery phase helped gather evidence that there’s a need for more awareness amongst Veterans on how to access the many programs, services, and benefits available to them through Veterans Affairs Canada (VAC).

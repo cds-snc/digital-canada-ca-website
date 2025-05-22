@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_up_to_speed_030a3f5cc5.jpg
 image-alt: Car dashboard showing speedometer.
 translationKey: getting-up-to-speed
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_up_to_speed_030a3f5cc5.jpg
+tags: [""]
 ---
 
 Driving someone else's vehicle can sometimes feel a little off. Mirrors need to be adjusted, seats repositioned, gauges moved to your comfort zone. It's not your car, but you still have a general sense of where things should be and roughly how they should work. Joining a new team should be the same. Walking in, you should be able to get a sense of how things work fairly quickly.  Joining a new team shouldn’t feel like getting into a helicopter with no training and being asked to fly it.

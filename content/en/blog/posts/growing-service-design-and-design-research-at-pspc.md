@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/pspc_team_1_d45ef92076.jpg
 image-alt: A photo of PSPC’s Design Research team.
 translationKey: emilio-pspc
 thumb: https://de2an9clyit2x.cloudfront.net/small_pspc_team_1_d45ef92076.jpg
+tags: [""]
 ---
 When we talk about service design in government, the conversation is focused on creating amazing citizen-facing services. This is true to our core purpose - we work to serve citizens and therefore need to create services that put citizens at their core.
 

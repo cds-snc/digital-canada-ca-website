@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/grass_lawn_robot_ee4fa0e7f5.jpg
 image-alt: 'Un petit robot en bois se tient debout dans une pelouse verdoyante. '
 translationKey: trust-humans-and-robots
 thumb: https://de2an9clyit2x.cloudfront.net/small_grass_lawn_robot_ee4fa0e7f5.jpg
+tags: [""]
 ---
 Le développement de produits et la prestation de services efficaces ne sont rien sans la confiance. En tant qu’équipe de prestation au SNC, nous parlons souvent à nos partenaires de nous accorder la confiance pour les aider à quitter leurs zones de confort et à essayer de nouvelles approches.
 

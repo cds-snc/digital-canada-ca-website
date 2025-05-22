@@ -13,6 +13,7 @@ image-alt: >-
   blue sky.
 translationKey: help-from-friends
 thumb: https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
+tags: [""]
 ---
 I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received from government when CDS was established in 2017:
 

@@ -17,6 +17,7 @@ image-alt: >-
   discutant de leur travail.
 translationKey: discovery-phase-understanding-the-problem
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discovery_16d2f21c99.jpg
+tags: [""]
 ---
 
 Les anciens combattants ont consacré leur vie à servir le Canada. Que ce soit à la Gendarmerie royale du Canada ou aux Forces armées canadiennes, quitter le service, c’est comme quitter une famille et un emploi en même temps. Dans cette nouvelle phase de leur vie, les anciens combattants font face à de nombreux défis qui sont très différents du stress physique et psychologique qu’ils subissaient chaque jour alors qu’ils portaient l’uniforme. L’un des nombreux importants défis consiste à comprendre les plus de prestations et services qui leur sont offerts, et à y accéder.

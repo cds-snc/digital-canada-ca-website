@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/nordwood_themes_1066398_unsplash_390
 image-alt: '2019 written in fireworks, Photo: NordWood Themes/Unsplash'
 translationKey: unleash-talent
 thumb: https://de2an9clyit2x.cloudfront.net/small_nordwood_themes_1066398_unsplash_390a276ba7.jpg
+tags: [""]
 ---
 After two years building CDS, I wanted to share a few thoughts on what I’ve learned. With our partners, we’re changing how government designs and delivers services, but there’s a long way to go. Here’s how we can get there:
 

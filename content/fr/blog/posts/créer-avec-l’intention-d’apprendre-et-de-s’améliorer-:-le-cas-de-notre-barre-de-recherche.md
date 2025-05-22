@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/FR_Search_bar_iteration_e2f89d87f4.j
 image-alt: Illustration graphique d’une équipe modifiant et améliorant conjointement la barre de recherche d’un site Web. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_FR_Search_bar_iteration_e2f89d87f4.jpg
 translationKey: blog-website-searchbar-feedback
+tags: [""]
 ---
 À quoi bon fournir des renseignements utiles sur un site Web, s’ils sont introuvables? 
 

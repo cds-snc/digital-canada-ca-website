@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/word_bubbles_0d3d2006c1.jpg
 image-alt: Bulles de dialogue de différentes couleurs se chevauchant.
 thumb: https://de2an9clyit2x.cloudfront.net/small_word_bubbles_0d3d2006c1.jpg
 translationKey: blog-inclusive-words
+tags: [""]
 ---
 Les mots comptent. C’est on ne peut plus vrai en matière de conception de services. Ici, au Service numérique canadien (SNC), nous cherchons à utiliser des mots de tous les jours. Cela contribue à rendre nos services plus inclusifs et plus compréhensibles.
 

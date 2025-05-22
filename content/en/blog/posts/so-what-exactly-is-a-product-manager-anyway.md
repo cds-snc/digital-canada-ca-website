@@ -15,6 +15,7 @@ image-alt: >-
   Montreal, Waterloo, Toronto, and Ottawa.
 translationKey: product-manager-QA
 thumb: https://de2an9clyit2x.cloudfront.net/small_pm_banner_fix_646dadacee.jpg
+tags: [""]
 ---
 If you find yourself speaking to someone who is highly organized, curious, adaptive, communicative, empathetic, and passionate about removing barriers in order to get stuff done, chances are you’re either talking to a superhuman or a product manager.
 

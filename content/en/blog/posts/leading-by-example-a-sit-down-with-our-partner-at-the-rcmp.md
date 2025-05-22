@@ -15,6 +15,7 @@ image-alt: >-
   corners. It’s about taking a different path.”
 translationKey: jeff-adam-interview
 thumb: https://de2an9clyit2x.cloudfront.net/small_jeff_adam_9fda86899c.jpg
+tags: [""]
 ---
 In 1987, Jeff Adam joined the Royal Canadian Mounted Police (RCMP) because he wanted to help the vulnerable and catch the bad guys. Thirty-three years later, he’s still striving to do that, now as the Assistant Commissioner in charge of Technical Operations.
 

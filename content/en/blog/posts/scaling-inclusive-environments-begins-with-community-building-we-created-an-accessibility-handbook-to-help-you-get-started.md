@@ -16,6 +16,7 @@ image-alt: >-
   standing in front of a purple wall.
 translationKey: accessibility-handbook
 thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_handbook_blog_00d02c5777.jpg
+tags: [""]
 ---
 Ten! Ten years, that’s how long I’ve worked in accessibility within the public service. I’ve watched the community grow and change as new faces have come and gone. Many people involved in accessibility in the public service when I first started out are still spearheading the charge today. We are a small, but mighty community, crossing departments and sectors to help improve access to services for people.
 

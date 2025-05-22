@@ -16,6 +16,7 @@ image-alt: >-
   discussing their work.
 translationKey: discovery-phase-understanding-the-problem
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discovery_16d2f21c99.jpg
+tags: [""]
 ---
 
 Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Canadian Armed Forces, leaving the service is like leaving a family and a job all at once. Veterans face many different challenges in this new phase of their life that are very different from the physical and psychological stresses they faced every day while wearing the uniform. One of the many major challenges is understanding and accessing the 20-plus benefits and services offered to them.

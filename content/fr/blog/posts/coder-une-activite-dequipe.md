@@ -11,6 +11,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_team_coding_3f3236a73b.jpg
 image-alt: Un écran d'ordinateur affiche 200 lignes de code JavaScript dans Sublime Text.
 translationKey: coding-is-a-team-activity
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_team_coding_3f3236a73b.jpg
+tags: [""]
 ---
 
 D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code. Pour tout système de production, on s’attend à ce que tous les codes soient approuvés par au moins un autre développeur, avant qu’il ne soit accepté.

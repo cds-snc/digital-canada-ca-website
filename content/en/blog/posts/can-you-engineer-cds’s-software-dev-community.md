@@ -15,6 +15,7 @@ image-alt: >-
   Meeting.
 translationKey: blog-head-software-dev
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_head_software_dev_4d582ff210.jpg
+tags: [""]
 ---
 The digital government and civic tech communities talk a lot about how to make government more effective at delivering life-changing services. Things like agile practices, design thinking, and using modern technology are commonplace. At the Canadian Digital Service (CDS), we believe in the value of putting “people first,” which is why hiring the right person is critical, and more important than these processes and tools.
 

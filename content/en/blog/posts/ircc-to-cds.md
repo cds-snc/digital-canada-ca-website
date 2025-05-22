@@ -13,6 +13,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_amir_7d10074bf1.jpg
 image-alt: Amir in the CDS workspace.
 translationKey: ircc-to-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_amir_7d10074bf1.jpg
+tags: [""]
 ---
 
 I originally heard about CDS from my manager at IRCC, and, before you knew it, I was stalking their [GitHub repositories](https://github.com/cds-snc) and learning about a front-end library called [React](https://reactjs.org/). I was excited to get out of my silo and collaborate in what seemed to be an environment working with newer technologies.

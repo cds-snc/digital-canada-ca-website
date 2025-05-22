@@ -14,6 +14,7 @@ image-alt: >-
   et des services.
 translationKey: by-the-numbers
 thumb: https://de2an9clyit2x.cloudfront.net/small_VAC_Benchmark_Blog_F_Rgood_e716f70b28.jpg
+tags: [""]
 ---
 Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 

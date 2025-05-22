@@ -10,6 +10,7 @@ image: https://de2an9clyit2x.cloudfront.net/blog_service_canada_notify_227a13a00
 image-alt: Rainbow parachute in the sky.
 translationKey: blog-service-canada-notify
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_service_canada_notify_227a13a007.jpg
+tags: [""]
 ---
 [Canada.ca](https://www.canada.ca/en.html), the Government of Canada’s centralized website, is now using Notify for sending auto-reply emails for its [questions and comments form](https://www.canada.ca/en/contact/questions.html). These notifications reassure users that their form was successfully submitted to a trusted Canada.ca domain.
 

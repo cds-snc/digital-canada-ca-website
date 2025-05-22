@@ -9,6 +9,7 @@ image: https://de2an9clyit2x.cloudfront.net/digital_gardeners_65c51a0b12.jpeg
 image-alt: Une collection de fleurs, de feuilles et d'insectes.
 thumb: https://de2an9clyit2x.cloudfront.net/small_digital_gardeners_65c51a0b12.jpeg
 translationKey: blog-digital-gardeners
+tags: [""]
 ---
 Lors de mon arrivée au Service numérique canadien (SNC), j'étais ravi de travailler avec une équipe qui cherchait à changer la façon dont le gouvernement offre ses services. Dans mes rôles précédents, j’ai travaillé avec plusieurs équipes et projets visant à faire de nouvelles choses pour mieux servir les gens, avec divers degrés de succès. J'avais hâte d'apporter mon expérience gouvernementale au SNC et de contribuer à sa mission.   
 

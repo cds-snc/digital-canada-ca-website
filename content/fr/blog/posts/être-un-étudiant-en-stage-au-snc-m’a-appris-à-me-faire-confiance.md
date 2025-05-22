@@ -15,6 +15,7 @@ image-alt: >-
   stylo blanc, une pomme et un haut-parleur portatif.
 translationKey: cds-student-trust
 thumb: https://de2an9clyit2x.cloudfront.net/small_jose_blog_header_8527c435f6.jpg
+tags: [""]
 ---
 _En repensant aux huit mois que j’ai passés comme étudiant en stage au Service numérique canadien (SNC), j’ai appris que le renforcement de l’autonomie est une question de confiance : la confiance de la part de ses gestionnaires et, surtout, la confiance en soi._
 
