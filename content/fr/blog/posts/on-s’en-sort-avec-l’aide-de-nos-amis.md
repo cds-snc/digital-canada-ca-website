@@ -13,6 +13,7 @@ image-alt: Deux vieux Volkswagen Beetles se font face dans un champ sous un ciel
 translationKey: help-from-friends
 thumb: https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
 tags: [""]
+
 ---
 Des collègues fonctionnaires me demandent souvent « Quelles autorisations le Service numérique canadien (SNC) a-t-il obtenues pour fonctionner comme il le fait ? » J’ai donc pensé vous faire part des autorisations que nous avons reçues du gouvernement quand le SNC a été fondé en 2017:
 
