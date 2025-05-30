@@ -4,7 +4,7 @@ type: section
 title: 'Officier logiciels — Équipe de l’IFS interne, de la sécurité et de l’outillage'
 description: >-
   Ce rôle est une affectation ou un détachement de 2 ans au niveau IT-02 , au sein du groupe Technologie de l'information (TI), et dont le profil linguistique est bilingue impératif BBB. Ce poste entièrement en télétravail est ouvert aux candidats et candidates dans tout le pays.
-linkHidden: false
+linkHidden: true
 translationKey: 2025-may-software-officer
 leverId: null
 formHidden: true
