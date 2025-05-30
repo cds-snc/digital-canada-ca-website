@@ -4,7 +4,7 @@ type: section
 title: 'Software Officer — Site Reliability, Security and Tooling Team'
 description: >-
   This role is a 2-year assignment or secondment at an IT-02 level , in the  Information Technology (IT) Group, bilingual imperative BBB. This fully remote position is open to applicants located anywhere in the country.
-linkHidden: false
+linkHidden: true
 translationKey: 2025-may-software-officer
 leverId: null
 formHidden: true
