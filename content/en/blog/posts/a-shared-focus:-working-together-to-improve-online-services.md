@@ -8,7 +8,7 @@ date: '2024-05-15T09:54:41'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_.jpg
 image-alt: A team of public servants working together to improve online services.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_.jpg
-tags: [""]
+tags: ["Design and communications","Find benefits and services","Service design"]
 translationKey: blog-cds-dto
 ---
 

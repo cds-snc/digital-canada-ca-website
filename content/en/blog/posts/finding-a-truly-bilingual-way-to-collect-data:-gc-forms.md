@@ -8,7 +8,7 @@ date: '2024-06-20T14:27:34'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Blog_PBS_CED_EN-2.jpg
 image-alt: A map of Quebec for a people behind the service interview with the Business Information Services and Web Communications teams at Canada Economic Development for Quebec Regions (CED).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Blog_PBS_CED_EN-2.jpg
-tags: [""]
+tags: ["Bilingualism","Data","GC Forms"]
 translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 ---
 

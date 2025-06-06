@@ -8,7 +8,7 @@ date: '2024-05-27T09:37:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_FR.jpg
 image-alt: Une image de la page d’accueil du site Web de Système de design GC.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_FR.jpg
-tags: [""]
+tags: ["Conception de service","Conception et communications","Système de design GC"]
 translationKey: blog-gc-design-system
 ---
 

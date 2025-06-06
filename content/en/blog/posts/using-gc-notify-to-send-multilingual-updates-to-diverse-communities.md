@@ -8,7 +8,7 @@ date: '2024-07-22T11:17:08'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_.jpg
 image-alt: Email icon with 8 different speech bubbles and a globe in the background. Send multilingual messages around the world.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_.jpg
-tags: [""]
+tags: ["Bilingualism","Communications","GC Notify","Inclusion"]
 translationKey: blog-ircc-gcnotify
 ---
 
