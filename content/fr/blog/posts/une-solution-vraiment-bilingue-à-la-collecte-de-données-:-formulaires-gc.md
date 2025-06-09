@@ -8,7 +8,7 @@ date: '2024-06-20T14:27:34'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Blog_PBS_DEC_FR-1.jpg
 image-alt: Une carte du Québec pour illustrer l’entrevue avec les équipes des Services d’information aux entreprises et des Communications Web de Développement économique Canada pour les régions du Québec (DEC), dans le cadre de la série « Les gens au cœur de vos services ».
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Blog_PBS_DEC_FR-1.jpg
-tags: [""]
+tags: ["Bilinguisme","Données","Formulaires GC"]
 translationKey: finding-a-truly-bilingual-way-to-collect-data-gc-forms
 ---
 
