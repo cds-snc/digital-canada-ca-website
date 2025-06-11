@@ -8,7 +8,7 @@ date: '2024-07-02T11:03:53'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_FR.jpg
 image-alt: Un ordinateur portable et un téléphone intelligent. Cinq flèches émergent de l’ordinateur portable pour symboliser le progrès. Le téléphone intelligent affiche 3 icônes représentant respectivement le Gouvernement du Canada, l’accessibilité et la sécurité.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_FR.jpg
-tags: [""]
+tags: ["Communications","Politiques"]
 translationKey: ceo-blog-june-2024
 ---
 
