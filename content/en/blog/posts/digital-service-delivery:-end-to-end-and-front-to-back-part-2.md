@@ -8,7 +8,7 @@ date: '2025-01-16T10:22:21'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-copy.jpg
 image-alt: A flashlight highlights the steps people are navigating through to find what they’re looking for.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-copy.jpg
-tags: [""]
+tags: ["Data","Design and communications","Research"]
 translationKey: blog-e2e-f2b2
 ---
 
