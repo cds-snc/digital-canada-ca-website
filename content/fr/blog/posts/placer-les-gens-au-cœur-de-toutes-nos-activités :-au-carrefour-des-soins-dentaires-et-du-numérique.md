@@ -8,7 +8,7 @@ date: '2024-11-27T15:27:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN-copy.jpg
 image-alt: Des personnes fournissant des commentaires sur un service numérique accessible pour les soins dentaires.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN-copy.jpg
-tags: [""]
+tags: ["Conception de service","Inclusion","Rechercher les avantages et les services"]
 translationKey: blog-dental-cxo-plan
 ---
 
