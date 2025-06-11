@@ -8,7 +8,7 @@ date: '2024-10-17T11:57:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_fr-1.jpg
 image-alt: Deux ampoules. L’une pend au bout d’un fil plein de nœuds et est éteinte. L’autre pend au bout d’un fil qui a été démêlé et est allumée.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_fr-1.jpg
-tags: [""]
+tags: ["Communications","Conception de service","Conception et communications"]
 translationKey: blog-plain-language-updates
 ---
 
