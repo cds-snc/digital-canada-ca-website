@@ -8,7 +8,7 @@ date: '2024-09-04T10:25:05'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_FR.jpg
 image-alt: Des icônes entourant un écran d’ordinateur et représentant les aspects d’un sprint - calendrier, tâches, méthodes de travail, accessibilité, code, rétroaction, mises à jour et recherche.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_FR.jpg
-tags: [""]
+tags: ["Accessibilité","Notification GC"]
 translationKey: blog-gcnotify-accessibility-sprints
 ---
 
