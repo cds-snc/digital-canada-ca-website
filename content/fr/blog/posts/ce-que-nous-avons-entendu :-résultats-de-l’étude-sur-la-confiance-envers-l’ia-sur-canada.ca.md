@@ -8,7 +8,7 @@ date: '2025-02-18T16:52:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/AI_Trust_Study_Blog_Post_EN.jpg
 image-alt: 3 individuals standing around a tablet showing icons depicting graphs, charts, and an AI robot icon.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/AI_Trust_Study_Blog_Post_EN.jpg
-tags: [""]
+tags: ["Confidentialité","Données","Recherche"]
 translationKey: ai-trust-study-blog
 ---
 
