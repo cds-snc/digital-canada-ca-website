@@ -8,7 +8,7 @@ date: '2025-02-04T11:36:15'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/Service_Canada_Labs_Blog_Blog_Post-copy.jpg
 image-alt: Groupe diversifié de personnes se tenant ensemble et tenant des bulles de dialogue colorées symbolisant la communication et la collaboration.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/Service_Canada_Labs_Blog_Blog_Post-copy.jpg
-tags: [""]
+tags: ["Conception de service","Rechercher les avantages et les services","Tests"]
 translationKey: blog-sclabs-jan2025
 ---
 
