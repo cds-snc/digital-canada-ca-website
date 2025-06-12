@@ -8,7 +8,7 @@ date: '2024-09-04T10:24:14'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_EN.jpg
 image-alt: Icons around a computer screen visualizing sprint work - calendar, tasks, ways of working, accessibility, code, feedback, updates, and research.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_EN.jpg
-tags: [""]
+tags: ["Accessibility","GC Notify"]
 translationKey: blog-gcnotify-accessibility-sprints
 ---
 
