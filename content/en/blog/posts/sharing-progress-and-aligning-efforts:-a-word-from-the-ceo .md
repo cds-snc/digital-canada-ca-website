@@ -8,7 +8,7 @@ date: '2024-07-02T11:03:33'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_EN.jpg
 image-alt: A laptop and smartphone. The laptop has 5 arrows emerging from its screen, denoting progress. The smartphone displays 3 icons to represent the Government of Canada, accessibility and security.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_EN.jpg
-tags: [""]
+tags: ["Communications","Policy"]
 translationKey: ceo-blog-june-2024
 ---
 
