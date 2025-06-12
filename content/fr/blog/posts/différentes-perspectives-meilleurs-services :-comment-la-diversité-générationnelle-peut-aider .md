@@ -8,7 +8,7 @@ date: '2024-09-18T11:32:35'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GenerationalDiversity_Blog_Post3-FRN@.png
 image-alt: Des fonctionnaires de générations diverses collaborant et échangeant des idées.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GenerationalDiversity_Blog_Post3-FRN@.png
-tags: [""]
+tags: ["Communications","Culture","Inclusion"]
 translationKey: blog-generational-diversity
 ---
 
