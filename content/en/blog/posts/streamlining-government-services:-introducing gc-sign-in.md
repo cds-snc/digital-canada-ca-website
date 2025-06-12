@@ -8,7 +8,7 @@ date: '2025-02-12T11:21:21'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/GC_Sign_20250128_Blog_Post.jpg
 image-alt: An illustration representing digital security and accessibility. It features a laptop with a key symbol, a mobile device with a padlock icon, gears, a folder, a speech bubble, and symbols of accessibility and Canada
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/GC_Sign_20250128_Blog_Post.jpg
-tags: [""]
+tags: ["Content design","GC Sign in / GC Connexion","Privacy","Security"]
 translationKey: blog-gc-signin
 ---
 
