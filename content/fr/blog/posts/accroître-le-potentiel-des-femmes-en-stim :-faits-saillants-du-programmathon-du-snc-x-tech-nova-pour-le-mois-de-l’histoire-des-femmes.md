@@ -8,7 +8,7 @@ date: '2024-10-21T10:27:15'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_FRENCH.jpg
 image-alt: Ioana Contu, responsable d’équipe au Service numérique canadien (SNC) était juge au Programmathon TechNova à l’Université de Waterloo cette année.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_FRENCH.jpg
-tags: [""]
+tags: ["Culture","Données","Inclusion"]
 translationKey: blog-hackathon-whm
 ---
 
