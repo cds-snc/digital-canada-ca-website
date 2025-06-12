@@ -8,7 +8,7 @@ date: '2024-12-12T13:25:02'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
 image-alt: 
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
-tags: [""]
+tags: ["GC Forms","GC Notify","Privacy"]
 translationKey: blog-cadets-gcforms-gcnotify
 ---
 
