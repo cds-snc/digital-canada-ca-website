@@ -8,7 +8,7 @@ date: '2024-11-05T10:45:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
 image-alt: Illustration of a tablet displaying a chart, alongside a map, compass, pencil, and ruler, symbolizing analysis and navigation tools
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post.jpg
-tags: [""]
+tags: ["Data","Product management","Service design"]
 translationKey: blog-product-maturity-model
 ---
 
