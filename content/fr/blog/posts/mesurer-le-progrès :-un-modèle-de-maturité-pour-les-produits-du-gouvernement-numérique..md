@@ -8,7 +8,7 @@ date: '2024-11-12T14:44:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
 image-alt: Illustration d’une tablette affichant un graphique, à côté d’une carte, d’une boussole, d’un crayon et d’une règle, le tout symbolisant les outils d’analyse et de navigation.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
-tags: [""]
+tags: ["Conception de service","Données","Gestion de produits"]
 translationKey: blog-product-maturity-model
 ---
 
