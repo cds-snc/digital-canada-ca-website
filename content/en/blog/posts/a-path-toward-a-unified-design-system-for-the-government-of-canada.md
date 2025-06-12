@@ -8,7 +8,7 @@ date: '2024-05-27T09:37:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_EN.jpg
 image-alt: The homepage of the GC Design System website.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_EN.jpg
-tags: [""]
+tags: ["Design and communications","GC Design System","Service design"]
 translationKey: blog-gc-design-system
 ---
 
