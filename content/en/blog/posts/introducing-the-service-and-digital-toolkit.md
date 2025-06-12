@@ -8,7 +8,7 @@ date: '2025-03-24T08:58:07'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/03/Service_DigitalToolkit_2025_Blog_Post_EN.jpg
 image-alt: Public servants using a collection of resources to design accessible services.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/03/Service_DigitalToolkit_2025_Blog_Post_EN.jpg
-tags: [""]
+tags: ["Accessibility","Content design","Product management"]
 translationKey: blog-introducing-sd-toolkit
 ---
 

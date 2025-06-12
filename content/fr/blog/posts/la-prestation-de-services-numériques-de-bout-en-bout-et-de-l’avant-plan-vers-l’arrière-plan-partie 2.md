@@ -8,7 +8,7 @@ date: '2025-01-16T10:22:26'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-_FRENCH-copy-2.jpg
 image-alt: Une lampe torche éclairant les étapes que suivent les gens pour trouver ce qu’ils cherchent.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-_FRENCH-copy-2.jpg
-tags: [""]
+tags: ["Conception et communications","Données","Recherche"]
 translationKey: blog-e2e-f2b2
 ---
 
