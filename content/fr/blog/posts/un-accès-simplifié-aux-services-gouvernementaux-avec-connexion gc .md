@@ -8,7 +8,7 @@ date: '2025-02-12T11:35:48'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/GC_Sign_20250128_Blog_Post-copy.jpg
 image-alt: ​​Une image représentant la sécurité numérique et l’accessibilité. Elle comprend un ordinateur portable avec un symbole de clé, un appareil mobile avec une icône de cadenas, des roues dentées, un dossier, une bulle de dialogue et des symboles de l’accessibilité et du Canada.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/GC_Sign_20250128_Blog_Post-copy.jpg
-tags: [""]
+tags: ["Conception de contenu","Confidentialité","GC Connexion","Sécurité"]
 translationKey: blog-gc-signin
 ---
 
