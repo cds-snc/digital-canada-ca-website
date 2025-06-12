@@ -8,7 +8,7 @@ date: '2025-01-23T13:49:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_EN2.jpg
 image-alt: A physical copy of the civic tech report "How can civic tech improve government service delivery?", and digital versions of the same report shown on a laptop and a smart phone.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_EN2.jpg
-tags: [""]
+tags: ["Design and communications","Research","Service design"]
 translationKey: blog-civic-tech-report
 ---
 
