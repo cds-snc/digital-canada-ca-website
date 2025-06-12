@@ -8,7 +8,7 @@ date: '2025-02-04T11:35:38'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Service_Canada_Labs_Blog_Blog_Post.jpg
 image-alt: A diverse group of people standing together, holding up colorful speech bubbles, symbolizing communication and collaboration.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Service_Canada_Labs_Blog_Blog_Post.jpg
-tags: [""]
+tags: ["Find benefits and services","Service design","Testing"]
 translationKey: blog-sclabs-jan2025
 ---
 
