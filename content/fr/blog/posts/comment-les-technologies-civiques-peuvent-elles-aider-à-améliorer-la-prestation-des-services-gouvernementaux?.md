@@ -8,7 +8,7 @@ date: '2025-01-23T13:58:28'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_FR.jpg
 image-alt: Un exemplaire physique du rapport sur les technologies civiques "Comment les technologies civiques peuvent-elles aider à améliorer la prestation des services gouvernementaux?" et des versions numériques du même rapport sur un ordinateur portable et sur un téléphone intelligent.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_FR.jpg
-tags: [""]
+tags: ["Conception et communications","Recherche","Rechercher les avantages et les services"]
 translationKey: blog-civic-tech-report
 ---
 
