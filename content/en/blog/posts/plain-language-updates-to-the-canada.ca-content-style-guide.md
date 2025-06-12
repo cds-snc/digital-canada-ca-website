@@ -8,7 +8,7 @@ date: '2024-10-17T11:57:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_en.jpg
 image-alt: Two light bulbs. The one with a tangled, complicated cord is dim and hard to see. Organizing the cord to be simple makes it easier to see.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/plain_languages_blog_Blog_Post_en.jpg
-tags: [""]
+tags: ["Communications","Design and communications","Service design"]
 translationKey: blog-plain-language-updates
 ---
 
