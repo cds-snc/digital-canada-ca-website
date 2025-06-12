@@ -8,7 +8,7 @@ date: '2024-05-15T09:54:52'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_-FR.jpg
 image-alt: Une équipe de fonctionnaires travaillant ensemble pour améliorer les services en ligne.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_-FR.jpg
-tags: [""]
+tags: ["Conception de service","Conception et communications","Rechercher les avantages et les services"]
 translationKey: blog-cds-dto
 ---
 
