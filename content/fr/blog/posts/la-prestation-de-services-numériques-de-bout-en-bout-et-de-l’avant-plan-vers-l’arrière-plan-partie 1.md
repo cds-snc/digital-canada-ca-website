@@ -4,7 +4,7 @@ title: 'La prestation de services numériques de bout en bout et de l’avant-pl
 description: >-
   Dans ce billet de blogue (le premier d’une série de deux), Beth Fox (gestionnaire des données et rapports stratégiques, SNC) cartographie le processus de prestation de services numériques de bout en bout.
 author: 'Beth Fox (elle), gestionnaire des données et rapports stratégiques, SNC'
-date: '2025-01-15T10:18:25'
+date: '2025-01-15T10:22:20'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-_FRENCH.jpg
 image-alt: Une lampe torche éclairant les étapes que suivent les gens pour trouver ce qu’ils cherchent.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/ILLU_2-_FRENCH.jpg
