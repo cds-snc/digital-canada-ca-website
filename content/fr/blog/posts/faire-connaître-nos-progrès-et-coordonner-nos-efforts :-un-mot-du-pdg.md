@@ -4,7 +4,7 @@ title: 'Faire connaître nos progrès et coordonner nos efforts : un mot du PDG
 description: >-
   Paul Wagner (PDG) nous présente le Rapport annuel 2023-2024 du SNC et la Vision stratégique 2024-2027, lesquels dressent le portrait de nos plans d’amélioration de la prestation des services numériques au GC.
 author: 'Paul N. Wagner, président-directeur général, Service numérique canadien '
-date: '2024-07-02T11:03:53'
+date: '2024-07-02T11:03:33'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_FR.jpg
 image-alt: Un ordinateur portable et un téléphone intelligent. Cinq flèches émergent de l’ordinateur portable pour symboliser le progrès. Le téléphone intelligent affiche 3 icônes représentant respectivement le Gouvernement du Canada, l’accessibilité et la sécurité.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/06/Paul_Blog_FR.jpg
