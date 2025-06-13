@@ -4,7 +4,7 @@ title: 'Accroître le potentiel des femmes en STIM : faits saillants du Program
 description: >-
   Ioana Contu, responsable d’équipe au SNC, nous fait part de ses pensées sur le leadership technologique et de ses réflexions en tant que juge au Programmathon Tech Nova, organisé par l’Université de Waterloo.
 author: 'Ioana Contu, responsable d’équipe au SNC'
-date: '2024-10-21T10:27:15'
+date: '2024-10-21T10:14:57'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_FRENCH.jpg
 image-alt: Ioana Contu, responsable d’équipe au Service numérique canadien (SNC) était juge au Programmathon TechNova à l’Université de Waterloo cette année.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/10/WomenHistoryMonth2024_LinkdIn_FRENCH.jpg
