@@ -4,7 +4,7 @@ title: 'Comment la mise à jour de la déclaration d’accessibilité de Notific
 description: >-
   L’équipe de Notification GC explique comment le langage clair et simple a permis de donner la priorité aux améliorations en matière d’accessibilité dans le cadre de sprints, et partage ses ressources et astuces.
 author: 'Yedida Zalik (conceptrice de contenu dans l’équipe de Notification GC) et Jo Button (conseillère en narration)'
-date: '2024-09-04T10:25:05'
+date: '2024-09-04T10:24:14'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_FR.jpg
 image-alt: Des icônes entourant un écran d’ordinateur et représentant les aspects d’un sprint - calendrier, tâches, méthodes de travail, accessibilité, code, rétroaction, mises à jour et recherche.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/09/GCNotifysaccessibility_Blog_Post_FR.jpg

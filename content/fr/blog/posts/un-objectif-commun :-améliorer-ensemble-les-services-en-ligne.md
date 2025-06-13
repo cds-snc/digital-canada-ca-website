@@ -4,7 +4,7 @@ title: 'Un objectif commun : améliorer ensemble les services en ligne'
 description: >-
   Le Bureau de la transformation numérique s’est joint au Service numérique canadien en août 2023. Découvrez comment les deux parties collaborent avec diverses équipes du GC pour améliorer les services en ligne.
 author: 'Leanne Labelle (directrice exécutive, Plateforme du SNC) et Michèle-Renée Charbonneau  (directrice exécutive par intérim, Partenariats du SNC)  '
-date: '2024-05-15T09:54:52'
+date: '2024-05-15T09:54:41'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_-FR.jpg
 image-alt: Une équipe de fonctionnaires travaillant ensemble pour améliorer les services en ligne.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/05/DTO_CDS_DesignSystem_Blog_Post_-FR.jpg

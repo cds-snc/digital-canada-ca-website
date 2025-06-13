@@ -4,7 +4,7 @@ title: 'Libérer les potentiels : la capacité des programmathons à susciter l
 description: >-
   Jumana et Sylvia, développeuses au SNC, nous livrent leurs réflexions sur l’égalité dans le domaine de la technologie et sur la capacité des programmathons à susciter le changement.
 author: 'Jumana Bahrainwala et Sylvia McLaughlin, développeuses au SNC'
-date: '2024-03-07T15:03:05'
+date: '2024-03-07T15:02:53'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_FR-copy.jpg
 image-alt: Image présentant trois femmes d'âges et d'origines ethniques différentes sur un fond de couleur lavande qui ressemble à un nuage. Le mot symbole Canada se trouve dans le coin inférieur gauche, également sur le fond de couleur lavande.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/IWD_2024_LinkdIn_FR-copy.jpg
