@@ -4,7 +4,7 @@ title: 'Laboratoires de Service Canada: Tester des idées pour de meilleurs serv
 description: >-
   Découvrez comment l’équipe de Laboratoires de Service Canada travaille à la conception et à la prestation de meilleurs services et prestations pour les Canadiens et Canadiennes.
 author: 'Rosanne Li, gestionnaire principale de produit, Laboratoires de Service Canada'
-date: '2025-02-04T11:36:15'
+date: '2025-02-04T11:35:38'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/Service_Canada_Labs_Blog_Blog_Post-copy.jpg
 image-alt: Groupe diversifié de personnes se tenant ensemble et tenant des bulles de dialogue colorées symbolisant la communication et la collaboration.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/Service_Canada_Labs_Blog_Blog_Post-copy.jpg
