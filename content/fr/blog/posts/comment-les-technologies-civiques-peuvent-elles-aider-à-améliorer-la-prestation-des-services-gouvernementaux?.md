@@ -4,11 +4,11 @@ title: 'Comment les technologies civiques peuvent-elles aider à améliorer la p
 description: >-
   Sam Burton (conseillère principale en politiques du SNC) parle de sa recherche sur les façons dont le gouvernement peut tirer le meilleur parti de ses collaborations avec les groupes de technologies civiques.
 author: 'Sam Burton, conseillère principale en politiques du SNC'
-date: '2025-01-23T13:58:28'
+date: '2025-01-23T13:49:32'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_FR.jpg
 image-alt: Un exemplaire physique du rapport sur les technologies civiques "Comment les technologies civiques peuvent-elles aider à améliorer la prestation des services gouvernementaux?" et des versions numériques du même rapport sur un ordinateur portable et sur un téléphone intelligent.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/01/Civic-tech-blog-visual_Blog_Post_FR.jpg
-tags: ["Conception et communications","Recherche","Rechercher les avantages et les services"]
+tags: ["Conception de service","Conception et communications","Recherche","Rechercher les avantages et les services"]
 translationKey: blog-civic-tech-report
 ---
 
