@@ -4,7 +4,7 @@ title: 'Placer les gens au cœur de toutes nos activités : au carrefour des so
 description: >-
   Nous avons rencontré l’équipe du Bureau de l’expérience client pour discuter de la recherche sur les utilisateurs et de l’incidence qu’elle a eue sur le Régime canadien de soins dentaires.
 author: 'Bureau de l’expérience client, Service Canada'
-date: '2024-11-27T15:27:00'
+date: '2024-11-27T15:20:47'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN-copy.jpg
 image-alt: Des personnes fournissant des commentaires sur un service numérique accessible pour les soins dentaires.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/CCXO_Dental_Care_Plan_Blog_Blog_Post_EN-copy.jpg
