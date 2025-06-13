@@ -4,7 +4,7 @@ title: 'Mesurer le progrès : un modèle de maturité pour les produits du gouv
 description: >-
   Comment savoir si un produit numérique est prêt à être adopté à grande échelle ou si, à l’inverse, il approche de l’obsolescence? L’équipe des politiques du SNC présente une ébauche de modèle pour aider les équipes de prestation de service du secteur public à évaluer leurs produits et à mettre toutes les chances de leur côté, à chaque étape.
 author: 'Dan Monafu et Nisa Malli, équipe des politiques du SNC'
-date: '2024-11-12T14:44:32'
+date: '2024-11-05T10:45:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
 image-alt: Illustration d’une tablette affichant un graphique, à côté d’une carte, d’une boussole, d’un crayon et d’une règle, le tout symbolisant les outils d’analyse et de navigation.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/11/Digital_Product_Maturity-Model_Blog_Post-FRENCH.jpg
