@@ -4,11 +4,11 @@ title: 'Initiatives numériques au sein du Programme des cadets : comment Notif
 description: >-
   Amber Lawson explique comment la prise en charge des informations de niveau Protégé B et la logique conditionnelle de Formulaires GC accélèrent le traitement des dossiers de santé des cadets et cadettes, ce qui leur permet de participer plus rapidement au programme.
 author: 'Capitaine Amber Lawson, officière des plans au Centre de gestion des services de TI, Forces armées canadiennes (FAC)'
-date: '2024-12-12T13:27:11'
+date: '2024-12-12T13:25:02'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
 image-alt: Transformation des formulaires papier en formulaires en ligne. Ces derniers peuvent être envoyés par l’intermédiaire d’un lien.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/12/CadetsGCForms_PostCadetsGCForms_Blog_Post_3-2.jpg
-tags: [""]
+tags: ["Confidentialité","Formulaires GC","Notification GC"]
 translationKey: blog-cadets-gcforms-gcnotify
 ---
 
