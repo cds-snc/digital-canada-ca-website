@@ -4,7 +4,7 @@ title: 'Un accès simplifié aux services gouvernementaux avec Connexion GC '
 description: >-
   Breanne Fife, gestionnaire principale de produit pour Connexion GC, explique ce que construit l’équipe et la manière dont le résultat contribuera à des services numériques plus fluides et sécurisés.
 author: 'Breanna Fife, gestionnaire principale de produit, équipe des produit d’entreprise, SNC'
-date: '2025-02-12T11:35:48'
+date: '2025-02-12T11:21:21'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/GC_Sign_20250128_Blog_Post-copy.jpg
 image-alt: ​​Une image représentant la sécurité numérique et l’accessibilité. Elle comprend un ordinateur portable avec un symbole de clé, un appareil mobile avec une icône de cadenas, des roues dentées, un dossier, une bulle de dialogue et des symboles de l’accessibilité et du Canada.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/02/GC_Sign_20250128_Blog_Post-copy.jpg
