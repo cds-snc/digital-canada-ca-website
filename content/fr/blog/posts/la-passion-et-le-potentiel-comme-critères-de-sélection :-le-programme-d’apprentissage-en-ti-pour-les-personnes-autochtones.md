@@ -4,7 +4,7 @@ title: 'La passion et le potentiel comme critères de sélection : le Programme
 description: >-
   Jamie Boomhour, qui a suivi avec succès le Programme d’apprentissage en TI pour les personnes autochtones, nous parle de cet apprentissage et l’inclusivité qui le caractérise.
 author: 'Jamie Boomhour, Diplômé du Programme d’apprentissage en TI'
-date: '2024-03-27T11:04:13'
+date: '2024-03-27T11:03:39'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
 image-alt: Une photographie de Jamie Boomhour, le premier diplômé du Programme d’apprentissage en TI pour les personnes autochtones du gouvernement du Canada. On retrouve le logo du programme en arrière plan de l’image.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/JamieBoomhour_PBS_Blog_Post_FR-1.jpg
