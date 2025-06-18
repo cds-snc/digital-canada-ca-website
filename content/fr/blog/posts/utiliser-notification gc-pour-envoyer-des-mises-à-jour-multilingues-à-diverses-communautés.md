@@ -4,11 +4,11 @@ title: 'Utiliser Notification GC pour envoyer des mises à jour multilingues à
 description: >-
   Nous avons rencontré l’équipe d’Optimisation et de modernisation du Réseau Mondial (OMRM) d’Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour discuter de l’utilité que revêt pour elle Notification GC lorsqu’il lui faut communiquer avec une clientèle du monde entier dans la langue locale.
 author: 'L’équipe d’Optimisation et de modernisation du Réseau Mondial (OMRM)'
-date: '2024-07-22T11:22:57'
+date: '2024-07-22T11:17:08'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_-copy.jpg
 image-alt: Icône de message électronique superposée à un globe terrestre et entourée de bulles de texte, représentant l'envoi de messages multilingues partout dans le monde.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/07/Using_GC_Notify_send_multilingual_updates_Blog_Post_-copy.jpg
-tags: [""]
+tags: ["Bilinguisme","Communications","Inclusion","Notification GC"]
 translationKey: blog-ircc-gcnotify
 ---
 

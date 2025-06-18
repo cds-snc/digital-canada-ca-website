@@ -4,7 +4,7 @@ title: 'Comment la rétroaction régulière améliore la prestation de service �
 description: >-
   À ISDE, les équipes recueillent régulièrement de la rétroaction pour améliorer leurs services. Découvrez les expériences du Centre d’expertise en conception et expérimentation (CECE) et de Mesures Canada
 author: 'Kivi Shapiro (analyste principal) et Christina Valentino (conceptrice d’expérience utilisateur), ISDE'
-date: '2023-12-18T09:19:51'
+date: '2023-12-18T09:19:42'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
 image-alt: Un·e concepteur·rice présentant son travail à ses collègues et recueillant leur rétroaction pour l’améliorer.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/12/CritiSessImpServDel_ISED_Blog-FRE-scaled.jpeg
