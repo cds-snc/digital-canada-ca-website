@@ -5,9 +5,9 @@ description: >-
   Sharing the impact of work on GC Design System that ensures all mandatory brand components for Canada.ca are aligned for consistency across the frameworks public servants use.
 author: 'Chelsey Donohue (Chief, Standards and Guidance, Digital Transformation Office) and Amy Morris (Design Lead, GC Design System)'
 date: '2025-06-12T11:10:41'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/IntegratingCanadaGCDesignSystem_2025_Blog_Post_EN-scaled.jpg
-image-alt: Computer screen displaying the GC Design System website, surrounded by icons representing digital design elements such as Breadcrumbs, Date modified, Footer, Header, Language toggle, Site search, Signature, Typography.
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/IntegratingCanadaGCDesignSystem_2025_Blog_Post_EN-scaled.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/new-french-1-scaled.jpg
+image-alt: Écran d’ordinateur affichant le site Web du Système de design GC, entouré d’icônes représentant des éléments de conception numérique tels que le fil d’Ariane, la date de modification, le pied de page, l’en-tête, le sélecteur de langue, la recherche sur le site, la signature et la typographie
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/new-french-1-scaled.jpg
 tags: ["Content design","Design and communications","GC Design System"]
 translationKey: gcds-mandatory-elements-blog
 ---
