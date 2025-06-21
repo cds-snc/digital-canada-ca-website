@@ -1,5 +1,5 @@
 module "s3_buckets" {
-  source      = "github.com/cds-snc/terraform-modules//S3?ref=v10.2.2"
+  source      = "github.com/cds-snc/terraform-modules//S3?ref=v10.5.1"
   for_each    = var.buckets
   bucket_name = each.key
 
@@ -11,7 +11,7 @@ module "s3_buckets" {
 }
 
 module "log_bucket" {
-  source            = "github.com/cds-snc/terraform-modules//S3_log_bucket?ref=v10.2.2"
+  source            = "github.com/cds-snc/terraform-modules//S3_log_bucket?ref=v10.5.1"
   bucket_name       = "cds-website-s3-bucket-logs"
   billing_tag_value = var.billing_code
 }
