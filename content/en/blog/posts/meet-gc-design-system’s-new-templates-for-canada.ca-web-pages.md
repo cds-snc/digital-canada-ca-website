@@ -16,7 +16,7 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>My name’s <a href="https://www.linkedin.com/in/abduldorayi/" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> and I’m the Product Manager for <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">GC Design System </a>. I joined this product team at a time when there was a need for someone to step in and guide the product towards a longer-term strategy, while navigating a complex change management process. </p>
+<p>My name’s <a href="https://www.linkedin.com/in/abduldorayi/" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> and I’m the Product Manager for <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">GC Design System </a>. I joined this product team at a time when there was a need for someone to step in and guide the product towards a longer-term strategy, while navigating a complex change management process.&nbsp;</p>
 
 
 
@@ -148,7 +148,7 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>Occasionally, because of technological differences between the Canada.ca design system and GC Design System, we need to rework or approximate certain designs. But whenever we do, we stay as close as possible to the Canada.ca standards.Occasionally, because of technological differences between the Canada.ca design system and GC Design System, we need to rework or approximate certain designs. But whenever we do, we stay as close as possible to the Canada.ca standards.</p>
+<p>Occasionally, because of technological differences between the Canada.ca design system and GC Design System, we need to rework or approximate certain designs. But whenever we do, we stay as close as possible to the Canada.ca standards.</p>
 
 
 
