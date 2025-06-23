@@ -38,7 +38,7 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p>As part of this effort, CDS teams (<a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> and the <a href="https://design.canada.ca/index.html" target="_blank" rel="noreferrer noopener">Digital Transformation Office (DTO)</a>) worked on the alignment of required brand components with <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/esdc-transition-binders/binder2-service-canada-2021.html#h2.5" target="_blank" rel="noreferrer noopener">Principal Publisher</a>, who manages GCWeb.</p>
+<p>As part of this effort, CDS teams (<a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> and the <a href="https://design.canada.ca/index.html" target="_blank" rel="noreferrer noopener">Digital Transformation Office (DTO)</a> worked on the alignment of required brand components with <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/esdc-transition-binders/binder2-service-canada-2021.html#h2.5" target="_blank" rel="noreferrer noopener">Principal Publisher</a>, who manages GCWeb.</p>
 
 
 
@@ -134,7 +134,7 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p>We should be able to use different systems, frameworks, and implementation strategies while maintaining common interfaces and experiences. Not all government offices work the same way in the background, yet they all have common signage and visual elements when you walk through the door. A visitor immediately knows they’re in a trusted environment. </p>
+<p>We should be able to use different systems, frameworks, and implementation strategies while maintaining common interfaces and experiences. Not all government offices work the same way in the background, yet they all have common signage and visual elements when you walk through the door. A visitor immediately knows they’re in a trusted environment.&nbsp;</p>
 
 
 
