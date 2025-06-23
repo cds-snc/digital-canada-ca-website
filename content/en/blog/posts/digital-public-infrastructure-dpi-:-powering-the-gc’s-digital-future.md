@@ -168,7 +168,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<p>Internationally, this work must be in dialogue and continued relationship with the private sector, academia, and other community partners. Already the <a href="https://www.ucl.ac.uk/bartlett/public-purpose/about" target="_blank" rel="noreferrer noopener">University College London’s Institute for Innovation</a> and <a href="https://dpimap.org/" target="_blank" rel="noreferrer noopener">Public Purpose has launched a Community of Practice</a> and mapping exercise on DPI Measurement to coordinate common measurement tools to investigate DPI impact.&nbsp;</p>
+<p>Internationally, this work must be in dialogue and continued relationship with the private sector, academia, and other community partners. Already the <a href="https://www.ucl.ac.uk/bartlett/public-purpose/about" target="_blank" rel="noreferrer noopener">University College London’s Institute for Innovation and Public Purpose</a> has launched a <a href="https://dpimap.org/" target="_blank" rel="noreferrer noopener">Community of Practice and mapping exercise on DPI Measurement </a>to coordinate common measurement tools to investigate DPI impact. </p>
 
 
 
