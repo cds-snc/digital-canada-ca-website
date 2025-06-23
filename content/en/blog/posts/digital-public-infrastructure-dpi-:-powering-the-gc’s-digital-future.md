@@ -12,7 +12,7 @@ tags: [""]
 translationKey: blog-dpi-cdspolicy
 ---
 
-<p>Digital Public Infrastructure (DPI) has been called the modern road, the electric pipes, the operating system of the country, and the launch pad of digital economies and governments. Pick your brick and mortar metaphor, the point is to make the critical connective tissue and back-office functions of the digital realm visible, to emphasize both the <em>public</em> and <em>infrastructure</em> parts of the acronym, evoking past eras of public investment in, and public benefit from, the central assets necessary to operate a city, a country, a household, or a business. </p>
+<p>Digital Public Infrastructure (DPI) has been called the modern road, the electric pipes, the operating system of the country, and the launch pad of digital economies and governments. Pick your brick and mortar metaphor, the point is to make the critical connective tissue and back-office functions of the digital realm visible, to emphasize both the <em>public</em> and <em>infrastructure</em> parts of the acronym, evoking past eras of public investment in, and public benefit from, the central assets necessary to operate a city, a country, a household, or a business.&nbsp;</p>
 
 
 
@@ -20,7 +20,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<p><a href="https://web.archive.org/web/20240516122817/https://openknowledge.worldbank.org/server/api/core/bitstreams/582c0d73-d367-423c-831d-0640814a7349/content" target="_blank" rel="noreferrer noopener">The World Bank reports</a> that countries with existing digital payment systems were able to reach 3 times as many recipients with emergency cash transfers, to cushion the economic shock of whole sectors pausing and maintain access to the everyday systems people rely on. “Countries with good DPI in place could also keep government services, commerce, hospitals, schools, and other operations functioning through online channels” (World Bank, Digital Progress and Trends Report, 2023). </p>
+<p><a href="https://web.archive.org/web/20240516122817/https://openknowledge.worldbank.org/server/api/core/bitstreams/582c0d73-d367-423c-831d-0640814a7349/content" target="_blank" rel="noreferrer noopener">The World Bank reports</a> that countries with existing digital payment systems were able to reach 3 times as many recipients with emergency cash transfers, to cushion the economic shock of whole sectors pausing and maintain access to the everyday systems people rely on. “Countries with good DPI in place could also keep government services, commerce, hospitals, schools, and other operations functioning through online channels” (World Bank, Digital Progress and Trends Report, 2023).&nbsp;</p>
 
 
 
@@ -49,11 +49,15 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<li><strong>Data exchange systems: </strong>secure and interoperable information flow systems, including physical and digital infrastructure and the enabling legal and policy frameworks, between both public sector and private sector organizations. <br>Example: Estonia’s <em>x-Road </em>is an open-source, centrally-managed, distributed Data Exchange Layer (DXL), described by the Estonian government as the “backbone of e-Estonia”. </li>
+<li><strong>Data exchange systems: </strong>secure and interoperable information flow systems, including physical and digital infrastructure and the enabling legal and policy frameworks, between both public sector and private sector organizations. <br>Example: Estonia’s <em>x-Road </em>is an open-source, centrally-managed, distributed Data Exchange Layer (DXL), described by the Estonian government as the “backbone of e-Estonia”.&nbsp;</li>
 </ol>
 
 
 <img loading="lazy" decoding="async" width="1024" height="394" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-1024x394.jpg" alt="alt text: Illustration of a three-level pyramid representing the Digital Public Infrastructure (DPI) framework: physical infrastructure at the base, DPI building blocks in the middle and digital applications at the top. A side box highlights key building blocks, digital ID, payments, and data exchange as essential for interoperability." class="wp-image-2962" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-1024x394.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-300x115.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-768x295.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-1536x591.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DigitalPublicInfrastructureDPI_2025_Blog_Post_EN-1-2048x788.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
+
+
+<p style="font-size:13px"><strong>Caption: Pyramid with 3 levels showing the Digital Public Infrastructure (DPI) framework. <br></strong>Level 1 (top) is digital applications: applications can be employee-facing tools or public-facing services. Level 2 (middle) is DPI building blocks: foundations that enable authentications, payments, and data exchange. Level 3 (bottom) is physical infrastructure: connectivity, power, and capability. DPI building blocks are essential for effective interoperability. Digital ID: to identify and authenticate individuals when accessing online public services. Payments: that support secure financial transactions such as paying for services or receiving benefits. Data exchange: that facilitate the sharing of information between individuals and the private and public sectors.</p>
+
 
 
 <p>When built well, and well-funded, DPI can have significant real-world payoffs. It could make life easier for citizens every time they interact with the government, be good for the economy, and make our communities more inclusive. </p>
@@ -77,7 +81,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<li>Enables economic growth through enabling infrastructure that the private sector can build on, while reducing rent extraction for critical functions. </li>
+<li>Enables economic growth through enabling infrastructure that the private sector can build on, while reducing rent extraction for critical functions.&nbsp;</li>
 
 
 
@@ -102,7 +106,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<p>Today, we are one third of the way to building the UN endorsed three core DPI requirements. Alongside scaling our existing products, we are developing a unified approach to <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">digital identity </a> called <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Sign in</a>: a secure, inclusive, and user-friendly platform that allows individuals to have one sign in method to access Government of Canada services. We are also building a product called <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Issue and Verify</a>, which will give government departments the ability to issue digital versions of the physical credentials they already provide, like work permits and boating licenses.  <br><br>From our vantage point in Service Canada, we see the problems that these missing infrastructure gaps pose to service delivery. As policy advisors in a delivery organization, we look first to ensure we have the enabling frameworks that provide authorities, smooth collaboration, and unlock implementation.</p>
+<p>Today, we are one third of the way to building the UN endorsed three core DPI requirements. Alongside scaling our existing products, we are developing a unified approach to <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">digital identity </a>&nbsp;called <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Sign in</a>: a secure, inclusive, and user-friendly platform that allows individuals to have one sign in method to access Government of Canada services. We are also building a product called <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/digital-credentials.html" target="_blank" rel="noreferrer noopener">GC Issue and Verify</a>, which will give government departments the ability to issue digital versions of the physical credentials they already provide, like work permits and boating licenses.&nbsp;&nbsp;<br><br>From our vantage point in Service Canada, we see the problems that these missing infrastructure gaps pose to service delivery. As policy advisors in a delivery organization, we look first to ensure we have the enabling frameworks that provide authorities, smooth collaboration, and unlock implementation.</p>
 
 
 
@@ -111,15 +115,15 @@ translationKey: blog-dpi-cdspolicy
 
 
 <ol class="wp-block-list">
-<li><strong>Review and update Canada’s major policies to provide the necessary scaffolding for the infrastructure view of the government and ensure that enabling conditions are met</strong>. This includes the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603" target="_blank" rel="noreferrer noopener">Policy on Service and Digital</a>, <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578" target="_blank" rel="noreferrer noopener">Policy on Government Security</a>, <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32593" target="_blank" rel="noreferrer noopener">Policy on the Planning and Management of Investments</a>, the <a href="https://laws-lois.justice.gc.ca/eng/ACTS/P-21/index.html" target="_blank" rel="noreferrer noopener">Privacy Act</a>, and <a href="https://laws-lois.justice.gc.ca/eng/acts/a-1/" target="_blank" rel="noreferrer noopener">Access to Information Act</a>. This renewal work is both critical and, by necessity, iterative, needing to adapt to ever-changing best practices and digital technology. <br></li>
+<li><strong>Review and update Canada’s major policies to provide the necessary scaffolding for the infrastructure view of the government and ensure that enabling conditions are met</strong>. This includes the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32603" target="_blank" rel="noreferrer noopener">Policy on Service and Digital</a>, <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=16578" target="_blank" rel="noreferrer noopener">Policy on Government Security</a>, <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32593" target="_blank" rel="noreferrer noopener">Policy on the Planning and Management of Investments</a>, the <a href="https://laws-lois.justice.gc.ca/eng/ACTS/P-21/index.html" target="_blank" rel="noreferrer noopener">Privacy Act</a>, and <a href="https://laws-lois.justice.gc.ca/eng/acts/a-1/" target="_blank" rel="noreferrer noopener">Access to Information Act</a>. This renewal work is both critical and, by necessity, iterative, needing to adapt to ever-changing best practices and digital technology.&nbsp;<br></li>
 
 
 
-<li><strong>Make critical decisions on prioritizing enterprise investments.</strong> We need to be smarter and bolder about financial allocations, even if that means there will be winners and losers in the system, and ensure that not all our funding is locked up in large-scale and under-performing investments while mission-critical work is stuck in the queue. Otherwise, we risk making empty commitments that the system cannot implement and we cannot afford.  <br></li>
+<li><strong>Make critical decisions on prioritizing enterprise investments.</strong> We need to be smarter and bolder about financial allocations, even if that means there will be winners and losers in the system, and ensure that not all our funding is locked up in large-scale and under-performing investments while mission-critical work is stuck in the queue. Otherwise, we risk making empty commitments that the system cannot implement and we cannot afford.&nbsp;&nbsp;<br></li>
 
 
 
-<li><strong>Make long-term commitments to the remaining missing core infrastructure</strong>. Building infrastructure requires predictable, long-term funding and stable hiring, ensuring institutional knowledge transfer isn’t disrupted by high-turnover, and energy and resources often spent chasing project-specific pilot funding can be better used. The public needs to know we can meet our timelines and teams need to have the certainty that they can take the project across the finish line. DPI is meant to be an integrated system, and we cannot reap the full benefits of our investments, in service improvements, savings, or economic development, without meeting the G20 consensus on core infrastructure. </li>
+<li><strong>Make long-term commitments to the remaining missing core infrastructure</strong>. Building infrastructure requires predictable, long-term funding and stable hiring, ensuring institutional knowledge transfer isn’t disrupted by high-turnover, and energy and resources often spent chasing project-specific pilot funding can be better used. The public needs to know we can meet our timelines and teams need to have the certainty that they can take the project across the finish line. DPI is meant to be an integrated system, and we cannot reap the full benefits of our investments, in service improvements, savings, or economic development, without meeting the G20 consensus on core infrastructure.&nbsp;</li>
 </ol>
 
 
@@ -149,7 +153,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 <ul class="wp-block-list">
-<li>Public Services and Procurement Canada (PSPC) is the <em>government transformation and procurement lead</em> for the GC. PSPC should play a key role in steering digital transformation toward public good. Shared Services Canada (SSC), under the Government transformation portfolio, is the <em>infrastructure</em> lead, playing a key role in managing IT infrastructure services, ensuring that effective and efficient business management processes happen, fostering innovation in digital technology and enabling government transformation. As the IT infrastructure and technology provider, SSC plays an important role, in collaboration with TBS OCIO, on architecture and policy. </li>
+<li>Public Services and Procurement Canada (PSPC) is the <em>government transformation and procurement lead</em> for the GC. PSPC should play a key role in steering digital transformation toward public good. Shared Services Canada (SSC), under the Government transformation portfolio, is the <em>infrastructure</em> lead, playing a key role in managing IT infrastructure services, ensuring that effective and efficient business management processes happen, fostering innovation in digital technology and enabling government transformation. As the IT infrastructure and technology provider, SSC plays an important role, in collaboration with TBS OCIO, on architecture and policy.&nbsp;</li>
 </ul>
 
 
@@ -160,11 +164,11 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<p>Finally, this work can’t happen in a vacuum. In Canada, there are many bodies already working to ensure alignment on a broad direction for DPI beyond the federal sphere, with not-for-profit groups, such as the <a href="https://iccs-isac.org/" target="_blank" rel="noreferrer noopener">Institute for Citizen-Centred Services (ISSC)</a> providing organizational coordination. This includes the <a href="https://iccs-isac.org/our-work/councils/public-sector-chief-information-officer-council-pscioc#:~:text=The%20PSCIOC%20focuses%20on%20pan,Information%20Systems%20Association%20(MISA)." target="_blank" rel="noreferrer noopener">Public Service Chief Information Officer Council</a> (PSCIOC), the <a href="https://iccs-isac.org/our-work/councils/public-sector-service-delivery-council-pssdc#:~:text=The%20PSSDC%20was%20created%20in,through%20the%20Municipal%20Service%20Delivery" target="_blank" rel="noreferrer noopener">Public Sector Service Delivery Council</a>, the <a href="https://iccs-isac.org/our-work/councils/joint-councils" target="_blank" rel="noreferrer noopener">Joint Councils</a>, the <a href="https://dgc-cgn.org/" target="_blank" rel="noreferrer noopener">Digital Governance Council</a> and various senior management tables. </p>
+<p>Finally, this work can’t happen in a vacuum. In Canada, there are many bodies already working to ensure alignment on a broad direction for DPI beyond the federal sphere, with not-for-profit groups, such as the <a href="https://iccs-isac.org/" target="_blank" rel="noreferrer noopener">Institute for Citizen-Centred Services (ISSC)</a> providing organizational coordination. This includes the <a href="https://iccs-isac.org/our-work/councils/public-sector-chief-information-officer-council-pscioc#:~:text=The%20PSCIOC%20focuses%20on%20pan,Information%20Systems%20Association%20(MISA)." target="_blank" rel="noreferrer noopener">Public Service Chief Information Officer Council</a> (PSCIOC), the <a href="https://iccs-isac.org/our-work/councils/public-sector-service-delivery-council-pssdc#:~:text=The%20PSSDC%20was%20created%20in,through%20the%20Municipal%20Service%20Delivery" target="_blank" rel="noreferrer noopener">Public Sector Service Delivery Council</a>, the <a href="https://iccs-isac.org/our-work/councils/joint-councils" target="_blank" rel="noreferrer noopener">Joint Councils</a>, the <a href="https://dgc-cgn.org/" target="_blank" rel="noreferrer noopener">Digital Governance Council</a> and various senior management tables.&nbsp;</p>
 
 
 
-<p>Internationally, this work must be in dialogue and continued relationship with the private sector, academia, and other community partners. Already the <a href="https://www.ucl.ac.uk/bartlett/public-purpose/about" target="_blank" rel="noreferrer noopener">University College London’s Institute for Innovation</a> and <a href="https://dpimap.org/" target="_blank" rel="noreferrer noopener">Public Purpose has launched a Community of Practice</a> and mapping exercise on DPI Measurement to coordinate common measurement tools to investigate DPI impact. </p>
+<p>Internationally, this work must be in dialogue and continued relationship with the private sector, academia, and other community partners. Already the <a href="https://www.ucl.ac.uk/bartlett/public-purpose/about" target="_blank" rel="noreferrer noopener">University College London’s Institute for Innovation</a> and <a href="https://dpimap.org/" target="_blank" rel="noreferrer noopener">Public Purpose has launched a Community of Practice</a> and mapping exercise on DPI Measurement to coordinate common measurement tools to investigate DPI impact.&nbsp;</p>
 
 
 
@@ -176,7 +180,7 @@ translationKey: blog-dpi-cdspolicy
 
 
 
-<p>At CDS, we have already seen mindsets shifting within government, with more talk of shared platforms instead of a multitude of individual departmental solutions. We have been part of small successes, and we’re gearing up for bigger ones. The work starts now, and we at the Canadian Digital Service are excited to help lead the way. Together, we can build a more connected, efficient, and accessible digital future for Canada.</p>
+<p>At CDS, we have already seen mindsets shifting within government, with more talk of shared platforms instead of a multitude of individual departmental solutions. We have been part of small successes, and we’re gearing up for bigger ones. The work starts now, and we at the Canadian Digital Service are excited to help lead the way.&nbsp;Together, we can build a more connected, efficient, and accessible digital future for Canada.</p>
 
 
 
