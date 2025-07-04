@@ -4,6 +4,15 @@
 //
 ////////////////////////////////////////////////////////////
 
+gcds-nav-link[slot=home] {
+  --gcds-nav-link-top-nav-home-padding: 0.375rem 0.125rem;
+
+  &:focus>.cds-toolkit-logo {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+  }
+}
+
 .cds-toolkit-logo {
   background-position: center center;
   background-repeat: no-repeat;
@@ -11,11 +20,13 @@
   align-self: center;
   height: 2.78rem;
   width: 13.88rem;
+  display: block;
 
   // BILINGUAL SPECIFIC CDS LOGO
   &.en {
     background-image: url("../img/toolkit/cds-toolkit-logo-blk-en.svg");
   }
+
   &.fr {
     background-image: url("../img/toolkit/cds-toolkit-logo-blk-fr.svg");
   }
