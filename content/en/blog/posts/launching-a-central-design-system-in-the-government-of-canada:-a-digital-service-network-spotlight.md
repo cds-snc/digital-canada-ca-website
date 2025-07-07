@@ -4,12 +4,12 @@ title: 'Launching a central design system in the Government of Canada: A Digital
 description: >-
   DSN Spotlights are short-form project profiles that feature exciting work happening across our network of digital government practitioners. Spotlights celebrate our members’ stories, lift up actionable takeaways for other practitioners, and put the resources + examples we host in the Digital Government Hub in context
 author: 'Melanie Boeckmann (developer), Amy Morris (content designer) and Abdul Aminu, (product manager)'
-date: '2025-07-07T12:14:01'
+date: '2025-07-07T12:19:23'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_EN-NetworkGCdesignsystem-scaled.jpg
 image-alt: A screenshot of the GC design system home page, with logos of a webtool, a webpage and a maple leaf.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_EN-NetworkGCdesignsystem-scaled.jpg
 tags: ["Content design","GC Design System"]
-translationKey: launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight
+translationKey: blog-launching-central-design-system
 ---
 
 <p><em>This case study was originally published by the Digital Service Network in June&nbsp;2025. </em><a href="https://digitalgovernmenthub.org/publications/launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight/?utm_source=dsn&amp;utm_medium=social&amp;utm_campaign=spotlight" target="_blank" rel="noreferrer noopener"><em>Read the original version</em></a><em>.</em></p>
