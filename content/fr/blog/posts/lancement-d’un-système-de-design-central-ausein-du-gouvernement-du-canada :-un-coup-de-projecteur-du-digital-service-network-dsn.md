@@ -4,12 +4,12 @@ title: 'Lancement d’un système de design central ausein du gouvernement du Ca
 description: >-
   Il s’agit de brefs profils de projets qui présentent des travaux passionnants réalisés par notre réseau de praticiens du numérique de l’administration gouvernementale. Ces faits saillants célèbrent les histoires de nos membres, repèrent des pistes d’action pour d’autres praticiens et mettent en contexte les ressources et les exemples que nous hébergeons dans le centre numérique du gouvernement.
 author: 'Melanie Boeckmann (développeuse), Amy Morris (conceptrice de contenu) et Abdul Aminu (gestionnaire de produits)'
-date: '2025-07-07T12:01:08'
+date: '2025-07-07T12:14:01'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_FR-NetworkGCdesignsystem-scaled.jpg
 image-alt: Une capture d’écran de la page d’accueil de Système de design GC, avec des logos d’un outil Web, d’une page Web et d’une feuille d’érable.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_FR-NetworkGCdesignsystem-scaled.jpg
 tags: ["Conception de contenu","Système de design GC"]
-translationKey: lancement-dun-systeme-de-design-central-ausein-du-gouvernement-du-canada-un-coup-de-projecteur-du-digital-service-network-dsn
+translationKey: https-articles-alpha-canada-ca-cds-snc-2025-07-07-launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight
 ---
 
 <p>Cette étude de cas a initialement été publiée par Digital Service network (réseau de services numériques ) en juin 2025. <a href="https://digitalgovernmenthub.org/publications/launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight/?utm_source=dsn&amp;utm_medium=social&amp;utm_campaign=spotlight" target="_blank" rel="noreferrer noopener">Lire la version originale</a> (en anglais seulement).</p>
