@@ -9,7 +9,7 @@ image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_
 image-alt: Une capture d’écran de la page d’accueil de Système de design GC, avec des logos d’un outil Web, d’une page Web et d’une feuille d’érable.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/2025_Blog_Post_FR-NetworkGCdesignsystem-scaled.jpg
 tags: ["Conception de contenu","Système de design GC"]
-translationKey: https-articles-alpha-canada-ca-cds-snc-2025-07-07-launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight
+translationKey: blog-launching-central-design-system
 ---
 
 <p>Cette étude de cas a initialement été publiée par Digital Service network (réseau de services numériques ) en juin 2025. <a href="https://digitalgovernmenthub.org/publications/launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight/?utm_source=dsn&amp;utm_medium=social&amp;utm_campaign=spotlight" target="_blank" rel="noreferrer noopener">Lire la version originale</a> (en anglais seulement).</p>
