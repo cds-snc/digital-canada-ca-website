@@ -20,7 +20,7 @@ translationKey: blog-launching-central-design-system
 
 
 
-<p>Government websites play a crucial role in connecting the public with essential information and services. Consistent, reliable, and recognizable government websites are a key enabler of trust between the public and their government. With 30+ tools and systems for website and application development in place across the Government of Canada’s (GC) more than 100 departments and agencies, the Canadian Digital Service (CDS) highlighted a need for a more unified approach.&nbsp;</p>
+<p>Government websites play a crucial role in connecting the public with essential information and services. Consistent, reliable, and recognizable government websites are a key enabler of trust between the public and their government. With 30+ tools and systems for website and application development in place across the Government of Canada’s (GC) more than 100 departments and agencies, the Canadian Digital Service (CDS) highlighted a need for a more unified approach.</p>
 
 
 
