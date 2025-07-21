@@ -18,7 +18,7 @@ if aws lambda get-function --function-name "$FULL_FUNCTION_NAME" > /dev/null 2>&
   echo "Function exists. Updating code..."
   aws lambda update-function-code \
     --function-name "$FULL_FUNCTION_NAME" \
-    --image-uri "${REGISTRY}/${IMAGE}:${IMAGE_TAG}"
+    --image-uri "${REGISTRY}/${IMAGE}:${IMAGE_TAG}" > /dev/null 2>&1
 else
   echo "Function does not exist. Creating new Lambda function..."
   aws lambda create-function \
@@ -27,7 +27,7 @@ else
     --role "$ROLE_ARN" \
     --code ImageUri="${REGISTRY}/${IMAGE}:latest" \
     --environment "Variables={CONTENT_DIR=/var/www/html/$LANG}" \
-    --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
+    --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" > /dev/null 2>&1
 
   echo "Waiting for function to become active..."
   aws lambda wait function-active --function-name "$FULL_FUNCTION_NAME"
