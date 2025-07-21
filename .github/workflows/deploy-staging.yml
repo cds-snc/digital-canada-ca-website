@@ -13,10 +13,11 @@ env:
   REGION: ca-central-1
   HUGO_VERSION: 0.136.0
 
+# OIDC permissions block  
 permissions:
-  id-token: write # Required for OIDC authentication with AWS
-  contents: read # Required for checking out code
-  pull-requests: write # Required for commenting on PRs
+  id-token: write    # Required for OIDC authentication with AWS
+  contents: read     # Required for checking out code
+  pull-requests: write  # Required for commenting on PRs
 
 jobs:
   build-and-push-staging-container:
@@ -37,10 +38,11 @@ jobs:
           aws-region: ${{ env.REGION }}
 
       - name: Login to Amazon ECR
+        id: login-ecr
         uses: aws-actions/amazon-ecr-login@062b18b96a7aff071d4dc91bc00c4c1a7945b076 # v2.0.1
 
       - name: Set up Hugo
-        uses: peaceiris/actions-hugo@@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2.6.0
+        uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2.6.0
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
