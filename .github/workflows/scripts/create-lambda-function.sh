@@ -30,7 +30,7 @@ else
     --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" > /dev/null 2>&1
 
   echo "Waiting for function to become active..."
-  aws lambda wait function-active --function-name "$FULL_FUNCTION_NAME"
+  aws lambda wait function-active --function-name "$FULL_FUNCTION_NAME" > /dev/null 2>&1
 
   echo "Setting up function URL..."
   aws lambda add-permission \
@@ -38,13 +38,13 @@ else
     --statement-id FunctionURLAllowPublicAccess \
     --action lambda:InvokeFunctionUrl \
     --principal "*" \
-    --function-url-auth-type NONE
+    --function-url-auth-type NONE > /dev/null 2>&1
 
   echo "Setting up logs..."
-  aws logs create-log-group --log-group-name /aws/lambda/"$FULL_FUNCTION_NAME" || true
-  aws logs put-retention-policy --log-group-name /aws/lambda/"$FULL_FUNCTION_NAME" --retention-in-days 7
+  aws logs create-log-group --log-group-name /aws/lambda/"$FULL_FUNCTION_NAME" || true > /dev/null 2>&1
+  aws logs put-retention-policy --log-group-name /aws/lambda/"$FULL_FUNCTION_NAME" --retention-in-days 7 > /dev/null 2>&1
 
   aws lambda create-function-url-config \
     --function-name "$FULL_FUNCTION_NAME" \
-    --auth-type NONE
+    --auth-type NONE > /dev/null 2>&1
 fi
