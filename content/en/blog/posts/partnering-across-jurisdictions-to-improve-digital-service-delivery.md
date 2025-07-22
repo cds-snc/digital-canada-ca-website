@@ -4,7 +4,7 @@ title: 'Partnering across jurisdictions to improve digital service delivery'
 description: >-
   Highlights CDS’s relationship with the Institute of Citizen-Center Service (ICCS) and pan-Canadian collaboration.
 author: 'Paul N. Wagner, Chief Executive Officer (CEO) of CDS'
-date: '2025-07-22T10:01:59'
+date: '2025-07-22T10:16:05'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
 image-alt: Public servants across Canada sharing ideas and guidance for digital service delivery.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
@@ -22,7 +22,7 @@ translationKey: blog-iccs-cds-ceo
 
 
 
-<p>CDS collaborates with many teams across all levels of government to share expertise and learn from each other about approaches to public service delivery in Canada. We also work with jurisdictions to advance the use, adoption, and interoperability of digital credentials and trust services. Particularly through Federal, Provincial, and Territorial (FPT) forums and governance tables, where the <a href="https://iccs-isac.org/" target="_blank" rel="noreferrer noopener">Institute for Citizen-Centred Service (ICCS) </a>is an integral part of this collaboration. ICCS is a not-for-profit organization dedicated to helping to remove access barriers and improving service delivery experiences for people interacting with all levels of government in Canada. </p>
+<p>CDS collaborates with many teams across all levels of government to share expertise and learn from each other about approaches to public service delivery in Canada. We also work with jurisdictions to advance the use, adoption, and interoperability of digital credentials and trust services. Particularly through Federal, Provincial, and Territorial (FPT) forums and governance tables, where the <a href="https://iccs-isac.org/" target="_blank" rel="noreferrer noopener">Institute for Citizen-Centred Service (ICCS) </a>is an integral part of this collaboration. ICCS is a not-for-profit organization dedicated to helping to remove access barriers and improving service delivery experiences for people interacting with all levels of government in Canada.</p>
 
 
 
