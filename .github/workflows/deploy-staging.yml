@@ -115,7 +115,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        
+
       - name: Configure AWS credentials using OIDC
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
         with:
@@ -188,8 +188,8 @@ jobs:
             const comment = `## 🚀 Staging deployment complete!
 
             Preview your changes at:
-            - English: ${{ needs.build-and-push-staging-container.outputs.en_url }}
-            - French: ${{ needs.build-and-push-staging-container.outputs.fr_url }}`;
+            - English: ${{ needs.generate-hugo-config.outputs.en_url}}
+            - French: ${{ needs.generate-hugo-config.outputs.fr_url }}`;
 
             github.rest.issues.createComment({
               ...context.repo,
