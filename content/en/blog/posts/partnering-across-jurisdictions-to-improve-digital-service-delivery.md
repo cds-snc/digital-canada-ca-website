@@ -4,7 +4,7 @@ title: 'Partnering across jurisdictions to improve digital service delivery'
 description: >-
   Highlights CDS’s relationship with the Institute of Citizen-Center Service (ICCS) and pan-Canadian collaboration.
 author: 'Paul N. Wagner, Chief Executive Officer (CEO) of CDS'
-date: '2025-07-22T10:01:59'
+date: '2025-07-22T10:15:12'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
 image-alt: Public servants across Canada sharing ideas and guidance for digital service delivery.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
