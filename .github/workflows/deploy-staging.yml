@@ -23,8 +23,7 @@ jobs:
   build-and-push-staging-container:
     runs-on: ubuntu-latest
     outputs:
-      en_url: ${{ steps.hugo_config.outputs.en_url }}
-      fr_url: ${{ steps.hugo_config.outputs.fr_url }}
+      image_uri: ${{ steps.docker_build.outputs.image }}
 
     steps:
       - name: Checkout repository
@@ -46,23 +45,6 @@ jobs:
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
-
-      - name: Generate Hugo config
-        id: hugo_config
-        env:
-          PR_NUMBER: ${{ github.event.pull_request.number }}
-        run: |
-          FUNCTION_URL_EN="$(aws lambda list-function-url-configs \
-            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-en" \
-            --query 'FunctionUrlConfigs[0].FunctionUrl' \
-            --output text)"
-          FUNCTION_URL_FR="$(aws lambda list-function-url-configs \
-            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-fr" \
-            --query 'FunctionUrlConfigs[0].FunctionUrl' \
-            --output text)"
-          .github/workflows/scripts/generate-hugo-config.sh '{"en_url":"'"$FUNCTION_URL_EN"'","fr_url":"'"$FUNCTION_URL_FR"'"}'
-          echo "en_url=$FUNCTION_URL_EN" >> "$GITHUB_OUTPUT"
-          echo "fr_url=$FUNCTION_URL_FR" >> "$GITHUB_OUTPUT"
 
       - name: Build Hugo site
         run: hugo --minify --environment staging
@@ -123,9 +105,39 @@ jobs:
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
             "${{ env.ROLE_ARN }}"
+  
+  generate-hugo-config:
+    needs: create-lambda-functions
+    runs-on: ubuntu-latest
+    outputs:
+      en_url: ${{ steps.generate_config.outputs.en_url }}
+      fr_url: ${{ steps.generate_config.outputs.fr_url }}
+    steps:
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
+          role-session-name: PRReviewEnv
+          aws-region: ${{ env.REGION }}
+      - name: Generate Hugo config
+        id: hugo_config
+        env:
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          FUNCTION_URL_EN="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-en" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          FUNCTION_URL_FR="$(aws lambda list-function-url-configs \
+            --function-name "${{ env.FUNCTION_NAME }}-${{ env.PR_NUMBER }}-fr" \
+            --query 'FunctionUrlConfigs[0].FunctionUrl' \
+            --output text)"
+          .github/workflows/scripts/generate-hugo-config.sh '{"en_url":"'"$FUNCTION_URL_EN"'","fr_url":"'"$FUNCTION_URL_FR"'"}'
+          echo "en_url=$FUNCTION_URL_EN" >> "$GITHUB_OUTPUT"
+          echo "fr_url=$FUNCTION_URL_FR" >> "$GITHUB_OUTPUT"                  
 
   deploy-staging-images:
-    needs: [create-lambda-functions, build-and-push-staging-container]
+    needs: [generate-hugo-config]
     runs-on: ubuntu-latest
     strategy:
       matrix:
