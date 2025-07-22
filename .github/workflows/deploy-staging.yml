@@ -1,9 +1,7 @@
 name: PR Staging Review
-
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-
 env:
   FUNCTION_NAME: "pr-review-env"
   GITHUB_SHA: ${{ github.sha }}
@@ -12,116 +10,36 @@ env:
   ROLE_ARN: arn:aws:iam::521732289257:role/pr-review-env-lambda
   REGION: ca-central-1
   HUGO_VERSION: 0.136.0
-
 # OIDC permissions block  
 permissions:
   id-token: write    # Required for OIDC authentication with AWS
   contents: read     # Required for checking out code
   pull-requests: write  # Required for commenting on PRs
-
 jobs:
   build-and-push-staging-container:
     runs-on: ubuntu-latest
     outputs:
-      image_uri: ${{ steps.docker_build.outputs.image }}
+      en_url: ${{ steps.hugo_config.outputs.en_url }}
+      fr_url: ${{ steps.hugo_config.outputs.fr_url }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-
       - name: Configure AWS credentials using OIDC
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
         with:
           role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
           role-session-name: PRReviewEnv
           aws-region: ${{ env.REGION }}
-
       - name: Login to Amazon ECR
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@062b18b96a7aff071d4dc91bc00c4c1a7945b076 # v2.0.1
-
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@16361eb4acea8698b220b76c0d4e84e1fd22c61d # v2.6.0
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
 
-      - name: Build Hugo site
-        run: hugo --minify --environment staging
-
-      - name: Build and push Docker image
-        id: docker_build
-        env:
-          IMAGE_TAG: ${{ github.event.pull_request.number }}
-        run: |
-          #  Build the image
-          docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
-          docker tag ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
-
-          # Push both tags
-          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG
-          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
-
-          # Set the output with the full image URI
-          echo "image=${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG" >> "$GITHUB_OUTPUT"
-
-      - name: Delete old images
-        run: |
-          IMAGES_TO_DELETE=$( aws ecr list-images --region ${{ env.REGION }} --repository-name $IMAGE --filter "tagStatus=UNTAGGED" --query 'imageIds[*]' --output json )
-          aws ecr batch-delete-image --region ${{ env.REGION }} --repository-name $IMAGE --image-ids "$IMAGES_TO_DELETE" || true
-
-      - name: Logout of Amazon ECR
-        run: docker logout $REGISTRY
-
-  create-lambda-functions:
-    needs: build-and-push-staging-container
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        lang: [en, fr]
-        include:
-          - lang: en
-            full_name: English
-          - lang: fr
-            full_name: French
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-
-      - name: Configure AWS credentials using OIDC
-        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
-        with:
-          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
-          role-session-name: PRReviewEnv
-          aws-region: ${{ env.REGION }}
-
-      - name: Create or update Lambda function
-        run: |
-          .github/workflows/scripts/create-lambda-function.sh \
-            "${{ matrix.lang }}" \
-            "${{ github.event.pull_request.number }}" \
-            "${{ env.FUNCTION_NAME }}" \
-            "${{ env.REGISTRY }}" \
-            "${{ env.IMAGE }}" \
-            "${{ env.ROLE_ARN }}"
-  
-  generate-hugo-config:
-    needs: create-lambda-functions
-    runs-on: ubuntu-latest
-    outputs:
-      en_url: ${{ steps.hugo_config.outputs.en_url }}
-      fr_url: ${{ steps.hugo_config.outputs.fr_url }}
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-
-      - name: Configure AWS credentials using OIDC
-        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
-        with:
-          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
-          role-session-name: PRReviewEnv
-          aws-region: ${{ env.REGION }}
       - name: Generate Hugo config
         id: hugo_config
         env:
@@ -137,26 +55,73 @@ jobs:
             --output text)"
           .github/workflows/scripts/generate-hugo-config.sh '{"en_url":"'"$FUNCTION_URL_EN"'","fr_url":"'"$FUNCTION_URL_FR"'"}'
           echo "en_url=$FUNCTION_URL_EN" >> "$GITHUB_OUTPUT"
-          echo "fr_url=$FUNCTION_URL_FR" >> "$GITHUB_OUTPUT"                  
+          echo "fr_url=$FUNCTION_URL_FR" >> "$GITHUB_OUTPUT"
+      - name: Build Hugo site
+        run: hugo --minify --environment staging
 
-  deploy-staging-images:
-    needs: [generate-hugo-config]
+      - name: Build and push Docker image
+        id: docker_build
+        env:
+          IMAGE_TAG: ${{ github.event.pull_request.number }}
+        run: |
+          #  Build the image
+          docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
+          docker tag ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
+          # Push both tags
+          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG
+          docker push ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
+          # Set the output with the full image URI
+          echo "image=${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG" >> "$GITHUB_OUTPUT"
+      - name: Delete old images
+        run: |
+          IMAGES_TO_DELETE=$( aws ecr list-images --region ${{ env.REGION }} --repository-name $IMAGE --filter "tagStatus=UNTAGGED" --query 'imageIds[*]' --output json )
+          aws ecr batch-delete-image --region ${{ env.REGION }} --repository-name $IMAGE --image-ids "$IMAGES_TO_DELETE" || true
+      - name: Logout of Amazon ECR
+        run: docker logout $REGISTRY
+  create-lambda-functions:
+    needs: build-and-push-staging-container
     runs-on: ubuntu-latest
     strategy:
       matrix:
         lang: [en, fr]
-
+        include:
+          - lang: en
+            full_name: English
+          - lang: fr
+            full_name: French
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-
       - name: Configure AWS credentials using OIDC
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
         with:
           role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
           role-session-name: PRReviewEnv
           aws-region: ${{ env.REGION }}
-
+      - name: Create or update Lambda function
+        run: |
+          .github/workflows/scripts/create-lambda-function.sh \
+            "${{ matrix.lang }}" \
+            "${{ github.event.pull_request.number }}" \
+            "${{ env.FUNCTION_NAME }}" \
+            "${{ env.REGISTRY }}" \
+            "${{ env.IMAGE }}" \
+            "${{ env.ROLE_ARN }}"
+  deploy-staging-images:
+    needs: [create-lambda-functions, build-and-push-staging-container]
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lang: [en, fr]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Configure AWS credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/pr-review-env-manage
+          role-session-name: PRReviewEnv
+          aws-region: ${{ env.REGION }}
       - name: Update Lambda Function
         run: |
           .github/workflows/scripts/create-lambda-function.sh \
@@ -166,7 +131,6 @@ jobs:
             "${{ env.REGISTRY }}" \
             "${{ env.IMAGE }}" \
             "${{ env.ROLE_ARN }}"
-
       - name: Delete previous comments
       # Only comment once for the PR
         if: matrix.lang == 'en'
@@ -178,7 +142,6 @@ jobs:
             if (comment) {
               await github.rest.issues.deleteComment({...context.repo, comment_id: comment.id});
             }
-
       - name: Comment PR with staging URLs
       # Only comment once for the PR
         if: matrix.lang == 'en'
@@ -186,11 +149,9 @@ jobs:
         with:
           script: |
             const comment = `## 🚀 Staging deployment complete!
-
             Preview your changes at:
-            - English: ${{ needs.generate-hugo-config.outputs.en_url}}
-            - French: ${{ needs.generate-hugo-config.outputs.fr_url }}`;
-
+            - English: ${{ needs.build-and-push-staging-container.outputs.en_url }}
+            - French: ${{ needs.build-and-push-staging-container.outputs.fr_url }}`;
             github.rest.issues.createComment({
               ...context.repo,
               issue_number: context.issue.number,
