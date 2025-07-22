@@ -110,8 +110,8 @@ jobs:
     needs: create-lambda-functions
     runs-on: ubuntu-latest
     outputs:
-      en_url: ${{ steps.generate_config.outputs.en_url }}
-      fr_url: ${{ steps.generate_config.outputs.fr_url }}
+      en_url: ${{ steps.hugo_config.outputs.en_url }}
+      fr_url: ${{ steps.hugo_config.outputs.fr_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
