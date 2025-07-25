@@ -5,9 +5,9 @@ description: >-
   Communiquer l’étendue des travaux effectués sur le Système de design GC qui permettent de veiller à ce que tous les composants de l’image de marque Canada.ca soient uniformes et cohérents pour l’ensemble des cadres à la disposition des fonctionnaires fédéraux.
 author: 'Chelsey Donohue (cheffe, Normes et guide, Bureau de la transformation numérique au SNC) et Amy Morris (responsable de la conception, Système de design GC)'
 date: '2025-06-12T11:10:41'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/new-french-1-scaled.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/IntegratingCanadaGCDesignSystem_2025_Blog_Post_FR-scaled.jpg
 image-alt: Écran d’ordinateur affichant le site Web du Système de design GC, entouré d’icônes représentant des éléments de conception numérique tels que le fil d’Ariane, la date de modification, le pied de page, l’en-tête, le sélecteur de langue, la recherche sur le site, la signature et la typographie
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/new-french-1-scaled.jpg
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/IntegratingCanadaGCDesignSystem_2025_Blog_Post_FR-scaled.jpg
 tags: ["Conception de contenu","Conception et communications","Système de design GC"]
 translationKey: gcds-mandatory-elements-blog
 ---
