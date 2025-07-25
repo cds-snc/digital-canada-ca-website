@@ -23,9 +23,11 @@
           <article class="post-container">
             <div class="text-container">
               <div style="margin-top: 1rem;">
-                <a href="{{ .Permalink }}" class="blog-title">
-                  <h2 style="font-size: 2.2rem; font-weight:600;">{{ .Title | markdownify }}</h2>
-                </a>
+                <h2 style="font-size: 2.2rem; font-weight:600;">
+                  <a href="{{ .Permalink }}" class="blog-title">
+                    {{ .Title | markdownify }}
+                  </a>
+                </h2>
               </div>
               <div class="date">
                 <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>{{ .Date.Format "January 2, 2006" }}</time>
@@ -38,8 +40,8 @@
               </div>
               <gcds-button size="small" button-role="secondary" button-id="read-full-post-btn" type="link" href="{{ .Permalink }}">
                 {{ i18n "read-more" }}
-                <span style="display: none;">: {{ .Title }}</span>
-                <gcds-icon name="fa-solid fa-chevron-right" | size="inherit"></gcds-icon>
+                <gcds-sr-only tag="span">: {{ .Title }}</gcds-sr-only>
+                <gcds-icon name="chevron-right" size="inherit"></gcds-icon>
               </gcds-button>
               <div class="tags">
                 <p><b>{{ i18n "topics" }}:</b>&nbsp;
