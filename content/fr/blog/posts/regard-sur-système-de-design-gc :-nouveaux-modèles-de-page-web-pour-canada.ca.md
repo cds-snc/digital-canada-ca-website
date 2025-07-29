@@ -2,7 +2,7 @@
 layout: blog
 title: 'Regard sur Système de design GC : nouveaux modèles de page Web pour Canada.ca'
 description: >-
-  Dans ce billet de blogue, Adbul Aminu (gestionnaire de produits au SNC), nous fait part du travail de son équipe sur les nouveaux modèles de pages proposés par Système de design GC.
+  Dans ce billet de blogue, Abdul Aminu (gestionnaire de produits au SNC), nous fait part du travail de son équipe sur les nouveaux modèles de pages proposés par Système de design GC.
 author: ' Abdul Aminu, gestionnaire de produits, Système de design GC'
 date: '2025-06-18T13:04:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/05/socialmediapackageGCDSPagestemplate_Blog_Post.jpg
