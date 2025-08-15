@@ -32,7 +32,7 @@ translationKey: blog-annualreport-tacticalplan
 
 
 
-<p>Over the past year, CDS has supported departments across the Government of Canada in making public services more secure, accessible, and focused on the people they serve. From minimizing duplication to improving the consistency and usability of services, our teams have helped unlock real impact at scale. This report outlines key results, presents compelling ‘powered by CDS’, use cases and tells the story of what happens when we invest in common capabilities for the enterprise and when we share that work. </p>
+<p>Over the past year, CDS has supported departments across the Government of Canada in making public services more secure, accessible, and focused on the people they serve. From minimizing duplication to improving the consistency and usability of services, our teams have helped unlock real impact at scale. This report outlines key results, presents compelling ‘powered by CDS’, use cases and tells the story of what happens when we invest in common capabilities for the enterprise and when we share that work.&nbsp;</p>
 
 
 
@@ -40,24 +40,24 @@ translationKey: blog-annualreport-tacticalplan
 
 
 
-<p>As we look forward, our Tactical Plan lays out a focused, flexible path for the year ahead, one that reflects our values, supports innovation, and aligns with the broader <a href="https://digital.canada.ca/reports/strategy-2024.pdf" target="_blank" rel="noreferrer noopener">CDS 2024-2027 Strategic Vision</a>. We’ve embraced an adaptive approach to planning that mirrors how we build our products and services, one that allows iteration and the ability to respond to changing priorities, while staying focused on the outcomes that matter most. <strong>It’s not just a plan, it’s an invitation</strong>. <strong>An invitation to public servants across government to break down silos and embark on this important journey with us, because we can only deliver digital services that meet people’s expectations if we do it together</strong>. </p>
+<p>As we look forward, our Tactical Plan lays out a focused, flexible path for the year ahead, one that reflects our values, supports innovation, and aligns with the broader <a href="https://digital.canada.ca/reports/strategy-2024.pdf" target="_blank" rel="noreferrer noopener">CDS 2024-2027 Strategic Vision</a>. We’ve embraced an adaptive approach to planning that mirrors how we build our products and services, one that allows iteration and the ability&nbsp;to respond to changing priorities, while staying focused on the outcomes that matter most. <strong>It’s not just a plan, it’s an invitation</strong>. <strong>An invitation to public servants across government to break down silos and embark on this important journey with us, because we can only deliver digital services that meet people’s expectations if we do it together</strong>.&nbsp;</p>
 
 
 
-<p>In 2025-2026, we will continue to advance our mission by scaling digital solutions, strengthening departmental capabilities, and staying focused on outcomes that matter to Canadians. </p>
+<p>In 2025-2026, we will continue to advance our mission by scaling digital solutions, strengthening departmental capabilities, and staying focused on outcomes that matter to Canadians:</p>
 
 
 
 <ul class="wp-block-list">
-<li><strong>Our platform products, GC Notify, GC Forms, and</strong> <strong>GC Design System,</strong> continue to improve service delivery. </li>
+<li>Our platform products<strong>, GC Notify, GC Forms, and</strong> <strong>GC Design System,</strong> continue to improve service delivery. </li>
 
 
 
-<li><strong>Through the Digital Transformation Office (DTO), we make it easier for Canadians to find and use services on </strong><a href="http://canada.ca"><strong>Canada.ca</strong></a>, especially during key life moments.</li>
+<li>Through the <strong>Digital Transformation Office (DTO), we make it easier for Canadians to find and use services on </strong><a href="http://canada.ca"><strong>Canada.ca</strong></a>, especially during key life moments.</li>
 
 
 
-<li><strong>With our flagship products, GC Sign in and GC Issue and Verify</strong>, we’re building a secure, seamless digital front door to government services</li>
+<li><strong>With our flagship products, GC Sign in and GC Issue and Verify</strong>, we’re building a secure, seamless digital front door to government services.</li>
 
 
 
@@ -70,7 +70,7 @@ translationKey: blog-annualreport-tacticalplan
 
 
 
-<p>We’ll continue to work in the open, and we invite you to follow along. <strong>You can track our progress on our <a href="https://digital.canada.ca/blog/" target="_blank" rel="noreferrer noopener">blog</a>, <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn</a> or by subscribing to our <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener">newsletter</a></strong>. We’ll be sharing regular updates as we deliver on the commitments outlined in this year’s plan. </p>
+<p>We’ll continue to work in the open, and we invite you to follow along. <strong>You can track our progress on our <a href="https://digital.canada.ca/blog/" target="_blank" rel="noreferrer noopener">blog</a>, <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn</a> or by subscribing to our <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener">newsletter</a></strong>. We’ll be sharing regular updates as we deliver on the commitments outlined in this year’s plan.&nbsp;</p>
 
 
 
@@ -82,7 +82,7 @@ translationKey: blog-annualreport-tacticalplan
 
 
 
-<p>I also want to take a moment to sincerely thank the incredible team at CDS. The progress captured in this year’s report is a direct result of your passion, creativity, and dedication to public service. You’ve shown what’s possible when mission-driven people come together to tackle big challenges, and I couldn’t be more proud to work alongside you.  </p>
+<p>I also want to take a moment to sincerely thank the incredible team at CDS. The progress captured in this year’s report is a direct result of your passion, creativity, and dedication to public service. You’ve shown what’s possible when mission-driven people come together to tackle big challenges, and I couldn’t be more proud to work alongside you.&nbsp;&nbsp;</p>
 
 
 
