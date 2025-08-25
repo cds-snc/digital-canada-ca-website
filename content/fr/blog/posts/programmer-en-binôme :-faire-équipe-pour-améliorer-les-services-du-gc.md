@@ -4,7 +4,7 @@ title: 'Programmer en binôme : faire équipe pour améliorer les services du G
 description: >-
   Notre équipe s’est entretenue avec Dave Samojlenko et Pete Thiessen, tous deux de l’équipe de la plateforme du SNC, pour qu’ils nous expliquent leur façon de programmer en binôme pour améliorer Formulaires GC.
 author: 'Dave Samojlenko et Pete Thiessen (développeurs de Formulaires GC)'
-date: '2025-08-25T11:43:23'
+date: '2024-01-30T11:43:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
 image-alt: Deux développeur·euse·s travaillent simultanément sur du code une personne écrit le code pendant que l’autre le révise et le commente en temps réel.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog-FR.png
