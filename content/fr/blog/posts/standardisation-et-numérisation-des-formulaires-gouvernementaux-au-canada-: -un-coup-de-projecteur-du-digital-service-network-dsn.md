@@ -8,7 +8,7 @@ date: '2024-03-11T11:01:14'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/02/GC_Form_Impact_Post_FR.jpg
 image-alt: Une image montrant comment les utilisateurs peuvent virtuellement fournir des informations par le biais de formulaires GC, sans codage nécessaire et en garantissant la confidentialité.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/02/GC_Form_Impact_Post_FR.jpg
-tags: [""]
+tags: ["Accessibilité","Approche Agile","Formulaires GC"]
 translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digital-service-network-spotlight
 ---
 
