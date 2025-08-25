@@ -4,7 +4,7 @@ title: 'Pair Programming: Teaming up to improve GC services'
 description: >-
   We sat down with Dave Samojlenko and Pete Thiessen from CDS’s Platform team to learn more about how they’re collaborating using pair programming to improve GC Forms.
 author: 'Dave Samojlenko and Pete Thiessen (Developers on GC Forms)'
-date: '2025-08-25T11:43:23'
+date: '2024-01-30T11:43:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
 image-alt: Two developers collaborating on code at the same time. one is writing while the other is reviewing and providing real-time feedback.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
