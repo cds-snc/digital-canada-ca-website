@@ -40,9 +40,11 @@ function renderBlogResults(blogs) {
             <div class="post-container">
                 <div class="text-container">
                     <div style="margin-top: 1rem">
+                      <h2 style="font-size: 2.2rem; font-weight:600;">
                         <a href='${ paginatedBlogs[ i ].href }' class="blog-title">
-                            <h2 style="font-size: 2.2rem; font-weight:600;">${ paginatedBlogs[ i ].title }</h2>
+                          ${ paginatedBlogs[ i ].title }
                         </a>
+                      </h2>
                     </div>
                     <div class="date">
                         <span>${ dateFormat( paginatedBlogs[ i ].date ) }</span>
@@ -51,11 +53,11 @@ function renderBlogResults(blogs) {
                         <span>${ paginatedBlogs[ i ].author }</span>
                     </div>
                     <div class="summary">
-                        <p>${ paginatedBlogs[ i ].description }</p>
+                        <p>${ paginatedBlogs[ i ].description }</p> 
                     </div>
                     <gcds-button size="small" button-role="secondary" button-id="read-full-post-btn" type="link" href='${ paginatedBlogs[ i ].href }'>${ readFullPostTranslation() }
-                        <span style="display: none">: ${ paginatedBlogs[ i ].title }</span> 
-                        <gcds-icon name="fa-solid fa-chevron-right" size="inherit"></gcds-icon>
+                        <gcds-sr-only tag="span">: ${ paginatedBlogs[ i ].title }</gcds-sr-only>
+                        <gcds-icon name="chevron-right" | size="inherit"></gcds-icon>
                     </gcds-button>
                     ${ paginatedBlogs[ i ].tags && paginatedBlogs[ i ].tags.length > 0 ? `
                     <div class="tags">
