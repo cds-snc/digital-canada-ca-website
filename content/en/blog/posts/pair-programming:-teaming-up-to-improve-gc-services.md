@@ -8,7 +8,7 @@ date: '2024-01-30T13:51:22'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
 image-alt: Two developers collaborating on code at the same time. one is writing while the other is reviewing and providing real-time feedback.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/01/PairProgramming_011124_Blog.png
-tags: [""]
+tags: ["Agile","GC Forms","Open source"]
 translationKey: blog-forms-accessibility-paired
 ---
 
