@@ -8,7 +8,7 @@ date: '2023-02-16T11:07:06'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/02/GC_Forms_BLOG-POST_E1_N.jpeg
 image-alt: Public servants can use the GC Forms tool to build accessible online forms for Government of Canada services, no coding required.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/02/GC_Forms_BLOG-POST_E1_N.jpeg
-tags: [""]
+tags: ["Accessibility","GC Forms","Testing"]
 translationKey: blog-gcforms-accessible-approaches
 ---
 
