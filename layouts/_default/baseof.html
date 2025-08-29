@@ -103,9 +103,9 @@
     </nav>
     <header role="banner">
       {{ partial "header.html" . }}
-
-      {{ if and (not (eq .RelPermalink .Site.BaseURL)) (not (eq .RelPermalink "/")) }}
       {{ partial "breadcrumb.html" . }}
+      {{ if and (not (eq .RelPermalink .Site.BaseURL)) (not (eq .RelPermalink "/")) }}
+      
       {{ block "title" . }}
         {{ if or (eq .Params.title "Error") (eq .Params.title "Erreur!") }}
         <div class="page-banner error">
