@@ -65,9 +65,9 @@
             <div class="page-banner--title">
               {{ $title := i18n .Params.title }}
               {{ with $title }}
-                <h1>{{ $title }}</h1>
+                <gcds-heading tag="h1">{{ $title }}</gcds-heading>
               {{ else }}
-                <h1>{{ .Params.title }}</h1>
+                <gcds-heading tag="h1">{{ .Params.title }}</gcds-heading>
               {{end}}
               {{ if .Params.subtitle }}
                 <span class="page-title-sub">
