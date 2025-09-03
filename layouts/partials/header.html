@@ -5,10 +5,22 @@
     {{ end }}
 
     <gcds-top-nav label="Top navigation" alignment="right" slot="menu">
-        <gcds-nav-link href="{{ .Site.BaseURL | absLangURL }}" lang="{{ .Language }}" class="cds-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-logo" ></gcds-nav-link>
+        <!-- <gcds-nav-link href="{{ .Site.BaseURL | absLangURL }}" lang="{{ .Language }}" class="cds-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-logo" ></gcds-nav-link> -->
+         <gcds-nav-link href="{{ .Site.BaseURL | absLangURL }}" slot="home" aria-label='{{ i18n "aria-cds-website" }}'>{{ i18n "canadian-digital-service" }}</gcds-nav-link>
         {{ $title := .Params.title }}
         {{ range $menu := .Site.Menus.main }}
         <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics-navigation="header:Canadian Digital Service: {{ .Name }}" class="{{ if eq $title .Identifier }} menu-underline{{ end }}">{{ .Name }}</gcds-nav-link>
         {{ end }}
     </gcds-top-nav>
+    <gcds-breadcrumbs slot="breadcrumb">
+                <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
+        {{ if (eq .Page.Type "blog") }}
+            {{ with .GetPage "blog" }}
+                <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
+            {{ end }}
+            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | markdownify }}</gcds-breadcrumbs-item>
+        {{ else }}
+            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
+        {{ end }}
+    </gcds-breadcrumbs>
 </gcds-header>
