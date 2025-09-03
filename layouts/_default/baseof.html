@@ -43,12 +43,12 @@
   <link rel="stylesheet" href='{{ print $css.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}' media="screen" />
   <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
   <link rel="alternate" type="application/rss+xml" title='{{ i18n "canadian-digital-service" }}' href='{{ i18n "rss-feed-url" }}' />
-  <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.0/dist/gcds/gcds.css">
+  <link rel="stylesheet" href="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.41.0/dist/gcds/gcds.css"/>
   <noscript>
     <link rel="stylesheet" href="/lib-cds/gcweb-dist/wet-boew/css/noscript.min.css" />
   </noscript>
-  <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.0/dist/gcds/gcds.esm.js"></script>
-  <script nomodule src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.22.0/dist/gcds/gcds.js"></script>
+  <script type="module" src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.41.0/dist/gcds/gcds.esm.js"></script>
+  <script nomodule src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@0.41.0/dist/gcds/gcds.js"></script>
   <script>
     if (window.location.host == 'digital.canada.ca') {
       (function (w, d, s, l, i) {
@@ -115,11 +115,7 @@
           <div class="container">
             <div class="page-banner--title">
               {{ $title := i18n .Params.title }}
-              {{ with $title }}
-              <h1>{{ $title }}</h1>
-              {{ else }}
-              <h1>{{ .Params.title }}</h1>
-              {{ end }}
+              {{ with $title }}<gcds-heading tag="h1">{{ $title }}</gcds-heading>{{ else }}<gcds-heading tag="h1">{{ .Params.title }}</gcds-heading>{{ end }}
               {{ if .Params.subtitle }}
               <span class="page-title-sub">
                 {{ .Params.subtitle }} <a href="{{ .Params.link }}">{{ .Params.tag }}</a>

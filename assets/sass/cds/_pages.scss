@@ -18,6 +18,10 @@
     justify-content: space-between;
     align-items: center;
 
+    gcds-heading {
+      color: var(--gcds-text-light);
+    }
+
     a {
       color: $white;
     }
@@ -62,13 +66,13 @@
 
   .first-list {
     padding: 3rem 0 3rem 0;
-    background-color: #D7E5F5;
+    background-color: #d7e5f5;
     ul {
       list-style: none;
       padding-left: 0;
     }
     ul li:before {
-      content: '✓';
+      content: "✓";
     }
   }
 
@@ -79,8 +83,8 @@
 
   .built-by {
     @include desktop {
-      display: flex; 
-      align-items: center
+      display: flex;
+      align-items: center;
     }
   }
 
@@ -113,12 +117,12 @@
 ////////////////////////////////////////////////////
 
 .our-hiring-process {
-  background-color: #D7E5F5;
+  background-color: #d7e5f5;
   padding: 2rem 0 2rem 0;
   position: relative;
 
   &:before {
-    content: ' ';
+    content: " ";
     display: none;
     position: absolute;
     left: 0;
@@ -162,14 +166,13 @@
 
 .steps {
   list-style: none;
-  
+
   display: flex;
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
 
   &__item {
-    
     display: flex;
     margin: 1.22rem 0;
 
@@ -194,17 +197,17 @@
 .work-with-us--apply-now {
   #talent_tracking {
     legend {
-      font: 600 1.25rem/120% "Noto Sans",sans-serif;
+      font: 600 1.25rem/120% "Noto Sans", sans-serif;
     }
   }
   #preferred-language {
     legend {
-      font: 600 1.25rem/120% "Noto Sans",sans-serif;
+      font: 600 1.25rem/120% "Noto Sans", sans-serif;
     }
-   }
-  h2 {  
+  }
+  h2 {
     margin-bottom: 1.65rem;
-    margin-top: 1.65rem; 
+    margin-top: 1.65rem;
   }
   label {
     color: black;
@@ -216,7 +219,6 @@
   }
   .url {
     font-size: 1.28rem;
-    
   }
   input {
     width: 100%;
@@ -235,17 +237,16 @@
     margin-bottom: 1.11rem;
     margin-top: 0.55rem;
     width: fit-content;
-    border: 2px solid #26374A;
+    border: 2px solid #26374a;
     border-radius: 5px;
 
     div {
       cursor: pointer;
-      color: #26374A;
+      color: #26374a;
       margin: 0.55rem;
       font-size: 1.28rem;
       font-weight: 600;
     }
-
   }
   .resume {
     opacity: 0;
@@ -276,7 +277,6 @@
     border-top-color: white;
     border-radius: 50%;
     animation: button-loading-spinner 1s ease infinite;
-
   }
 
   @keyframes button-loading-spinner {
@@ -328,8 +328,8 @@
 ////////////////////////////////////////////////////
 .security-notice-banner {
   display: flex;
-  background-color: #D7E5F5;
-  border-inline-start: 0.25rem solid #6584A6;
+  background-color: #d7e5f5;
+  border-inline-start: 0.25rem solid #6584a6;
   color: #333;
   margin: 0 0 0.625rem;
   padding: 0.42rem;

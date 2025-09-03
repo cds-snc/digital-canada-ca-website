@@ -13,7 +13,8 @@ This is a variation header for the Service Digital Toolkit. It includes the S&D 
     {{ end }}
 
     <gcds-top-nav label='{{ cond (eq $currentLang "en") "Top navigation" "Navigation principale" }}' alignment="right" slot="menu">
-        <gcds-nav-link href="/{{ $section }}/" lang="{{ .Language }}" class="cds-toolkit-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-toolkit-logo" ></gcds-nav-link>
+        <!-- <gcds-nav-link href="/{{ $section }}/" lang="{{ .Language }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-toolkit-logo" ></gcds-nav-link> -->
+        <gcds-nav-link href="/{{ $section }}/" slot="home" aria-label='{{ i18n "aria-cds-website" }}'>{{ i18n "toolkit-name" }}</gcds-nav-link>
 
         <!-- Topics Dropdown -->
         <gcds-nav-group open-trigger="{{ $topicsLabel }}" menu-label="{{ $topicsLabel }}">
