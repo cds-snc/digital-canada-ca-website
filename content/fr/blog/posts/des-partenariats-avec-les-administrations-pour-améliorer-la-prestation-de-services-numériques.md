@@ -8,7 +8,7 @@ date: '2025-07-22T10:16:05'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog-1.jpg
 image-alt: Les fonctionnaires du Canada échangent des idées et des conseils sur la prestation de services numériques.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog-1.jpg
-tags: [""]
+tags: ["Partenariats et collaborations"]
 translationKey: blog-iccs-cds-ceo
 ---
 
