@@ -8,7 +8,7 @@ date: '2025-08-15T09:12:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/08/AR_Post_2025_Blog_Post_FR_copy_3-scaled.jpg
 image-alt: Un ordinateur portable et un téléphone intelligent affichent des services numériques du gouvernement du Canada. L'écran de l'ordinateur montre le logo du SNC CDS avec une feuille d’érable et le mot « Canada ». Le téléphone affiche une page d’accueil bilingue de connexion. Des bulles d’icônes représentent l’accessibilité, la sécurité et l’identité canadienne.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/08/AR_Post_2025_Blog_Post_FR_copy_3-scaled.jpg
-tags: [""]
+tags: ["Rapports"]
 translationKey: blog-annualreport-tacticalplan
 ---
 

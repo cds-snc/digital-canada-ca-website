@@ -8,7 +8,7 @@ date: '2025-08-15T09:12:00'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/08/AR_Post_2025_Blog_Post_EN_copy_5-scaled.jpg
 image-alt: A laptop and smartphone displaying Canadian government digital services. The laptop screen shows the CDS SNC logo with a maple leaf and the word "Canada" underneath. The smartphone displays a bilingual government login screen. Floating icons represent accessibility, security, and the Government of Canada.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/08/AR_Post_2025_Blog_Post_EN_copy_5-scaled.jpg
-tags: [""]
+tags: ["Reports"]
 translationKey: blog-annualreport-tacticalplan
 ---
 
