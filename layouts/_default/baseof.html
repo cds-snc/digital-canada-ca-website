@@ -103,7 +103,6 @@
     </nav>
     <header role="banner">
       {{ partial "header.html" . }}
-      {{ partial "breadcrumb.html" . }}
       {{ if and (not (eq .RelPermalink .Site.BaseURL)) (not (eq .RelPermalink "/")) }}
       
       {{ block "title" . }}

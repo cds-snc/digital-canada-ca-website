@@ -12,4 +12,15 @@
         <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics-navigation="header:Canadian Digital Service: {{ .Name }}" class="{{ if eq $title .Identifier }} menu-underline{{ end }}">{{ .Name }}</gcds-nav-link>
         {{ end }}
     </gcds-top-nav>
+    <gcds-breadcrumbs slot="breadcrumb">
+                <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
+        {{ if (eq .Page.Type "blog") }}
+            {{ with .GetPage "blog" }}
+                <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
+            {{ end }}
+            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | markdownify }}</gcds-breadcrumbs-item>
+        {{ else }}
+            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
+        {{ end }}
+    </gcds-breadcrumbs>
 </gcds-header>
