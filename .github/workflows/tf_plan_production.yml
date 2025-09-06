@@ -34,20 +34,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
 
     - name: set up terraform tools
       uses: cds-snc/terraform-tools-setup@v1
 
     - name: configure aws credentials using OIDC
-      uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+      uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a # v4.3.1
       with:
         role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-website-plan   # use for TF plan or when you only need read-only access (works on all branches)
         role-session-name: TFPlan
         aws-region: ${{ env.AWS_REGION }}
 
     - name: Terraform Plan
-      uses: cds-snc/terraform-plan@d79bcf0eccf632a0ad9e9193072b42c970766c5b # v3.3.1
+      uses: cds-snc/terraform-plan@e710cb1446e5dfe69a0182603fb06b5282d7eb07 # v3.4.3
       with:
         comment-delete: true
         comment-title: "Production: ${{ matrix.module }}"
