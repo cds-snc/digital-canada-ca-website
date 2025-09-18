@@ -3,6 +3,7 @@
     {{ range .Translations }}
     <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}" href-lang='{{ if eq $currentLang "en" }}fr{{ else }}en{{ end }}'></gcds-lang-toggle>
     {{ end }}
+    <gcds-search slot="search"></gcds-search>
 
     <gcds-top-nav label="Top navigation" alignment="right" slot="menu">
         <!-- <gcds-nav-link href="{{ .Site.BaseURL | absLangURL }}" lang="{{ .Language }}" class="cds-logo {{ .Site.Language.Lang }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-logo" ></gcds-nav-link> -->
