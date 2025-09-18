@@ -1,4 +1,4 @@
-FROM debian:bullseye-slim@sha256:8717ec90aa91e5980b54b7025c2063d6bcbf3ac3d266bb455e4088cc777410c6 as build 
+FROM debian:bullseye-slim@sha256:209fc7c792582e31b4bfd8fb8346e3e1471a4cf6f95f626023774f013553aef8 as build 
 
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install wget \
