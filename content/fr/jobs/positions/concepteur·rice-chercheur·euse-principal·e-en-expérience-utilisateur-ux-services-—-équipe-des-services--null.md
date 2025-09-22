@@ -18,9 +18,9 @@ Le Service numérique canadien (SNC) fait partie d’Emploi et Développement so
 ## À propos de l’équipe des services
 L'équipe des services joue un rôle essentiel dans la réalisation des objectifs du CDS en collaborant avec les ministères, en intégrant les compétences nécessaires et en donnant aux fonctionnaires les moyens de concevoir et de fournir des services durables et centrés sur l'utilisateur. Nous sommes composés de professionnels multidisciplinaires et expérimentés, dotés d'une connaissance approfondie de la conception de l'expérience utilisateur (UX), de la convivialité, de l'accessibilité, de la conception de services et de la transformation numérique, conformément aux normes du secteur, mais ancrés dans la réalité de la création d'expériences au sein du gouvernement du Canada.
 
-### **L’équipe des services est à la recherche d’un·e Concepteur·rice/chercheur·euse principal·e en expérience utilisateur (UX)/services!**
+### **L’équipe des services est à la recherche d’un·e Concepteur·rice/chercheur·euse principal·e UX/services!**
 
-Êtes-vous passionné par l'amélioration des services publics grâce à la conception et à la recherche axées sur l'utilisateur? Joignez-vous à notre équipe à titre de Concepteur·rice/chercheur·euse principal·e en expérience utilisateur (UX)/services et contribuez à façonner l'avenir de la prestation de services numériques au gouvernement du Canada. Nous sommes à la recherche d'un penseur stratégique et d'un chercheur compétent, capable de diriger des initiatives qui placent les gens au cœur de la transformation des services.
+Êtes-vous passionné par l'amélioration des services publics grâce à la conception et à la recherche axées sur l'utilisateur? Joignez-vous à notre équipe à titre de Concepteur·rice/chercheur·euse principal·e UX/services et contribuez à façonner l'avenir de la prestation de services numériques au gouvernement du Canada. Nous sommes à la recherche d'un penseur stratégique et d'un chercheur compétent, capable de diriger des initiatives qui placent les gens au cœur de la transformation des services.
 
 Il s’agit d’un poste à durée déterminée de 1 an, classé EC-06 dans le groupe Économique et services de sciences sociales (EC).  
 
@@ -40,7 +40,7 @@ Il s’agit d’un poste à durée déterminée de 1 an, classé EC-06 dans le g
 - Effectuer des recherches évaluatives sur des produits ou services numériques. 
 - Synthétiser les résultats de la recherche pour en tirer des solutions de conception. 
 - Consulter les intervenants internes (au sein de votre ministère ou organisme) et externes (à l’extérieur de votre ministère ou organisme).
-- Solide connaissance de la conception de services, de l’expérience utilisateur (UX) et des principes méthodologiques de recherche, ainsi que de leur application à la transformation des processus opérationnels, notamment au sein du gouvernement du Canada. 
+- Solide connaissance de la conception de services, de l’expérience utilisateur et des principes méthodologiques de recherche, ainsi que de leur application à la transformation des processus opérationnels, notamment au sein du gouvernement du Canada. 
 - Méthodes de collecte de données qualitatives et leur utilisation pour la conception de solutions de services axées sur l’utilisateur. 
 - Forte capacité à soutenir les équipes confrontées à des problèmes complexes en élaborant une stratégie de conception, y compris la sélection des méthodes les plus appropriées, pour les aider à répondre à leurs besoins et à atteindre leurs objectifs, dans le contexte spécifique de leur ministère. 
 - Contribuer à démontrer le rendement du capital investi (RCI) des efforts de conception au moyen de mesures et de données. 
@@ -48,7 +48,7 @@ Il s’agit d’un poste à durée déterminée de 1 an, classé EC-06 dans le g
 - Capacité de travailler efficacement avec des équipes de livraison agiles multidisciplinaires. 
 - Capacité de diriger et de mener des recherches au sein d'une équipe de produit, de service ou de projet.
 
-Nous savons que tout le monde présente des compétences et des expériences différentes, et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! **Veuillez nous envoyer votre CV à CDS.Recruitment-Recrutement.SNC@servicecanada.gc.ca en indiquant « Concepteur·rice/chercheur·euse principal·e en expérience utilisateur (UX)/services » dans la ligne d'objet.**
+Nous savons que tout le monde présente des compétences et des expériences différentes, et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! **Veuillez nous envoyer votre CV à CDS.Recruitment-Recrutement.SNC@servicecanada.gc.ca en indiquant « Concepteur·rice/chercheur·euse principal·e UX/services » dans la ligne d'objet.**
 
 Merci d'indiquer votre classification et votre niveau (p. ex., EC-06), votre profil linguistique et de préciser si vous êtes un employé nommé pour une période indéterminée ou déterminée.
 
