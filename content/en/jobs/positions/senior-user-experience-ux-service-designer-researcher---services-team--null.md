@@ -16,11 +16,11 @@ We believe that public services should be easy to use, secure, reliable, accessi
 The Canadian Digital Service (CDS) is part of Employment and Social Development Canada (ESDC). We aim to advance the goals of the [Digital Ambition](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-operations-strategic-plans/canada-digital-ambition.html) and improve service experiences in the Government of Canada.
 
 ## About the Services team
-The Services Team plays a key role in advancing CDS's goals by partnering with departments, bringing in the right capabilities, and empowering public servants to design and deliver enduring, user-centered services. We are composed of multidisciplinary, seasoned professionals equipped with in-depth knowledge of user experience (UX) design, usability, accessibility, service design, and digital transformation based on industry standards, but anchored in the reality of creating experiences within the GC.
+The Services Team plays a key role in advancing CDS's goals by partnering with departments, bringing in the right capabilities, and empowering public servants to design and deliver enduring, user-centered services. We are composed of multidisciplinary, seasoned professionals equipped with in-depth knowledge of UX design, usability, accessibility, service design, and digital transformation based on industry standards, but anchored in the reality of creating experiences within the GC.
 
-### **The Services team is hiring a Senior User Experience (UX)/Service Designer/Researcher!**
+### **The Services team is hiring a Senior UX/Service Designer/Researcher!**
 
-Are you passionate about improving public services through user-centered design and research? Join our team as a Senior User Experience (UX)/Service Designer/Researcher and help shape the future of digital service delivery across the Government of Canada. We’re looking for a strategic thinker and skilled researcher who can lead initiatives that put people at the heart of service transformation.
+Are you passionate about improving public services through user-centered design and research? Join our team as a Senior UX/Service Designer/Researcher and help shape the future of digital service delivery across the Government of Canada. We’re looking for a strategic thinker and skilled researcher who can lead initiatives that put people at the heart of service transformation.
 
 This is a 1-year term position classified as EC-06 within the Economics and Social Science Services Group (EC). 
 
@@ -40,7 +40,7 @@ This is a 1-year term position classified as EC-06 within the Economics and Soci
 - Conducting evaluative research on digital products or services.
 - Synthesizing research insights into design solutions.
 - Consulting with internal (within your department or agency) and external (outside your department or agency) stakeholders.
-- Strong knowledge of service design, user experience (UX) and research principles methodologies, their application in transforming business processes, especially in the context of the Government of Canada.
+- Strong knowledge of service design, UX and research principles methodologies, their application in transforming business processes, especially in the context of the Government of Canada.
 - Qualitative data gathering methods and their use in designing user-centered service solutions.
 - Strong ability to support teams facing complex problems by envisioning a design strategy, including selecting the more appropriate methods, to support them to meet their needs and goals, in their specific departmental context.
 - Contributing to proving the ROI of design efforts through metrics and data.
@@ -49,7 +49,7 @@ This is a 1-year term position classified as EC-06 within the Economics and Soci
 - Ability to lead and conduct research as part of a product, service, or project team.
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! **Please send us your CV to CDS.Recruitment-Recrutement.SNC@servicecanada.gc.ca with 
-“Senior User Experience (UX)/Service Designer/Researcher” in the subject line.**
+“Senior UX/Service Designer/Researcher” in the subject line.**
 
 We kindly ask you to include your classification and level (e.g., EC-06), as well as your language profile, and indicate whether you are an indeterminate or term employee.
 
