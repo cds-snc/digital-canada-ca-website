@@ -8,7 +8,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width,initial-scale=1" name="viewport">
   <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
-  <title>{{ with $pageTitle }}{{ $pageTitle }}{{ else }}{{ .Params.title }}{{ end }} - {{ i18n "canadian-digital-service" }}</title>
+  <title>
+  {{ if .IsHome }}
+    {{ i18n "canadian-digital-service" }}
+  {{ else }}
+    {{ with $pageTitle }}{{ $pageTitle }}{{ else }}{{ .Params.title }}{{ end }} - {{ i18n "canadian-digital-service" }}
+  {{ end }}
+</title>
   <!-- Meta data -->
   <meta name="description" content="{{ .Params.description }}">
   <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
