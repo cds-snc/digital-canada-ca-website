@@ -8,7 +8,7 @@ date: '2025-07-22T10:16:05'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
 image-alt: Public servants across Canada sharing ideas and guidance for digital service delivery.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/07/Blog.jpg
-tags: [""]
+tags: ["Partnerships and collaborations"]
 translationKey: blog-iccs-cds-ceo
 ---
 

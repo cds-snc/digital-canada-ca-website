@@ -13,10 +13,8 @@ This is a variation header for the Service Digital Toolkit. It includes the S&D 
     {{ end }}
 
     <gcds-top-nav label='{{ cond (eq $currentLang "en") "Top navigation" "Navigation principale" }}' alignment="right" slot="menu">
-        <gcds-nav-link href="/{{ $section }}/" lang="{{ .Language }}" slot="home"id="cds-toolkit-logo" >
-          <span class="cds-toolkit-logo {{ .Site.Language.Lang }}"></span>
-          <gcds-sr-only tag="span">{{ i18n "aria-cds-website" }}</gcds-sr-only>
-        </gcds-nav-link>
+        <!-- <gcds-nav-link href="/{{ $section }}/" lang="{{ .Language }}" slot="home" slot="left" aria-label='{{ i18n "aria-cds-website" }}' id="cds-toolkit-logo" ></gcds-nav-link> -->
+        <gcds-nav-link href="/{{ $section }}/" slot="home" aria-label='{{ i18n "aria-cds-website" }}'>{{ i18n "toolkit-name" }}</gcds-nav-link>
 
         <!-- Topics Dropdown -->
         <gcds-nav-group open-trigger="{{ $topicsLabel }}" menu-label="{{ $topicsLabel }}">
@@ -30,16 +28,14 @@ This is a variation header for the Service Digital Toolkit. It includes the S&D 
         <!-- About link -->
         <gcds-nav-link href="{{ $aboutPath }}">{{ cond (eq $currentLang "en") "About" "À propos" }}</gcds-nav-link>
     </gcds-top-nav>
-
-    {{ if and ( not ( eq .RelPermalink ( i18n "toolkit-landing-url" ) ) ) ( not ( eq .RelPermalink "/" ) ) }}
-        <gcds-breadcrumbs slot="breadcrumb">
-            <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "canadian-digital-service" }}</gcds-breadcrumbs-item>
-            <gcds-breadcrumbs-item href='{{ i18n "toolkit-landing-url" }}'>{{ i18n "toolkit-name" }}</gcds-breadcrumbs-item>
-            {{ if .CurrentSection }}
-                {{ if and (ne .CurrentSection.RelPermalink ( i18n "toolkit-landing-url" ) ) (ne .CurrentSection.RelPermalink .RelPermalink) }}
-                    <gcds-breadcrumbs-item href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</gcds-breadcrumbs-item>
-                {{ end }}
+     <gcds-breadcrumbs slot="breadcrumb">
+        <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "canadian-digital-service" }}</gcds-breadcrumbs-item>
+        <gcds-breadcrumbs-item href='{{ i18n "toolkit-landing-url" }}'>{{ i18n "toolkit-name" }}</gcds-breadcrumbs-item>
+        {{ if .CurrentSection }}
+            {{ if and (ne .CurrentSection.RelPermalink ( i18n "toolkit-landing-url" ) ) }}
+                <gcds-breadcrumbs-item href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</gcds-breadcrumbs-item>
             {{ end }}
-        </gcds-breadcrumbs>
-    {{ end }}
+        {{ end }}
+        
+     </gcds-breadcrumbs>
 </gcds-header>

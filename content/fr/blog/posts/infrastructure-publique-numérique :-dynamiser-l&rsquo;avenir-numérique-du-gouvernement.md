@@ -8,7 +8,7 @@ date: '2025-06-23T14:04:26'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DPIBlogBrandingRequest_2025_Blog_Post_FR-scaled.jpg
 image-alt: Un paysage numérique dynamique composé d’ondes lumineuses bleu sarcelle et dorées sur fond sombre, représentant le flux de données, la connectivité et l’infrastructure numérique
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DPIBlogBrandingRequest_2025_Blog_Post_FR-scaled.jpg
-tags: [""]
+tags: ["Politiques"]
 translationKey: blog-dpi-cdspolicy
 ---
 
