@@ -1,13 +1,10 @@
-<div class="container breadcrumbs">
-    <gcds-breadcrumbs>
-        <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
-        {{ if (eq .Page.Type "blog") }}
-            {{ with .GetPage "blog" }}
-                <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
-            {{ end }}
-            <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | markdownify }}</gcds-breadcrumbs-item>
-        {{ else }}
+<gcds-breadcrumbs slot="breadcrumb">
+    <gcds-breadcrumbs-item href={{ .Site.BaseURL | absLangURL }}> {{ i18n "homepage" }}</gcds-breadcrumbs-item>
+    {{ if (eq .Page.Type "blog") }}
+        {{ with .GetPage "blog" }}
             <gcds-breadcrumbs-item href={{ .Page.RelPermalink | absLangURL }}>{{ .Page.Title | title }}</gcds-breadcrumbs-item>
         {{ end }}
-    </gcds-breadcrumbs>
-</div>
+
+    {{ else }}
+    {{ end }}
+</gcds-breadcrumbs>

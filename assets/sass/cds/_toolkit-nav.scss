@@ -11,11 +11,13 @@
   align-self: center;
   height: 2.78rem;
   width: 13.88rem;
+  display: block;
 
   // BILINGUAL SPECIFIC CDS LOGO
   &.en {
     background-image: url("../img/toolkit/cds-toolkit-logo-blk-en.svg");
   }
+
   &.fr {
     background-image: url("../img/toolkit/cds-toolkit-logo-blk-fr.svg");
   }

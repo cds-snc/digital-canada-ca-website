@@ -1,5 +1,5 @@
 {{ $currentLang := .Language.Lang }}
-<gcds-header lang-href="#" skip-to-href="#">
+<gcds-header lang-href="#" skip-to-href="#wb-cont">
     {{ range .Translations }}
     <gcds-lang-toggle slot="toggle" href="{{ .Permalink }}" href-lang='{{ if eq $currentLang "en" }}fr{{ else }}en{{ end }}'></gcds-lang-toggle>
     {{ end }}
@@ -10,22 +10,21 @@
          <gcds-nav-link href="{{ .Site.BaseURL | absLangURL }}" slot="home" aria-label='{{ i18n "aria-cds-website" }}'>{{ i18n "canadian-digital-service" }}</gcds-nav-link>
         {{ $title := .Params.title }}
         {{ range $menu := .Site.Menus.main }}
-        <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics-navigation="header:Canadian Digital Service: {{ .Name }}" class="{{ if eq $title .Identifier }} menu-underline{{ end }}">{{ .Name }}</gcds-nav-link>
+        <gcds-nav-link href="{{ .URL | relLangURL }}" data-gc-analytics-navigation="header:Canadian Digital Service: {{ .Name }}" {{ if eq $title .Identifier }}current{{ end }}>{{ .Name }}</gcds-nav-link>
         {{ end }}
     </gcds-top-nav>
 <gcds-breadcrumbs slot="breadcrumb">
-    <!-- Always show Canada.ca / Home -->
-    <gcds-breadcrumbs-item href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "homepage" }}</gcds-breadcrumbs-item>
+
 
     {{ if not .IsHome }}
+        <!-- Always show Canada.ca / Home -->
+        <gcds-breadcrumbs-item href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "homepage" }}</gcds-breadcrumbs-item>
         <!-- If not home, show current page -->
         {{ if eq .Page.Type "blog" }}
             {{ with .GetPage "blog" }}
                 <gcds-breadcrumbs-item href="{{ .RelPermalink | absLangURL }}">{{ .Title | title }}</gcds-breadcrumbs-item>
             {{ end }}
-            <gcds-breadcrumbs-item href="{{ .RelPermalink | absLangURL }}">{{ .Title | markdownify }}</gcds-breadcrumbs-item>
         {{ else }}
-            <gcds-breadcrumbs-item href="{{ .RelPermalink | absLangURL }}">{{ .Title | title }}</gcds-breadcrumbs-item>
         {{ end }}
     {{ end }}
 </gcds-breadcrumbs>
