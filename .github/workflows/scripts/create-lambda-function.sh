@@ -35,10 +35,15 @@ else
   echo "Setting up function URL..."
   aws lambda add-permission \
     --function-name "$FULL_FUNCTION_NAME" \
-    --statement-id FunctionURLAllowPublicAccess \
+    --statement-id AllowPublicInvokeFunctionUrl \
     --action lambda:InvokeFunctionUrl \
     --principal "*" \
     --function-url-auth-type NONE > /dev/null 2>&1
+  aws lambda add-permission \
+    --function-name "$FULL_FUNCTION_NAME" \
+    --statement-id AllowPublicInvokeFunction \
+    --action lambda:InvokeFunction \
+    --principal "*" > /dev/null 2>&1  
 
   echo "Setting up logs..."
   aws logs create-log-group --log-group-name /aws/lambda/"$FULL_FUNCTION_NAME" || true > /dev/null 2>&1
