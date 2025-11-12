@@ -26,7 +26,14 @@ function initBlogResults() {
     })
 }
 initBlogResults()
-
+function topicsTranslation() {
+  const lang = document.documentElement.lang || 'en';
+  const translations = {
+    en: 'Topics',
+    fr: 'Sujets'
+  };
+  return translations[lang] || translations.en;
+}
 function renderBlogResults(blogs) {
     let start = 0;
     let end = start + blogRows;
@@ -61,7 +68,7 @@ function renderBlogResults(blogs) {
                     </gcds-button>
                     ${ paginatedBlogs[ i ].tags && paginatedBlogs[ i ].tags.length > 0 ? `
                     <div class="tags">
-                        <p><b>Topics:</b>&nbsp;
+                        <p><b>${topicsTranslation()}:</b>&nbsp;
                         ${ paginatedBlogs[ i ].tags.map( tag => `<a href="/tags/${tag.toLowerCase().replace( /\s+/g, '-' )}/" class="tag">${tag}</a>` ).join( ', ' )}
                         </p>
                     </div>
