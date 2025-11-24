@@ -338,3 +338,17 @@
     margin-top: 0.6rem;
   }
 }
+
+.partner-logos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 20px;
+  align-items: center;
+}
+
+.partner-logos img {
+  width: 100%;
+  aspect-ratio: 3 / 2; /* adjust as needed */
+  object-fit: contain; /* ensures logos aren't cropped */
+  padding: 10px;
+}
