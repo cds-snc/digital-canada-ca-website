@@ -8,7 +8,7 @@ date: '2023-07-04T14:52:02'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_FR-1-scaled.jpg
 image-alt: Entrevue avec Jose Jimenez (équipe de la croissance pour les produits de la plateforme du SNC).
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_FR-1-scaled.jpg
-tags: [""]
+tags: ["Formulaires GC"]
 translationKey: blog-inclusive-spaces
 ---
 
