@@ -8,7 +8,7 @@ date: '2024-03-14T09:03:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/PBS_UsingGCNotifyUpdatesESDCGrantsContributions_Blog_FR.jpg
 image-alt: Une entrevue avec l’Unité de modernisation et d’amélioration continue (de la Direction générale des opérations de programmes d’EDSC) pour la série « Les gens au cœur de vos services ».
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/PBS_UsingGCNotifyUpdatesESDCGrantsContributions_Blog_FR.jpg
-tags: [""]
+tags: ["Notification GC"]
 translationKey: blog-esdc-funding-gcnotify
 ---
 

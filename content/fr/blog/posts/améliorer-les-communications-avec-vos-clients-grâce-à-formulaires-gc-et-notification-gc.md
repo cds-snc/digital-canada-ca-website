@@ -8,7 +8,7 @@ date: '2022-12-15T13:35:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Blog_RachelMuston_PBS_FR-1.jpeg
 image-alt: Une photo de la fonctionnaire Rachel Muston, souriante, pour la série les « les gens au coeur de vos services ».
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Blog_RachelMuston_PBS_FR-1.jpeg
-tags: [""]
+tags: ["Formulaires GC","Notification GC"]
 translationKey: blog-pbs-rachel-muston
 ---
 

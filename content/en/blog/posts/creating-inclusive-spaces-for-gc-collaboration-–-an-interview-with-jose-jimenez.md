@@ -8,7 +8,7 @@ date: '2023-07-04T14:51:53'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_EN-scaled.jpg
 image-alt: Interview with Jose Jimenez from CDS Platform’s Growth Marketing team.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Jose_PBS_Acticle_FIP_Blog_Post_EN-scaled.jpg
-tags: [""]
+tags: ["GC Forms"]
 translationKey: blog-inclusive-spaces
 ---
 

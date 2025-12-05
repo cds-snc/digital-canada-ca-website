@@ -8,7 +8,7 @@ date: '2023-03-23T09:32:06'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_FR.jpeg
 image-alt: Une personne s’abonnant au service «  Obtenir les nouvelles sur la COVID-19  » sur son téléphone. Le champ de l’adresse courriel doit être rempli.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_FR.jpeg
-tags: [""]
+tags: ["Notification GC"]
 translationKey: blog-covid-updates-3yrs
 ---
 

@@ -8,7 +8,7 @@ date: '2023-06-29T09:04:40'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/June29_Blog_Christine_Patrick_PBS_Blog_Post_FR.jpeg
 image-alt: 
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/June29_Blog_Christine_Patrick_PBS_Blog_Post_FR.jpeg
-tags: [""]
+tags: ["Formulaires GC"]
 translationKey: blog-pbs-christine-patrick
 ---
 

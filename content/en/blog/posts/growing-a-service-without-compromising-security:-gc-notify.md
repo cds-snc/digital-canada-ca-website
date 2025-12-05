@@ -8,7 +8,7 @@ date: '2023-06-08T09:53:36'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/InterviewYael_1200X628_FIP_Blog_Post_EN.png
 image-alt: A portrait image of Yael Berger, GC Notify product manager
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/InterviewYael_1200X628_FIP_Blog_Post_EN.png
-tags: [""]
+tags: ["GC Notify"]
 translationKey: blog-growing-service
 ---
 

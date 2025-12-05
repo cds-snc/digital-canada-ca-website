@@ -8,7 +8,7 @@ date: '2023-06-08T09:53:58'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/InterviewYael_1200X628_FIP_Blog_Post_FR.png
 image-alt: Un portrait de Yael Berger, gestionnaire de produit, Notification GC
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/InterviewYael_1200X628_FIP_Blog_Post_FR.png
-tags: [""]
+tags: ["Notification GC"]
 translationKey: blog-growing-service
 ---
 
