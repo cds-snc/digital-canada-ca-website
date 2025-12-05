@@ -8,7 +8,7 @@ date: '2023-06-29T09:04:40'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Blog_Christine_Patrick_PBS_Blog_Post_EN.jpg
 image-alt: Christine Monteiro and Patrick Wright from Health Canada are being featured in CDS’s “People behind the service” series.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Blog_Christine_Patrick_PBS_Blog_Post_EN.jpg
-tags: [""]
+tags: ["GC Forms"]
 translationKey: blog-pbs-christine-patrick
 ---
 
