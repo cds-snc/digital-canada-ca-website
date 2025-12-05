@@ -8,7 +8,7 @@ date: '2024-03-14T09:03:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/PBS_UsingGCNotifyUpdatesESDCGrantsContributions_Blog_EN.jpg
 image-alt: People behind the service interview with the Modernization and Continuous Improvement Unit, part of the Program Operations Branch at ESDC.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2024/03/PBS_UsingGCNotifyUpdatesESDCGrantsContributions_Blog_EN.jpg
-tags: [""]
+tags: ["GC Notify"]
 translationKey: blog-esdc-funding-gcnotify
 ---
 
