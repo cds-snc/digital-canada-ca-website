@@ -8,7 +8,7 @@ date: '2023-03-23T09:31:45'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_EN.jpeg
 image-alt: A person subscribing to the “Get Updates on COVID-19” service on their phone. It requests their email.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_EN.jpeg
-tags: [""]
+tags: ["GC Notify"]
 translationKey: blog-covid-updates-3yrs
 ---
 
