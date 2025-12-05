@@ -8,7 +8,7 @@ date: '2023-02-16T11:07:30'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/02/GC_Forms_BLOG-POST_1_FR.jpeg
 image-alt: Les fonctionnaires peuvent utiliser Formulaires GC pour créer des formulaires en ligne accessibles pour les services du gouvernement du Canada, et ce, sans codage.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/02/GC_Forms_BLOG-POST_1_FR.jpeg
-tags: [""]
+tags: ["Formulaires GC"]
 translationKey: blog-gcforms-accessible-approaches
 ---
 
