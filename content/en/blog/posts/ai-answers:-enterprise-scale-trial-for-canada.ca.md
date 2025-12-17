@@ -4,7 +4,7 @@ title: 'AI Answers: Enterprise-scale trial for Canada.ca'
 description: >-
   CDS explores AI Answers: an AI-powered chat agent service delivering simple, accurate responses from official GC websites.
 author: 'Lisa Fast, Senior AI/UX Architect & Researcher, Canada.ca, Consultant'
-date: '2025-12-17T13:09:33'
+date: '2025-12-17T13:15:22'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Ai_2025_Blog_Post_EN-1-scaled.jpg
 image-alt: A person holding a smartphone displaying a Canada.ca webpage titled “AI Answers,” which offers answers to Canada.ca questions using an AI service.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Ai_2025_Blog_Post_EN-1-scaled.jpg
