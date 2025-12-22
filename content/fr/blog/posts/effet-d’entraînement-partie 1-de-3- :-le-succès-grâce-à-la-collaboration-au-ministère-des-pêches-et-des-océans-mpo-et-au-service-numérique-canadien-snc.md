@@ -4,7 +4,7 @@ title: 'Effet d’entraînement (partie 1 de 3) : Le succès grâce à la coll
 description: >-
   Dans la partie 1 de 3 de cette série, le MPO explique comment il navigue sur des voies encore inexplorées avec le Système de design GC. Ensemble, nous nous jetons à l’eau pour les besoins de l’innovation numérique (deux éléments qui ne font traditionnellement pas bon ménage) pour ouvrir de nouvelles possibilités!
 author: 'Créé en collaboration avec les équipes du Secteur du dirigeant principal du numérique (SDPN), au ministère des Pêches et des Océans (MPO) du Canada'
-date: '2025-12-19T10:53:43'
+date: '2025-12-22T10:39:46'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
 image-alt: Icônes pour les notifications, les formulaires en ligne et le système de design mis en surbrillance. L’arrière-plan est constitué de poissons et de vagues.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
@@ -40,11 +40,11 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<figure class="wp-block-pullquote has-text-align-left"><blockquote><p><em>« L’un des grands avantages des produits de la plateforme du SNC est que nous n’avons pas à conclure d’entente officielle pour les adopter, ce qui nous a permis de consacrer le temps gagné au service. Les produits sont gratuits et il est facile de travailler en partenariat avec les équipes, ce qui rend l’utilisation accessible dès le départ.</em> »</p><cite>– <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine Bedward</a>, directeur de l’expérience utilisateur, SDPN du MPO.</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-text-align-left"><blockquote><p><em>«&nbsp;L’un des grands avantages des produits de la plateforme du SNC est que nous n’avons pas à conclure d’entente officielle pour les adopter, ce qui nous a permis de consacrer le temps gagné au service. Les produits sont gratuits et il est facile de travailler en partenariat avec les équipes, ce qui rend l’utilisation accessible dès le départ.</em> »</p><cite>– <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine&nbsp;Bedward</a>, directeur de l’expérience utilisateur, SDPN du MPO.</cite></blockquote></figure>
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#9fdfba"><tbody><tr><td><a href="https://systeme-design.alpha.canada.ca/fr/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Système de design GC</strong></a> : <br>Devenir l’unique source de vérité pour un système de design gouvernemental fiable dont les fonctionnaires se serviront pour créer des prototypes et des services en ligne.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="125" height="125" class="wp-image-3504" style="width: 125px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-FR-1-e1766159292819.png" alt="Icônes pour système de design"></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#9fdfba"><tbody><tr><td><a href="https://systeme-design.alpha.canada.ca/fr/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Système de design&nbsp;GC</strong></a>&nbsp;:&nbsp;<br>Devenir l’unique source de vérité pour un système de design gouvernemental fiable dont les fonctionnaires se serviront pour créer des prototypes et des services en ligne.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="100" height="100" class="wp-image-3504" style="width: 100px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-FR-1-e1766418412623.png" alt="Icônes pour système de design"></td></tr></tbody></table></figure>
 
 
 
@@ -56,8 +56,8 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula Aoyagui : Mise à l’essai du Système de design GC.</summary>
-<p>Le parcours du MPO entourant le Système de design GC est un peu différent de celui de Formulaires GC ou de Notification GC. Le MPO met actuellement en œuvre la version alpha du Système de design GC. Il y a environ un an, nous avons décidé d’en entreprendre la mise à l’essai en demandant à 18 membres de notre personnel d’utiliser le système pour des projets donnés. Nous avons choisi trois projets très importants pour notre portefeuille et notre mandat et avons mobilisé les concepteurs et les développeurs de nos équipes dès le départ, ce qui fut une excellente occasion de travailler tous ensemble sur un produit intéressant. <br></p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula&nbsp;Aoyagui&nbsp;: Mise à l’essai du Système de design GC.</summary>
+<p>Le parcours du MPO entourant le Système de design GC est un peu différent de celui de Formulaires GC ou de Notification GC. Le MPO met actuellement en œuvre la version alpha du Système de design GC. Il y a environ un an, nous avons décidé d’en entreprendre la mise à l’essai en demandant à 18&nbsp;membres de notre personnel d’utiliser le système pour des projets donnés. Nous avons choisi trois projets très importants pour notre portefeuille et notre mandat et avons mobilisé les concepteurs et les développeurs de nos équipes dès le départ, ce qui fut une excellente occasion de travailler tous ensemble sur un produit intéressant.&nbsp;<br></p>
 
 
 
@@ -66,17 +66,17 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Adele Strub : Uniformisation des caractéristiques visuelles de l’ensemble des initiatives pilotes.</summary>
-<p>Du point de vue de la conception, le Système de design GC est très utile. Depuis plus d’un an, je travaille au sein d’une équipe responsable de trois produits externes. D’autres produits sont prévus, tant à l’interne qu’à l’extérieur, et je compte bien continuer à utiliser le système pour chacun d’eux.</p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Adele&nbsp;Strub&nbsp;: Uniformisation des caractéristiques visuelles de l’ensemble des initiatives pilotes.</summary>
+<p>Du point de vue de la conception, le Système de design GC est très utile. Depuis plus d’un&nbsp;an, je travaille au sein d’une équipe responsable de trois produits externes. D’autres produits sont prévus, tant à l’interne qu’à l’extérieur, et je compte bien continuer à utiliser le système pour chacun d’eux.</p>
 
 
 
-<p><br>Le recours au Système de design GC nous aide à uniformiser l’apparence des trois produits pilotes. Comme je n’ai pas à me préoccuper de concevoir des composants (comme un bouton), je peux me consacrer à l’amélioration des interactions de l’utilisateur avec les composants (comme la séquence d’opérations) et ainsi user bien plus judicieusement de mon temps. Même le seul fait de pouvoir utiliser le fichier Figma central est très utile. Il comprend plusieurs états pour les interactions (p. ex. erreur et fonction sensitive), ainsi que des styles typographiques conçus par souci d’accessibilité pour un vaste éventail d’utilisateurs.</p>
+<p><br>Le recours au Système de design GC nous aide à uniformiser l’apparence des trois produits pilotes. Comme je n’ai pas à me préoccuper de concevoir des composants (comme un bouton), je peux me consacrer à l’amélioration des interactions de l’utilisateur avec les composants (comme la séquence d’opérations) et ainsi user bien plus judicieusement de mon temps. Même le seul fait de pouvoir utiliser le fichier Figma central est très utile. Il comprend plusieurs états pour les interactions (p.&nbsp;ex. erreur et fonction sensitive), ainsi que des styles typographiques conçus par souci d’accessibilité pour un vaste éventail d’utilisateurs.</p>
 </details>
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Initiatives au MPO utilisant le Système de design GC :</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Initiatives au MPO utilisant le Système de design GC&nbsp;:</summary>
 <ul class="wp-block-list">
 <li>Système d’information sur les pêches canadiennes</li>
 
@@ -125,7 +125,7 @@ translationKey: dfo-series-gcds-p1
 
 
 <ul class="wp-block-list">
-<li>L’utilisation du Système de design GC nous aide à uniformiser les caractéristiques visuelles de l’ensemble des produits pilotes. </li>
+<li>L’utilisation du Système de design GC nous aide à uniformiser les caractéristiques visuelles de l’ensemble des produits pilotes.&nbsp;</li>
 
 
 
@@ -135,7 +135,7 @@ translationKey: dfo-series-gcds-p1
 
 <li>Nous nous réunissons régulièrement avec l’équipe du Système de design GC pour discuter de stratégies pour le système et s’y conformer. Au cours de ces séances, nous avons présenté les résultats de recherche, la conception des composants et les aspects à améliorer. Ces données ont aidé l’équipe responsable du produit à régler les bogues et à classer en ordre de priorité les contributions au Système de design GC. Elles ont également permis d’approuver l’adoption du système au SDPN!
 <ul class="wp-block-list">
-<li>Exemples à l’appui : Nous avons soumis une contribution au composant Modal, qui a été désignée prioritaire dans la <a href="https://systeme-design.alpha.canada.ca/fr/feuille-de-route/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">feuille de route du Système de design GC</a>. Nous avons également aidé l’équipe responsable du produit à repérer les bogues liés aux composants de saisie de formulaire dans le <a href="https://systeme-design.alpha.canada.ca/fr/demarrer/developpement/angular/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">paquet Angular du Système de design GC</a> afin qu’elle puisse les régler.</li>
+<li>Exemples à l’appui&nbsp;: Nous avons soumis une contribution au composant Modal, qui a été désignée prioritaire dans la <a href="https://systeme-design.alpha.canada.ca/fr/feuille-de-route/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">feuille de route du Système de design GC</a>. Nous avons également aidé l’équipe responsable du produit à repérer les bogues liés aux composants de saisie de formulaire dans le <a href="https://systeme-design.alpha.canada.ca/fr/demarrer/developpement/angular/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">paquet Angular du Système de design GC</a> afin qu’elle puisse les régler.</li>
 </ul>
 </li>
 </ul>
@@ -146,20 +146,20 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Adele Strub : Explorer et mettre à l’essai les ressources liées au Système de design GC.</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Adele&nbsp;Strub&nbsp;: Explorer et mettre à l’essai les ressources liées au Système de design GC.</summary>
 <p>Mon conseil aux fonctionnaires qui souhaitent utiliser le Système de design GC? Il faut commencer par explorer les fonctionnalités et les essayer. Le site Web du produit propose d’excellentes ressources qui expliquent les cas d’utilisation typiques, et les fichiers Figma renferment une vaste documentation.<br><br>Vous pouvez mettre à l’essai différentes variantes du générateur de code. Si vous avez de l’expérience avec Figma, vous pouvez même tirer profit des styles d’espacement et de couleur recommandés. Cette façon de faire facilite la transition entre la conception dans Figma et le développement en tant que tel.</p>
 </details>
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Antoine Bedward : Utiliser le Système de design GC pour favoriser la collaboration multidisciplinaire.</summary>
-<p>L’un des principaux avantages du Système de design GC est qu’il offre une plateforme commune pour la collaboration multidisciplinaire. Il a fait connaître à certains développeurs le travail de conception et leurs collègues concepteurs. Il fait office de catalyseur qui permet d’établir des liens entre les disciplines et d’apprendre à travailler ensemble. Dans certains cas, il a permis aux concepteurs de briser la glace et d’expliquer l’importance de discuter des problèmes avant de concevoir les interactions avec l’utilisateur, car cette réflexion préalable peut influer sur les décisions en matière de conception. </p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Antoine&nbsp;Bedward&nbsp;: Utiliser le Système de design GC pour favoriser la collaboration multidisciplinaire.</summary>
+<p>L’un des principaux avantages du Système de design GC est qu’il offre une plateforme commune pour la collaboration multidisciplinaire. Il a fait connaître à certains développeurs le travail de conception et leurs collègues concepteurs. Il fait office de catalyseur qui permet d’établir des liens entre les disciplines et d’apprendre à travailler ensemble. Dans certains cas, il a permis aux concepteurs de briser la glace et d’expliquer l’importance de discuter des problèmes avant de concevoir les interactions avec l’utilisateur, car cette réflexion préalable peut influer sur les décisions en matière de conception.&nbsp;</p>
 </details>
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula Aoyagui : Mettre à l’essai le Système de design GC au moyen d’initiatives pilotes.</summary>
-<p>Les initiatives pilotes sont un excellent moyen pour les équipes d’apprendre à mettre en œuvre le Système de design GC. S’adapter à de nouvelles méthodes de travail et utiliser un nouvel outil peut s’avérer décourageant, mais suivre le processus d’apprentissage avec d’autres contribue à la motivation. Plusieurs équipes de notre secteur ont utilisé l’outil, y compris des concepteurs et des développeurs. Ce fut l’occasion d’échanger sur notre expérience, de nous entraider et de formuler de la rétroaction à l’équipe à l’origine du Système de design GC. </p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula&nbsp;Aoyagui&nbsp;: Mettre à l’essai le Système de design GC au moyen d’initiatives pilotes.</summary>
+<p>Les initiatives pilotes sont un excellent moyen pour les équipes d’apprendre à mettre en œuvre le Système de design GC. S’adapter à de nouvelles méthodes de travail et utiliser un nouvel outil peut s’avérer décourageant, mais suivre le processus d’apprentissage avec d’autres contribue à la motivation. Plusieurs équipes de notre secteur ont utilisé l’outil, y compris des concepteurs et des développeurs. Ce fut l’occasion d’échanger sur notre expérience, de nous entraider et de formuler de la rétroaction à l’équipe à l’origine du Système de design GC.&nbsp;</p>
 
 
 
@@ -168,7 +168,7 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula Aoyagui : Promouvoir l’accessibilité du Système de design GC en vue de son adoption.</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula&nbsp;Aoyagui&nbsp;: Promouvoir l’accessibilité du Système de design GC en vue de son adoption.</summary>
 <p>L’un des principaux points positifs du Système de design GC est son accessibilité. Lorsque nous parlons aux clients du système, c’est l’un des aspects que nous mettons de l’avant.</p>
 </details>
 
@@ -178,7 +178,7 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<p>Notre équipe de soutien organise fréquemment des séances de démonstration et des forums destinés aux fonctionnaires, qui visent à ce que ces derniers découvrent l’utilité de l’outil pour la prestation de services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut inspirer des idées). <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/assister-a-une-demonstration-de-produit/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Inscrivez-vous à une démo</strong></a><strong>! </strong></p>
+<p>Notre équipe de soutien organise fréquemment des séances de démonstration et des forums destinés aux fonctionnaires, qui visent à ce que ces derniers découvrent l’utilité de l’outil pour la prestation de services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut inspirer des idées). <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/assister-a-une-demonstration-de-produit/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Inscrivez-vous à une démo</strong></a><strong>!&nbsp;</strong></p>
 
 
 
