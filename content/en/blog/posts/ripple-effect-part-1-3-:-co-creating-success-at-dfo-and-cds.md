@@ -4,7 +4,7 @@ title: 'Ripple effect (part 1/3): Co-creating success at DFO and CDS'
 description: >-
   In part 1 of 3 for this series, DFO shares how they’re charting new waters with GC Design System. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!
 author: 'Co-created with teams at the Chief Digital Officer Sector (CDOS), Department of Fisheries and Oceans Canada (DFO)'
-date: '2025-12-19T10:53:43'
+date: '2025-12-22T10:39:46'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
 image-alt: Icons for notifications, online forms, and the highlighted design system. The background is fish and waves.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
@@ -44,7 +44,7 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<figure class="wp-block-table is-style-regular"><table class="has-background has-fixed-layout" style="background-color:#9fdfba"><tbody><tr><td><a href="https://design-system.alpha.canada.ca/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>GC Design System</strong></a>: <br>Becoming the single source of truth for a trusted government Design System that will be leveraged by public servants to prototype and build online services.</td><td class="has-text-align-right" data-align="right"><img loading="lazy" decoding="async" width="150" height="150" class="wp-image-3452" style="width: 150px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-e1766072912603.png" alt="Icons for design system."></td></tr></tbody></table></figure>
+<figure class="wp-block-table is-style-regular"><table class="has-background has-fixed-layout" style="background-color:#9fdfba"><tbody><tr><td><a href="https://design-system.alpha.canada.ca/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>GC Design System</strong></a>:&nbsp;<br>Becoming the single source of truth for a trusted government Design System that will be leveraged by public servants to prototype and build online services.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="100" height="100" class="wp-image-3452" style="width: 100px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-e1766417898265.png" alt="Icons for design system."></td></tr></tbody></table></figure>
 
 
 
@@ -155,7 +155,7 @@ translationKey: dfo-series-gcds-p1
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Paula Aoyagui: Try out GC Design System with pilot initiatives.</summary>
-<p>Pilot initiatives are a great way for teams to learn how to implement GC Design System. It can be daunting to adapt to new ways of working and using a new tool, but going through the learning process with others helps. We had multiple teams in our sector using the tool, designers and developers included. It was a great opportunity to share experiences, help each other along the way, and provide feedback to the team behind the GC Design System. <br></p>
+<p>Pilot initiatives are a great way for teams to learn how to implement GC Design System. It can be daunting to adapt to new ways of working and using a new tool, but going through the learning process with others helps. We had multiple teams in our sector using the tool, designers and developers included. It was a great opportunity to share experiences, help each other along the way, and provide feedback to the team behind the GC Design System.&nbsp;<br></p>
 
 
 
