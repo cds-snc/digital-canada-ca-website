@@ -10,6 +10,8 @@ image-alt: Icons for notifications, online forms, and the highlighted design sys
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
 tags: ["GC Design System"]
 translationKey: dfo-series-gcds-p1
+redirect_from: 
+  - /2025/12/19/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/?utm_campaign=esdc-edsc-intcomms-24-25&utm_medium=smo&utm_source=lnkn&utm_content=dfo-series-gcds-p1-en-251222
 ---
 
 <p class="has-background" style="background-color:#d7e5f5"><strong>In part 1 of 3 for this series, DFO shares how they’re charting new waters with GC Design System. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
