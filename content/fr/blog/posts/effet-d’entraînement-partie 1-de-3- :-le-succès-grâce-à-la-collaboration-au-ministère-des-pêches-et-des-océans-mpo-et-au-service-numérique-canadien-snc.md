@@ -4,7 +4,7 @@ title: 'Effet d’entraînement (partie 1 de 3) : Le succès grâce à la coll
 description: >-
   Dans la partie 1 de 3 de cette série, le MPO explique comment il navigue sur des voies encore inexplorées avec le Système de design GC. Ensemble, nous nous jetons à l’eau pour les besoins de l’innovation numérique (deux éléments qui ne font traditionnellement pas bon ménage) pour ouvrir de nouvelles possibilités!
 author: 'Créé en collaboration avec les équipes du Secteur du dirigeant principal du numérique (SDPN), au ministère des Pêches et des Océans (MPO) du Canada'
-date: '2025-12-22T10:52:28'
+date: '2025-12-22T10:58:20'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
 image-alt: Icônes pour les notifications, les formulaires en ligne et le système de design mis en surbrillance. L’arrière-plan est constitué de poissons et de vagues.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
@@ -46,7 +46,7 @@ translationKey: dfo-series-gcds-p1
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#9fdfba"><tbody><tr><td><a href="https://systeme-design.alpha.canada.ca/fr/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Système de design&nbsp;GC</strong></a>&nbsp;:&nbsp;<br>Devenir l’unique source de vérité pour un système de design gouvernemental fiable dont les fonctionnaires se serviront pour créer des prototypes et des services en ligne.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="100" height="100" class="wp-image-3504" style="width: 100px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-FR-1-e1766418412623.png" alt="Icônes pour système de design"></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-background" style="background-color:#9fdfba"><tbody><tr><td><a href="https://systeme-design.alpha.canada.ca/fr/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Système de design&nbsp;GC</strong></a>&nbsp;:&nbsp;<br>Devenir l’unique source de vérité pour un système de design gouvernemental fiable dont les fonctionnaires se serviront pour créer des prototypes et des services en ligne.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="100" height="100" class="wp-image-3504" style="width: 100px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-FR-1-e1766418412623.png" alt="Icônes pour système de design"></td></tr></tbody></table></figure>
 </div>
 </div>
 
