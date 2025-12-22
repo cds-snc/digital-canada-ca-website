@@ -4,7 +4,7 @@ title: 'Ripple effect (part 1/3): Co-creating success at DFO and CDS'
 description: >-
   In part 1 of 3 for this series, DFO shares how they’re charting new waters with GC Design System. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!
 author: 'Co-created with teams at the Chief Digital Officer Sector (CDOS), Department of Fisheries and Oceans Canada (DFO)'
-date: '2025-12-22T10:39:46'
+date: '2025-12-22T10:52:28'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
 image-alt: Icons for notifications, online forms, and the highlighted design system. The background is fish and waves.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_blog_banner_2025_LinkdIn_D-scaled.jpg
