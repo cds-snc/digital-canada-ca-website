@@ -3,7 +3,7 @@ locals {
 }
 
 module "pr_review_env" {
-  source            = "github.com/cds-snc/terraform-modules//gh_oidc_role?ref=v10.2.2"
+  source            = "github.com/cds-snc/terraform-modules//gh_oidc_role?ref=v10.10.2"
   billing_tag_value = var.billing_code
   roles = [
     {
