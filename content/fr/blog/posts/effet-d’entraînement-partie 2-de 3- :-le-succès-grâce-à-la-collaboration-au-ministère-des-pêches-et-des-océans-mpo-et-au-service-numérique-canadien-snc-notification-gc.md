@@ -4,7 +4,7 @@ title: 'Effet d’entraînement (partie 2 de 3) : Le succès grâce à la col
 description: >-
   Dans le deuxième de cette série de trois billets de blogue, le MPO explique comment il navigue sur des voies encore inexplorées avec Notification GC. Ensemble, nous combinons eau et numérique (deux éléments qui ne font traditionnellement pas bon ménage) afin d’ouvrir de nouvelles possibilités!
 author: 'Créé en collaboration avec les équipes du Secteur du dirigeant principal du numérique (SDPN), ministère des Pêches et des Océans du Canada'
-date: '2026-01-15T10:47:35'
+date: '2026-01-15T11:25:57'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-scaled.jpg
 image-alt: Icônes représentant le Système de design GC, un formulaire en ligne et une notification, celle-ci étant en surbrillance. L’arrière-plan est constitué de poissons et de vagues.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-scaled.jpg
@@ -110,7 +110,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Comment le carrefour des données de l’organisation informe les utilisateurs par l’intermédiaire de Notification GC</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Comment le carrefour des données de l’organisation informe les utilisateurs par l’intermédiaire de Notification&nbsp;GC</summary>
 <p><strong>Russell&nbsp;Moore&nbsp;:</strong></p>
 
 
@@ -138,8 +138,8 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>« Pas la peine de réinventer la roue : utilisez-le! » – Russell Moore</summary>
-<p>Pas la peine de réinventer la roue; utilisez Notification GC. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>«&nbsp;Pas la peine de réinventer la roue&nbsp;: utilisez-le!&nbsp;» – Russell Moore</summary>
+<p>Pas la peine de réinventer la roue; utilisez Notification&nbsp;GC. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
 </details>
 
 
@@ -165,7 +165,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<li><a href="https://notification.canada.ca/activity" target="_blank" rel="noreferrer noopener">Tableau de bord de l’activité sur Notification&nbsp;GC</a>&nbsp;: Plus de 286&nbsp;millions de notifications ont été envoyées par pas moins de 900&nbsp;programmes et services gouvernementaux.</li>
+<li><a href="https://notification.canada.ca/activity" target="_blank" rel="noreferrer noopener">Tableau de bord de l’activité sur Notification GC</a> : Plus de 287 millions de notifications ont été envoyées par pas moins de 900 programmes et services gouvernementaux.</li>
 </ul>
 
 
@@ -174,13 +174,9 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p>Notre équipe de soutien organise fréquemment des séances de démonstration et de discussion à l’intention des fonctionnaires afin de leur faire découvrir en quoi l’outil de notification peut les aider à offrir leurs services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut donner des idées). <a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener">Inscrivez-vous à une démo sur Notification&nbsp;GC!</a></p>
+<p>Notre équipe de soutien organise fréquemment des séances de démonstration et de discussion à l’intention des fonctionnaires afin de leur faire découvrir en quoi l’outil de notification peut les aider à offrir leurs services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut donner des idées). <a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener">Inscrivez-vous à une démo sur Notification GC</a>!</p>
 
 
 
 <p>Le MPO utilise également l’outil <a href="https://conception.canada.ca/retroaction/index.html" target="_blank" rel="noreferrer noopener">Rétroaction&nbsp;GC</a> et le <a href="https://conception.canada.ca/sondage/index.html" target="_blank" rel="noreferrer noopener">Sondage sur la réussite des tâches du gouvernement du Canada</a> dans le cadre de son travail d’optimisation Web. Consultez ces outils pour savoir comment ils peuvent vous aider à mesurer et à améliorer l’expérience utilisateur à l’égard du contenu Web des sites Canada.ca.</p>
-
-
-
-<p></p>
 
