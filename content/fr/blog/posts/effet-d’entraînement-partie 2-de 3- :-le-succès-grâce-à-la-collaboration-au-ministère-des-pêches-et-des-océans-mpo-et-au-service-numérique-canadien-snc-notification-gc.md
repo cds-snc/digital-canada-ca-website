@@ -36,7 +36,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Information détaillée&nbsp;: Dites bonjour aux équipes numériques du MPO!</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Dites bonjour aux équipes numériques du MPO!</summary>
 <p>Nous avons parlé à des membres du SDPN du MPO de leur expérience en tant qu’utilisateurs de Notification&nbsp;GC.</p>
 
 
@@ -92,11 +92,11 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<h2 class="wp-block-heading"><strong>Principale incidence de l’utilisation de Notification&nbsp;GC au MPO</strong></h2>
+<h3 class="wp-block-heading"><strong>Principale incidence de l’utilisation de Notification&nbsp;GC au MPO</strong></h3>
 
 
 
-<h3 class="wp-block-heading"><strong>Nous avons envoyé près de 10 000 courriels depuis l’adoption de Notification GC en 2023!</strong></h3>
+<h3 class="wp-block-heading"><strong>Nous avons envoyé près de 10&nbsp;000&nbsp;courriels depuis l’adoption de Notification&nbsp;GC en&nbsp;2023!</strong></h3>
 
 
 
@@ -110,7 +110,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Information détaillée&nbsp;: Comment le carrefour des données de l’organisation informe les utilisateurs par l’intermédiaire de Notification&nbsp;GC</summary>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Comment le carrefour des données de l’organisation informe les utilisateurs par l’intermédiaire de Notification GC</summary>
 <p><strong>Russell&nbsp;Moore&nbsp;:</strong></p>
 
 
@@ -134,12 +134,12 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<h2 class="wp-block-heading"><strong>Conseil du MPO pour l’utilisation de Notification&nbsp;GC</strong></h2>
+<h3 class="wp-block-heading"><strong>Conseil du MPO pour l’utilisation de Notification&nbsp;GC</strong></h3>
 
 
 
-<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Information détaillée&nbsp;: «&nbsp;Pas la peine de réinventer la roue&nbsp;: utilisez-le!&nbsp;» – Russell Moore</summary>
-<p>Pas la peine de réinventer la roue; utilisez Notification&nbsp;GC&lt;. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
+<details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>« Pas la peine de réinventer la roue : utilisez-le! » – Russell Moore</summary>
+<p>Pas la peine de réinventer la roue; utilisez Notification GC. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
 </details>
 
 
