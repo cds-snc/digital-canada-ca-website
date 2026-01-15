@@ -4,7 +4,7 @@ title: 'Ripple effect (part 2/3): Co-creating success at DFO and CDS (GC Notify)
 description: >-
   In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!
 author: 'Co-created with teams at the Chief Digital Officer Sector (CDOS), Department of Fisheries and Oceans Canada (DFO)'
-date: '2026-01-15T09:30:43'
+date: '2026-01-15T10:32:41'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-1-scaled.jpg
 image-alt: Icons for design system, online forms, and the highlighted notifications. The background is fish and waves.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-1-scaled.jpg
@@ -92,7 +92,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Key impact of using GC Notify at DFO:</strong></p>
+<h3 class="wp-block-heading"><strong>Key impact of using GC Notify at DFO:</strong></h3>
 
 
 
@@ -136,7 +136,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Advice from DFO for using GC Notify</strong></p>
+<h3 class="wp-block-heading"><strong>Advice from DFO for using GC Notify</strong></h3>
 
 
 
