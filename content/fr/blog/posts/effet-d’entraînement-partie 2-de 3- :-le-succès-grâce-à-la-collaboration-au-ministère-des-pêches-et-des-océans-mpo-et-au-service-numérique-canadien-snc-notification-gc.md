@@ -96,7 +96,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Nous avons envoyé près de 10&nbsp;000&nbsp;courriels depuis l’adoption de Notification&nbsp;GC en&nbsp;2023!</strong></p>
+<h3 class="wp-block-heading"><strong>Nous avons envoyé près de 10 000 courriels depuis l’adoption de Notification GC en 2023!</strong></h3>
 
 
 
