@@ -144,7 +144,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Ces articles pourraient vous intéresser. </strong></p>
+<h3 class="wp-block-heading"><strong>Ces articles pourraient vous intéresser. </strong></h3>
 
 
 
