@@ -4,7 +4,7 @@ title: 'Ripple effect (part 2/3): Co-creating success at DFO and CDS (GC Notify)
 description: >-
   In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!
 author: 'Co-created with teams at the Chief Digital Officer Sector (CDOS), Department of Fisheries and Oceans Canada (DFO)'
-date: '2026-01-15T10:32:41'
+date: '2026-01-15T11:33:45'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-1-scaled.jpg
 image-alt: Icons for design system, online forms, and the highlighted notifications. The background is fish and waves.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/01/DFO_blog_banner_2025_Blog_Post_N-1-scaled.jpg
@@ -28,7 +28,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=dfo-series-gcds-p1&amp;utm_content=cds-products-page-en" target="_blank" rel="noreferrer noopener"><strong>CDS products</strong></a><strong> </strong><strong>have been <em>making waves</em> with the Chief Digital Officer Sector (CDOS) team at the </strong><a href="https://www.dfo-mpo.gc.ca/index-eng.html" target="_blank" rel="noreferrer noopener"><strong>Department of Fisheries and Oceans Canada (DFO)</strong></a><strong>.</strong> DFO is responsible for safeguarding Canada’s oceans and maintaining fish and ocean resources, including ensuring our ocean ecosystems are healthy and protected. </p>
+<p><a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=dfo-series-gcds-p1&amp;utm_content=cds-products-page-en" target="_blank" rel="noreferrer noopener"><strong>CDS products</strong></a><strong> </strong><strong>have been <em>making waves</em> with the Chief Digital Officer Sector (CDOS) team at the </strong><a href="https://www.dfo-mpo.gc.ca/index-eng.html" target="_blank" rel="noreferrer noopener"><strong>Department of Fisheries and Oceans Canada (DFO)</strong></a><strong>.</strong> DFO is responsible for safeguarding Canada’s oceans and maintaining fish and ocean resources, including ensuring our ocean ecosystems are healthy and protected.&nbsp;</p>
 
 
 
@@ -167,7 +167,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<li><a href="https://notification.canada.ca/activity" target="_blank" rel="noreferrer noopener">Activity metrics dashboard for GC Notify</a>: 286+ million notifications sent by over 900 government programs and services.</li>
+<li><a href="https://notification.canada.ca/activity" target="_blank" rel="noreferrer noopener">Activity metrics dashboard for GC Notify</a>: 287+ million notifications sent by over 900 government programs and services.</li>
 </ul>
 
 
