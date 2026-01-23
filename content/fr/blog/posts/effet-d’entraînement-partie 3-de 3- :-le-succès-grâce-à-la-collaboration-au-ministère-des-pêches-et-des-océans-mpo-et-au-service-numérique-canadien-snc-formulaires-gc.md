@@ -30,7 +30,7 @@ translationKey: dfo-series-gcds-p3
 
 
 
-<p><a href="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>Les produits du SNC</strong></a><strong>font des <em>vagues </em>auprès de l’équipe du Secteur du dirigeant principal du numérique (SPDN) du </strong><a href="https://www.dfo-mpo.gc.ca/index-fra.html" target="_blank" rel="noreferrer noopener"><strong>ministère des Pêches et des Océans (MPO) du Canada</strong></a><strong>.</strong> Le MPO est chargé de protéger les océans du Canada et de préserver les ressources halieutiques et océaniques, notamment en veillant à la santé et à la protection des écosystèmes océaniques du pays.  </p>
+<p><a href="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>Les produits du SNC</strong></a><strong> </strong><strong>font des <em>vagues </em>auprès de l’équipe du Secteur du dirigeant principal du numérique (SPDN) du </strong><a href="https://www.dfo-mpo.gc.ca/index-fra.html" target="_blank" rel="noreferrer noopener"><strong>ministère des Pêches et des Océans (MPO) du Canada</strong></a><strong>.</strong> Le MPO est chargé de protéger les océans du Canada et de préserver les ressources halieutiques et océaniques, notamment en veillant à la santé et à la protection des écosystèmes océaniques du pays. </p>
 
 
 
