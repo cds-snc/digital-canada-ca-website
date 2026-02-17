@@ -107,7 +107,7 @@ jobs:
           IMAGE_TAG: ${{ github.event.pull_request.number }}
         run: |
           # Build the image
-          docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
+          docker build --provenance=false -t ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG .
           docker tag ${{ env.REGISTRY }}/${{ env.IMAGE }}:$IMAGE_TAG ${{ env.REGISTRY }}/${{ env.IMAGE }}:latest
           
           # Push both tags
