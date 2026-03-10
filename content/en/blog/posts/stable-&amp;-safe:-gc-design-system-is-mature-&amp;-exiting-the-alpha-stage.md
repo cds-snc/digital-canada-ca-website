@@ -4,7 +4,7 @@ title: 'Stable &amp; safe: GC Design System is mature &amp; exiting the Alpha st
 description: >-
   Milestone: GC Design System reaches a stable state and exits Alpha. Read how this benefits public servants exploring the design system.
 author: 'GC Design System team'
-date: '2026-03-10T11:18:58'
+date: '2026-03-10T11:50:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/03/GCDesign_outAlfa_LinkdIn_EN-scaled.jpg
 image-alt: Rocket ship next to computer with screenshot of the GC Design System home page
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/03/GCDesign_outAlfa_LinkdIn_EN-scaled.jpg
