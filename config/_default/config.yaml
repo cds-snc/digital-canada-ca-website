@@ -3,7 +3,6 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 params:
-  lever_api_endpoint: https://944yirpts7.execute-api.ca-central-1.amazonaws.com/Production/lever
   home:
     en: "content/en/products/_index.html"
     fr: "content/fr/products/_index.html"
