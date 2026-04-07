@@ -4,4 +4,4 @@ Policy: https://hackerone.com/tbs-sct/policy
 Canonical: https://digital.canada.ca/.well-known/security.txt
 Canonical: https://numerique.canada.ca/.well-known/security.txt
 Preferred-Languages: en, fr
-Expires: 2026-03-29T12:00:00.000Z
+Expires: 2027-04-01T00:00:00Z
