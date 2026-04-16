@@ -8,7 +8,7 @@ date: '2025-12-17T13:15:22'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Ai_2025_Blog_Post_EN-1-scaled.jpg
 image-alt: A person holding a smartphone displaying a Canada.ca webpage titled “AI Answers,” which offers answers to Canada.ca questions using an AI service.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Ai_2025_Blog_Post_EN-1-scaled.jpg
-tags: ["AI","Testing"]
+tags: ["AI","Research","Testing"]
 translationKey: blog-ai-answers
 ---
 
