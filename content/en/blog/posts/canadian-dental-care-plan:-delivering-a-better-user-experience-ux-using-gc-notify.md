@@ -20,7 +20,7 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p><strong>Read our interview below with public servants Kyle Butts and Pat Heroux at the </strong><a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener"><strong>Canadian Dental Care Plan (CDCP)</strong></a><strong>, </strong>where they share how and why they’re using <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>, and the UX benefits of providing digital updates.</p>
+<p><strong>Read our interview below with public servants Kyle Butts and Pat Heroux at the </strong><a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener"><strong>Canadian Dental Care Plan (CDCP)</strong></a><strong>, </strong>where they share how and why they’re using <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>, and the UX benefits of providing digital updates. </p>
 
 
 
