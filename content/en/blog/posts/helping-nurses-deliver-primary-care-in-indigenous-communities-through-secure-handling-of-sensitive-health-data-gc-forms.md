@@ -6,7 +6,7 @@ description: >-
 author: 'Collaboration with Indigenous Services Canada (ISC)'
 date: '2026-05-21T09:58:18'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/05/ISC_blog_post_en-80_720.jpg
-image-alt: Nature photograph at the Six Nations of the Grand River in Ontario. Client testimonial from Indigenous Services Canada in background: “GC Forms gave us a practical, scalable tool that works in low-bandwidth environments and supports frontline healthcare workers where they’re needed most.”
+image-alt: Nature photograph at the Six Nations of the Grand River in Ontario. Client testimonial from Indigenous Services Canada in background “GC Forms gave us a practical, scalable tool that works in low-bandwidth environments and supports frontline healthcare workers where they’re needed most.”
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/05/ISC_blog_post_en-80_720.jpg
 tags: ["GC Forms"]
 translationKey: isc-gcforms-nursing
