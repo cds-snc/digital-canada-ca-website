@@ -68,7 +68,9 @@ translationKey: isc-gcforms-nursing
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p><strong>« Le processus de création de formulaires était intuitif. Nous avons été en mesure de concevoir exactement ce dont nos équipes de soins infirmiers avaient besoin, sans nous fier à des spécialistes techniques. »</strong><br></p></blockquote></figure>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>« Le processus de création de formulaires était intuitif. Nous avons été en mesure de concevoir exactement ce dont nos équipes de soins infirmiers avaient besoin, sans nous fier à des spécialistes techniques. »</strong><br></p>
+</blockquote>
 
 
 
@@ -124,7 +126,9 @@ translationKey: isc-gcforms-nursing
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p><strong>« Avant Formulaires GC, nous ne disposions pas d’un moyen cohérent de faire le suivi des problèmes de santé d’une communauté à l’autre. Maintenant, nous pouvons cerner plus rapidement les tendances et y réagir avec un soutien ciblé. »</strong></p></blockquote></figure>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>« Avant Formulaires GC, nous ne disposions pas d’un moyen cohérent de faire le suivi des problèmes de santé d’une communauté à l’autre. Maintenant, nous pouvons cerner plus rapidement les tendances et y réagir avec un soutien ciblé. »</strong></p>
+</blockquote>
 
 
 
