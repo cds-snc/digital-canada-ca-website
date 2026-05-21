@@ -68,9 +68,7 @@ translationKey: isc-gcforms-nursing
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>«&nbsp;Le processus de création de formulaires était intuitif. Nous avons été en mesure de concevoir exactement ce dont nos équipes de soins infirmiers avaient besoin, sans nous fier à des spécialistes techniques.&nbsp;»</strong><br></p>
-</blockquote>
+<figure class="wp-block-pullquote"><blockquote><p><strong>« Le processus de création de formulaires était intuitif. Nous avons été en mesure de concevoir exactement ce dont nos équipes de soins infirmiers avaient besoin, sans nous fier à des spécialistes techniques. »</strong><br></p></blockquote></figure>
 
 
 
@@ -91,7 +89,7 @@ translationKey: isc-gcforms-nursing
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Ce que le formulaire saisit (haut niveau)</summary>
-<p><strong>Le </strong><a href="https://forms-formulaires.alpha.canada.ca/fr/id/cmoa5sd9400tuxc01xmjc9fkf" data-type="link" data-id="https://forms-formulaires.alpha.canada.ca/fr/id/cmoa5sd9400tuxc01xmjc9fkf" target="_blank" rel="noreferrer noopener"><strong>formulaire</strong></a><strong> favorise une assurance de la qualité interne et appuie la surveillance de la charge de travail en saisissant des données normalisées pour chaque situation liée aux soins de santé, notamment :</strong></p>
+<p><strong>Le </strong><a href="https://forms-formulaires.alpha.canada.ca/fr/id/cmoa5sd9400tuxc01xmjc9fkf" data-type="link" data-id="https://forms-formulaires.alpha.canada.ca/fr/id/cmoa5sd9400tuxc01xmjc9fkf" target="_blank" rel="noreferrer noopener"><strong>formulaire</strong></a><strong> favorise une assurance de la qualité interne et appuie la surveillance de la charge de travail en saisissant des données normalisées pour chaque situation liée aux soins de santé, notamment&nbsp;:</strong></p>
 
 
 
@@ -126,9 +124,7 @@ translationKey: isc-gcforms-nursing
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>«&nbsp;Avant Formulaires GC, nous ne disposions pas d’un moyen cohérent de faire le suivi des problèmes de santé d’une communauté à l’autre. Maintenant, nous pouvons cerner plus rapidement les tendances et y réagir avec un soutien ciblé.&nbsp;»</strong></p>
-</blockquote>
+<figure class="wp-block-pullquote"><blockquote><p><strong>« Avant Formulaires GC, nous ne disposions pas d’un moyen cohérent de faire le suivi des problèmes de santé d’une communauté à l’autre. Maintenant, nous pouvons cerner plus rapidement les tendances et y réagir avec un soutien ciblé. »</strong></p></blockquote></figure>
 
 
 
