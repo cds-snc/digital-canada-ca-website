@@ -6,7 +6,7 @@ description: >-
 author: 'Collaboration avec Services aux Autochtones Canada (SAC)'
 date: '2026-05-21T09:58:18'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/05/blog_post_fr-80_720.jpg
-image-alt: Photo de nature prise chez les Six Nations de la rivière Grand, en Ontario. Témoignage du client « Services aux Autochtones Canada » en arrière-plan : « Formulaires GC a été pour nous un outil pratique et évolutif qui fonctionne dans des environnements à faible débit et qui soutient les travailleurs de la santé de première ligne là où nous en avons le plus besoin. »
+image-alt: Photo de nature prise chez les Six Nations de la rivière Grand, en Ontario. Témoignage du client Services aux Autochtones Canada en arrière-plan. « Formulaires GC a été pour nous un outil pratique et évolutif qui fonctionne dans des environnements à faible débit et qui soutient les travailleurs de la santé de première ligne là où nous en avons le plus besoin. »
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/05/blog_post_fr-80_720.jpg
 tags: ["Formulaires GC"]
 translationKey: isc-gcforms-nursing
