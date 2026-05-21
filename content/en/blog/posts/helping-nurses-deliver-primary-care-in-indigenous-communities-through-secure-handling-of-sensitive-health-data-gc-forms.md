@@ -68,7 +68,9 @@ translationKey: isc-gcforms-nursing
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p><strong>“The form-building process was intuitive. We were able to design exactly what our nursing teams needed, without relying on technical specialists.”</strong></p></blockquote></figure>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“The form-building process was intuitive. We were able to design exactly what our nursing teams needed, without relying on technical specialists.”</strong></p>
+</blockquote>
 
 
 
@@ -124,7 +126,9 @@ translationKey: isc-gcforms-nursing
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p><strong>“Before GC Forms, we lacked a consistent way to track local health issues across communities. Now, we can spot trends early and respond faster with targeted support.”</strong></p></blockquote></figure>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>“Before GC Forms, we lacked a consistent way to track local health issues across communities. Now, we can spot trends early and respond faster with targeted support.”</strong></p>
+</blockquote>
 
 
 
