@@ -4,7 +4,7 @@ title: 'Dynamiser l’avenir numérique du Canada : ce que nous avons entendu l
 description: >-
   En s’appuyant sur les perspectives d’experts du monde entier, le SNC explore le potentiel transformateur de l’infrastructure publique numérique (IPN) et explique pourquoi elle est essentielle à la souveraineté numérique et économique du Canada.
 author: ' Équipe des politiques stratégiques du SNC '
-date: '2026-06-16T14:49:36'
+date: '2026-06-16T16:44:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_FR_Train_Blog.jpeg
 image-alt: Train à grande vitesse sur une voie ferrée, avec un drapeau canadien visible en arrière-plan
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_FR_Train_Blog.jpeg
@@ -32,7 +32,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>Au Brésil, le système de paiement instantané Pix, qui appartient au secteur public, a permis <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">aux consommateurs et aux entreprises d’économiser plus de 29&nbsp;milliards de dollars canadiens</a>(en anglais) depuis son lancement en 2020.</p>
+<p>Au Brésil, le système de paiement instantané Pix, qui appartient au secteur public, a permis <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">aux consommateurs et aux entreprises d’économiser plus de 29 milliards de dollars canadiens </a>(en anglais) depuis son lancement en 2020.</p>
 
 
 
