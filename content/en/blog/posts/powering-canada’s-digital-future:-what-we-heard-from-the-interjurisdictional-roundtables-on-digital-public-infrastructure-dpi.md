@@ -5,9 +5,9 @@ description: >-
   Drawing on insights from experts around the world, CDS explores the transformative potential of Digital Public Infrastructure (DPI) and why it is key to Canada’s digital and economic sovereignty.
 author: 'CDS Strategic Policy Team'
 date: '2026-06-16T14:56:20'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720-e1781637815559.jpg
 image-alt: High-speed train on a track with a Canadian flag visible in background
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720.jpg
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720-e1781637815559.jpg
 tags: ["Policy"]
 translationKey: blog-dpi-cdspolicy-part-2
 ---
