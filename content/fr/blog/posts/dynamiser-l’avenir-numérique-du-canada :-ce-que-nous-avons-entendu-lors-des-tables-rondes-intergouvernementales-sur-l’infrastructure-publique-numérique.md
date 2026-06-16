@@ -4,7 +4,7 @@ title: 'Dynamiser l’avenir numérique du Canada : ce que nous avons entendu l
 description: >-
   En s’appuyant sur les perspectives d’experts du monde entier, le SNC explore le potentiel transformateur de l’infrastructure publique numérique (IPN) et explique pourquoi elle est essentielle à la souveraineté numérique et économique du Canada.
 author: ' Équipe des politiques stratégiques du SNC '
-date: '2026-06-16T14:49:36'
+date: '2026-06-16T14:56:20'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_FR_Train_Blog.jpeg
 image-alt: Train à grande vitesse sur une voie ferrée, avec un drapeau canadien visible en arrière-plan
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_FR_Train_Blog.jpeg
