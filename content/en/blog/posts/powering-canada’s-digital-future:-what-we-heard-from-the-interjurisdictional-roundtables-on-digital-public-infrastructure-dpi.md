@@ -5,9 +5,9 @@ description: >-
   Drawing on insights from experts around the world, CDS explores the transformative potential of Digital Public Infrastructure (DPI) and why it is key to Canada’s digital and economic sovereignty.
 author: 'CDS Strategic Policy Team'
 date: '2026-06-16T14:56:20'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720-e1781637815559.jpg
 image-alt: High-speed train on a track with a Canadian flag visible in background
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720.jpg
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/dpi_train_2026_blog_post_en_720-e1781637815559.jpg
 tags: ["Policy"]
 translationKey: blog-dpi-cdspolicy-part-2
 ---
@@ -16,11 +16,11 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>In our <a href="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">June 2025 blog post</a>, we asked: What would it take for Canada to build the digital public infrastructure (DPI) that people and the economy need? We argued that the core components of DPI, digital credentials, data exchange, and payments, should be treated as essential infrastructure, not a set of IT projects. We also noted that building national DPI couldn’t happen in a federal vacuum, and that an ambitious undertaking like DPI would require a whole-of-society pull<s> </s> over the past year since our initial blogpost, this has only become more evident.&nbsp;</p>
+<p>In our <a href="https://digital.canada.ca/2026/06/16/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">June 2025 blog post</a>, we asked: What would it take for Canada to build the digital public infrastructure (DPI) that people and the economy need? We argued that the core components of DPI, digital credentials, data exchange, and payments, should be treated as essential infrastructure, not a set of IT projects. We also noted that building national DPI couldn’t happen in a federal vacuum, and that an ambitious undertaking like DPI would require a whole-of-society pull over the past year since our initial blogpost, this has only become more evident. </p>
 
 
 
-<p>Like roads linking places, well-built DPI connects services, unlocks economic potential, enhances security, improves user experience, and builds resilience to help Canada respond in times of crisis. For example, Estonia’s data exchange layer, X-Road, saves over <a href="https://e-estonia.com/solutions/interoperability-services/x-road/" target="_blank" rel="noreferrer noopener">1,345 years of working time annually</a>, while digital signatures (a feature of Estonia’s credential system) are estimated to save <a href="https://tradewithestonia.com/from-trust-to-gdp-the-measurable-wins-of-going-digital/" target="_blank" rel="noreferrer noopener">2% in economic output annually</a>. In Brazil, public sector-owned instant payment system Pix has <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">saved consumers and businesses over $29 billion (CAD)</a><sup>1</sup> since its launch in 2020.</p>
+<p>Like roads linking places, well-built DPI connects services, unlocks economic potential, enhances security, improves user experience, and builds resilience to help Canada respond in times of crisis. For example, Estonia’s data exchange layer, X-Road, saves over <a href="https://e-estonia.com/solutions/interoperability-services/x-road/" target="_blank" rel="noreferrer noopener">1,345 years of working time annually</a>, while digital signatures (a feature of Estonia’s credential system) are estimated to save <a href="https://tradewithestonia.com/from-trust-to-gdp-the-measurable-wins-of-going-digital/" target="_blank" rel="noreferrer noopener">2% in economic output annually</a>. In Brazil, public sector-owned instant payment system Pix has <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">saved consumers and businesses over $29 billion (CAD)</a> since its launch in 2020.</p>
 
 
 
@@ -32,7 +32,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>In January 2026, <a href="https://www.pm.gc.ca/en/news/statements/2026/01/29/first-ministers-joint-statement" target="_blank" rel="noreferrer noopener">First Ministers</a> committed to moving forward with digital credential recognition to support labour mobility in the trades. In February 2026, the <a href="https://www.cma.ca/latest-stories/what-connected-care-act-means-you-whether-youre-patient-physician" target="_blank" rel="noreferrer noopener">Connected Care for Canadians Act</a> was reintroduced in Parliament to help health information systems work together across the country. While these initiatives are well intentioned and demonstrating progress in recognition of the potential of DPI, they are still happening in isolation within individual sectors.   </p>
+<p>In January 2026, <a href="https://www.pm.gc.ca/en/news/statements/2026/01/29/first-ministers-joint-statement" target="_blank" rel="noreferrer noopener">First Ministers</a> committed to moving forward with digital credential recognition to support labour mobility in the trades. In February 2026, the <a href="https://www.cma.ca/latest-stories/what-connected-care-act-means-you-whether-youre-patient-physician" target="_blank" rel="noreferrer noopener">Connected Care for Canadians Act</a> was reintroduced in Parliament to help health information systems work together across the country. While these initiatives are well intentioned and demonstrating progress in recognition of the potential of DPI, they are still happening in isolation within individual sectors.&nbsp;&nbsp;&nbsp;</p>
 
 
 
