@@ -4,7 +4,7 @@ title: 'Digital Public Infrastructure (DPI): Powering the GC’s digital future'
 description: >-
   Loïc Veza, Nisa Malli, and Dan Monafu from the CDS policy team discuss the transformative potential of Digital Public Infrastructure (DPI) and its role in Canada’s economic and digital future.
 author: 'Loïc Veza, Nisa Malli and Dan Monafu '
-date: '2025-06-23T14:04:07'
+date: '2026-06-16T14:42:26'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DPIBlogBrandingRequest_2025_Blog_Post_EN-scaled.jpg
 image-alt: A dynamic digital landscape of glowing teal and gold waveforms set against a dark background, representing data flow, connectivity, and digital infrastructure.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2025/06/DPIBlogBrandingRequest_2025_Blog_Post_EN-scaled.jpg
