@@ -16,7 +16,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>In our <a href="https://digital.canada.ca/2026/06/16/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">June 2025 blog post</a>, we asked: What would it take for Canada to build the digital public infrastructure (DPI) that people and the economy need? We argued that the core components of DPI, digital credentials, data exchange, and payments, should be treated as essential infrastructure, not a set of IT projects. We also noted that building national DPI couldn’t happen in a federal vacuum, and that an ambitious undertaking like DPI would require a whole-of-society pull over the past year since our initial blogpost, this has only become more evident. </p>
+<p>In our <a href="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" data-type="link" data-id="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">June 2025 blog post</a>, we asked: What would it take for Canada to build the digital public infrastructure (DPI) that people and the economy need? We argued that the core components of DPI, digital credentials, data exchange, and payments, should be treated as essential infrastructure, not a set of IT projects. We also noted that building national DPI couldn’t happen in a federal vacuum, and that an ambitious undertaking like DPI would require a whole-of-society pull over the past year since our initial blogpost, this has only become more evident. </p>
 
 
 

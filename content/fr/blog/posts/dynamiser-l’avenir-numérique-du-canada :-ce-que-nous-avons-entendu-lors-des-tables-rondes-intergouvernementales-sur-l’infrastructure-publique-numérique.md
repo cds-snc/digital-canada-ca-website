@@ -20,7 +20,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>Dans notre <a href="https://numerique.canada.ca/2025/06/23/infrastructure-publique-num%C3%A9rique-dynamiser-lrsquoavenir-num%C3%A9rique-du-gouvernement/" target="_blank" rel="noreferrer noopener">article de blogue de juin 2025</a>, nous avons posé la question suivante&nbsp;: de quoi le Canada a-t-il besoin pour créer l’infrastructure publique numérique (IPN) dont les gens et l’économie ont besoin? Nous avons avancé que les composantes essentielles de l’IPN, soit les justificatifs numériques, l’échange de données et les paiements, devraient être traitées comme une infrastructure essentielle et non comme un ensemble de projets informatiques. </p>
+<p>Dans notre <a href="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">article de blogue de juin 2025</a>, nous avons posé la question suivante : de quoi le Canada a-t-il besoin pour créer l’infrastructure publique numérique (IPN) dont les gens et l’économie ont besoin? Nous avons avancé que les composantes essentielles de l’IPN, soit les justificatifs numériques, l’échange de données et les paiements, devraient être traitées comme une infrastructure essentielle et non comme un ensemble de projets informatiques.</p>
 
 
 
@@ -32,7 +32,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>Au Brésil, le système de paiement instantané Pix, qui appartient au secteur public, a permis <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">aux consommateurs et aux entreprises d’économiser plus de 29 milliards de dollars canadiens </a>(en anglais) depuis son lancement en 2020.</p>
+<p>Au Brésil, le système de paiement instantané Pix, qui appartient au secteur public, a permis <a href="https://valorinternational.globo.com/economy/news/2025/08/08/under-trump-scrutiny-pix-has-saved-brazil-r107bn.ghtml" target="_blank" rel="noreferrer noopener">aux consommateurs et aux entreprises d’économiser plus de 29&nbsp;milliards de dollars canadiens </a>(en anglais) depuis son lancement en 2020.</p>
 
 
 
