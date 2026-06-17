@@ -6,7 +6,7 @@ description: >-
 author: ' Équipe des politiques stratégiques du SNC '
 date: '2026-06-16T16:44:24'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/DPI_Train_2026_Blog_Post_FR-scaled.jpg
-image-alt: Train à grande vitesse sur une voie ferrée, avec un drapeau canadien visible en arrière-plan
+image-alt: 
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/DPI_Train_2026_Blog_Post_FR-scaled.jpg
 tags: ["Politiques"]
 translationKey: blog-dpi-cdspolicy-part-2
