@@ -6,19 +6,17 @@ on:
     branches:
       - main
 
-permissions:
-  id-token: write
-  contents: read
-  pull-requests: write
-  actions: write
-  checks: write
-  statuses: write
+permissions: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
     steps:
-    - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+    - name: Checkout
+      uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
 
     - name: Load git submodules
       run: git submodule sync && git submodule update --init
@@ -36,41 +34,53 @@ jobs:
         chmod -R 755 ~/cds-website-dist
 
     - name: Cache build
-      uses: actions/cache@1bd1e32a3bdc45362d1e726936510720a7c30a57 # v4.2.0
+      uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
       with:
         path: |
           ~/cds-website-dist
-        key: ${{ runner.os }}-${{ github.sha }}
+        key: ${{ github.sha }}
   
   test:
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
     strategy:
       fail-fast: false
       matrix:
         lang: ["fr", "en"]
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@1bd1e32a3bdc45362d1e726936510720a7c30a57 # v4.2.0
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
         with:
           path: |
             ~/cds-website-dist
-          key: ${{ runner.os }}-${{ github.sha }}
+          key: ${{ github.sha }}
+
       - name: Setup Ruby
-        uses: ruby/setup-ruby@28c4deda893d5a96a6b2d958c5b47fc18d65c9d3 # v1.213.0
+        uses: ruby/setup-ruby@89f90524b88a01fe6e0b732220432cc6142926af # v1.313.0
         with:
           ruby-version: 3.0
-      - name: install html proofer
+
+      - name: Install html proofer
         run: gem install html-proofer
-      - name: test
+
+      - name: Test
         run: |
-          htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon  
-      - name: Checkout
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+          htmlproofer ~/cds-website-dist/${{ matrix.lang }} \
+            --allow_hash_href \
+            --ignore_empty_alt \
+            --disable_external \
+            --ignore_files=/lib/,/admin/ \
+            --checks=favicon
+
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: test
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      id-token: write
     strategy:
       fail-fast: false
       matrix:
@@ -83,25 +93,44 @@ jobs:
             bucket: "cds-website-english-s3-bucket"
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@1bd1e32a3bdc45362d1e726936510720a7c30a57 # v4.2.0
+        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
         with:
           path: |
             ~/cds-website-dist
-          key: ${{ runner.os }}-${{ github.sha }}
-      - name: configure aws credentials using OIDC              
+          key: ${{ github.sha }}
+
+      - name: Configure AWS credentials using OIDC              
         uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
         with:
           role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-website-apply  # use for TF apply or admin access (only works on `main` branch)
           role-session-name: cache
           aws-region: ca-central-1
+
       - name: Deploy and invalidate cache
         run: |
           aws s3 sync ~/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }}/ --delete
           aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+
       - name: Report deployment to Sentinel
         uses: cds-snc/sentinel-forward-data-action@main
         with:
           input_data: '{"product": "${{ matrix.bucket }}", "version": "${{ github.sha }}", "repository": "${{ github.repository }}", "environment": "production"}'
           log_type: CDS_Product_Deployment_Data
           log_analytics_workspace_id: ${{ secrets.LOG_ANALYTICS_WORKSPACE_ID }}
-          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}        
+          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}
+          
+  deploy-failure:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: >
+      always() &&
+      github.event_name == 'push' &&
+      github.ref == 'refs/heads/main' &&
+      (needs.deploy.result == 'failure' || needs.deploy.result == 'skipped')
+    steps:
+      - name: Post failure to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBSITE_INFINITE_WEBHOOK_URL }}
+        run: |
+          json='{"blocks":[{"type":"section","text":{"type":"mrkdwn","text":":red: Website deploy failed: <${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}|${{ github.workflow }}>"}}]}'
+          curl -X POST -H 'Content-type: application/json' --data "$json" "$SLACK_WEBHOOK_URL"
