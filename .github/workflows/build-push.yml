@@ -117,4 +117,20 @@ jobs:
           input_data: '{"product": "${{ matrix.bucket }}", "version": "${{ github.sha }}", "repository": "${{ github.repository }}", "environment": "production"}'
           log_type: CDS_Product_Deployment_Data
           log_analytics_workspace_id: ${{ secrets.LOG_ANALYTICS_WORKSPACE_ID }}
-          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}        
+          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}
+          
+  deploy-failure:
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: >
+      always() &&
+      github.event_name == 'push' &&
+      github.ref == 'refs/heads/main' &&
+      (needs.deploy.result == 'failure' || needs.deploy.result == 'skipped')
+    steps:
+      - name: Post failure to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBSITE_INFINITE_WEBHOOK_URL }}
+        run: |
+          json='{"blocks":[{"type":"section","text":{"type":"mrkdwn","text":":red: Website deploy failed: <${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}|${{ github.workflow }}>"}}]}'
+          curl -X POST -H 'Content-type: application/json' --data "$json" "$SLACK_WEBHOOK_URL"
