@@ -12,23 +12,23 @@ tags: ["Formulaires GC"]
 translationKey: linkedin-article-fin-gcforms
 ---
 
-<p><em>Cet article a été publié sur la page&nbsp;<a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a>&nbsp;en decembre 2025. Consultez le&nbsp;</em><a href="https://www.linkedin.com/feed/update/urn:li:activity:7404609391418556417" target="_blank" rel="noreferrer noopener">billet original</a>.</p>
+<p class="wp-block-paragraph"><em>Cet article a été publié sur la page&nbsp;<a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a>&nbsp;en decembre 2025. Consultez le&nbsp;</em><a href="https://www.linkedin.com/feed/update/urn:li:activity:7404609391418556417" target="_blank" rel="noreferrer noopener">billet original</a>.</p>
 
 
 
-<p><strong>Nouveau témoignage de produit </strong><strong>Les Gens Au Cœur De Vos Services </strong><strong>pour </strong><strong>Formulaires GC </strong><strong>de Justin Lane (Développeur de site Web), </strong><strong>ministère des Finances Canada</strong><strong>!</strong></p>
+<p class="wp-block-paragraph"><strong>Nouveau témoignage de produit </strong><strong>Les Gens Au Cœur De Vos Services </strong><strong>pour </strong><strong>Formulaires GC </strong><strong>de Justin Lane (Développeur de site Web), </strong><strong>ministère des Finances Canada</strong><strong>!</strong></p>
 
 
 
-<p>En travaillant au gouvernement, il peut y avoir de nombreux facteurs qui influent sur la rapidité de la prestation. Pour répondre aux besoins du public en matière de services rapides, les équipes du GC devront peut-être livrer leurs services très rapidement.&nbsp;</p>
+<p class="wp-block-paragraph">En travaillant au gouvernement, il peut y avoir de nombreux facteurs qui influent sur la rapidité de la prestation. Pour répondre aux besoins du public en matière de services rapides, les équipes du GC devront peut-être livrer leurs services très rapidement.&nbsp;</p>
 
 
 
-<p>Quand les changements aux tarifs des États-Unis ont été annoncés en mars 2025, le ministère des Finances du Canada (FIN) devait rapidement livrer une consultation pour la contribution du public (<a href="https://www.canada.ca/fr/ministere-finances/programmes/consultations/2025/avis-dintention-dimposer-contre-mesures-en-reponse-droits-douane-imposes-etats-unis-sur-marchandises-canadiennes.html" target="_blank" rel="noreferrer noopener">détails</a>).&nbsp; Au départ, l’équipe de Justin n’avait qu’une semaine pour le faire, donc elle avait besoin d’une solution rapide qui répond à leurs besoins en matière d’accessibilité, de bilinguisme et de sécurité, surtout parce qu’elle recueillait des données classées Protégé B.</p>
+<p class="wp-block-paragraph">Quand les changements aux tarifs des États-Unis ont été annoncés en mars 2025, le ministère des Finances du Canada (FIN) devait rapidement livrer une consultation pour la contribution du public (<a href="https://www.canada.ca/fr/ministere-finances/programmes/consultations/2025/avis-dintention-dimposer-contre-mesures-en-reponse-droits-douane-imposes-etats-unis-sur-marchandises-canadiennes.html" target="_blank" rel="noreferrer noopener">détails</a>).&nbsp; Au départ, l’équipe de Justin n’avait qu’une semaine pour le faire, donc elle avait besoin d’une solution rapide qui répond à leurs besoins en matière d’accessibilité, de bilinguisme et de sécurité, surtout parce qu’elle recueillait des données classées Protégé B.</p>
 
 
 
-<p>Grâce à <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=fr_linkedin_article_testimonial_fin&amp;utm_medium=linkedin_article&amp;utm_campaign=forms_linkedin_testimonial_fin" target="_blank" rel="noreferrer noopener">Formulaires GC</a>, FIN a pu facilement adopter et lancer leur formulaire en quelques jours, ce qui lui a permis de recevoir les réponses aux consultations. Lisez les expériences de Justin ci-dessous pour en apprendre davantage sur les retombées positives que Formulaires GC peut avoir sur votre prestation de services.&nbsp;</p>
+<p class="wp-block-paragraph">Grâce à <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=fr_linkedin_article_testimonial_fin&amp;utm_medium=linkedin_article&amp;utm_campaign=forms_linkedin_testimonial_fin" target="_blank" rel="noreferrer noopener">Formulaires GC</a>, FIN a pu facilement adopter et lancer leur formulaire en quelques jours, ce qui lui a permis de recevoir les réponses aux consultations. Lisez les expériences de Justin ci-dessous pour en apprendre davantage sur les retombées positives que Formulaires GC peut avoir sur votre prestation de services.&nbsp;</p>
 
 
 
@@ -36,7 +36,7 @@ translationKey: linkedin-article-fin-gcforms
 
 
 
-<p>L’équipe de la Plateforme du SNC crée des produits sécuritaires, accessibles et bilingues pour permettre aux fonctionnaires de fournir eux-mêmes des services numériques modernes. <a href="https://numerique.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=forms-linkedin-testimonial-fin-fr-251204" target="_blank" rel="noreferrer noopener">Nos produits</a> peuvent être utilisés individuellement ou ensemble, ce qui permet aux ministères de démarrer immédiatement sans frais d’approvisionnement ou frais généraux, tout en respectant les normes de sécurité et d’accessibilité.&nbsp;<strong>Notre objectif est de permettre aux équipes du GC de se concentrer sur ce qu’elles font de mieux : servir le Canada.</strong></p>
+<p class="wp-block-paragraph">L’équipe de la Plateforme du SNC crée des produits sécuritaires, accessibles et bilingues pour permettre aux fonctionnaires de fournir eux-mêmes des services numériques modernes. <a href="https://numerique.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=forms-linkedin-testimonial-fin-fr-251204" target="_blank" rel="noreferrer noopener">Nos produits</a> peuvent être utilisés individuellement ou ensemble, ce qui permet aux ministères de démarrer immédiatement sans frais d’approvisionnement ou frais généraux, tout en respectant les normes de sécurité et d’accessibilité.&nbsp;<strong>Notre objectif est de permettre aux équipes du GC de se concentrer sur ce qu’elles font de mieux : servir le Canada.</strong></p>
 
 
 
@@ -131,7 +131,7 @@ Les options d'exportation de données nous aident à agir plus rapidement sur le
 
 
 
-<p>Formulaires GC est utilisé dans de nombreux cas d’utilisation publics à l’échelle du GC, notamment :</p>
+<p class="wp-block-paragraph">Formulaires GC est utilisé dans de nombreux cas d’utilisation publics à l’échelle du GC, notamment :</p>
 
 
 
@@ -149,7 +149,7 @@ Les options d'exportation de données nous aident à agir plus rapidement sur le
 
 
 
-<p><strong>Vous pensez que nous pouvons vous aider avec votre prestation de services ou celle d’un collègue? Envoyez-leur cet article!</strong></p>
+<p class="wp-block-paragraph"><strong>Vous pensez que nous pouvons vous aider avec votre prestation de services ou celle d’un collègue? Envoyez-leur cet article!</strong></p>
 
 
 
@@ -171,5 +171,5 @@ Les options d'exportation de données nous aident à agir plus rapidement sur le
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
