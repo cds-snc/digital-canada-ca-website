@@ -12,19 +12,19 @@ tags: [""]
 translationKey: blog-meetings-principles
 ---
 
-<p>En tant que fonctionnaires, nous cherchons sans cesse à améliorer les services offerts au public canadien. Comme tout autre emploi, nous tenons des réunions durant lesquelles nous coordonnons nos tâches. Ces réunions sont nécessaires, mais elles ne sont pas vécues de la même façon par tout le monde. De même, ce temps précieux n’est pas toujours utilisé aussi efficacement que possible.</p>
+<p class="wp-block-paragraph">En tant que fonctionnaires, nous cherchons sans cesse à améliorer les services offerts au public canadien. Comme tout autre emploi, nous tenons des réunions durant lesquelles nous coordonnons nos tâches. Ces réunions sont nécessaires, mais elles ne sont pas vécues de la même façon par tout le monde. De même, ce temps précieux n’est pas toujours utilisé aussi efficacement que possible.</p>
 
 
 
-<p>Pour mener des réunions efficaces, les fonctionnaires bénéficient de ressources créées par des équipes de tout le gouvernement du Canada (GC)&nbsp;: <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/invalidite/cra/reunions-inclusives.html" target="_blank" rel="noreferrer noopener">Le Guide de planification de réunions inclusives </a>d’Emploi et développement social Canada (EDSC), les <a href="https://sites.google.com/view/flexgc/fran%C3%A7ais/resources-all-fr" target="_blank" rel="noreferrer noopener">ressources de soutien pour le travail à distance/hybride</a> de FlexGC et le <a href="https://catalogue.csps-efpc.gc.ca/product?catalog=TRN229&amp;cm_locale=fr" target="_blank" rel="noreferrer noopener">cours Planifier des réunions répondant à un réel besoin</a> de l’École de la fonction publique du Canada (EFPC).&nbsp;</p>
+<p class="wp-block-paragraph">Pour mener des réunions efficaces, les fonctionnaires bénéficient de ressources créées par des équipes de tout le gouvernement du Canada (GC)&nbsp;: <a href="https://www.canada.ca/fr/emploi-developpement-social/programmes/invalidite/cra/reunions-inclusives.html" target="_blank" rel="noreferrer noopener">Le Guide de planification de réunions inclusives </a>d’Emploi et développement social Canada (EDSC), les <a href="https://sites.google.com/view/flexgc/fran%C3%A7ais/resources-all-fr" target="_blank" rel="noreferrer noopener">ressources de soutien pour le travail à distance/hybride</a> de FlexGC et le <a href="https://catalogue.csps-efpc.gc.ca/product?catalog=TRN229&amp;cm_locale=fr" target="_blank" rel="noreferrer noopener">cours Planifier des réunions répondant à un réel besoin</a> de l’École de la fonction publique du Canada (EFPC).&nbsp;</p>
 
 
 
-<p>La planification influence grandement notre façon de vivre les réunions, surtout dans le cas des personnes marginalisées qui assument souvent une charge plus importante de tâches administratives. L’équipe des politiques du SNC a constaté que <strong>les principes axés sur l’action étaient utiles pour la planification de réunions plus utiles et équitables. Ils permettent à l’équipe de passer un meilleur moment et de consacrer plus de temps aux résultats</strong>.</p>
+<p class="wp-block-paragraph">La planification influence grandement notre façon de vivre les réunions, surtout dans le cas des personnes marginalisées qui assument souvent une charge plus importante de tâches administratives. L’équipe des politiques du SNC a constaté que <strong>les principes axés sur l’action étaient utiles pour la planification de réunions plus utiles et équitables. Ils permettent à l’équipe de passer un meilleur moment et de consacrer plus de temps aux résultats</strong>.</p>
 
 
 
-<p>Pour aider les autres fonctionnaires à optimiser leur temps, Sam&nbsp;Burton, Rashi&nbsp;Khilnani et Melissa&nbsp;Toutloff (conseillères principales en politiques au SNC) parlent de leurs expériences, de leurs ressources et des principes en matière de réunion qu’applique leur équipe.&nbsp;<br></p>
+<p class="wp-block-paragraph">Pour aider les autres fonctionnaires à optimiser leur temps, Sam&nbsp;Burton, Rashi&nbsp;Khilnani et Melissa&nbsp;Toutloff (conseillères principales en politiques au SNC) parlent de leurs expériences, de leurs ressources et des principes en matière de réunion qu’applique leur équipe.&nbsp;<br></p>
 
 
 
@@ -32,7 +32,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>R&nbsp;: Sam Burton</p>
+<p class="wp-block-paragraph">R&nbsp;: Sam Burton</p>
 
 
 
@@ -40,11 +40,11 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Dans le cadre des initiatives sur la diversité, l’équité et l’inclusion (DEI) communes à tout le SNC, une conversation a débuté autour des «&nbsp;tâches ménagères&nbsp;» au bureau. Cela inclut notamment la planification et l’animation de réunions, la prise de notes et l’organisation d’évènements. Nous avons découvert que ces tâches étaient réparties de manière disproportionnée et incombaient généralement aux femmes et aux personnes de couleur, qui n’étaient que rarement reconnues ou récompensées pour ce travail.</p>
+<p class="wp-block-paragraph">Dans le cadre des initiatives sur la diversité, l’équité et l’inclusion (DEI) communes à tout le SNC, une conversation a débuté autour des «&nbsp;tâches ménagères&nbsp;» au bureau. Cela inclut notamment la planification et l’animation de réunions, la prise de notes et l’organisation d’évènements. Nous avons découvert que ces tâches étaient réparties de manière disproportionnée et incombaient généralement aux femmes et aux personnes de couleur, qui n’étaient que rarement reconnues ou récompensées pour ce travail.</p>
 
 
 
-<p>Mon équipe (l’équipe des politiques) a tenu une rétrospective pour développer sa compréhension des «&nbsp;tâches ménagères&nbsp;» relatives à notre travail. Nous avons appris que ces tâches étaient souvent invisibles et informelles et que pour changer les choses, il fallait avant tout changer la façon dont nous planifiions et menions nos réunions.<br>Si votre équipe mène elle aussi des rétrospectives, je vous suggère de lire le billet de blogue de notre collègue Clementine&nbsp;Hahn sur <a href="https://numerique.canada.ca/2022/06/16/les-r%C3%A9trospectives-inclusives-dix-conseils-pour-devenir-une-meilleure-%C3%A9quipe/?utm_source=meeting_principles_blog&amp;utm_medium=meeting_principles_blog&amp;utm_campaign=blog_retro_tips_fr" target="_blank" rel="noreferrer noopener">la façon de mener des rétrospectives inclusives</a>.</p>
+<p class="wp-block-paragraph">Mon équipe (l’équipe des politiques) a tenu une rétrospective pour développer sa compréhension des «&nbsp;tâches ménagères&nbsp;» relatives à notre travail. Nous avons appris que ces tâches étaient souvent invisibles et informelles et que pour changer les choses, il fallait avant tout changer la façon dont nous planifiions et menions nos réunions.<br>Si votre équipe mène elle aussi des rétrospectives, je vous suggère de lire le billet de blogue de notre collègue Clementine&nbsp;Hahn sur <a href="https://numerique.canada.ca/2022/06/16/les-r%C3%A9trospectives-inclusives-dix-conseils-pour-devenir-une-meilleure-%C3%A9quipe/?utm_source=meeting_principles_blog&amp;utm_medium=meeting_principles_blog&amp;utm_campaign=blog_retro_tips_fr" target="_blank" rel="noreferrer noopener">la façon de mener des rétrospectives inclusives</a>.</p>
 
 
 
@@ -52,11 +52,11 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Nous avons décidé de réaliser un sondage pour en savoir plus sur les changements souhaités par nos collègues.&nbsp;</p>
+<p class="wp-block-paragraph">Nous avons décidé de réaliser un sondage pour en savoir plus sur les changements souhaités par nos collègues.&nbsp;</p>
 
 
 
-<p>La majorité de l’équipe des politiques a participé au sondage, et les résultats ont révélé des tendances claires&nbsp;:</p>
+<p class="wp-block-paragraph">La majorité de l’équipe des politiques a participé au sondage, et les résultats ont révélé des tendances claires&nbsp;:</p>
 
 
 
@@ -74,12 +74,12 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Tout cela nécessite des «&nbsp;tâches ménagères&nbsp;». Le sondage a également montré que si la responsabilité de ces tâches n’était pas clairement attribuée, le travail finissait par être distribué de manière inéquitable et la frustration se faisait sentir.&nbsp;</p>
+<p class="wp-block-paragraph">Tout cela nécessite des «&nbsp;tâches ménagères&nbsp;». Le sondage a également montré que si la responsabilité de ces tâches n’était pas clairement attribuée, le travail finissait par être distribué de manière inéquitable et la frustration se faisait sentir.&nbsp;</p>
 
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Exemple&nbsp;: Voici le sondage réalisé dans notre équipe au sujet des réunions.</summary>
-<p><strong>Conseil&nbsp;</strong>: Vous pouvez <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-meeting-principles-dei&amp;utm_medium=Blog+post&amp;utm_campaign=FR_blog-meeting-principles-dei" target="_blank" rel="noreferrer noopener">utiliser l’outil Formulaires&nbsp;GC</a> pour créer votre propre sondage bilingue et accessible et obtenir la rétroaction de votre équipe en matière de réunions !</p>
+<p class="wp-block-paragraph"><strong>Conseil&nbsp;</strong>: Vous pouvez <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-meeting-principles-dei&amp;utm_medium=Blog+post&amp;utm_campaign=FR_blog-meeting-principles-dei" target="_blank" rel="noreferrer noopener">utiliser l’outil Formulaires&nbsp;GC</a> pour créer votre propre sondage bilingue et accessible et obtenir la rétroaction de votre équipe en matière de réunions !</p>
 
 
 
@@ -125,7 +125,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>À l’heure actuelle, il n’y a pas de critères communs sur la façon dont les réunions dirigées par les membres de l’équipe des politiques sont conçues, menées et suivies. Cela a créé une certaine confusion, de la frustration et des inquiétudes au sein de l’équipe (surtout concernant la répartition équitable des tâches et l’optimisation d’un temps précieux).</p>
+<p class="wp-block-paragraph">À l’heure actuelle, il n’y a pas de critères communs sur la façon dont les réunions dirigées par les membres de l’équipe des politiques sont conçues, menées et suivies. Cela a créé une certaine confusion, de la frustration et des inquiétudes au sein de l’équipe (surtout concernant la répartition équitable des tâches et l’optimisation d’un temps précieux).</p>
 
 
 
@@ -133,7 +133,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Des principes connus et acceptés de toute l’équipe des politiques concernant ce qui est attendu des animateur·rice·s et des participant·e·s dans toute réunion menée par l’équipe, et ce, que le nombre de participants soit de 2, 20 ou 200.</p>
+<p class="wp-block-paragraph">Des principes connus et acceptés de toute l’équipe des politiques concernant ce qui est attendu des animateur·rice·s et des participant·e·s dans toute réunion menée par l’équipe, et ce, que le nombre de participants soit de 2, 20 ou 200.</p>
 
 
 
@@ -141,7 +141,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Un ensemble de principes élaborés de manière collaborative par l’équipe des politiques et visant à guider toutes les réunions menées par les membres de l’équipe des politiques à l’avenir.&nbsp;</p>
+<p class="wp-block-paragraph">Un ensemble de principes élaborés de manière collaborative par l’équipe des politiques et visant à guider toutes les réunions menées par les membres de l’équipe des politiques à l’avenir.&nbsp;</p>
 
 
 
@@ -185,72 +185,72 @@ translationKey: blog-meetings-principles
 
 
 
-<p><strong>Q1&nbsp;: Selon moi, toutes les réunions devraient&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q1&nbsp;: Selon moi, toutes les réunions devraient&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q2&nbsp;: Je trouve que les réunions sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q2&nbsp;: Je trouve que les réunions sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q3&nbsp;: Je trouve les réunions frustrantes dans les cas suivants&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q3&nbsp;: Je trouve les réunions frustrantes dans les cas suivants&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q4&nbsp;: Je trouve que les réunions hybrides (pour lesquelles certaines personnes sont physiquement présentes et d’autres travaillent à distance) sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q4&nbsp;: Je trouve que les réunions hybrides (pour lesquelles certaines personnes sont physiquement présentes et d’autres travaillent à distance) sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q5&nbsp;: Je trouve que les réunions décentralisées (pour lesquelles toutes les personnes participantes travaillent à distance) sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q5&nbsp;: Je trouve que les réunions décentralisées (pour lesquelles toutes les personnes participantes travaillent à distance) sont les plus efficaces dans les cas suivants&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q6&nbsp;: De manière générale, voici mes souhaits pour les réunions menées par l’équipe des politiques&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q6&nbsp;: De manière générale, voici mes souhaits pour les réunions menées par l’équipe des politiques&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q7&nbsp;: Voici des ressources en matière de réunions qui pourraient être utiles à notre équipe selon moi (anecdotes, livres, billets de blogue, vidéos, pratiques, formats, cadres ou autres)&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Q7&nbsp;: Voici des ressources en matière de réunions qui pourraient être utiles à notre équipe selon moi (anecdotes, livres, billets de blogue, vidéos, pratiques, formats, cadres ou autres)&nbsp;:</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 
 
 
-<p><strong>Q8&nbsp;: Avez-vous quelque chose à ajouter ?</strong></p>
+<p class="wp-block-paragraph"><strong>Q8&nbsp;: Avez-vous quelque chose à ajouter ?</strong></p>
 
 
 
-<p>Réponse courte.</p>
+<p class="wp-block-paragraph">Réponse courte.</p>
 </details>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -262,17 +262,17 @@ translationKey: blog-meetings-principles
 
 
 
-<p>R&nbsp;: Sam Burton</p>
+<p class="wp-block-paragraph">R&nbsp;: Sam Burton</p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png" alt="" class="wp-image-1311" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP_FR-2048x888.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
-<p style="font-size:12px">Légende&nbsp;: Pour entamer ce processus, l’animateur ou l’animatrice recueille la rétroaction de l’équipe concernant l’état actuel des réunions à l’aide d’une séance de rétrospective et d’un sondage en ligne. L’équipe se met ensuite d’accord sur ses objectifs communs pour l’amélioration des réunions en examinant ensemble la rétroaction recueillie. À l’aide des objectifs ainsi définis, l’animateur ou l’animatrice rédige et modifie au besoin les principes de réunion dans un document accessible à toute l’équipe. De cette façon, tout le monde peut offrir sa rétroaction de manière asynchrone. Une fois que les principes sont approuvés par l’équipe et la direction, l’équipe peut commencer à les appliquer! Le processus se répète ensuite lorsque l’animateur ou l’animatrice vient recueillir de la rétroaction.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Légende&nbsp;: Pour entamer ce processus, l’animateur ou l’animatrice recueille la rétroaction de l’équipe concernant l’état actuel des réunions à l’aide d’une séance de rétrospective et d’un sondage en ligne. L’équipe se met ensuite d’accord sur ses objectifs communs pour l’amélioration des réunions en examinant ensemble la rétroaction recueillie. À l’aide des objectifs ainsi définis, l’animateur ou l’animatrice rédige et modifie au besoin les principes de réunion dans un document accessible à toute l’équipe. De cette façon, tout le monde peut offrir sa rétroaction de manière asynchrone. Une fois que les principes sont approuvés par l’équipe et la direction, l’équipe peut commencer à les appliquer! Le processus se répète ensuite lorsque l’animateur ou l’animatrice vient recueillir de la rétroaction.</p>
 
 
 
-<p><strong>Voici certains commentaires de l’équipe</strong> et la façon dont ils ont été intégrés aux principes finaux&nbsp;:</p>
+<p class="wp-block-paragraph"><strong>Voici certains commentaires de l’équipe</strong> et la façon dont ils ont été intégrés aux principes finaux&nbsp;:</p>
 
 
 
@@ -336,15 +336,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>R&nbsp;: Melissa Toutloff</p>
+<p class="wp-block-paragraph">R&nbsp;: Melissa Toutloff</p>
 
 
 
-<p>Lorsque j’ai rejoint le SNC, en février&nbsp;2023, j’ai reçu de la documentation à lire dans le cadre de mon intégration. Les principes régissant les réunions de l’équipe des politiques en faisaient partie. C’était la première fois de ma carrière de fonctionnaire que je voyais de telles lignes directrices.</p>
+<p class="wp-block-paragraph">Lorsque j’ai rejoint le SNC, en février&nbsp;2023, j’ai reçu de la documentation à lire dans le cadre de mon intégration. Les principes régissant les réunions de l’équipe des politiques en faisaient partie. C’était la première fois de ma carrière de fonctionnaire que je voyais de telles lignes directrices.</p>
 
 
 
-<p>Bien qu’ils aient été élaboré par et pour l’équipe des politiques, ces principes sont suffisamment généraux pour s’adapter à de multiples contextes, y compris les modèles de travail décentralisés, en présentiel ou hybrides.</p>
+<p class="wp-block-paragraph">Bien qu’ils aient été élaboré par et pour l’équipe des politiques, ces principes sont suffisamment généraux pour s’adapter à de multiples contextes, y compris les modèles de travail décentralisés, en présentiel ou hybrides.</p>
 
 
 
@@ -368,7 +368,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -376,7 +376,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>R&nbsp;: Rashi Khilnani</p>
+<p class="wp-block-paragraph">R&nbsp;: Rashi Khilnani</p>
 
 
 
@@ -384,15 +384,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Les réunions de l’équipe des politiques ont une incidence sur le bien-être des membres de l’équipe&nbsp;: il s’agit d’espaces sûrs et inclusifs où ils et elles peuvent discuter des défis qui se présentent et mettre en place des éléments d’action pour les relever. Notre culture en matière de réunions m’a montré que l’on pouvait conjuguer humanité et efficacité.</p>
+<p class="wp-block-paragraph">Les réunions de l’équipe des politiques ont une incidence sur le bien-être des membres de l’équipe&nbsp;: il s’agit d’espaces sûrs et inclusifs où ils et elles peuvent discuter des défis qui se présentent et mettre en place des éléments d’action pour les relever. Notre culture en matière de réunions m’a montré que l’on pouvait conjuguer humanité et efficacité.</p>
 
 
 
-<p>Nous respectons nos collègues et prenons le temps de parler et de plaisanter (dans notre équipe, Dan&nbsp;Monafu en est un excellent exemple). Cela crée un environnement au sein duquel nous ne craignons pas d’êtres nous-mêmes. C’est la clé d’une équipe plus heureuse et plus productive.</p>
+<p class="wp-block-paragraph">Nous respectons nos collègues et prenons le temps de parler et de plaisanter (dans notre équipe, Dan&nbsp;Monafu en est un excellent exemple). Cela crée un environnement au sein duquel nous ne craignons pas d’êtres nous-mêmes. C’est la clé d’une équipe plus heureuse et plus productive.</p>
 
 
 
-<p><strong>Nos rétrospectives d’équipe appliquent notamment ces principes pour mettre en œuvre les pratiques suivantes&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Nos rétrospectives d’équipe appliquent notamment ces principes pour mettre en œuvre les pratiques suivantes&nbsp;:</strong></p>
 
 
 
@@ -414,15 +414,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Les principes de réunion de notre équipe augmentent notre capacité à atteindre nos objectifs dans nos domaines prioritaires. Notre temps s’en trouve optimisé, car de nombreuses personnes dans l’équipe n’hésitent pas à demander l’ordre du jour à l’avance (surtout pour les réunions récurrentes). S’il n’y a que peu de sujets à aborder, il n’est pas rare que nous annulions les réunions pour laisser notre équipe se consacrer à d’autres tâches. Comme l’a dit notre collègue Sam&nbsp;Burton, «&nbsp;C’est agréable que cette pratique se soit installée. Tout le monde dans notre équipe a la possibilité d’ouvrir la conversation et cela débouche sur une décision.&nbsp;»&nbsp;</p>
+<p class="wp-block-paragraph">Les principes de réunion de notre équipe augmentent notre capacité à atteindre nos objectifs dans nos domaines prioritaires. Notre temps s’en trouve optimisé, car de nombreuses personnes dans l’équipe n’hésitent pas à demander l’ordre du jour à l’avance (surtout pour les réunions récurrentes). S’il n’y a que peu de sujets à aborder, il n’est pas rare que nous annulions les réunions pour laisser notre équipe se consacrer à d’autres tâches. Comme l’a dit notre collègue Sam&nbsp;Burton, «&nbsp;C’est agréable que cette pratique se soit installée. Tout le monde dans notre équipe a la possibilité d’ouvrir la conversation et cela débouche sur une décision.&nbsp;»&nbsp;</p>
 
 
 
-<p>Les principes de réunion ont également permis d’accélérer l’intégration de nouvelles personnes dans l’équipe et stimulé la participation aux discussions. Personnellement, je trouve que ces valeurs communes autour d’une participation équitable aux réunions m’ont permis de voir l’équipe des politiques comme un espace où je pouvais poser des questions sans crainte. Cela a grandement accéléré mon intégration au sein de l’équipe. Notre collègue Melissa&nbsp;Toutloff a mentionné que les principes l’avaient aidée à comprendre les normes et la culture de l’équipe, ce qui représente un autre aspect crucial de l’intégration et de l’adaptation à un nouvel environnement professionnel.&nbsp;</p>
+<p class="wp-block-paragraph">Les principes de réunion ont également permis d’accélérer l’intégration de nouvelles personnes dans l’équipe et stimulé la participation aux discussions. Personnellement, je trouve que ces valeurs communes autour d’une participation équitable aux réunions m’ont permis de voir l’équipe des politiques comme un espace où je pouvais poser des questions sans crainte. Cela a grandement accéléré mon intégration au sein de l’équipe. Notre collègue Melissa&nbsp;Toutloff a mentionné que les principes l’avaient aidée à comprendre les normes et la culture de l’équipe, ce qui représente un autre aspect crucial de l’intégration et de l’adaptation à un nouvel environnement professionnel.&nbsp;</p>
 
 
 
-<p>Je suis certaine que cette culture axée sur la gentillesse dans le cadre des réunions est applicable à tous les types d’équipes. Je souhaite à tout le monde d’avoir la chance que j’ai; celle de faire partie d’une équipe où la collaboration est axée sur un objectif clair.<br></p>
+<p class="wp-block-paragraph">Je suis certaine que cette culture axée sur la gentillesse dans le cadre des réunions est applicable à tous les types d’équipes. Je souhaite à tout le monde d’avoir la chance que j’ai; celle de faire partie d’une équipe où la collaboration est axée sur un objectif clair.<br></p>
 
 
 
@@ -430,9 +430,9 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Nous espérons que ces ressources et astuces vous permettront de créer des principes qui guideront les réunions de votre équipe. Dans notre équipe, ces outils améliorent à la fois l’expérience offerte par les réunions et la capacité dont nos disposons pour travailler sur nos priorités.</p>
+<p class="wp-block-paragraph">Nous espérons que ces ressources et astuces vous permettront de créer des principes qui guideront les réunions de votre équipe. Dans notre équipe, ces outils améliorent à la fois l’expérience offerte par les réunions et la capacité dont nos disposons pour travailler sur nos priorités.</p>
 
 
 
-<p>N’hésitez pas à <a href="mailto:cds-snc@servicecanada.gc.ca">nous contacter</a> pour nous faire part de votre rétroaction ou de vos expériences dans ce domaine ! C’est toujours un plaisir pour nous d’apprendre auprès de nos collègues fonctionnaires.</p>
+<p class="wp-block-paragraph">N’hésitez pas à <a href="mailto:cds-snc@servicecanada.gc.ca">nous contacter</a> pour nous faire part de votre rétroaction ou de vos expériences dans ce domaine ! C’est toujours un plaisir pour nous d’apprendre auprès de nos collègues fonctionnaires.</p>
 
