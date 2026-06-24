@@ -12,19 +12,19 @@ tags: ["Formulaires GC","Notification GC","Système de design GC"]
 translationKey: 2025-product-highlights-linkedin
 ---
 
-<p class="has-background" style="background-color:#ebf2fa">Cet article a été publié sur la page <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a> en janvier 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414763448267333632" target="_blank" rel="noreferrer noopener">Consultez le billet original</a>.</p>
+<p class="has-background wp-block-paragraph" style="background-color:#ebf2fa">Cet article a été publié sur la page <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a> en janvier 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414763448267333632" target="_blank" rel="noreferrer noopener">Consultez le billet original</a>.</p>
 
 
 
-<p>Grâce aux efforts de collaboration entre les équipes du GC (gouvernement du Canada), les produits du SNC sont de plus en plus utiles à l’amélioration de la prestation de services numériques au Canada.<strong> Ces produits ont pour but de permettre aux équipes du GC de se concentrer sur ce qu’elles font de mieux, servir le Canada.</strong></p>
+<p class="wp-block-paragraph">Grâce aux efforts de collaboration entre les équipes du GC (gouvernement du Canada), les produits du SNC sont de plus en plus utiles à l’amélioration de la prestation de services numériques au Canada.<strong> Ces produits ont pour but de permettre aux équipes du GC de se concentrer sur ce qu’elles font de mieux, servir le Canada.</strong></p>
 
 
 
-<p id="ember1100">Nos produits de plateforme (<a href="https://notification.canada.ca/accueil" target="_blank" rel="noreferrer noopener">Notification GC</a>, <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/" target="_blank" rel="noreferrer noopener">Formulaires GC</a> et <a href="https://systeme-design.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener">Système de design GC</a>) sont utilisés dans de nombreux ministères du GC pour créer de meilleures expériences de service et favoriser de nouvelles possibilités numériques. Nous collaborons constamment avec nos utilisatrices et utilisateurs pour savoir comment nous pouvons améliorer nos produits afin d’en accroître l’incidence.</p>
+<p class="wp-block-paragraph" id="ember1100">Nos produits de plateforme (<a href="https://notification.canada.ca/accueil" target="_blank" rel="noreferrer noopener">Notification GC</a>, <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/" target="_blank" rel="noreferrer noopener">Formulaires GC</a> et <a href="https://systeme-design.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener">Système de design GC</a>) sont utilisés dans de nombreux ministères du GC pour créer de meilleures expériences de service et favoriser de nouvelles possibilités numériques. Nous collaborons constamment avec nos utilisatrices et utilisateurs pour savoir comment nous pouvons améliorer nos produits afin d’en accroître l’incidence.</p>
 
 
 
-<p id="ember1101"><strong>Lisez cet article pour en savoir plus sur les progrès qu’ont connus Notification&nbsp;GC, Formulaires&nbsp;GC et Système de design&nbsp;GC en 2025 ainsi que sur l’incidence qu’ils ont eue et pour savoir comment vous tenir au fait des travaux prévus pour cette année!</strong></p>
+<p class="wp-block-paragraph" id="ember1101"><strong>Lisez cet article pour en savoir plus sur les progrès qu’ont connus Notification&nbsp;GC, Formulaires&nbsp;GC et Système de design&nbsp;GC en 2025 ainsi que sur l’incidence qu’ils ont eue et pour savoir comment vous tenir au fait des travaux prévus pour cette année!</strong></p>
 
 
 
@@ -51,7 +51,7 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>« Ici, au Centre de gestion des services de TI, nous adorons et utilisons Notification GC… Il y a un mois, j’ai envoyé environ 65 000 courriels en lien avec nos services à l’aide de Notification GC. Nous utilisons cet outil pour envoyer nos sondages hebdomadaires relatifs à l’intégration et au départ, des justificatifs de création de comptes et des sondages sur les TI destinés aux utilisatrices et utilisateurs. Nous l’avons également utilisé pour des initiatives urgentes telles que les sondages d’été. »</strong> <br>— <a href="https://www.linkedin.com/in/amber-lawson-b03691113/" target="_blank" rel="noreferrer noopener">Amber Lawson</a> , officière des plans au Centre de gestion des services de TI, Forces armées canadiennes (FAC).<br>Extrait du billet de blogue : <a href="https://numerique.canada.ca/2024/12/12/initiatives-num%c3%a9riques-au-sein-du-programme-des-cadets-comment-notification-gc-et-formulaires-gc-permettent-dam%c3%a9liorer-lexp%c3%a9rience-utilisateur/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-fr" target="_blank" rel="noreferrer noopener">Initiatives numériques au sein du Programme des cadets : comment Notification GC et Formulaires GC permettent d’améliorer l’expérience utilisateur</a>.</p>
+<p class="wp-block-paragraph"><strong>« Ici, au Centre de gestion des services de TI, nous adorons et utilisons Notification GC… Il y a un mois, j’ai envoyé environ 65 000 courriels en lien avec nos services à l’aide de Notification GC. Nous utilisons cet outil pour envoyer nos sondages hebdomadaires relatifs à l’intégration et au départ, des justificatifs de création de comptes et des sondages sur les TI destinés aux utilisatrices et utilisateurs. Nous l’avons également utilisé pour des initiatives urgentes telles que les sondages d’été. »</strong> <br>— <a href="https://www.linkedin.com/in/amber-lawson-b03691113/" target="_blank" rel="noreferrer noopener">Amber Lawson</a> , officière des plans au Centre de gestion des services de TI, Forces armées canadiennes (FAC).<br>Extrait du billet de blogue : <a href="https://numerique.canada.ca/2024/12/12/initiatives-num%c3%a9riques-au-sein-du-programme-des-cadets-comment-notification-gc-et-formulaires-gc-permettent-dam%c3%a9liorer-lexp%c3%a9rience-utilisateur/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-fr" target="_blank" rel="noreferrer noopener">Initiatives numériques au sein du Programme des cadets : comment Notification GC et Formulaires GC permettent d’améliorer l’expérience utilisateur</a>.</p>
 </blockquote>
 
 
@@ -129,7 +129,7 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>« En raison de la nature délicate de l’information incluse dans notre consultation [sur les tarifs], ainsi que de la nature délicate des réponses que nous avions l’intention de recevoir, nous avions besoin d’une plateforme sécurisée Protégé B… Formulaires GC nous a permis d’économiser beaucoup de temps et d’efforts et de passer à la phase de développement beaucoup plus rapidement. C’était l’une de nos principales raisons de passer à Formulaires GC. »</strong><br>— Justin Lane (développeur de site Web), ministère des Finances Canada. <br>Extrait du billet de blogue : <a href="https://numerique.canada.ca/2025/12/12/t%C3%A9moignage-formulaires-gc--adoption-rapide-au-fin/" target="_blank" rel="noreferrer noopener">Témoignage de GC Forms : Adoption rapide chez FIN</a>.</p>
+<p class="wp-block-paragraph"><strong>« En raison de la nature délicate de l’information incluse dans notre consultation [sur les tarifs], ainsi que de la nature délicate des réponses que nous avions l’intention de recevoir, nous avions besoin d’une plateforme sécurisée Protégé B… Formulaires GC nous a permis d’économiser beaucoup de temps et d’efforts et de passer à la phase de développement beaucoup plus rapidement. C’était l’une de nos principales raisons de passer à Formulaires GC. »</strong><br>— Justin Lane (développeur de site Web), ministère des Finances Canada. <br>Extrait du billet de blogue : <a href="https://numerique.canada.ca/2025/12/12/t%C3%A9moignage-formulaires-gc--adoption-rapide-au-fin/" target="_blank" rel="noreferrer noopener">Témoignage de GC Forms : Adoption rapide chez FIN</a>.</p>
 </blockquote>
 
 
@@ -196,11 +196,11 @@ translationKey: 2025-product-highlights-linkedin
 
 
 
-<p>Système de design GC est la source qu’utilisent les fonctionnaires responsables des sites Web et produits du gouvernement du Canada. Construisez plus rapidement sans avoir à faire de compromis sur l’identité de marque, l’accessibilité, ni le bilinguisme.</p>
+<p class="wp-block-paragraph">Système de design GC est la source qu’utilisent les fonctionnaires responsables des sites Web et produits du gouvernement du Canada. Construisez plus rapidement sans avoir à faire de compromis sur l’identité de marque, l’accessibilité, ni le bilinguisme.</p>
 
 
 
-<p><strong>Cas d’utilisation pouvant être pertinents pour votre travail&nbsp;: </strong>Que vous soyez à l’étape de la conception ou du codage, commencez à utiliser Système de design GC.</p>
+<p class="wp-block-paragraph"><strong>Cas d’utilisation pouvant être pertinents pour votre travail&nbsp;: </strong>Que vous soyez à l’étape de la conception ou du codage, commencez à utiliser Système de design GC.</p>
 
 
 
@@ -215,11 +215,11 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>« Du point de vue de la conception, Système de design GC est très utile. Depuis plus d’un an, je travaille au sein d’une équipe responsable de trois produits externes. D’autres produits sont prévus, tant à l’interne qu’à l’extérieur, et je compte bien continuer à utiliser le système pour chacun d’eux. Le recours à Système de design GC nous aide à uniformiser l’apparence des trois produits pilotes. » </strong><br>— <a href="https://www.linkedin.com/in/adele-strub/" target="_blank" rel="noreferrer noopener">Adele Strub</a> (conceptrice d’expérience utilisateur), ministère des Pêches et des Océans (MPO).</p>
+<p class="wp-block-paragraph"><strong>« Du point de vue de la conception, Système de design GC est très utile. Depuis plus d’un an, je travaille au sein d’une équipe responsable de trois produits externes. D’autres produits sont prévus, tant à l’interne qu’à l’extérieur, et je compte bien continuer à utiliser le système pour chacun d’eux. Le recours à Système de design GC nous aide à uniformiser l’apparence des trois produits pilotes. » </strong><br>— <a href="https://www.linkedin.com/in/adele-strub/" target="_blank" rel="noreferrer noopener">Adele Strub</a> (conceptrice d’expérience utilisateur), ministère des Pêches et des Océans (MPO).</p>
 
 
 
-<p>Extrait du billet de blogue : <a href="https://numerique.canada.ca/2025/12/22/effet-dentra%c3%aenement-partie-1-de-3--le-succ%c3%a8s-gr%c3%a2ce-%c3%a0-la-collaboration-au-minist%c3%a8re-des-p%c3%aaches-et-des-oc%c3%a9ans-mpo-et-au-service-num%c3%a9rique-canadien-snc/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-fr" target="_blank" rel="noreferrer noopener">Effet d’entraînement (partie 1 de 3) : Le succès grâce à la collaboration au ministère des Pêches et des Océans (MPO) et au Service numérique canadien (SNC)</a>.</p>
+<p class="wp-block-paragraph">Extrait du billet de blogue : <a href="https://numerique.canada.ca/2025/12/22/effet-dentra%c3%aenement-partie-1-de-3--le-succ%c3%a8s-gr%c3%a2ce-%c3%a0-la-collaboration-au-minist%c3%a8re-des-p%c3%aaches-et-des-oc%c3%a9ans-mpo-et-au-service-num%c3%a9rique-canadien-snc/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-fr" target="_blank" rel="noreferrer noopener">Effet d’entraînement (partie 1 de 3) : Le succès grâce à la collaboration au ministère des Pêches et des Océans (MPO) et au Service numérique canadien (SNC)</a>.</p>
 </blockquote>
 
 
@@ -290,11 +290,11 @@ translationKey: 2025-product-highlights-linkedin
 
 
 
-<p id="ember1140">Vous souhaitez vous tenir au fait de notre travail cette année? <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener"><strong>Abonnez-vous à l’infolettre du SNC pour une sélection de contenu sur le numérique au GC (déconnectez-vous du RPV/VPN)</strong></a>.</p>
+<p class="wp-block-paragraph" id="ember1140">Vous souhaitez vous tenir au fait de notre travail cette année? <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener"><strong>Abonnez-vous à l’infolettre du SNC pour une sélection de contenu sur le numérique au GC (déconnectez-vous du RPV/VPN)</strong></a>.</p>
 
 
 
-<p id="ember1141">Nos articles de blogue précédemment publiés avec le soutien des équipes qui construisent et utilisent nos produits pourraient également vous intéresser :</p>
+<p class="wp-block-paragraph" id="ember1141">Nos articles de blogue précédemment publiés avec le soutien des équipes qui construisent et utilisent nos produits pourraient également vous intéresser :</p>
 
 
 
