@@ -16,15 +16,15 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>We often hear that sharing CDS product use cases helps GC teams see themselves using the tools, and gives them the confidence to adopt them. <strong>If your team delivers services that send updates to verified contacts, this blog about GC Notify is for you!</strong></p>
+<p class="wp-block-paragraph">We often hear that sharing CDS product use cases helps GC teams see themselves using the tools, and gives them the confidence to adopt them. <strong>If your team delivers services that send updates to verified contacts, this blog about GC Notify is for you!</strong></p>
 
 
 
-<p><strong>Read our interview below with public servants Kyle Butts and Pat Heroux at the </strong><a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener"><strong>Canadian Dental Care Plan (CDCP)</strong></a><strong>, </strong>where they share how and why they’re using <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>, and the UX benefits of providing digital updates. </p>
+<p class="wp-block-paragraph"><strong>Read our interview below with public servants Kyle Butts and Pat Heroux at the </strong><a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener"><strong>Canadian Dental Care Plan (CDCP)</strong></a><strong>, </strong>where they share how and why they’re using <a href="https://notification.canada.ca/" target="_blank" rel="noreferrer noopener">GC Notify</a>, and the UX benefits of providing digital updates. </p>
 
 
 
-<p class="has-background" style="background-color:#b3e4fb"><strong>What’s the Canadian Dental Care Plan (CDCP)?</strong><br><br>“Did you know that until recently, one in three people in Canada lacked dental insurance and one in four reported skipping dental visits due to cost? To address this problem, the GC introduced CDCP… it’s the largest federal government benefit program in the last 60 years, covering 23% of the population.” <br>– Blog: <a href="https://digital.canada.ca/2024/11/27/putting-people-at-the-center-of-services-dental-meets-digital/" target="_blank" rel="noreferrer noopener">Putting people at the center of services: Dental meets digital</a><br><br>CDCP was introduced in 2023: it’s a program that makes dental care more affordable for eligible Canadian residents. <a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan/statistics.html" target="_blank" rel="noreferrer noopener">CDCP currently has over 6 million approved applicants</a>.<br><br><strong>Haven’t heard of GC Notify before?&nbsp;</strong><br><br>The notification product helps federal public servants send emails and texts (to their teams and members of the public). Guide people through government processes, one message at a time: <a href="https://notification.canada.ca/features" target="_blank" rel="noreferrer noopener"><strong>explore what you can do with GC Notify</strong></a><strong>!</strong></p>
+<p class="has-background wp-block-paragraph" style="background-color:#b3e4fb"><strong>What’s the Canadian Dental Care Plan (CDCP)?</strong><br><br>“Did you know that until recently, one in three people in Canada lacked dental insurance and one in four reported skipping dental visits due to cost? To address this problem, the GC introduced CDCP… it’s the largest federal government benefit program in the last 60 years, covering 23% of the population.” <br>– Blog: <a href="https://digital.canada.ca/2024/11/27/putting-people-at-the-center-of-services-dental-meets-digital/" target="_blank" rel="noreferrer noopener">Putting people at the center of services: Dental meets digital</a><br><br>CDCP was introduced in 2023: it’s a program that makes dental care more affordable for eligible Canadian residents. <a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan/statistics.html" target="_blank" rel="noreferrer noopener">CDCP currently has over 6 million approved applicants</a>.<br><br><strong>Haven’t heard of GC Notify before?&nbsp;</strong><br><br>The notification product helps federal public servants send emails and texts (to their teams and members of the public). Guide people through government processes, one message at a time: <a href="https://notification.canada.ca/features" target="_blank" rel="noreferrer noopener"><strong>explore what you can do with GC Notify</strong></a><strong>!</strong></p>
 
 
 
@@ -36,11 +36,11 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>Thanks to GC Notify, CDCP applicants can choose to engage with the program digitally vs letter mail, saving the program physical mailing costs. We’ve sent around 1.4 million automated new communication emails to CDCP applicants using the notification service and its <a href="https://documentation.notification.canada.ca/en/" target="_blank" rel="noreferrer noopener">API feature</a>, and the number continues to grow as awareness of the service increases.</p>
+<p class="wp-block-paragraph">Thanks to GC Notify, CDCP applicants can choose to engage with the program digitally vs letter mail, saving the program physical mailing costs. We’ve sent around 1.4 million automated new communication emails to CDCP applicants using the notification service and its <a href="https://documentation.notification.canada.ca/en/" target="_blank" rel="noreferrer noopener">API feature</a>, and the number continues to grow as awareness of the service increases.</p>
 
 
 
-<p><strong>CDCP sends 3 types of notifications:</strong></p>
+<p class="wp-block-paragraph"><strong>CDCP sends 3 types of notifications:</strong></p>
 
 
 
@@ -90,11 +90,11 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>Thanks to Kyle and Pat for sharing their experiences using GC Notify for CDCP digital communications! <a href="https://digital.canada.ca/2022/11/21/working-in-the-open-with-a-sense-of-humility-and-community/" target="_blank" rel="noreferrer noopener">Working in the open</a> helps other GC teams learn how they can improve their service delivery too.</p>
+<p class="wp-block-paragraph">Thanks to Kyle and Pat for sharing their experiences using GC Notify for CDCP digital communications! <a href="https://digital.canada.ca/2022/11/21/working-in-the-open-with-a-sense-of-humility-and-community/" target="_blank" rel="noreferrer noopener">Working in the open</a> helps other GC teams learn how they can improve their service delivery too.</p>
 
 
 
-<p><strong>If your team delivers services that send updates to verified contacts: </strong><a href="https://notification.canada.ca/register-for-a-demo" target="_blank" rel="noreferrer noopener"><strong>register for a GC Notify demo</strong></a><strong>! We’ll show you how to:&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>If your team delivers services that send updates to verified contacts: </strong><a href="https://notification.canada.ca/register-for-a-demo" target="_blank" rel="noreferrer noopener"><strong>register for a GC Notify demo</strong></a><strong>! We’ll show you how to:&nbsp;</strong></p>
 
 
 
@@ -126,5 +126,5 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
