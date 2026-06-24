@@ -13,24 +13,24 @@ translationKey: blog_gcds_exit_alpha
 ---
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>« À l’heure où il existe plus de 30 outils et systèmes pour le développement de sites Web et d’applications dans plus de 100 ministères et organismes du GC, le SNC a mis en évidence le besoin d’une approche plus unifiée. <strong>Il a donc lancé Système de design GC… un système de design interne et centralisé [qui] simplifie le développement des services numériques, réduit les redondances et crée une expérience utilisateur plus cohérente qui inspire la confiance dans les services gouvernementaux.</strong> »</p>
+<p class="wp-block-paragraph">« À l’heure où il existe plus de 30 outils et systèmes pour le développement de sites Web et d’applications dans plus de 100 ministères et organismes du GC, le SNC a mis en évidence le besoin d’une approche plus unifiée. <strong>Il a donc lancé Système de design GC… un système de design interne et centralisé [qui] simplifie le développement des services numériques, réduit les redondances et crée une expérience utilisateur plus cohérente qui inspire la confiance dans les services gouvernementaux.</strong> »</p>
 
 
 
-<p>– <a href="https://numerique.canada.ca/2025/07/07/lancement-dun-syst%C3%A8me-de-design-central-au-sein-du-gouvernement-du-canada-un-coup-de-projecteur-du-digital-service-network-dsn/" target="_blank" rel="noreferrer noopener">Blogue&nbsp;: Lancement d’un système de conception central au sein du GC (étude de cas du Réseau des services numériques)</a></p>
+<p class="wp-block-paragraph">– <a href="https://numerique.canada.ca/2025/07/07/lancement-dun-syst%C3%A8me-de-design-central-au-sein-du-gouvernement-du-canada-un-coup-de-projecteur-du-digital-service-network-dsn/" target="_blank" rel="noreferrer noopener">Blogue&nbsp;: Lancement d’un système de conception central au sein du GC (étude de cas du Réseau des services numériques)</a></p>
 </blockquote>
 
 
 
-<p>Notre équipe de produit <a href="https://numerique.canada.ca/2024/05/27/vers-un-syst%C3%A8me-de-design-unifi%C3%A9-pour-le-gouvernement-du-canada/" target="_blank" rel="noreferrer noopener">travaille sur un système de conception unifié pour le GC depuis 2024</a>. Ce travail a supposé une étroite collaboration avec les équipes du GC, afin d’apprendre comment nous pouvons répondre à leurs besoins avec le système de conception.</p>
+<p class="wp-block-paragraph">Notre équipe de produit <a href="https://numerique.canada.ca/2024/05/27/vers-un-syst%C3%A8me-de-design-unifi%C3%A9-pour-le-gouvernement-du-canada/" target="_blank" rel="noreferrer noopener">travaille sur un système de conception unifié pour le GC depuis 2024</a>. Ce travail a supposé une étroite collaboration avec les équipes du GC, afin d’apprendre comment nous pouvons répondre à leurs besoins avec le système de conception.</p>
 
 
 
-<p><strong>Mise à jour importante : Grâce à tous ces efforts de collaboration pour améliorer le produit, le </strong><a href="https://systeme-design.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener"><strong>Système de design GC</strong></a><strong> </strong><strong>a atteint un état stable et quitte sa phase Alpha! </strong>Cela signifie qu’il n’est plus à l’état expérimental. Les équipes du GC peuvent utiliser le système de conception pour créer des sites Web et des applications et suivre les règles et exigences pertinentes pour la prestation de services numériques du GC.</p>
+<p class="wp-block-paragraph"><strong>Mise à jour importante : Grâce à tous ces efforts de collaboration pour améliorer le produit, le </strong><a href="https://systeme-design.alpha.canada.ca/fr/" target="_blank" rel="noreferrer noopener"><strong>Système de design GC</strong></a><strong> </strong><strong>a atteint un état stable et quitte sa phase Alpha! </strong>Cela signifie qu’il n’est plus à l’état expérimental. Les équipes du GC peuvent utiliser le système de conception pour créer des sites Web et des applications et suivre les règles et exigences pertinentes pour la prestation de services numériques du GC.</p>
 
 
 
-<p>Lisez la suite pour savoir ce que cette phase signifie pour la plateforme, les équipes de produits et tous ceux qui explorent le Système de design GC.</p>
+<p class="wp-block-paragraph">Lisez la suite pour savoir ce que cette phase signifie pour la plateforme, les équipes de produits et tous ceux qui explorent le Système de design GC.</p>
 
 
 
@@ -38,11 +38,11 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p><strong>Le Système de design GC ayant atteint un degré de maturité, l’objectif principal reste clair : donner aux intervenants la certitude que l’utilisation du système de conception est approuvée.</strong></p>
+<p class="wp-block-paragraph"><strong>Le Système de design GC ayant atteint un degré de maturité, l’objectif principal reste clair : donner aux intervenants la certitude que l’utilisation du système de conception est approuvée.</strong></p>
 
 
 
-<p>Lorsque les équipes savent qu’elles peuvent lui faire confiance et s’y fier, elles sont beaucoup plus susceptibles de&nbsp;: </p>
+<p class="wp-block-paragraph">Lorsque les équipes savent qu’elles peuvent lui faire confiance et s’y fier, elles sont beaucoup plus susceptibles de&nbsp;: </p>
 
 
 
@@ -65,11 +65,11 @@ translationKey: blog_gcds_exit_alpha
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>«&nbsp;Au cours des deux dernières années, nous avons entendu de nombreuses équipes dire que la phase Alpha du Système de design GC avait constitué un frein à son adoption. Que ce soit de la part de leurs équipes informatiques ou de la direction, cela a constitué un obstacle à l’adoption. <strong>C’est ce qui me réjouit le plus : nous continuerons à faciliter l’adoption du Système de design GC pour les équipes, afin de leur faire gagner du temps et de l’argent, pendant qu’elles se concentrent sur les aspects de leur activité qui comptent le plus. </strong>»</p>
+<p class="wp-block-paragraph">«&nbsp;Au cours des deux dernières années, nous avons entendu de nombreuses équipes dire que la phase Alpha du Système de design GC avait constitué un frein à son adoption. Que ce soit de la part de leurs équipes informatiques ou de la direction, cela a constitué un obstacle à l’adoption. <strong>C’est ce qui me réjouit le plus : nous continuerons à faciliter l’adoption du Système de design GC pour les équipes, afin de leur faire gagner du temps et de l’argent, pendant qu’elles se concentrent sur les aspects de leur activité qui comptent le plus. </strong>»</p>
 
 
 
-<p>–  <a href="http://linkedin.com/in/abduldorayi" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> (gestionnaire du produit, Système de design GC)</p>
+<p class="wp-block-paragraph">–  <a href="http://linkedin.com/in/abduldorayi" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> (gestionnaire du produit, Système de design GC)</p>
 </blockquote>
 
 
@@ -114,7 +114,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>Quitter la phase Alpha signifie que le Système de design GC est en cours d’utilisation et qu’il continue d’évoluer&nbsp;:</p>
+<p class="wp-block-paragraph">Quitter la phase Alpha signifie que le Système de design GC est en cours d’utilisation et qu’il continue d’évoluer&nbsp;:</p>
 
 
 
@@ -148,7 +148,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>Le Système de design GC est un système de conception officiel prêt pour la production, pour le gouvernement du Canada; il <a href="https://systeme-design.canada.ca/fr/" target="_blank" rel="noreferrer noopener">compte maintenant un nouveau sous-domaine</a> pour refléter sa sortie de la phase Alpha. Ce changement indique que le Système de design GC est mature, fiable et qu’il évolue en permanence grâce à des améliorations continues.&nbsp;</p>
+<p class="wp-block-paragraph">Le Système de design GC est un système de conception officiel prêt pour la production, pour le gouvernement du Canada; il <a href="https://systeme-design.canada.ca/fr/" target="_blank" rel="noreferrer noopener">compte maintenant un nouveau sous-domaine</a> pour refléter sa sortie de la phase Alpha. Ce changement indique que le Système de design GC est mature, fiable et qu’il évolue en permanence grâce à des améliorations continues.&nbsp;</p>
 
 
 
@@ -179,7 +179,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Qu’est-ce qui est inclus dans cette version?</summary>
-<p><strong>De nouveaux ensembles de codes</strong> <strong>ont été publiés pour&nbsp;:</strong> </p>
+<p class="wp-block-paragraph"><strong>De nouveaux ensembles de codes</strong> <strong>ont été publiés pour&nbsp;:</strong> </p>
 
 
 
@@ -201,7 +201,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p><a href="https://github.com/cds-snc/gcds-components" target="_blank" rel="noreferrer noopener">Consultez le journal complet des changements de code (en anglais seulement)</a>.</p>
+<p class="wp-block-paragraph"><a href="https://github.com/cds-snc/gcds-components" target="_blank" rel="noreferrer noopener">Consultez le journal complet des changements de code (en anglais seulement)</a>.</p>
 </details>
 
 
@@ -210,7 +210,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>Notre équipe de soutien organise régulièrement des séances de démonstration et des forums destinés aux fonctionnaires pour leur permettre de découvrir comment ces outils peuvent améliorer la prestation de services. Les participants pourront poser des questions et entendre d’autres équipes parler de la façon dont elles prévoient d’utiliser les outils.</p>
+<p class="wp-block-paragraph">Notre équipe de soutien organise régulièrement des séances de démonstration et des forums destinés aux fonctionnaires pour leur permettre de découvrir comment ces outils peuvent améliorer la prestation de services. Les participants pourront poser des questions et entendre d’autres équipes parler de la façon dont elles prévoient d’utiliser les outils.</p>
 
 
 
@@ -232,5 +232,5 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
