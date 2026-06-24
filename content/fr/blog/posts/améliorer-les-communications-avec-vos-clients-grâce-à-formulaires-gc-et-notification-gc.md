@@ -12,23 +12,23 @@ tags: ["Formulaires GC","Notification GC"]
 translationKey: blog-pbs-rachel-muston
 ---
 
-<p>Vous êtes-vous déjà demandé comment communiquer efficacement avec vos clients, pour recueillir des données pour une application par exemple? Rachel s’y connaît bien dans le domaine.</p>
+<p class="wp-block-paragraph">Vous êtes-vous déjà demandé comment communiquer efficacement avec vos clients, pour recueillir des données pour une application par exemple? Rachel s’y connaît bien dans le domaine.</p>
 
 
 
-<p>Forte de son expérience de plus de 25 ans dans la fonction publique fédérale, Rachel Muston est convaincue que des services numériques bien conçus peuvent améliorer la vie des gens au Canada.</p>
+<p class="wp-block-paragraph">Forte de son expérience de plus de 25 ans dans la fonction publique fédérale, Rachel Muston est convaincue que des services numériques bien conçus peuvent améliorer la vie des gens au Canada.</p>
 
 
 
-<p>Elle a travaillé pour divers ministères fédéraux, notamment Pêches et Océans Canada (MPO), Emploi et Développement social Canada (EDSC) et le Secrétariat du Conseil du Trésor du Canada (SCT), où elle travaille actuellement en tant <a href="https://wiki.gccollab.ca/Agents_libres_du_Canada/FAQ">qu’agente libre</a>.</p>
+<p class="wp-block-paragraph">Elle a travaillé pour divers ministères fédéraux, notamment Pêches et Océans Canada (MPO), Emploi et Développement social Canada (EDSC) et le Secrétariat du Conseil du Trésor du Canada (SCT), où elle travaille actuellement en tant <a href="https://wiki.gccollab.ca/Agents_libres_du_Canada/FAQ">qu’agente libre</a>.</p>
 
 
 
-<p>En mai 2021, elle a assisté à une session de présentation de <a href="https://forms-formulaires.alpha.canada.ca/fr/id/1">Formulaires GC</a> et <a href="https://notification.canada.ca/accueil">Notification GC</a>. Elle a tout de suite compris que ces deux produits pourraient l’aider à communiquer avec ses clients dans le cadre d’un projet pilote qu’elle dirigeait à l’époque à EDSC.</p>
+<p class="wp-block-paragraph">En mai 2021, elle a assisté à une session de présentation de <a href="https://forms-formulaires.alpha.canada.ca/fr/id/1">Formulaires GC</a> et <a href="https://notification.canada.ca/accueil">Notification GC</a>. Elle a tout de suite compris que ces deux produits pourraient l’aider à communiquer avec ses clients dans le cadre d’un projet pilote qu’elle dirigeait à l’époque à EDSC.</p>
 
 
 
-<p>Un an plus tard, nous l’avons rencontrée pour discuter de son expérience avec Formulaires GC et Notification GC.</p>
+<p class="wp-block-paragraph">Un an plus tard, nous l’avons rencontrée pour discuter de son expérience avec Formulaires GC et Notification GC.</p>
 
 
 
@@ -40,7 +40,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>De juin 2021 à mai 2022, j’ai dirigé le projet pilote sur les microacquisitions à EDSC. Cette initiative visait à:</p>
+<p class="wp-block-paragraph">De juin 2021 à mai 2022, j’ai dirigé le projet pilote sur les microacquisitions à EDSC. Cette initiative visait à:</p>
 
 
 
@@ -62,19 +62,19 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Nous avons donc créé un nouveau processus permettant aux équipes d’EDSC de se procurer du code source libre de faible valeur (moins de 10  000 $). Ce processus simplifié a permis aux équipes de réduire leur backlog de travaux de codage non urgents et source libre. Par exemple, les équipes d’EDSC pouvaient maintenant se procurer du code pour ajouter ou améliorer des fonctionnalités existantes ou encore pour nettoyer et analyser de grands jeux de données.</p>
+<p class="wp-block-paragraph">Nous avons donc créé un nouveau processus permettant aux équipes d’EDSC de se procurer du code source libre de faible valeur (moins de 10  000 $). Ce processus simplifié a permis aux équipes de réduire leur backlog de travaux de codage non urgents et source libre. Par exemple, les équipes d’EDSC pouvaient maintenant se procurer du code pour ajouter ou améliorer des fonctionnalités existantes ou encore pour nettoyer et analyser de grands jeux de données.</p>
 
 
 
-<p>Cette réduction des frais généraux traditionnellement liés à ce type d’approvisionnement a permis de rentabiliser ces achats de faible valeur. Ce processus nous permettait d’accéder plus rapidement au code source libre en supprimant les obstacles que les petits fournisseurs rencontrent fréquemment dans les marchés publics, nous permettant ainsi d’atteindre un bassin de codeurs plus vaste.</p>
+<p class="wp-block-paragraph">Cette réduction des frais généraux traditionnellement liés à ce type d’approvisionnement a permis de rentabiliser ces achats de faible valeur. Ce processus nous permettait d’accéder plus rapidement au code source libre en supprimant les obstacles que les petits fournisseurs rencontrent fréquemment dans les marchés publics, nous permettant ainsi d’atteindre un bassin de codeurs plus vaste.</p>
 
 
 
-<p>Pour coordonner et gérer les offres et les soumissions relatives à ce nouveau processus, nous avons créé un site Web. Nous y publiions nos besoins en matière de code source libre pour desservir les services publics. Les fournisseurs pouvaient manifester leur intérêt à produire du code en remplissant un formulaire (conçu à l’aide de Formulaires GC).</p>
+<p class="wp-block-paragraph">Pour coordonner et gérer les offres et les soumissions relatives à ce nouveau processus, nous avons créé un site Web. Nous y publiions nos besoins en matière de code source libre pour desservir les services publics. Les fournisseurs pouvaient manifester leur intérêt à produire du code en remplissant un formulaire (conçu à l’aide de Formulaires GC).</p>
 
 
 
-<p>Les choses ne se sont finalement pas déroulées comme prévu, car le projet pilote a pris fin en mai 2022, mais grâce à Formulaires GC et Notification GC nous avons été capables de mettre en place notre service beaucoup plus rapidement. Nous avons d’ailleurs créé notre premier formulaire en trois jours seulement! Nous en avons même parlé dans un <a href="https://sara-sabr.github.io/ITStrategy/2022/05/05/cloture-du-pilote-de-micro-acquisition.html">billet de blogue</a> et dans notre <a href="https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition-les-lecons-tirees.html">rapport</a> de clôture afin que les gens puissent tirer des leçons de nos expériences, notamment de ce qui a bien fonctionné et de ce qui n’a pas fonctionné.</p>
+<p class="wp-block-paragraph">Les choses ne se sont finalement pas déroulées comme prévu, car le projet pilote a pris fin en mai 2022, mais grâce à Formulaires GC et Notification GC nous avons été capables de mettre en place notre service beaucoup plus rapidement. Nous avons d’ailleurs créé notre premier formulaire en trois jours seulement! Nous en avons même parlé dans un <a href="https://sara-sabr.github.io/ITStrategy/2022/05/05/cloture-du-pilote-de-micro-acquisition.html">billet de blogue</a> et dans notre <a href="https://sara-sabr.github.io/ITStrategy/pilote-de-micro-acquisition-les-lecons-tirees.html">rapport</a> de clôture afin que les gens puissent tirer des leçons de nos expériences, notamment de ce qui a bien fonctionné et de ce qui n’a pas fonctionné.</p>
 
 
 
@@ -82,19 +82,19 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Nous avons utilisé <a href="https://forms-formulaires.alpha.canada.ca/fr/id/1">Formulaires GC</a> pour recueillir des données sur les candidats fournisseurs puis <a href="https://notification.canada.ca/">Notification GC</a> pour envoyer des avis par courriel concernant l’état des candidatures et les nouvelles offres.</p>
+<p class="wp-block-paragraph">Nous avons utilisé <a href="https://forms-formulaires.alpha.canada.ca/fr/id/1">Formulaires GC</a> pour recueillir des données sur les candidats fournisseurs puis <a href="https://notification.canada.ca/">Notification GC</a> pour envoyer des avis par courriel concernant l’état des candidatures et les nouvelles offres.</p>
 
 
 
-<p>Nous avons également utilisé Formulaires GC comme méthode d’abonnement à notre liste de diffusion de Notification GC et la page «  rétroaction  » de notre site Web, permettant ainsi aux gens de poser des questions à l’équipe au sujet du projet pilote.</p>
+<p class="wp-block-paragraph">Nous avons également utilisé Formulaires GC comme méthode d’abonnement à notre liste de diffusion de Notification GC et la page «  rétroaction  » de notre site Web, permettant ainsi aux gens de poser des questions à l’équipe au sujet du projet pilote.</p>
 
 
 
-<p>Voici quelques exemples des formulaires en question :</p>
+<p class="wp-block-paragraph">Voici quelques exemples des formulaires en question :</p>
 
 
 
-<p><strong>Formulaire d’inscription à la liste de distribution</strong></p>
+<p class="wp-block-paragraph"><strong>Formulaire d’inscription à la liste de distribution</strong></p>
 
 
 
@@ -102,11 +102,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p style="font-size:12px">Description d&rsquo;image : Capture d’écran du formulaire d’inscription à la liste de distribution pour recevoir des mises à jour sur le projet pilote, créé à l’aide de Formulaires GC. Dans le formulaire, on demande à l’utilisateur ou à l’utilisatrice d’inscrire son nom, son adresse courriel et sa langue de correspondance préférée.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Description d&rsquo;image : Capture d’écran du formulaire d’inscription à la liste de distribution pour recevoir des mises à jour sur le projet pilote, créé à l’aide de Formulaires GC. Dans le formulaire, on demande à l’utilisateur ou à l’utilisatrice d’inscrire son nom, son adresse courriel et sa langue de correspondance préférée.</p>
 
 
 
-<p><br><strong>Formulaire de rétroaction</strong></p>
+<p class="wp-block-paragraph"><br><strong>Formulaire de rétroaction</strong></p>
 
 
 
@@ -114,11 +114,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p style="font-size:12px">Description d&rsquo;image : Capture d’écran du formulaire de rétroaction du projet pilote permettant de signaler les problèmes avec le site Web. Les utilisateurs et utilisatrices n’ont pas besoin de fournir leurs coordonnées et peuvent demeurer anonymes. Le formulaire permet également de limiter le degré d’intervention subséquente à la rétroaction.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Description d&rsquo;image : Capture d’écran du formulaire de rétroaction du projet pilote permettant de signaler les problèmes avec le site Web. Les utilisateurs et utilisatrices n’ont pas besoin de fournir leurs coordonnées et peuvent demeurer anonymes. Le formulaire permet également de limiter le degré d’intervention subséquente à la rétroaction.</p>
 
 
 
-<p><strong>Les produits du SNC nous ont aidé à résoudre de nombreux problèmes liés à la communication des services :</strong></p>
+<p class="wp-block-paragraph"><strong>Les produits du SNC nous ont aidé à résoudre de nombreux problèmes liés à la communication des services :</strong></p>
 
 
 
@@ -172,15 +172,15 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Honnêtement, je parle de Notification GC et Formulaires GC à tout le monde. Je pense que ça vaut la peine de les essayer. Ce sont des produits accessibles qui répondent aux besoins des équipes du GC en matière de langues officielles et de sécurité. Sans oublier qu’ils sont très faciles à utiliser. Terminé les inquiétudes concernant de potentielles erreurs!</p>
+<p class="wp-block-paragraph">Honnêtement, je parle de Notification GC et Formulaires GC à tout le monde. Je pense que ça vaut la peine de les essayer. Ce sont des produits accessibles qui répondent aux besoins des équipes du GC en matière de langues officielles et de sécurité. Sans oublier qu’ils sont très faciles à utiliser. Terminé les inquiétudes concernant de potentielles erreurs!</p>
 
 
 
-<p>J’ai organisé des démos avec des collègues pour leur présenter Formulaires GC et Notification GC, car il s’agit d’outils formidables. À peu près tout le monde crée des formulaires et communique des mises à jour, et ces outils sont la solution idéale. Bien que je n’aie pas utilisé Formulaires GC depuis la fin du projet pilote sur les microacquisitions, je suis certaine que je serais amenée à l’utiliser de nouveau.</p>
+<p class="wp-block-paragraph">J’ai organisé des démos avec des collègues pour leur présenter Formulaires GC et Notification GC, car il s’agit d’outils formidables. À peu près tout le monde crée des formulaires et communique des mises à jour, et ces outils sont la solution idéale. Bien que je n’aie pas utilisé Formulaires GC depuis la fin du projet pilote sur les microacquisitions, je suis certaine que je serais amenée à l’utiliser de nouveau.</p>
 
 
 
-<p>L’un des principaux avantages de Formulaires GC et de Notification GC est qu’ils n’exigent pas d’expérience en codage, ce qui les rend très utiles pour bien des équipes! Je pense que ce sont des services qui répondent à un besoin réel.</p>
+<p class="wp-block-paragraph">L’un des principaux avantages de Formulaires GC et de Notification GC est qu’ils n’exigent pas d’expérience en codage, ce qui les rend très utiles pour bien des équipes! Je pense que ce sont des services qui répondent à un besoin réel.</p>
 
 
 
@@ -188,15 +188,15 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>L’équipe chargée des blogues au SNC a insisté pour que je parle ici de ce qui pourrait être amélioré! Alors je me lance…</p>
+<p class="wp-block-paragraph">L’équipe chargée des blogues au SNC a insisté pour que je parle ici de ce qui pourrait être amélioré! Alors je me lance…</p>
 
 
 
-<p>En ce qui concerne l’outil Formulaires GC, je dirais que la possibilité d’intégrer une logique conditionnelle dans les formulaires GC serait intéressante. Au début, nous pensions à rendre un champ obligatoire en fonction de la réponse du champ précédent. Nous avons fini par simplifier le formulaire, de sorte que cette fonctionnalité ne soit plus nécessaire, mais je pense qu’il serait toujours utile de l’ajouter au service. Par ailleurs, la possibilité, d’un bord, de détecter les soumissions en double et, de l’autre, d’utiliser les signatures numériques sur Formulaires GC changerait la donne.</p>
+<p class="wp-block-paragraph">En ce qui concerne l’outil Formulaires GC, je dirais que la possibilité d’intégrer une logique conditionnelle dans les formulaires GC serait intéressante. Au début, nous pensions à rendre un champ obligatoire en fonction de la réponse du champ précédent. Nous avons fini par simplifier le formulaire, de sorte que cette fonctionnalité ne soit plus nécessaire, mais je pense qu’il serait toujours utile de l’ajouter au service. Par ailleurs, la possibilité, d’un bord, de détecter les soumissions en double et, de l’autre, d’utiliser les signatures numériques sur Formulaires GC changerait la donne.</p>
 
 
 
-<p>Quant à Notification GC, en toute sincérité, je n’ai aucune suggestion à faire pour améliorer le produit. Nos besoins pour le pilote sur la microacquisition étaient simples et le produit a répondu à nos attentes. J’ai été particulièrement impressionné par les fonctions de test, qui m’ont permis de voir exactement à quoi ressemblaient les messages avant de les envoyer au public. Nous n’avons pas utilisé <a href="https://documentation.notification.canada.ca/fr/?utm_source=FR_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">la fonctionnalité API de Notification GC</a>, mais je serais très intéressée de l’essayer la prochaine fois.</p>
+<p class="wp-block-paragraph">Quant à Notification GC, en toute sincérité, je n’ai aucune suggestion à faire pour améliorer le produit. Nos besoins pour le pilote sur la microacquisition étaient simples et le produit a répondu à nos attentes. J’ai été particulièrement impressionné par les fonctions de test, qui m’ont permis de voir exactement à quoi ressemblaient les messages avant de les envoyer au public. Nous n’avons pas utilisé <a href="https://documentation.notification.canada.ca/fr/?utm_source=FR_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">la fonctionnalité API de Notification GC</a>, mais je serais très intéressée de l’essayer la prochaine fois.</p>
 
 
 
@@ -204,13 +204,13 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>L’utilisation des outils à code source libre que sont Formulaires GC et Notification GC pour la communication avec les clients a aidé Rachel et son équipe à améliorer leur prestation de services numériques. En ayant recours aux produits de notre plateforme, Rachel a pu collecter des données d’une façon plus accessible et plus précise, réduire le temps que l’équipe consacrait aux communications bilingues avec les fournisseurs, en plus d’accroître la fiabilité de l’envoi des notifications grâce à l’automatisation.</p>
+<p class="wp-block-paragraph">L’utilisation des outils à code source libre que sont Formulaires GC et Notification GC pour la communication avec les clients a aidé Rachel et son équipe à améliorer leur prestation de services numériques. En ayant recours aux produits de notre plateforme, Rachel a pu collecter des données d’une façon plus accessible et plus précise, réduire le temps que l’équipe consacrait aux communications bilingues avec les fournisseurs, en plus d’accroître la fiabilité de l’envoi des notifications grâce à l’automatisation.</p>
 
 
 
-<p>Vous êtes fonctionnaire et pensez pouvoir bénéficier de nos produits de plateforme?</p>
+<p class="wp-block-paragraph">Vous êtes fonctionnaire et pensez pouvoir bénéficier de nos produits de plateforme?</p>
 
 
 
-<p>Nos équipes se feront un plaisir d’en discuter avec vous et de voir la manière de vous aider. Nous offrons même des séances de démonstration. Contactez : <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">Formulaires GC</a> ou <a href="https://notification.canada.ca/contact">Notification GC</a>!</p>
+<p class="wp-block-paragraph">Nos équipes se feront un plaisir d’en discuter avec vous et de voir la manière de vous aider. Nous offrons même des séances de démonstration. Contactez : <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">Formulaires GC</a> ou <a href="https://notification.canada.ca/contact">Notification GC</a>!</p>
 
