@@ -12,79 +12,79 @@ tags: ["Accessibilité","Approche Agile","Formulaires GC"]
 translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digital-service-network-spotlight
 ---
 
-<p><em>Cette étude de cas a initialement été publiée par le Digital Service Network («&nbsp;réseau des services numériques&nbsp;») en janvier&nbsp;2024. <a href="https://beeckcenter.georgetown.edu/wp-content/uploads/2024/01/DSN-Spotlight_GC-Forms_v3.pdf" target="_blank" rel="noreferrer noopener">Lire la version originale </a>(en anglais seulement).&nbsp;&nbsp;</em></p>
+<p class="wp-block-paragraph"><em>Cette étude de cas a initialement été publiée par le Digital Service Network («&nbsp;réseau des services numériques&nbsp;») en janvier&nbsp;2024. <a href="https://beeckcenter.georgetown.edu/wp-content/uploads/2024/01/DSN-Spotlight_GC-Forms_v3.pdf" target="_blank" rel="noreferrer noopener">Lire la version originale </a>(en anglais seulement).&nbsp;&nbsp;</em></p>
 
 
 
-<p>Les portraits de la catégorie «&nbsp;Spotlight&nbsp;» (équivalent de «&nbsp;Coup de projecteur&nbsp;») sont de courts profils de projets présentant de passionnants travaux en cours au sein de notre réseau de praticien·ne·s du gouvernement numérique. Ces profils célèbrent les histoires de nos membres, proposent des pistes d’action aux autres professionnel·le·s et mettent en contexte les archives conservées dans la bibliothèque de ressources du DSN.</p>
+<p class="wp-block-paragraph">Les portraits de la catégorie «&nbsp;Spotlight&nbsp;» (équivalent de «&nbsp;Coup de projecteur&nbsp;») sont de courts profils de projets présentant de passionnants travaux en cours au sein de notre réseau de praticien·ne·s du gouvernement numérique. Ces profils célèbrent les histoires de nos membres, proposent des pistes d’action aux autres professionnel·le·s et mettent en contexte les archives conservées dans la bibliothèque de ressources du DSN.</p>
 
 
 
-<p><strong>Contexte&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Contexte&nbsp;</strong></p>
 
 
 
-<p>Les formulaires sont un outil fondamental de l’administration publique pour répondre aux besoins du public, leur conception jouant un rôle essentiel dans la manière dont les gens accèdent aux services de l’administration gouvernementale et en font l’expérience. En 2022, le Service numérique canadien (SNC) a donné le coup d’envoi à une initiative visant à produire des formulaires de haute qualité en normalisant le processus des ministères pour la conception et l’élaboration de formulaires. Cet effort se nomme «&nbsp;Formulaires du gouvernement du Canada (GC)&nbsp;», ou «&nbsp;Formulaires&nbsp;GC&nbsp;». Formulaires&nbsp;GC offre à présent aux fonctionnaires la possibilité de produire et de publier facilement des formulaires numériques sécurisés, bilingues et accessibles.&nbsp;</p>
+<p class="wp-block-paragraph">Les formulaires sont un outil fondamental de l’administration publique pour répondre aux besoins du public, leur conception jouant un rôle essentiel dans la manière dont les gens accèdent aux services de l’administration gouvernementale et en font l’expérience. En 2022, le Service numérique canadien (SNC) a donné le coup d’envoi à une initiative visant à produire des formulaires de haute qualité en normalisant le processus des ministères pour la conception et l’élaboration de formulaires. Cet effort se nomme «&nbsp;Formulaires du gouvernement du Canada (GC)&nbsp;», ou «&nbsp;Formulaires&nbsp;GC&nbsp;». Formulaires&nbsp;GC offre à présent aux fonctionnaires la possibilité de produire et de publier facilement des formulaires numériques sécurisés, bilingues et accessibles.&nbsp;</p>
 
 
 
-<p>Pour en savoir plus, le Digital Service Network (DSN) du Centre Beeck s’est entretenu avec Stevie-Ray Talbot, gestionnaire de produit principal de Formulaires GC, et avec Ioana Contu, responsable par intérim. En plus de cela, les membres d’équipe Carolyn Connors, Sam Sadasivan et Tim Arney ont présenté leur travail lors de l’évènement <a href="https://beeckcenter.georgetown.edu/reforming-the-form-a-step-toward-more-effective-government/" target="_blank" rel="noreferrer noopener">FormFest 2023 de Code for America</a> et du DSN. Nous avons mis en évidence leurs idées ici. </p>
+<p class="wp-block-paragraph">Pour en savoir plus, le Digital Service Network (DSN) du Centre Beeck s’est entretenu avec Stevie-Ray Talbot, gestionnaire de produit principal de Formulaires GC, et avec Ioana Contu, responsable par intérim. En plus de cela, les membres d’équipe Carolyn Connors, Sam Sadasivan et Tim Arney ont présenté leur travail lors de l’évènement <a href="https://beeckcenter.georgetown.edu/reforming-the-form-a-step-toward-more-effective-government/" target="_blank" rel="noreferrer noopener">FormFest 2023 de Code for America</a> et du DSN. Nous avons mis en évidence leurs idées ici. </p>
 
 
 
-<p><strong>Développer une vision du produit ancrée dans la recherche sur les utilisateurs&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Développer une vision du produit ancrée dans la recherche sur les utilisateurs&nbsp;</strong></p>
 
 
 
-<p>Pendant la pandémie, les opérations gouvernementales et la prestation de services ont rapidement migré en ligne. Au SNC, M.&nbsp;Talbot élaborait des modèles de formulaires JSON (ou «&nbsp;schémas&nbsp;») pour aider les fonctionnaires à répondre aux besoins nouveaux et pressants en matière de formulaires numériques.</p>
+<p class="wp-block-paragraph">Pendant la pandémie, les opérations gouvernementales et la prestation de services ont rapidement migré en ligne. Au SNC, M.&nbsp;Talbot élaborait des modèles de formulaires JSON (ou «&nbsp;schémas&nbsp;») pour aider les fonctionnaires à répondre aux besoins nouveaux et pressants en matière de formulaires numériques.</p>
 
 
 
-<p>Après avoir servi plusieurs ministères en quête de solutions similaires, le SNC a créé l’équipe Formulaires&nbsp;GC afin d’explorer une approche plus normalisée en matière de production de formulaires, en se basant pour ce faire sur les besoins communs en matière de formulaires. «&nbsp;C’était l’occasion de créer un produit unique et de qualité que nous pourrions ensuite déployer encore et encore&nbsp;», a déclaré Stevie-Ray&nbsp;Talbot.&nbsp;</p>
+<p class="wp-block-paragraph">Après avoir servi plusieurs ministères en quête de solutions similaires, le SNC a créé l’équipe Formulaires&nbsp;GC afin d’explorer une approche plus normalisée en matière de production de formulaires, en se basant pour ce faire sur les besoins communs en matière de formulaires. «&nbsp;C’était l’occasion de créer un produit unique et de qualité que nous pourrions ensuite déployer encore et encore&nbsp;», a déclaré Stevie-Ray&nbsp;Talbot.&nbsp;</p>
 
 
 
-<p>L’équipe a développé pour Formulaires&nbsp;GC une vision enracinée dans la recherche axée sur la découverte&nbsp;:&nbsp;</p>
+<p class="wp-block-paragraph">L’équipe a développé pour Formulaires&nbsp;GC une vision enracinée dans la recherche axée sur la découverte&nbsp;:&nbsp;</p>
 
 
 
-<p><strong><em>Aider les fonctionnaires à publier rapidement et facilement des formulaires en ligne simples et accessibles pour permettre au public de demander les renseignements, services ou avantages dont il a besoin ou d’y accéder.&nbsp;</em></strong></p>
+<p class="wp-block-paragraph"><strong><em>Aider les fonctionnaires à publier rapidement et facilement des formulaires en ligne simples et accessibles pour permettre au public de demander les renseignements, services ou avantages dont il a besoin ou d’y accéder.&nbsp;</em></strong></p>
 
 
 
-<p>Pour concrétiser cette vision, l’équipe a élaboré une feuille de route stratégique et misé sur des itérations rapides et tactiques de ses modèles de formulaires afin d’obtenir une rétroaction fréquente et rapide de la part des utilisateur·rice·s au sein du gouvernement.&nbsp;</p>
+<p class="wp-block-paragraph">Pour concrétiser cette vision, l’équipe a élaboré une feuille de route stratégique et misé sur des itérations rapides et tactiques de ses modèles de formulaires afin d’obtenir une rétroaction fréquente et rapide de la part des utilisateur·rice·s au sein du gouvernement.&nbsp;</p>
 
 
 
-<p><strong>Stratégie de recherche axée sur la découverte de Formulaires&nbsp;GC&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Stratégie de recherche axée sur la découverte de Formulaires&nbsp;GC&nbsp;</strong></p>
 
 
 
-<p>Grâce à sa recherche axée sur la découverte, l’équipe de Formulaires&nbsp;GC a décelé deux facteurs clés qui ont ensuite servi de base à la feuille de route du produit et à la définition de sa portée technique&nbsp;:&nbsp;</p>
+<p class="wp-block-paragraph">Grâce à sa recherche axée sur la découverte, l’équipe de Formulaires&nbsp;GC a décelé deux facteurs clés qui ont ensuite servi de base à la feuille de route du produit et à la définition de sa portée technique&nbsp;:&nbsp;</p>
 
 
 
-<p><strong>1. Classer les formulaires en fonction du type de relation qu’ils établissent entre le gouvernement et les membres du public.</strong> Les recherches axées sur la découverte menées par l’équipe ont permis de discerner deux grandes catégories de formulaires&nbsp;: (1) les formulaires qui créent une relation bilatérale dans laquelle les utilisateur·rice·s du formulaire communiquent des informations au gouvernement et ce dernier répond en offrant un avantage ou un service (par exemple, une demande); et (2) les formulaires qui créent une relation à sens unique dans laquelle les utilisateur·rice·s du formulaire communiquent des informations au gouvernement et le gouvernement utilise ces informations afin d’améliorer un programme (par exemple, une enquête). Très tôt, l’équipe de Formulaires&nbsp;GC a décidé de se concentrer sur la première catégorie, en se focalisant sur une vision du produit axée sur les avantages et la prestation de services.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>1. Classer les formulaires en fonction du type de relation qu’ils établissent entre le gouvernement et les membres du public.</strong> Les recherches axées sur la découverte menées par l’équipe ont permis de discerner deux grandes catégories de formulaires&nbsp;: (1) les formulaires qui créent une relation bilatérale dans laquelle les utilisateur·rice·s du formulaire communiquent des informations au gouvernement et ce dernier répond en offrant un avantage ou un service (par exemple, une demande); et (2) les formulaires qui créent une relation à sens unique dans laquelle les utilisateur·rice·s du formulaire communiquent des informations au gouvernement et le gouvernement utilise ces informations afin d’améliorer un programme (par exemple, une enquête). Très tôt, l’équipe de Formulaires&nbsp;GC a décidé de se concentrer sur la première catégorie, en se focalisant sur une vision du produit axée sur les avantages et la prestation de services.&nbsp;</p>
 
 
 
-<p><strong>2. Déterminer le niveau de sécurité requis pour les données recueillies dans un formulaire donné.</strong> En vertu de la <em>Loi sur la protection des renseignements personnels</em>, les formulaires sont tenus de se conformer à des mesures de sécurité telles que l’obtention d’un consentement explicite, l’utilisation des données limitée à des fins explicites et la rétention des données pour des durées limitées. L’équipe a commencé par s’adapter au niveau de sécurité «&nbsp;Protégé A&nbsp;» au sens de la <em>Loi sur la protection des renseignements personnels</em>. Ce niveau comprend des informations telles que des noms et des adresses. Elle a ensuite cherché à s’adapter au niveau de sécurité «&nbsp;Protégé&nbsp;B&nbsp;» (un objectif désormais atteint). Ce niveau correspond à des informations telles que les numéros d’assurance sociale.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>2. Déterminer le niveau de sécurité requis pour les données recueillies dans un formulaire donné.</strong> En vertu de la <em>Loi sur la protection des renseignements personnels</em>, les formulaires sont tenus de se conformer à des mesures de sécurité telles que l’obtention d’un consentement explicite, l’utilisation des données limitée à des fins explicites et la rétention des données pour des durées limitées. L’équipe a commencé par s’adapter au niveau de sécurité «&nbsp;Protégé A&nbsp;» au sens de la <em>Loi sur la protection des renseignements personnels</em>. Ce niveau comprend des informations telles que des noms et des adresses. Elle a ensuite cherché à s’adapter au niveau de sécurité «&nbsp;Protégé&nbsp;B&nbsp;» (un objectif désormais atteint). Ce niveau correspond à des informations telles que les numéros d’assurance sociale.&nbsp;</p>
 
 
 
-<p>La tactique principale de l’équipe a été la livraison rapide de prototypes basiques suivie de tests afin d’obtenir de la rétroaction fréquente de la part des utilisateur·rice·s et de pouvoir constamment déterminer ce qui était le plus souhaitable et le plus faisable pour un produit minimum viable (PMV). Ioana&nbsp;Contu a dirigé l’équipe en mettant fortement l’accent sur la mission donnée et sur le fait qu’améliorer l’expérience de création de formulaires aiderait autant les fonctionnaires que le public.</p>
+<p class="wp-block-paragraph">La tactique principale de l’équipe a été la livraison rapide de prototypes basiques suivie de tests afin d’obtenir de la rétroaction fréquente de la part des utilisateur·rice·s et de pouvoir constamment déterminer ce qui était le plus souhaitable et le plus faisable pour un produit minimum viable (PMV). Ioana&nbsp;Contu a dirigé l’équipe en mettant fortement l’accent sur la mission donnée et sur le fait qu’améliorer l’expérience de création de formulaires aiderait autant les fonctionnaires que le public.</p>
 
 
 
-<p><strong>Le prototypage comme processus de conception itérative.&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Le prototypage comme processus de conception itérative.&nbsp;</strong></p>
 
 
 
-<p>L’équipe a structuré son travail en courts sprints de conception afin d’obtenir une rétroaction concrète (dite «&nbsp;de terrain&nbsp;») de la part du personnel gouvernemental. Cela a permis de renforcer la stratégie globale de classification des formulaires en fonction de leur complexité, de mettre l’accent sur la sécurité et d’adopter une approche de prototypage en amont et d’itération basée sur la rétroaction des utilisateur·rice·s. En utilisant un schéma JSON basé sur les premiers travaux de Stevie-Ray&nbsp;Talbot, l’équipe a pu s’adapter aux rapides itérations lors des sprints de conception avec un minimum d’expertise en matière de développement.&nbsp;</p>
+<p class="wp-block-paragraph">L’équipe a structuré son travail en courts sprints de conception afin d’obtenir une rétroaction concrète (dite «&nbsp;de terrain&nbsp;») de la part du personnel gouvernemental. Cela a permis de renforcer la stratégie globale de classification des formulaires en fonction de leur complexité, de mettre l’accent sur la sécurité et d’adopter une approche de prototypage en amont et d’itération basée sur la rétroaction des utilisateur·rice·s. En utilisant un schéma JSON basé sur les premiers travaux de Stevie-Ray&nbsp;Talbot, l’équipe a pu s’adapter aux rapides itérations lors des sprints de conception avec un minimum d’expertise en matière de développement.&nbsp;</p>
 
 
 
-<p>L’équipe a évalué les résultats de chaque sprint de conception en fonction d’un ensemble de critères de réussite définis en tant que produit minimum viable (PMV)&nbsp;:&nbsp;</p>
+<p class="wp-block-paragraph">L’équipe a évalué les résultats de chaque sprint de conception en fonction d’un ensemble de critères de réussite définis en tant que produit minimum viable (PMV)&nbsp;:&nbsp;</p>
 
 
 
@@ -112,19 +112,19 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<p>Lors de chaque sprint, l’équipe évalue les performances de son produit par rapport à ces indicateurs. «&nbsp;Nous avions besoin des données issues de la première version imparfaite pour pouvoir nous améliorer en vue de la deuxième version&nbsp;», a souligné Ioana&nbsp;Contu en évoquant l’importance de leur approche itérative. Sam&nbsp;Sadasivan est revenue sur ce processus d’apprentissage lors de FormFest et a déclaré&nbsp;: «&nbsp;Il est agréable de savoir que nos processus nous permettent d’évoluer en fonction des besoins changeants de nos utilisateur·rice·s&nbsp;».&nbsp;</p>
+<p class="wp-block-paragraph">Lors de chaque sprint, l’équipe évalue les performances de son produit par rapport à ces indicateurs. «&nbsp;Nous avions besoin des données issues de la première version imparfaite pour pouvoir nous améliorer en vue de la deuxième version&nbsp;», a souligné Ioana&nbsp;Contu en évoquant l’importance de leur approche itérative. Sam&nbsp;Sadasivan est revenue sur ce processus d’apprentissage lors de FormFest et a déclaré&nbsp;: «&nbsp;Il est agréable de savoir que nos processus nous permettent d’évoluer en fonction des besoins changeants de nos utilisateur·rice·s&nbsp;».&nbsp;</p>
 
 
 
-<p>L’équipe n’est jamais à court d’idées, mais Stevie-Ray&nbsp;Talbot a souligné qu’elle réussissait en restant fidèle à sa vision dans la mesure de ses capacités. «&nbsp;Une grande partie de mon travail consiste à dire non à l’équipe&nbsp;», a-t-il déclaré en plaisantant. Le groupe est devenu très habile à évaluer les avantages et les inconvénients des nouvelles fonctionnalités potentielles. «&nbsp;Il faut bien comprendre les enjeux auxquels font face les fonctionnaires afin de bâtir un outil qui leur soit véritablement utile&nbsp;», a souligné Ioana&nbsp;Contu.&nbsp;</p>
+<p class="wp-block-paragraph">L’équipe n’est jamais à court d’idées, mais Stevie-Ray&nbsp;Talbot a souligné qu’elle réussissait en restant fidèle à sa vision dans la mesure de ses capacités. «&nbsp;Une grande partie de mon travail consiste à dire non à l’équipe&nbsp;», a-t-il déclaré en plaisantant. Le groupe est devenu très habile à évaluer les avantages et les inconvénients des nouvelles fonctionnalités potentielles. «&nbsp;Il faut bien comprendre les enjeux auxquels font face les fonctionnaires afin de bâtir un outil qui leur soit véritablement utile&nbsp;», a souligné Ioana&nbsp;Contu.&nbsp;</p>
 
 
 
-<p><strong>Répondre aux critères de réussite du PMV grâce à la personnalisation.&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Répondre aux critères de réussite du PMV grâce à la personnalisation.&nbsp;</strong></p>
 
 
 
-<p>L’un des avantages majeurs de l’approche adoptée à l’interne par l’équipe de Formulaires&nbsp;GC pour la conception et le prototypage est qu’elle permet de se concentrer sur une personnalisation approfondie afin de répondre aux besoins des ministères tout en restant fidèle aux paramètres du PVM. Prenons quelques exemples&nbsp;:</p>
+<p class="wp-block-paragraph">L’un des avantages majeurs de l’approche adoptée à l’interne par l’équipe de Formulaires&nbsp;GC pour la conception et le prototypage est qu’elle permet de se concentrer sur une personnalisation approfondie afin de répondre aux besoins des ministères tout en restant fidèle aux paramètres du PVM. Prenons quelques exemples&nbsp;:</p>
 
 
 
@@ -152,23 +152,23 @@ translationKey: standardizing-and-digitizing-government-forms-in-canada-a-digita
 
 
 
-<p><strong>Leçons apprises&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Leçons apprises&nbsp;</strong></p>
 
 
 
-<p><strong>Développer une vision commune du produit basée sur les besoins des parties prenantes.</strong> Il est utile d’avoir une vision claire et axée sur les résultats pour partir du bon pied en matière de développement et pour promouvoir l’alignement entre différents groupes de parties prenantes dans le cadre d’initiatives complexes et transversales liées à la prestation de services numériques.&nbsp;<br><strong><br>Créer rapidement un produit en se basant sur cette vision commune et le modifier en se basant sur la rétroaction de véritables utilisateur·rice·s.</strong> L’idée est de mettre en service des prototypes imparfaits du produit pour comprendre ce que veulent les utilisateur·rice·s et où se situent les difficultés, et de se préparer à réagir rapidement en proposant des solutions expérimentales. Les équipes internes peuvent se montrer particulièrement vives dans ce cycle d’itération. Des outils tels que les schémas JSON peuvent favoriser ce type d’itérations rapides et réactives. «&nbsp;Les schémas techniques seront l’un des principaux facteurs qui limiteront ce que vous pouvez réaliser, alors communiquez avec d’autres équipes pour discuter de ce qu’il est possible d’utiliser&nbsp;», a conseillé Stevie-Ray&nbsp;Talbot.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>Développer une vision commune du produit basée sur les besoins des parties prenantes.</strong> Il est utile d’avoir une vision claire et axée sur les résultats pour partir du bon pied en matière de développement et pour promouvoir l’alignement entre différents groupes de parties prenantes dans le cadre d’initiatives complexes et transversales liées à la prestation de services numériques.&nbsp;<br><strong><br>Créer rapidement un produit en se basant sur cette vision commune et le modifier en se basant sur la rétroaction de véritables utilisateur·rice·s.</strong> L’idée est de mettre en service des prototypes imparfaits du produit pour comprendre ce que veulent les utilisateur·rice·s et où se situent les difficultés, et de se préparer à réagir rapidement en proposant des solutions expérimentales. Les équipes internes peuvent se montrer particulièrement vives dans ce cycle d’itération. Des outils tels que les schémas JSON peuvent favoriser ce type d’itérations rapides et réactives. «&nbsp;Les schémas techniques seront l’un des principaux facteurs qui limiteront ce que vous pouvez réaliser, alors communiquez avec d’autres équipes pour discuter de ce qu’il est possible d’utiliser&nbsp;», a conseillé Stevie-Ray&nbsp;Talbot.&nbsp;</p>
 
 
 
-<p><strong>Des itérations basées sur des indicateurs métriques permettant de se rapprocher de cette vision commune. </strong>Les itérations sont plus efficaces et utiles lorsque vous disposez d’un cadre clair et bien défini pour mesurer et évaluer le succès des essais et des expériences de votre équipe.</p>
+<p class="wp-block-paragraph"><strong>Des itérations basées sur des indicateurs métriques permettant de se rapprocher de cette vision commune. </strong>Les itérations sont plus efficaces et utiles lorsque vous disposez d’un cadre clair et bien défini pour mesurer et évaluer le succès des essais et des expériences de votre équipe.</p>
 
 
 
-<p><strong>Ressources et artefacts&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Ressources et artefacts&nbsp;</strong></p>
 
 
 
-<p>Pour voir comment ce travail a été mis en pratique, explorez les ressources suivantes&nbsp;:&nbsp;</p>
+<p class="wp-block-paragraph">Pour voir comment ce travail a été mis en pratique, explorez les ressources suivantes&nbsp;:&nbsp;</p>
 
 
 
