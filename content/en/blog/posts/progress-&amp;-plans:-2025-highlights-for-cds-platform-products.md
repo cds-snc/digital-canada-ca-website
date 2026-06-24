@@ -12,19 +12,19 @@ tags: ["GC Design System","GC Forms","GC Notify"]
 translationKey: 2025-product-highlights-linkedin
 ---
 
-<p class="has-background" style="background-color:#ebf2fa">This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in January 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414762533791932417" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</p>
+<p class="has-background wp-block-paragraph" style="background-color:#ebf2fa">This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in January 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414762533791932417" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</p>
 
 
 
-<p>Thanks to all the collaboration efforts of GC teams, CDS products have been growing their ability to help improve digital service delivery for Canada. <strong>The goal of offering these products is to empower GC teams to focus on what they do best, serving Canada.</strong></p>
+<p class="wp-block-paragraph">Thanks to all the collaboration efforts of GC teams, CDS products have been growing their ability to help improve digital service delivery for Canada. <strong>The goal of offering these products is to empower GC teams to focus on what they do best, serving Canada.</strong></p>
 
 
 
-<p>Our Platform products (<a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">GC Design System</a>, <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=platform_2025_highlights_article&amp;utm_medium=linkedin_article&amp;utm_campaign=gc_forms_product_site" target="_blank" rel="noreferrer noopener">GC Forms</a>, and <a href="https://notification.canada.ca/?utm_source=2025_highlights_platform&amp;utm_medium=linkedin_article&amp;utm_campaign=gcnotify_homepage" target="_blank" rel="noreferrer noopener">GC Notify</a>) are being used across GC departments to create better service experiences and enable new digital possibilities. We continuously engage with our users to learn how we can improve the products for greater impact.</p>
+<p class="wp-block-paragraph">Our Platform products (<a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">GC Design System</a>, <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=platform_2025_highlights_article&amp;utm_medium=linkedin_article&amp;utm_campaign=gc_forms_product_site" target="_blank" rel="noreferrer noopener">GC Forms</a>, and <a href="https://notification.canada.ca/?utm_source=2025_highlights_platform&amp;utm_medium=linkedin_article&amp;utm_campaign=gcnotify_homepage" target="_blank" rel="noreferrer noopener">GC Notify</a>) are being used across GC departments to create better service experiences and enable new digital possibilities. We continuously engage with our users to learn how we can improve the products for greater impact.</p>
 
 
 
-<p><strong>Read this article to learn more about the progress and impacts GC Design System, GC Forms, and GC Notify have had in 2025, and how you can get updates on our product work planned for this year!</strong></p>
+<p class="wp-block-paragraph"><strong>Read this article to learn more about the progress and impacts GC Design System, GC Forms, and GC Notify have had in 2025, and how you can get updates on our product work planned for this year!</strong></p>
 
 
 
@@ -51,7 +51,7 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>“We’re huge fans and users of GC Notify at the IT Service Management Centre… A month ago, I sent around 65,000 emails for our services through GC Notify. We use it to send our weekly entry and exit surveys, account creation credentials, and the IT user survey. We’ve also used it for time-sensitive initiatives like summer surveys.” </strong><br>– <a href="https://www.linkedin.com/in/amber-lawson-b03691113/" target="_blank" rel="noreferrer noopener">Amber Lawson</a>, Plans Officer at the IT Service Management Centre, Canadian Armed Forces (CAF). <br>From blog: <a href="https://digital.canada.ca/2024/12/12/digital-initiatives-at-cadets-using-gc-notify-amp-gc-forms-to-improve-user-experiences/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-en" target="_blank" rel="noreferrer noopener">Digital initiatives at Cadets: Using GC Notify &amp; GC Forms to improve user experiences</a>.</p>
+<p class="wp-block-paragraph"><strong>“We’re huge fans and users of GC Notify at the IT Service Management Centre… A month ago, I sent around 65,000 emails for our services through GC Notify. We use it to send our weekly entry and exit surveys, account creation credentials, and the IT user survey. We’ve also used it for time-sensitive initiatives like summer surveys.” </strong><br>– <a href="https://www.linkedin.com/in/amber-lawson-b03691113/" target="_blank" rel="noreferrer noopener">Amber Lawson</a>, Plans Officer at the IT Service Management Centre, Canadian Armed Forces (CAF). <br>From blog: <a href="https://digital.canada.ca/2024/12/12/digital-initiatives-at-cadets-using-gc-notify-amp-gc-forms-to-improve-user-experiences/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=2025-highlights-platform-en" target="_blank" rel="noreferrer noopener">Digital initiatives at Cadets: Using GC Notify &amp; GC Forms to improve user experiences</a>.</p>
 </blockquote>
 
 
@@ -133,7 +133,7 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>“Because of the sensitive nature of the information included in our [Tariff] consultation, as well as the sensitive nature of the responses we intended on receiving, we needed a secure Protected B platform… GC Forms saved us a lot of time and effort and allowed us to move into the development phase much quicker. This was one of our primary reasons for switching to GC Forms.” </strong><br>– Justin Lane (Website Developer), Department of Finance Canada (FIN).<br>From blog: <a href="https://digital.canada.ca/2025/12/12/gc-forms-testimonial-speedy-adoption-at-fin/" target="_blank" rel="noreferrer noopener">GC Forms testimonial: Speedy adoption at FIN</a>.</p>
+<p class="wp-block-paragraph"><strong>“Because of the sensitive nature of the information included in our [Tariff] consultation, as well as the sensitive nature of the responses we intended on receiving, we needed a secure Protected B platform… GC Forms saved us a lot of time and effort and allowed us to move into the development phase much quicker. This was one of our primary reasons for switching to GC Forms.” </strong><br>– Justin Lane (Website Developer), Department of Finance Canada (FIN).<br>From blog: <a href="https://digital.canada.ca/2025/12/12/gc-forms-testimonial-speedy-adoption-at-fin/" target="_blank" rel="noreferrer noopener">GC Forms testimonial: Speedy adoption at FIN</a>.</p>
 </blockquote>
 
 
@@ -200,11 +200,11 @@ translationKey: 2025-product-highlights-linkedin
 
 
 
-<p id="ember1044">GC Design System is the source for public servants delivering Government of Canada websites and products. Build faster without compromising brand identity, accessibility, or bilingualism.</p>
+<p class="wp-block-paragraph" id="ember1044">GC Design System is the source for public servants delivering Government of Canada websites and products. Build faster without compromising brand identity, accessibility, or bilingualism.</p>
 
 
 
-<p id="ember1045"><strong>Use cases that may be relevant to your work: </strong>Whether you’re designing or building in code, get started using GC Design System.</p>
+<p class="wp-block-paragraph" id="ember1045"><strong>Use cases that may be relevant to your work: </strong>Whether you’re designing or building in code, get started using GC Design System.</p>
 
 
 
@@ -219,7 +219,7 @@ translationKey: 2025-product-highlights-linkedin
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>“From the design point of view, GC Design System has been very helpful. For over a year, I’ve been working on a product team that has 3 external-facing products. There are more products planned to follow, both internal and external, and I expect to continue using the design system across all of them… Using GC Design System has helped us create a cohesive look across all three of those pilot products.” </strong><br>– <a href="https://www.linkedin.com/in/adele-strub/" target="_blank" rel="noreferrer noopener">Adele Strub</a> (UX Designer), Department of Fisheries and Oceans Canada (DFO). <br>From blog: <a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener">Ripple effect (part 1/3): Co-creating success at DFO and CDS</a>.</p>
+<p class="wp-block-paragraph"><strong>“From the design point of view, GC Design System has been very helpful. For over a year, I’ve been working on a product team that has 3 external-facing products. There are more products planned to follow, both internal and external, and I expect to continue using the design system across all of them… Using GC Design System has helped us create a cohesive look across all three of those pilot products.” </strong><br>– <a href="https://www.linkedin.com/in/adele-strub/" target="_blank" rel="noreferrer noopener">Adele Strub</a> (UX Designer), Department of Fisheries and Oceans Canada (DFO). <br>From blog: <a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener">Ripple effect (part 1/3): Co-creating success at DFO and CDS</a>.</p>
 </blockquote>
 
 
@@ -290,11 +290,11 @@ translationKey: 2025-product-highlights-linkedin
 
 
 
-<p id="ember1057">Want to stay updated on our work this year? <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener"><strong>Subscribe to the CDS newsletter for GC digital content curations (disconnect from the VPN to view)</strong></a>.</p>
+<p class="wp-block-paragraph" id="ember1057">Want to stay updated on our work this year? <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener"><strong>Subscribe to the CDS newsletter for GC digital content curations (disconnect from the VPN to view)</strong></a>.</p>
 
 
 
-<p id="ember1058">You may also be interested in reading more about our products in the blogs we’ve published with both the GC teams using and building them:</p>
+<p class="wp-block-paragraph" id="ember1058">You may also be interested in reading more about our products in the blogs we’ve published with both the GC teams using and building them:</p>
 
 
 
