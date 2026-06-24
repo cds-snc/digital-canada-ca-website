@@ -12,16 +12,16 @@ tags: ["GC Forms"]
 translationKey: blog-pbs-christine-patrick
 ---
 
-<p>Odds are, you’re one of the 71% of Canadians who have used, or are currently using, natural health products – like herbal remedies and vitamins (source: <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/about-products.html">Health Canada</a>).</p>
+<p class="wp-block-paragraph">Odds are, you’re one of the 71% of Canadians who have used, or are currently using, natural health products – like herbal remedies and vitamins (source: <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/about-products.html">Health Canada</a>).</p>
 
 
 
-<p>The <a href="https://www.canada.ca/en/health-canada/corporate/about-health-canada/branches-agencies/health-products-food-branch/natural-non-prescription-health-products-directorate.html">Natural and Non-prescription Health Products Directorate (NNHPD)</a> at Health Canada works to ensure that both people living in and visiting Canada have access to a wide range of Natural Health Products (NHPs) and non-prescription drugs. It does this by authorizing products that meet safety, efficacy, and quality standards.</p>
+<p class="wp-block-paragraph">The <a href="https://www.canada.ca/en/health-canada/corporate/about-health-canada/branches-agencies/health-products-food-branch/natural-non-prescription-health-products-directorate.html">Natural and Non-prescription Health Products Directorate (NNHPD)</a> at Health Canada works to ensure that both people living in and visiting Canada have access to a wide range of Natural Health Products (NHPs) and non-prescription drugs. It does this by authorizing products that meet safety, efficacy, and quality standards.</p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
-<p><strong>For those not familiar with natural health products, <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/information-kit.html">Health Canada&#8217;s regulations</a> (which began in 2004) define them as:</strong></p>
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
+<p class="wp-block-paragraph"><strong>For those not familiar with natural health products, <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/information-kit.html">Health Canada&#8217;s regulations</a> (which began in 2004) define them as:</strong></p>
 
 
 
@@ -48,11 +48,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>There are a lot of products that classify as NHPs. A new tool the team at Health Canada uses to update products’ statuses on the market is <a href="https://forms-formulaires.alpha.canada.ca/id/167">a web form where companies can submit status changes</a>. It was created using <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog+Post&amp;utm_id=People+Behind+the+Service+%28PBS%29+Blogs+">GC Forms</a>, so companies don’t experience barriers accessing and submitting the form (it’s accessible, bilingual, and secure).</p>
+<p class="wp-block-paragraph">There are a lot of products that classify as NHPs. A new tool the team at Health Canada uses to update products’ statuses on the market is <a href="https://forms-formulaires.alpha.canada.ca/id/167">a web form where companies can submit status changes</a>. It was created using <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog+Post&amp;utm_id=People+Behind+the+Service+%28PBS%29+Blogs+">GC Forms</a>, so companies don’t experience barriers accessing and submitting the form (it’s accessible, bilingual, and secure).</p>
 
 
 
-<p>We interviewed public servants Christine Monteiro (Project Manager) and Patrick Wright (Policy Analyst) to hear about the NNHPD team’s experiences using GC Forms.</p>
+<p class="wp-block-paragraph">We interviewed public servants Christine Monteiro (Project Manager) and Patrick Wright (Policy Analyst) to hear about the NNHPD team’s experiences using GC Forms.</p>
 
 
 
@@ -64,15 +64,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Anyone interested in checking the status of their natural health products can search for information using our public database! It’s called the <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/applications-submissions/product-licensing/licensed-natural-health-products-database.html">Licensed Natural Health Products Database (LNHPD)</a> and it has information on all of the natural health products for which Health Canada has issued a product licence.</p>
+<p class="wp-block-paragraph">Anyone interested in checking the status of their natural health products can search for information using our public database! It’s called the <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/applications-submissions/product-licensing/licensed-natural-health-products-database.html">Licensed Natural Health Products Database (LNHPD)</a> and it has information on all of the natural health products for which Health Canada has issued a product licence.</p>
 
 
 
-<p>The database shows how you can identify licensed natural health products by looking for the eight-digit Natural Product Number (NPN) or Homeopathic Medicine Number (DIN-HM) on the label. With the identification number(s), you can find details in the database like the product’s name, license holder and status, medicinal ingredients, and recommended dosage.</p>
+<p class="wp-block-paragraph">The database shows how you can identify licensed natural health products by looking for the eight-digit Natural Product Number (NPN) or Homeopathic Medicine Number (DIN-HM) on the label. With the identification number(s), you can find details in the database like the product’s name, license holder and status, medicinal ingredients, and recommended dosage.</p>
 
 
 
-<p><strong>Information is power</strong> and we want the public to be able to make informed choices about their natural health product use/consumption.</p>
+<p class="wp-block-paragraph"><strong>Information is power</strong> and we want the public to be able to make informed choices about their natural health product use/consumption.</p>
 
 
 
@@ -80,15 +80,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>In 2021, the Commissioner of the Environment and Sustainable Development (CESD) released <a href="https://www.oag-bvg.gc.ca/internet/English/parl_cesd_202104_02_e_43806.html">an audit report on the NHP program</a>. In response to the audit recommendations, a team was formed to learn more about the gaps identified in the audit, and how they can be addressed.</p>
+<p class="wp-block-paragraph">In 2021, the Commissioner of the Environment and Sustainable Development (CESD) released <a href="https://www.oag-bvg.gc.ca/internet/English/parl_cesd_202104_02_e_43806.html">an audit report on the NHP program</a>. In response to the audit recommendations, a team was formed to learn more about the gaps identified in the audit, and how they can be addressed.</p>
 
 
 
-<p>For example, one of the main audit gaps showed we need to improve our ability to monitor and update products’ market statuses once they&#8217;ve been authorized and are on the market. We needed a way for natural health product companies to communicate with our team about this.</p>
+<p class="wp-block-paragraph">For example, one of the main audit gaps showed we need to improve our ability to monitor and update products’ market statuses once they&#8217;ve been authorized and are on the market. We needed a way for natural health product companies to communicate with our team about this.</p>
 
 
 
-<p>One way we&#8217;re improving our ability to do this is by implementing <a href="https://forms-formulaires.alpha.canada.ca/id/167">a web form for companies to submit updates about their product(s)&#8217; status(es) on the market</a>. We built this form using the Canadian Digital Service’s <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">GC Forms product</a>.</p>
+<p class="wp-block-paragraph">One way we&#8217;re improving our ability to do this is by implementing <a href="https://forms-formulaires.alpha.canada.ca/id/167">a web form for companies to submit updates about their product(s)&#8217; status(es) on the market</a>. We built this form using the Canadian Digital Service’s <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">GC Forms product</a>.</p>
 
 
 
@@ -100,15 +100,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>We chose to work with GC Forms because it was the most readily available and efficient tool to help us improve our ability to monitor and update products’ market statuses. GC Forms helped us gather the appropriate information from applicants to update our public database, providing consumers with updated information on the market status of their natural health products.</p>
+<p class="wp-block-paragraph">We chose to work with GC Forms because it was the most readily available and efficient tool to help us improve our ability to monitor and update products’ market statuses. GC Forms helped us gather the appropriate information from applicants to update our public database, providing consumers with updated information on the market status of their natural health products.</p>
 
 
 
-<p>When analyzing options to improve our ability to gather market status updates from applicants, we <strong>needed a tool that could be implemented efficiently, with low cost and level of effort, keeping resource considerations in mind.</strong></p>
+<p class="wp-block-paragraph">When analyzing options to improve our ability to gather market status updates from applicants, we <strong>needed a tool that could be implemented efficiently, with low cost and level of effort, keeping resource considerations in mind.</strong></p>
 
 
 
-<p>In exploring the use of GC Forms, this tool hit all the right criteria to deliver for our project. It could help us obtain market status information from applicants in an effective and timely manner, without being too resource heavy and with no associated cost (which is great for our budget!).</p>
+<p class="wp-block-paragraph">In exploring the use of GC Forms, this tool hit all the right criteria to deliver for our project. It could help us obtain market status information from applicants in an effective and timely manner, without being too resource heavy and with no associated cost (which is great for our budget!).</p>
 
 
 
@@ -118,19 +118,19 @@ translationKey: blog-pbs-christine-patrick
 <img loading="lazy" decoding="async" width="1920" height="1080" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg" alt="" class="wp-image-1131" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg 1920w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1536x864.jpg 1536w" sizes="auto, (max-width: 1920px) 100vw, 1920px" />
 
 
-<p style="font-size:12px">Alt text: The collaboration journey of the NNHPD and GC Forms teams was 6 steps. First, assess needs. Second, find a solution (GC Forms in this case). Third, collaborate and build the form. Fourth, do a mindful review. Fifth, integrate the form into the service. Sixth, see if the form helps as needed and iterate to improve.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Alt text: The collaboration journey of the NNHPD and GC Forms teams was 6 steps. First, assess needs. Second, find a solution (GC Forms in this case). Third, collaborate and build the form. Fourth, do a mindful review. Fifth, integrate the form into the service. Sixth, see if the form helps as needed and iterate to improve.</p>
 
 
 
-<p>Collaborating with the GC Forms product team at the Canadian Digital Service (CDS) was a great experience and they helped us find a solution to the problem we faced.</p>
+<p class="wp-block-paragraph">Collaborating with the GC Forms product team at the Canadian Digital Service (CDS) was a great experience and they helped us find a solution to the problem we faced.</p>
 
 
 
-<p><strong>Note</strong>: Since this collaboration, the GC Forms team created a self-serve tool, enabling users to build their own forms.</p>
+<p class="wp-block-paragraph"><strong>Note</strong>: Since this collaboration, the GC Forms team created a self-serve tool, enabling users to build their own forms.</p>
 
 
 
-<p><strong>Our journey building the <a href="https://forms-formulaires.alpha.canada.ca/id/167">market notification web form</a> looked like this:</strong></p>
+<p class="wp-block-paragraph"><strong>Our journey building the <a href="https://forms-formulaires.alpha.canada.ca/id/167">market notification web form</a> looked like this:</strong></p>
 
 
 
@@ -174,11 +174,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Probably the biggest highlight for our team is that companies haven’t had any issues with using the <a href="https://forms-formulaires.alpha.canada.ca/id/167">market notification web form</a>, which is very rewarding! It shows that the effort we put into this solution was worth it.</p>
+<p class="wp-block-paragraph">Probably the biggest highlight for our team is that companies haven’t had any issues with using the <a href="https://forms-formulaires.alpha.canada.ca/id/167">market notification web form</a>, which is very rewarding! It shows that the effort we put into this solution was worth it.</p>
 
 
 
-<p>It was all thanks to the teams’ efforts in:</p>
+<p class="wp-block-paragraph">It was all thanks to the teams’ efforts in:</p>
 
 
 
@@ -200,7 +200,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>For other teams looking to possibly use GC Forms, we highly recommend <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">exploring its features</a> and seeing how it can help. It’s cost-effective and the team will work with you to find the best solution for your needs.</p>
+<p class="wp-block-paragraph">For other teams looking to possibly use GC Forms, we highly recommend <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">exploring its features</a> and seeing how it can help. It’s cost-effective and the team will work with you to find the best solution for your needs.</p>
 
 
 
@@ -208,11 +208,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>GC Forms can help public servants across the government who work on many different types of services.</p>
+<p class="wp-block-paragraph">GC Forms can help public servants across the government who work on many different types of services.</p>
 
 
 
-<p>Examples of the ways GC Forms are being used:</p>
+<p class="wp-block-paragraph">Examples of the ways GC Forms are being used:</p>
 
 
 
@@ -234,5 +234,5 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Explore our <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">new tool for building GC Forms</a> (it&#8217;s self-serve!) and <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">reach out to us</a> if you have questions.</p>
+<p class="wp-block-paragraph">Explore our <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20">new tool for building GC Forms</a> (it&#8217;s self-serve!) and <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">reach out to us</a> if you have questions.</p>
 
