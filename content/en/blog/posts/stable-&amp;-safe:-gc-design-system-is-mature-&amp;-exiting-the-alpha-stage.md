@@ -13,24 +13,24 @@ translationKey: blog_gcds_exit_alpha
 ---
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>“With 30+ tools and systems for website and application development in place across more than 100 GC departments and agencies, CDS highlighted a need for a more unified approach. <strong>In response, CDS introduced GC Design System… an in-house, centralized design system [that simplifies] the development of digital services, reducing redundancies, and creating a more cohesive user experience that inspires trust and confidence in government services.”</strong></p>
+<p class="wp-block-paragraph">“With 30+ tools and systems for website and application development in place across more than 100 GC departments and agencies, CDS highlighted a need for a more unified approach. <strong>In response, CDS introduced GC Design System… an in-house, centralized design system [that simplifies] the development of digital services, reducing redundancies, and creating a more cohesive user experience that inspires trust and confidence in government services.”</strong></p>
 
 
 
-<p>– <a href="https://digital.canada.ca/2025/07/07/launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight/" target="_blank" rel="noreferrer noopener">Blog: Launching a central design system in the GC (Digital Service Network case study)</a></p>
+<p class="wp-block-paragraph">– <a href="https://digital.canada.ca/2025/07/07/launching-a-central-design-system-in-the-government-of-canada-a-digital-service-network-spotlight/" target="_blank" rel="noreferrer noopener">Blog: Launching a central design system in the GC (Digital Service Network case study)</a></p>
 </blockquote>
 
 
 
-<p>Our product team has been <a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/" target="_blank" rel="noreferrer noopener">working on a unified design system for the GC since 2024</a>. This work has heavily involved collaboration with GC teams, learning how we can meet their needs with the design system.</p>
+<p class="wp-block-paragraph">Our product team has been <a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/" target="_blank" rel="noreferrer noopener">working on a unified design system for the GC since 2024</a>. This work has heavily involved collaboration with GC teams, learning how we can meet their needs with the design system.</p>
 
 
 
-<p><strong>Important milestone update: Thanks to all of these collaboration efforts improving the product, </strong><a href="https://design-system.alpha.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>GC Design System</strong></a><strong> has reached a stable state and is exiting out of the Alpha phase! </strong>This means it’s no longer experimental. GC teams can use the design system to create websites and applications and follow relevant rules and requirements for GC digital service delivery.</p>
+<p class="wp-block-paragraph"><strong>Important milestone update: Thanks to all of these collaboration efforts improving the product, </strong><a href="https://design-system.alpha.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>GC Design System</strong></a><strong> has reached a stable state and is exiting out of the Alpha phase! </strong>This means it’s no longer experimental. GC teams can use the design system to create websites and applications and follow relevant rules and requirements for GC digital service delivery.</p>
 
 
 
-<p>Keep reading for a breakdown of what this phase means for the platform, product teams, and anyone exploring GC Design System.</p>
+<p class="wp-block-paragraph">Keep reading for a breakdown of what this phase means for the platform, product teams, and anyone exploring GC Design System.</p>
 
 
 
@@ -38,11 +38,11 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p><strong>As GC Design System has reached a mature state, the primary objective remains clear: give stakeholders full confidence that the design system is approved for use.</strong></p>
+<p class="wp-block-paragraph"><strong>As GC Design System has reached a mature state, the primary objective remains clear: give stakeholders full confidence that the design system is approved for use.</strong></p>
 
 
 
-<p>When teams know they can trust and depend on it, they’re far more likely to:</p>
+<p class="wp-block-paragraph">When teams know they can trust and depend on it, they’re far more likely to:</p>
 
 
 
@@ -65,11 +65,11 @@ translationKey: blog_gcds_exit_alpha
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>“Over the past year or two, we’ve heard from many teams that the “alpha” state of GC Design System has been a concern for adoption. Whether it be from their IT teams or from senior management, it’s been a barrier to adoption. <strong>This is what I’m most excited about, we’ll continue to make the adoption of GC Design System easier for teams, so that we can save them time and money, while they focus on the parts of their business that matters the most.</strong>”&nbsp;</p>
+<p class="wp-block-paragraph">“Over the past year or two, we’ve heard from many teams that the “alpha” state of GC Design System has been a concern for adoption. Whether it be from their IT teams or from senior management, it’s been a barrier to adoption. <strong>This is what I’m most excited about, we’ll continue to make the adoption of GC Design System easier for teams, so that we can save them time and money, while they focus on the parts of their business that matters the most.</strong>”&nbsp;</p>
 
 
 
-<p>–  <a href="http://linkedin.com/in/abduldorayi" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> (Product Manager, GC Design System)</p>
+<p class="wp-block-paragraph">–  <a href="http://linkedin.com/in/abduldorayi" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> (Product Manager, GC Design System)</p>
 </blockquote>
 
 
@@ -114,7 +114,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>Exiting Alpha signals that GC Design System is in active use and continues to evolve:</p>
+<p class="wp-block-paragraph">Exiting Alpha signals that GC Design System is in active use and continues to evolve:</p>
 
 
 
@@ -148,7 +148,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>GC Design System is an official, production-ready design system for the Government of Canada and <a href="https://design-system.canada.ca/en/" target="_blank" rel="noreferrer noopener">now has a new subdomain</a> to reflect the move out of its previous alpha phase. This change signals that GC Design System is mature, dependable, and continuously evolving with ongoing enhancements.&nbsp;</p>
+<p class="wp-block-paragraph">GC Design System is an official, production-ready design system for the Government of Canada and <a href="https://design-system.canada.ca/en/" target="_blank" rel="noreferrer noopener">now has a new subdomain</a> to reflect the move out of its previous alpha phase. This change signals that GC Design System is mature, dependable, and continuously evolving with ongoing enhancements.&nbsp;</p>
 
 
 
@@ -179,7 +179,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>What&#8217;s included in this release?</summary>
-<p><strong>New code packages</strong> <strong>have been released to:</strong></p>
+<p class="wp-block-paragraph"><strong>New code packages</strong> <strong>have been released to:</strong></p>
 
 
 
@@ -201,7 +201,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p><a href="https://github.com/cds-snc/gcds-components/blob/main/CHANGELOG.md" target="_blank" rel="noreferrer noopener">Check out the full changelog of code changes</a>.&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://github.com/cds-snc/gcds-components/blob/main/CHANGELOG.md" target="_blank" rel="noreferrer noopener">Check out the full changelog of code changes</a>.&nbsp;</p>
 </details>
 
 
@@ -210,7 +210,7 @@ translationKey: blog_gcds_exit_alpha
 
 
 
-<p>Our support team regularly hosts demo and forum sessions to help public servants learn how these tools can improve service delivery. These sessions offer a chance to ask questions and hear how other teams plan to use the tools.</p>
+<p class="wp-block-paragraph">Our support team regularly hosts demo and forum sessions to help public servants learn how these tools can improve service delivery. These sessions offer a chance to ask questions and hear how other teams plan to use the tools.</p>
 
 
 
