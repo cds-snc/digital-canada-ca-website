@@ -12,13 +12,13 @@ tags: ["GC Notify"]
 translationKey: dfo-series-gcds-p2
 ---
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-0a8f9e4e wp-block-group-is-layout-flex">
-<p class="has-background" style="background-color:#8cd0f2"><strong>In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-a121c4ea wp-block-group-is-layout-flex">
+<p class="has-background wp-block-paragraph" style="background-color:#8cd0f2"><strong>In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-c0ca7d81 wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
+<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-df7bfe9b wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
 <ul class="wp-block-list">
 <li><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" data-type="link" data-id="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"></a><strong><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"><strong>Part 1/3: How DFO’s charting new waters with GC Design System</strong></a></strong> </li>
 </ul>
@@ -28,20 +28,20 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=dfo-series-gcds-p1&amp;utm_content=cds-products-page-en" target="_blank" rel="noreferrer noopener"><strong>CDS products</strong></a><strong> </strong><strong>have been <em>making waves</em> with the Chief Digital Officer Sector (CDOS) team at the </strong><a href="https://www.dfo-mpo.gc.ca/index-eng.html" target="_blank" rel="noreferrer noopener"><strong>Department of Fisheries and Oceans Canada (DFO)</strong></a><strong>.</strong> DFO is responsible for safeguarding Canada’s oceans and maintaining fish and ocean resources, including ensuring our ocean ecosystems are healthy and protected. </p>
+<p class="wp-block-paragraph"><a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=dfo-series-gcds-p1&amp;utm_content=cds-products-page-en" target="_blank" rel="noreferrer noopener"><strong>CDS products</strong></a><strong> </strong><strong>have been <em>making waves</em> with the Chief Digital Officer Sector (CDOS) team at the </strong><a href="https://www.dfo-mpo.gc.ca/index-eng.html" target="_blank" rel="noreferrer noopener"><strong>Department of Fisheries and Oceans Canada (DFO)</strong></a><strong>.</strong> DFO is responsible for safeguarding Canada’s oceans and maintaining fish and ocean resources, including ensuring our ocean ecosystems are healthy and protected. </p>
 
 
 
-<p>The CDOS team has been working with CDS product teams to find ways to streamline workflows, scale impact, and shape the future of digital initiatives. These collaboration efforts have generated helpful feedback for all teams, resulting in product and service improvements at DFO and CDS.</p>
+<p class="wp-block-paragraph">The CDOS team has been working with CDS product teams to find ways to streamline workflows, scale impact, and shape the future of digital initiatives. These collaboration efforts have generated helpful feedback for all teams, resulting in product and service improvements at DFO and CDS.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Wave hello to digital teams at DFO!</summary>
-<p>We chatted with members of the Chief Digital Officer Sector (CDOS) at DFO about their experiences using GC Notify.</p>
+<p class="wp-block-paragraph">We chatted with members of the Chief Digital Officer Sector (CDOS) at DFO about their experiences using GC Notify.</p>
 
 
 
-<p><strong>CDOS is the IT Digital shop at DFO, consisting of 4 directorates:</strong> </p>
+<p class="wp-block-paragraph"><strong>CDOS is the IT Digital shop at DFO, consisting of 4 directorates:</strong> </p>
 
 
 
@@ -63,7 +63,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>CDOS team members at DFO we interviewed:</strong> <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine Bedward (Director of User Experience)</a>, <strong>Russell Moore (Analyst with the Digital Enterprise Hub)</strong>, <a href="https://www.linkedin.com/in/paula-akemi/" target="_blank" rel="noreferrer noopener">Paula Aoyagui (Manager for UX Strategy and Digital Accessibility)</a>, <a href="https://www.linkedin.com/in/lisanne-vickers-520294a6/" target="_blank" rel="noreferrer noopener">Lisanne Vickers (Team Lead for UX Design)</a>, and <a href="https://www.linkedin.com/in/adele-strub" target="_blank" rel="noreferrer noopener">Adele Strub (UX Designer)</a>.</p>
+<p class="wp-block-paragraph"><strong>CDOS team members at DFO we interviewed:</strong> <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine Bedward (Director of User Experience)</a>, <strong>Russell Moore (Analyst with the Digital Enterprise Hub)</strong>, <a href="https://www.linkedin.com/in/paula-akemi/" target="_blank" rel="noreferrer noopener">Paula Aoyagui (Manager for UX Strategy and Digital Accessibility)</a>, <a href="https://www.linkedin.com/in/lisanne-vickers-520294a6/" target="_blank" rel="noreferrer noopener">Lisanne Vickers (Team Lead for UX Design)</a>, and <a href="https://www.linkedin.com/in/adele-strub" target="_blank" rel="noreferrer noopener">Adele Strub (UX Designer)</a>.</p>
 </details>
 
 
@@ -80,15 +80,15 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p>DFO uses the Enterprise Data Hub (EDH), which requires the cataloguing and storage of the organization’s data, and is one of the key platforms of DFO.&nbsp;</p>
+<p class="wp-block-paragraph">DFO uses the Enterprise Data Hub (EDH), which requires the cataloguing and storage of the organization’s data, and is one of the key platforms of DFO.&nbsp;</p>
 
 
 
-<p>There are many types of requests users can make in the hub, including uploading data to the hub’s catalogue and openly publishing data for public access. <a href="https://open.canada.ca/data/en/organization/dfo-mpo" target="_blank" rel="noreferrer noopener">DFO has over 700 published datasets in the GC&#8217;s Open Government Portal</a>; openly sharing data can help raise awareness with the public and is useful for people working on protection and/or restoration initiatives.&nbsp;</p>
+<p class="wp-block-paragraph">There are many types of requests users can make in the hub, including uploading data to the hub’s catalogue and openly publishing data for public access. <a href="https://open.canada.ca/data/en/organization/dfo-mpo" target="_blank" rel="noreferrer noopener">DFO has over 700 published datasets in the GC&#8217;s Open Government Portal</a>; openly sharing data can help raise awareness with the public and is useful for people working on protection and/or restoration initiatives.&nbsp;</p>
 
 
 
-<p><a href="https://documentation.notification.canada.ca/en/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_API%20" target="_blank" rel="noreferrer noopener">Using GC Notify’s Application Programming Interface (API) integration</a>, the hub automatically sends email updates and reminders to required users about actions to take, such as letting data reviewers know it’s ready for sign-off on publication.&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://documentation.notification.canada.ca/en/?utm_source=EN_blog_Notify_grants_contributions&amp;utm_id=Notify_API%20" target="_blank" rel="noreferrer noopener">Using GC Notify’s Application Programming Interface (API) integration</a>, the hub automatically sends email updates and reminders to required users about actions to take, such as letting data reviewers know it’s ready for sign-off on publication.&nbsp;</p>
 
 
 
@@ -111,15 +111,15 @@ translationKey: dfo-series-gcds-p2
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>How the Enterprise Data Hub updates users via GC Notify.</summary>
-<p><strong>Russell Moore:</strong></p>
+<p class="wp-block-paragraph"><strong>Russell Moore:</strong></p>
 
 
 
-<p>The Enterprise Data Hub is an application public servants at DFO use for cataloguing and storing data throughout the department.</p>
+<p class="wp-block-paragraph">The Enterprise Data Hub is an application public servants at DFO use for cataloguing and storing data throughout the department.</p>
 
 
 
-<p><strong>There are two user actions/requests in the data hub that GC Notify helps with:</strong></p>
+<p class="wp-block-paragraph"><strong>There are two user actions/requests in the data hub that GC Notify helps with:</strong></p>
 
 
 
@@ -141,12 +141,12 @@ translationKey: dfo-series-gcds-p2
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>“You don’t have to reinvent the wheel here, use it!” – Russell Moore</summary>
-<p>Just go ahead and use GC Notify because you don’t have to reinvent the wheel here. It’s an accessible and secure tool that’s commonly used by dozens of departments, so why not just incorporate that in your applications? It can do a lot of work for you (freeing up capacity) and it just makes life a lot easier.</p>
+<p class="wp-block-paragraph">Just go ahead and use GC Notify because you don’t have to reinvent the wheel here. It’s an accessible and secure tool that’s commonly used by dozens of departments, so why not just incorporate that in your applications? It can do a lot of work for you (freeing up capacity) and it just makes life a lot easier.</p>
 </details>
 
 
 
-<p><strong>You may be interested in:</strong></p>
+<p class="wp-block-paragraph"><strong>You may be interested in:</strong></p>
 
 
 
@@ -176,9 +176,9 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p>Our support team frequently hosts demo and forum sessions for public servants to learn how the notification product can help with their service delivery. Participants get the opportunity to ask questions and hear from other teams about how they think the tool could help them (potentially inspiring ideas). <a href="https://notification.canada.ca/register-for-a-demo" target="_blank" rel="noreferrer noopener">Pick an upcoming date to attend a GC Notify demo</a>!&nbsp;</p>
+<p class="wp-block-paragraph">Our support team frequently hosts demo and forum sessions for public servants to learn how the notification product can help with their service delivery. Participants get the opportunity to ask questions and hear from other teams about how they think the tool could help them (potentially inspiring ideas). <a href="https://notification.canada.ca/register-for-a-demo" target="_blank" rel="noreferrer noopener">Pick an upcoming date to attend a GC Notify demo</a>!&nbsp;</p>
 
 
 
-<p>DFO also uses the <a href="https://design.canada.ca/feedback/index.html" target="_blank" rel="noreferrer noopener">GC Feedback tool</a> and the <a href="https://design.canada.ca/survey/" target="_blank" rel="noreferrer noopener">GC Task Success Survey</a> in their web optimization work. Check them out to learn how they can help you measure and improve users’ experiences with Canada.ca web content.</p>
+<p class="wp-block-paragraph">DFO also uses the <a href="https://design.canada.ca/feedback/index.html" target="_blank" rel="noreferrer noopener">GC Feedback tool</a> and the <a href="https://design.canada.ca/survey/" target="_blank" rel="noreferrer noopener">GC Task Success Survey</a> in their web optimization work. Check them out to learn how they can help you measure and improve users’ experiences with Canada.ca web content.</p>
 
