@@ -13,24 +13,24 @@ translationKey: blog-iccs-cds-ceo
 ---
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><em>«&nbsp;Le SNC s’engage à travailler en partenariat avec des provinces pour faire progresser la vision de cultiver un avenir numérique où la nation jouit de plus de connectivité et d’inclusion, une vision d’abord esquissée dans l’</em><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ambition-numerique.html" target="_blank" rel="noreferrer noopener"><em>Ambition numérique du Canada de 2023</em></a><em>. Les partenariats se prêteront également à des collaborations avec des gouvernements internationaux et des organismes partageant les idées du SNC et pouvant l’aider à s’acquitter de son mandat.&nbsp;»</em></p>
+<p class="wp-block-paragraph"><em>«&nbsp;Le SNC s’engage à travailler en partenariat avec des provinces pour faire progresser la vision de cultiver un avenir numérique où la nation jouit de plus de connectivité et d’inclusion, une vision d’abord esquissée dans l’</em><a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/ambition-numerique.html" target="_blank" rel="noreferrer noopener"><em>Ambition numérique du Canada de 2023</em></a><em>. Les partenariats se prêteront également à des collaborations avec des gouvernements internationaux et des organismes partageant les idées du SNC et pouvant l’aider à s’acquitter de son mandat.&nbsp;»</em></p>
 
 
 
-<p><em>– </em><a href="https://numerique.canada.ca/rapports/strategie-2024.pdf" target="_blank" rel="noreferrer noopener"><em>Vision stratégique du SNC (2025-2027)</em></a></p>
+<p class="wp-block-paragraph"><em>– </em><a href="https://numerique.canada.ca/rapports/strategie-2024.pdf" target="_blank" rel="noreferrer noopener"><em>Vision stratégique du SNC (2025-2027)</em></a></p>
 </blockquote>
 
 
 
-<p>Le SNC collabore avec de nombreuses équipes à tous les niveaux du gouvernement afin de partager son expertise et d&rsquo;apprendre les uns des autres sur les approches de la prestation de services publics au Canada. Nous travaillons également avec les administrations pour faire progresser l&rsquo;utilisation, l&rsquo;adoption et l&rsquo;interopérabilité des justificatifs numériques et des services de confiance. En particulier dans le cadre des forums fédéraux, provinciaux et territoriaux (FPT) et des tables de gouvernance, où <a href="https://iccs-isac.org/fr/" target="_blank" rel="noreferrer noopener">l&rsquo;Institut des services axés sur les citoyens (ISAC)</a> fait partie intégrante de cette collaboration. L’ISAC est un organisme sans but lucratif dont l&rsquo;objectif est de favoriser l&rsquo;accès à la prestation de services et d&rsquo;améliorer l’expérience liée à celle-ci pour les personnes qui interagissent avec tous les niveaux de gouvernement au Canada. </p>
+<p class="wp-block-paragraph">Le SNC collabore avec de nombreuses équipes à tous les niveaux du gouvernement afin de partager son expertise et d&rsquo;apprendre les uns des autres sur les approches de la prestation de services publics au Canada. Nous travaillons également avec les administrations pour faire progresser l&rsquo;utilisation, l&rsquo;adoption et l&rsquo;interopérabilité des justificatifs numériques et des services de confiance. En particulier dans le cadre des forums fédéraux, provinciaux et territoriaux (FPT) et des tables de gouvernance, où <a href="https://iccs-isac.org/fr/" target="_blank" rel="noreferrer noopener">l&rsquo;Institut des services axés sur les citoyens (ISAC)</a> fait partie intégrante de cette collaboration. L’ISAC est un organisme sans but lucratif dont l&rsquo;objectif est de favoriser l&rsquo;accès à la prestation de services et d&rsquo;améliorer l’expérience liée à celle-ci pour les personnes qui interagissent avec tous les niveaux de gouvernement au Canada. </p>
 
 
 
-<p>Le <a href="https://www.linkedin.com/in/paul-n-wagner-3112a13/" target="_blank" rel="noreferrer noopener">PDG du SNC, Paul Wagner</a>, s’est joint récemment au <a href="https://iccs-isac.org/fr/our-story/who-we-are/board-of-directors" target="_blank" rel="noreferrer noopener">Conseil d’administration de l’ISAC</a>. Ceci aura pour effet de sensibiliser le SNC quant aux initiatives et aux priorités en matière de services publics au Canada. Également, ceci occasionnera des occasions de collaboration. L’ISAC est particulièrement bien placé pour réunir toutes les administrations du Canada afin de mettre en place une collaboration et des initiatives enrichissantes visant à améliorer l&rsquo;expérience des services publics.</p>
+<p class="wp-block-paragraph">Le <a href="https://www.linkedin.com/in/paul-n-wagner-3112a13/" target="_blank" rel="noreferrer noopener">PDG du SNC, Paul Wagner</a>, s’est joint récemment au <a href="https://iccs-isac.org/fr/our-story/who-we-are/board-of-directors" target="_blank" rel="noreferrer noopener">Conseil d’administration de l’ISAC</a>. Ceci aura pour effet de sensibiliser le SNC quant aux initiatives et aux priorités en matière de services publics au Canada. Également, ceci occasionnera des occasions de collaboration. L’ISAC est particulièrement bien placé pour réunir toutes les administrations du Canada afin de mettre en place une collaboration et des initiatives enrichissantes visant à améliorer l&rsquo;expérience des services publics.</p>
 
 
 
-<p>Continuez à lire pour en savoir davantage sur le partenariat entre le SNC et l’ISAC et pour comprendre la manière par laquelle nous collaborons à l’amélioration de la prestation de services numériques dans toutes les administrations.</p>
+<p class="wp-block-paragraph">Continuez à lire pour en savoir davantage sur le partenariat entre le SNC et l’ISAC et pour comprendre la manière par laquelle nous collaborons à l’amélioration de la prestation de services numériques dans toutes les administrations.</p>
 
 
 
@@ -38,15 +38,15 @@ translationKey: blog-iccs-cds-ceo
 
 
 
-<p>L’ISAC est une équipe non partisane formée de conseillers, de gens d’action et de réseauteurs qui a pour mission d’aider les gouvernements à offrir aux Canadiens des services intégrés axés sur les citoyens. Créé par et pour le secteur public, l’ISAC est un forum pancanadien de confiance qui encourage et facilite la circulation de l’information et la mise en commun de l’expertise et des ressources afin d’appuyer les objectifs de ses membres. L’ISAC travaille avec ses collègues fédéraux, provinciaux, territoriaux et municipaux ainsi qu’avec des experts en la matière, qu’elle réunit et conseille afin d’éliminer les obstacles à l’accès aux services. Voilà plus de 20&nbsp;ans que l’ISAC accomplit cette mission.&nbsp;</p>
+<p class="wp-block-paragraph">L’ISAC est une équipe non partisane formée de conseillers, de gens d’action et de réseauteurs qui a pour mission d’aider les gouvernements à offrir aux Canadiens des services intégrés axés sur les citoyens. Créé par et pour le secteur public, l’ISAC est un forum pancanadien de confiance qui encourage et facilite la circulation de l’information et la mise en commun de l’expertise et des ressources afin d’appuyer les objectifs de ses membres. L’ISAC travaille avec ses collègues fédéraux, provinciaux, territoriaux et municipaux ainsi qu’avec des experts en la matière, qu’elle réunit et conseille afin d’éliminer les obstacles à l’accès aux services. Voilà plus de 20&nbsp;ans que l’ISAC accomplit cette mission.&nbsp;</p>
 
 
 
-<p>En tant que pivot de l’innovation, de la collaboration et des solutions communes, l’ISAC contribue à faire progresser la prestation de services intégrés à l’échelle du Canada à l’ère numérique. Il établit des liens entre les tables FPT pour fournir plus efficacement des outils et des activités visant à soutenir une approche axée sur les personnes dans le secteur public.&nbsp;</p>
+<p class="wp-block-paragraph">En tant que pivot de l’innovation, de la collaboration et des solutions communes, l’ISAC contribue à faire progresser la prestation de services intégrés à l’échelle du Canada à l’ère numérique. Il établit des liens entre les tables FPT pour fournir plus efficacement des outils et des activités visant à soutenir une approche axée sur les personnes dans le secteur public.&nbsp;</p>
 
 
 
-<p><strong>L’ISAC mène quatre grandes activités qui soutiennent une approche axée sur les personnes dans le secteur public&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>L’ISAC mène quatre grandes activités qui soutiennent une approche axée sur les personnes dans le secteur public&nbsp;:</strong></p>
 
 
 
@@ -69,7 +69,7 @@ translationKey: blog-iccs-cds-ceo
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Qu’est-ce qu’un service axé sur les citoyens?</summary>
-<p>Tiré du site de l’ISAC&nbsp;: <a href="https://iccs-isac.org/fr/our-story/who-we-are/what-is-citizen-centred-service" target="_blank" rel="noreferrer noopener"><strong>Il y a au moins six raisons de fournir ses programmes et ses services selon une approche axée sur le citoyen dans le secteur public.</strong></a></p>
+<p class="wp-block-paragraph">Tiré du site de l’ISAC&nbsp;: <a href="https://iccs-isac.org/fr/our-story/who-we-are/what-is-citizen-centred-service" target="_blank" rel="noreferrer noopener"><strong>Il y a au moins six raisons de fournir ses programmes et ses services selon une approche axée sur le citoyen dans le secteur public.</strong></a></p>
 
 
 
@@ -112,11 +112,11 @@ translationKey: blog-iccs-cds-ceo
 
 
 
-<p>Notre collaboration avec l’ISAC nous aide à mieux comprendre l’environnement des services numériques au Canada. Elle nous aide à devenir plus stratégiques en matière de prestation et à améliorer l’expérience qu’ont les utilisateurs avec le SNC et le gouvernement du Canada.</p>
+<p class="wp-block-paragraph">Notre collaboration avec l’ISAC nous aide à mieux comprendre l’environnement des services numériques au Canada. Elle nous aide à devenir plus stratégiques en matière de prestation et à améliorer l’expérience qu’ont les utilisateurs avec le SNC et le gouvernement du Canada.</p>
 
 
 
-<p><strong>Exemples&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Exemples&nbsp;:</strong></p>
 
 
 
@@ -142,9 +142,9 @@ translationKey: blog-iccs-cds-ceo
 
 
 
-<p>Pour en savoir plus sur l&rsquo;Institut des services axés sur les citoyens (ISAC) et sur la manière dont il soutient les services publics au Canada, <a href="https://iccs-isac.org/fr/" target="_blank" rel="noreferrer noopener">consultez le site Web de l&rsquo;ISAC</a> et <a href="https://www.linkedin.com/company/citizenf1rst/posts/?feedView=all" target="_blank" rel="noreferrer noopener">abonnez-vous au LinkedIn de l&rsquo;ISAC</a> pour obtenir des mises à jour et des renseignements sur les possibilités d&rsquo;apprentissage et de recherche.</p>
+<p class="wp-block-paragraph">Pour en savoir plus sur l&rsquo;Institut des services axés sur les citoyens (ISAC) et sur la manière dont il soutient les services publics au Canada, <a href="https://iccs-isac.org/fr/" target="_blank" rel="noreferrer noopener">consultez le site Web de l&rsquo;ISAC</a> et <a href="https://www.linkedin.com/company/citizenf1rst/posts/?feedView=all" target="_blank" rel="noreferrer noopener">abonnez-vous au LinkedIn de l&rsquo;ISAC</a> pour obtenir des mises à jour et des renseignements sur les possibilités d&rsquo;apprentissage et de recherche.</p>
 
 
 
-<p>Si vous souhaitez obtenir de plus amples renseignements sur les travaux du SNC et sur la manière dont nous collaborons avec les ministères dans l&rsquo;ensemble du gouvernement, <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener">inscrivez-vous à notre infolettre bimestrielle</a> et <a href="https://www.linkedin.com/company/cds-snc/posts/" target="_blank" rel="noreferrer noopener">abonnez-vous à notre LinkedIn</a>. Nous diffusons des mises à jour sur nos produits, des histoires sur notre collaboration avec le GC et des occasions d’apprentissage et d’emploi dans la communauté du GC.</p>
+<p class="wp-block-paragraph">Si vous souhaitez obtenir de plus amples renseignements sur les travaux du SNC et sur la manière dont nous collaborons avec les ministères dans l&rsquo;ensemble du gouvernement, <a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener">inscrivez-vous à notre infolettre bimestrielle</a> et <a href="https://www.linkedin.com/company/cds-snc/posts/" target="_blank" rel="noreferrer noopener">abonnez-vous à notre LinkedIn</a>. Nous diffusons des mises à jour sur nos produits, des histoires sur notre collaboration avec le GC et des occasions d’apprentissage et d’emploi dans la communauté du GC.</p>
 
