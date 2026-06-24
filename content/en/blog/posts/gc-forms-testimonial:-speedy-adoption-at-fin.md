@@ -12,23 +12,23 @@ tags: ["GC Forms"]
 translationKey: linkedin-article-fin-gcforms
 ---
 
-<p><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in December 2025. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404606801628835840" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</em></p>
+<p class="wp-block-paragraph"><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in December 2025. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404606801628835840" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</em></p>
 
 
 
-<p><strong>New People Behind The Service product testimonial for GC Forms from Justin Lane (Website Developer),  Department of Finance Canada (FIN)!</strong></p>
+<p class="wp-block-paragraph"><strong>New People Behind The Service product testimonial for GC Forms from Justin Lane (Website Developer),  Department of Finance Canada (FIN)!</strong></p>
 
 
 
-<p>Working in government, there can be many factors that impact the speed of delivery. To meet the public’s needs for time-sensitive services, GC teams may need to deliver very quickly.&nbsp;</p>
+<p class="wp-block-paragraph">Working in government, there can be many factors that impact the speed of delivery. To meet the public’s needs for time-sensitive services, GC teams may need to deliver very quickly.&nbsp;</p>
 
 
 
-<p>When changes to the U.S. Tariffs were announced in March 2025, the <a href="https://www.canada.ca/en/department-finance.html" target="_blank" rel="noreferrer noopener">Department of Finance Canada (FIN)</a> needed to quickly deliver a consultation for the public’s input (<a href="https://www.canada.ca/en/department-finance/programs/consultations/2025/notice-intent-impose-countermeasures-response-united-states-tariffs-on-canadian-goods.html" target="_blank" rel="noreferrer noopener">details</a>). Initially, they had only a week to do this, so Justin’s team needed a speedy solution that met their needs for accessibility, bilingualism, and security, especially because they were collecting Protected B data.</p>
+<p class="wp-block-paragraph">When changes to the U.S. Tariffs were announced in March 2025, the <a href="https://www.canada.ca/en/department-finance.html" target="_blank" rel="noreferrer noopener">Department of Finance Canada (FIN)</a> needed to quickly deliver a consultation for the public’s input (<a href="https://www.canada.ca/en/department-finance/programs/consultations/2025/notice-intent-impose-countermeasures-response-united-states-tariffs-on-canadian-goods.html" target="_blank" rel="noreferrer noopener">details</a>). Initially, they had only a week to do this, so Justin’s team needed a speedy solution that met their needs for accessibility, bilingualism, and security, especially because they were collecting Protected B data.</p>
 
 
 
-<p><strong>Using </strong><a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=en_linkedin_article_testimonial_fin&amp;utm_medium=linkedin_article&amp;utm_campaign=forms_linkedin_testimonial_fin" target="_blank" rel="noreferrer noopener"><strong>GC Forms</strong></a><strong>, FIN was able to readily adopt and launch their form in days, enabling them to receive consultation responses. Read Justin’s experiences below to learn about the beneficial impacts GC Forms can have on your service delivery. </strong></p>
+<p class="wp-block-paragraph"><strong>Using </strong><a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=en_linkedin_article_testimonial_fin&amp;utm_medium=linkedin_article&amp;utm_campaign=forms_linkedin_testimonial_fin" target="_blank" rel="noreferrer noopener"><strong>GC Forms</strong></a><strong>, FIN was able to readily adopt and launch their form in days, enabling them to receive consultation responses. Read Justin’s experiences below to learn about the beneficial impacts GC Forms can have on your service delivery. </strong></p>
 
 
 
@@ -36,7 +36,7 @@ translationKey: linkedin-article-fin-gcforms
 
 
 
-<p>The CDS Platform team builds secure, accessible, and bilingual products to enable public servants to deliver modern digital services themselves. <a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=forms-linkedin-testimonial-fin-en-251204" target="_blank" rel="noreferrer noopener">Our products</a> can be used individually or assembled together, allowing departments to get started immediately without procurement costs or overhead, while meeting security and accessibility standards. <strong>Our goal is to empower GC teams to focus on what they do best, serving Canada.</strong></p>
+<p class="wp-block-paragraph">The CDS Platform team builds secure, accessible, and bilingual products to enable public servants to deliver modern digital services themselves. <a href="https://digital.canada.ca/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=smo&amp;utm_source=lnkn&amp;utm_content=forms-linkedin-testimonial-fin-en-251204" target="_blank" rel="noreferrer noopener">Our products</a> can be used individually or assembled together, allowing departments to get started immediately without procurement costs or overhead, while meeting security and accessibility standards. <strong>Our goal is to empower GC teams to focus on what they do best, serving Canada.</strong></p>
 
 
 
@@ -46,7 +46,7 @@ translationKey: linkedin-article-fin-gcforms
 <img loading="lazy" decoding="async" width="1024" height="536" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-1024x536.jpg" alt="GC Forms sped up our ability to build forms &amp; action responses. 1: Needs were met when reviewing the  product solution, speeding up adoption. 2: The form builder is designed for GC services and offers support, enabling us to publish quicker. 3:Data export options help us action responses faster." class="wp-image-3354" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-1024x536.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-300x157.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-768x402.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-1536x804.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/JustinGCFormstestimonial_2025_LinkdIn_EN_2-1-2048x1072.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -132,7 +132,7 @@ translationKey: linkedin-article-fin-gcforms
 
 
 
-<p>GC Forms is being used for many public-facing use cases across the GC, including:</p>
+<p class="wp-block-paragraph">GC Forms is being used for many public-facing use cases across the GC, including:</p>
 
 
 
@@ -150,7 +150,7 @@ translationKey: linkedin-article-fin-gcforms
 
 
 
-<p><strong>Think we can help with your service delivery or a colleague’s? Share this article with them!</strong></p>
+<p class="wp-block-paragraph"><strong>Think we can help with your service delivery or a colleague’s? Share this article with them!</strong></p>
 
 
 
