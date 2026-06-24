@@ -12,15 +12,15 @@ tags: [""]
 translationKey: blog-chantal-inclusion
 ---
 
-<p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a>&nbsp;in December 2023. Check out the&nbsp;<a href="https://www.linkedin.com/pulse/writing-everyone-inclusive-gc-comms-cds-snc-yshcc" target="_blank" rel="noreferrer noopener">original post</a>.</p>
+<p class="wp-block-paragraph">This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/11202854/admin/feed/posts/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn page</a>&nbsp;in December 2023. Check out the&nbsp;<a href="https://www.linkedin.com/pulse/writing-everyone-inclusive-gc-comms-cds-snc-yshcc" target="_blank" rel="noreferrer noopener">original post</a>.</p>
 
 
 
-<p>An important part of delivering services that meet peoples’ diverse needs is ensuring inclusivity in our communications. This includes making sure we’re sharing information people can understand and use in both official languages (English and French).</p>
+<p class="wp-block-paragraph">An important part of delivering services that meet peoples’ diverse needs is ensuring inclusivity in our communications. This includes making sure we’re sharing information people can understand and use in both official languages (English and French).</p>
 
 
 
-<p>We sat down with Chantal Turcotte, Director of Communications, currently on assignment at the <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/about-communications-community-office.html" target="_blank" rel="noreferrer noopener">Communications Community Office (CCO)</a> at the Privy Council Office (PCO). Chantal shared her thoughts on why inclusive communication is important, as well as some practical tips to help public servants develop their inclusive writing skills.</p>
+<p class="wp-block-paragraph">We sat down with Chantal Turcotte, Director of Communications, currently on assignment at the <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/about-communications-community-office.html" target="_blank" rel="noreferrer noopener">Communications Community Office (CCO)</a> at the Privy Council Office (PCO). Chantal shared her thoughts on why inclusive communication is important, as well as some practical tips to help public servants develop their inclusive writing skills.</p>
 
 
 
@@ -28,15 +28,15 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Before I joined the CCO, I was Director of Communications and Linguistic Services at <a href="https://women-gender-equality.canada.ca/en.html" target="_blank" rel="noreferrer noopener">Women and Gender Equality Canada (WAGE)</a>. In that role, I was surprised to see just how many people had questions about inclusive language.</p>
+<p class="wp-block-paragraph">Before I joined the CCO, I was Director of Communications and Linguistic Services at <a href="https://women-gender-equality.canada.ca/en.html" target="_blank" rel="noreferrer noopener">Women and Gender Equality Canada (WAGE)</a>. In that role, I was surprised to see just how many people had questions about inclusive language.</p>
 
 
 
-<p>It got me thinking: why didn’t the Government of Canada have a resource to help people be more inclusive in their writing? So I helped launch an interdepartmental working group on inclusive writing to take up the challenge. We now have members from over 36 departments from both federal and provincial governments! Through the work of this group, we were able to publish the <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources.html" target="_blank" rel="noreferrer noopener">Inclusive writing – Guidelines and resources</a> in September 2022.</p>
+<p class="wp-block-paragraph">It got me thinking: why didn’t the Government of Canada have a resource to help people be more inclusive in their writing? So I helped launch an interdepartmental working group on inclusive writing to take up the challenge. We now have members from over 36 departments from both federal and provincial governments! Through the work of this group, we were able to publish the <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources.html" target="_blank" rel="noreferrer noopener">Inclusive writing – Guidelines and resources</a> in September 2022.</p>
 
 
 
-<p>However, I realized that I didn’t want to stop at the guidelines; employees needed formal training. I was very lucky my Director General agreed to an assignment with the CCO to develop an inclusive writing course for public servants. The working group started working on the course this September and it’s progressing very well. I’ve also presented on inclusive writing at multiple conferences and events, including this year’s <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/learning-days/agenda.html" target="_blank" rel="noreferrer noopener">CCO Learning Day.</a></p>
+<p class="wp-block-paragraph">However, I realized that I didn’t want to stop at the guidelines; employees needed formal training. I was very lucky my Director General agreed to an assignment with the CCO to develop an inclusive writing course for public servants. The working group started working on the course this September and it’s progressing very well. I’ve also presented on inclusive writing at multiple conferences and events, including this year’s <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/learning-days/agenda.html" target="_blank" rel="noreferrer noopener">CCO Learning Day.</a></p>
 
 
 
@@ -44,19 +44,19 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Women and non-binary folks are invisible in language when we follow all the traditional masculine and feminine grammar rules. This creates a unicentric view of the world that’s very exclusionary. However, when we use inclusive language, we’re telling women and non-binary folks that we see them; that they’re part of the world.</p>
+<p class="wp-block-paragraph">Women and non-binary folks are invisible in language when we follow all the traditional masculine and feminine grammar rules. This creates a unicentric view of the world that’s very exclusionary. However, when we use inclusive language, we’re telling women and non-binary folks that we see them; that they’re part of the world.</p>
 
 
 
-<p>I’m constantly inspired by my transgender daughter. She made me ask myself questions about gender and inclusion that I hadn’t thought to ask before. I’ve seen how her face lights up when someone uses her preferred pronouns when they’re talking with her. Words really are extremely powerful when it comes to acceptance and inclusion. She has been a great companion on this journey.</p>
+<p class="wp-block-paragraph">I’m constantly inspired by my transgender daughter. She made me ask myself questions about gender and inclusion that I hadn’t thought to ask before. I’ve seen how her face lights up when someone uses her preferred pronouns when they’re talking with her. Words really are extremely powerful when it comes to acceptance and inclusion. She has been a great companion on this journey.</p>
 
 
 
-<p>We have such a binary view of gender, but it’s really something fluid and people can express and identify their gender in diverse ways. It’s not static.</p>
+<p class="wp-block-paragraph">We have such a binary view of gender, but it’s really something fluid and people can express and identify their gender in diverse ways. It’s not static.</p>
 
 
 
-<p>There are three main reasons why inclusive language is so important for public servants:</p>
+<p class="wp-block-paragraph">There are three main reasons why inclusive language is so important for public servants:</p>
 
 
 
@@ -78,11 +78,11 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>Inclusive writing in French is often thought to be very complicated. It is a challenge, for sure, but definitely not an insurmountable one. There are simple solutions you can use to avoid using the masculine by default or gendered language at all.&nbsp;</p>
+<p class="wp-block-paragraph">Inclusive writing in French is often thought to be very complicated. It is a challenge, for sure, but definitely not an insurmountable one. There are simple solutions you can use to avoid using the masculine by default or gendered language at all.&nbsp;</p>
 
 
 
-<p>For example, doublets are a widely-known alternative in French:&nbsp; you could&nbsp;write “Canadiennes et Canadiens” to include both the masculine and the feminine forms. Using collective nouns is another useful solution, as it includes not only women and men, but also non-binary people and people whose gender is unknown to the person writing. “La population canadienne” (“The Canadian population”) replaces the gendered term “Les Canadiens” (“Canadians”), “le personnel” (“the staff”) or “l’équipe” (“the team”) replaces the gendered term “les employés” (“the employees”). It’s also possible to use epicene, or non-gendered term. “Fonctionnaires” (“civil servants”) is one of them. It can be used with the masculine or feminine determiner: “un fonctionnaire” or “une fonctionnaire” are both valid options. In their plural form, these terms provide a major advantage: they include everyone. The <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/25465/la-redaction-et-la-communication/feminisation-et-redaction-epicene/redaction-epicene/formulation-neutre/liste-de-termes-epicenes-ou-neutres" target="_blank" rel="noreferrer noopener">Banque de dépannage linguistique of the Office québecois de la langue française</a> includes a list of epicene and neutral terms.</p>
+<p class="wp-block-paragraph">For example, doublets are a widely-known alternative in French:&nbsp; you could&nbsp;write “Canadiennes et Canadiens” to include both the masculine and the feminine forms. Using collective nouns is another useful solution, as it includes not only women and men, but also non-binary people and people whose gender is unknown to the person writing. “La population canadienne” (“The Canadian population”) replaces the gendered term “Les Canadiens” (“Canadians”), “le personnel” (“the staff”) or “l’équipe” (“the team”) replaces the gendered term “les employés” (“the employees”). It’s also possible to use epicene, or non-gendered term. “Fonctionnaires” (“civil servants”) is one of them. It can be used with the masculine or feminine determiner: “un fonctionnaire” or “une fonctionnaire” are both valid options. In their plural form, these terms provide a major advantage: they include everyone. The <a href="https://vitrinelinguistique.oqlf.gouv.qc.ca/25465/la-redaction-et-la-communication/feminisation-et-redaction-epicene/redaction-epicene/formulation-neutre/liste-de-termes-epicenes-ou-neutres" target="_blank" rel="noreferrer noopener">Banque de dépannage linguistique of the Office québecois de la langue française</a> includes a list of epicene and neutral terms.</p>
 
 
 
@@ -112,17 +112,17 @@ translationKey: blog-chantal-inclusion
 
 
 
-<p>The <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources.html" target="_blank" rel="noreferrer noopener">Guidelines for Inclusive Writing</a> are always a great resource.</p>
+<p class="wp-block-paragraph">The <a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusive-writing-guidelines-resources.html" target="_blank" rel="noreferrer noopener">Guidelines for Inclusive Writing</a> are always a great resource.</p>
 
 
 
-<p><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusionary" target="_blank" rel="noreferrer noopener">Inclusionary</a> is another great tool that public servants have access to. It provides a list of gendered words, along with suggestions for more inclusive alternatives.&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/inclusionary" target="_blank" rel="noreferrer noopener">Inclusionary</a> is another great tool that public servants have access to. It provides a list of gendered words, along with suggestions for more inclusive alternatives.&nbsp;</p>
 
 
 
-<p>I also wrote the blog <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/articles/writing-inclusion-mind.html" target="_blank" rel="noreferrer noopener">Writing with inclusion in mind</a> for CCO with more tips for people looking to make their communications more inclusive.&nbsp;</p>
+<p class="wp-block-paragraph">I also wrote the blog <a href="https://www.canada.ca/en/privy-council/services/communications-community-office/articles/writing-inclusion-mind.html" target="_blank" rel="noreferrer noopener">Writing with inclusion in mind</a> for CCO with more tips for people looking to make their communications more inclusive.&nbsp;</p>
 
 
 
-<p>Are you or your team working on being more inclusive in your writing? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> to share examples! We want to learn how public servants are working to design and share information in a way that reflects the needs of all people in Canada.</p>
+<p class="wp-block-paragraph">Are you or your team working on being more inclusive in your writing? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> to share examples! We want to learn how public servants are working to design and share information in a way that reflects the needs of all people in Canada.</p>
 
