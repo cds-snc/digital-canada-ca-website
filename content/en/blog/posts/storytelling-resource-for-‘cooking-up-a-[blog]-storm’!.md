@@ -12,23 +12,23 @@ tags: ["Communications"]
 translationKey: blog-brainstorm-activity
 ---
 
-<p>“It’s all connected!!”</p>
+<p class="wp-block-paragraph">“It’s all connected!!”</p>
 
 
 
-<p>Anyone who’s worked with me on storytelling projects at CDS has likely heard this <strong>many times</strong>.</p>
+<p class="wp-block-paragraph">Anyone who’s worked with me on storytelling projects at CDS has likely heard this <strong>many times</strong>.</p>
 
 
 
-<p>This way of thinking really sparked in my brain a few years ago, when reading about <em>‘the mesh’</em> in <em>The Ecological Thought</em>. In this book, Timothy Morton shares a vision of the world where everything is interconnected like a mesh, showing the endless potential for (un)intentional impacts.</p>
+<p class="wp-block-paragraph">This way of thinking really sparked in my brain a few years ago, when reading about <em>‘the mesh’</em> in <em>The Ecological Thought</em>. In this book, Timothy Morton shares a vision of the world where everything is interconnected like a mesh, showing the endless potential for (un)intentional impacts.</p>
 
 
 
-<p>My neurodivergent brain <em>exploded with connections</em> when adopting this way of seeing the world – and I can’t turn it off (nor do I want to). Through social media and blog storytelling, and <a href="https://digital.canada.ca/2021/03/12/learning-to-make-twitter-content-more-accessible/">learning about diversity and accessibility</a>, I’ve realized how valuable it is to get your brain thinking ‘outside the box’ to see potential connections and impacts.</p>
+<p class="wp-block-paragraph">My neurodivergent brain <em>exploded with connections</em> when adopting this way of seeing the world – and I can’t turn it off (nor do I want to). Through social media and blog storytelling, and <a href="https://digital.canada.ca/2021/03/12/learning-to-make-twitter-content-more-accessible/">learning about diversity and accessibility</a>, I’ve realized how valuable it is to get your brain thinking ‘outside the box’ to see potential connections and impacts.</p>
 
 
 
-<p>To help CDSers and other GC bloggers ‘cook up [blog] storms’ and create <em>tasty</em> blog meals, I’ve been designing a blog storytelling toolkit (shared below: a ‘Brainstorming blog ingredients’ activity template).</p>
+<p class="wp-block-paragraph">To help CDSers and other GC bloggers ‘cook up [blog] storms’ and create <em>tasty</em> blog meals, I’ve been designing a blog storytelling toolkit (shared below: a ‘Brainstorming blog ingredients’ activity template).</p>
 
 
 
@@ -36,19 +36,19 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p>Before expanding on the blog brainstorm activity I developed at CDS, I want to quickly explain how storytelling is an impactful tool for talking about public service work &#8211; like sharing successes to scale, lessons learned, and other helpful and relatable experiences!</p>
+<p class="wp-block-paragraph">Before expanding on the blog brainstorm activity I developed at CDS, I want to quickly explain how storytelling is an impactful tool for talking about public service work &#8211; like sharing successes to scale, lessons learned, and other helpful and relatable experiences!</p>
 
 
 
-<p>The <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC’s Digital Standard Playbook</a> explains how (as federal public servants) we’re directed to share our work in the open, when safe to do so. This can be done in many ways – like having open GitHub repos for code, publishing reports with learnings, or even blogging about ways of working.</p>
+<p class="wp-block-paragraph">The <a href="https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html">GC’s Digital Standard Playbook</a> explains how (as federal public servants) we’re directed to share our work in the open, when safe to do so. This can be done in many ways – like having open GitHub repos for code, publishing reports with learnings, or even blogging about ways of working.</p>
 
 
 
-<p>There are lots of public servants sharing their work this way. Many Government of Canada (GC) teams run blogs (including ours that you’re reading now) as one way to share their work in the open – like <a href="https://www.canada.ca/en/government/system/digital-government/living-digital.html">Living Digital</a>, <a href="https://blog.canada.ca/">Canada.ca</a>, and <a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/">CSPS Busrides</a>. Others are blogging in the open too – like <a href="https://www.blog.gov.uk/">GOV.UK</a> and the <a href="https://medium.com/ontariodigital">Ontario Digital Service</a> (y’all should check them out). Together, we’re building an open community for sharing experiences and learnings, so everyone can learn and grow with us.</p>
+<p class="wp-block-paragraph">There are lots of public servants sharing their work this way. Many Government of Canada (GC) teams run blogs (including ours that you’re reading now) as one way to share their work in the open – like <a href="https://www.canada.ca/en/government/system/digital-government/living-digital.html">Living Digital</a>, <a href="https://blog.canada.ca/">Canada.ca</a>, and <a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/">CSPS Busrides</a>. Others are blogging in the open too – like <a href="https://www.blog.gov.uk/">GOV.UK</a> and the <a href="https://medium.com/ontariodigital">Ontario Digital Service</a> (y’all should check them out). Together, we’re building an open community for sharing experiences and learnings, so everyone can learn and grow with us.</p>
 
 
 
-<p>Public servants work on a huge range of files, with different security levels, so their abilities to work in the open vary; some work can’t be shared for security or privacy reasons, some needs to be shared. Managers can help navigate what can or can’t be openly shared.</p>
+<p class="wp-block-paragraph">Public servants work on a huge range of files, with different security levels, so their abilities to work in the open vary; some work can’t be shared for security or privacy reasons, some needs to be shared. Managers can help navigate what can or can’t be openly shared.</p>
 
 
 
@@ -56,11 +56,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p>I’ve found interconnected thinking to be helpful for impactful storytelling. To help bloggers ‘cook up [blog] storms’ and find <em>tasty ingredients</em> that spark connections for their blog idea, I created a brainstorm activity. </p>
+<p class="wp-block-paragraph">I’ve found interconnected thinking to be helpful for impactful storytelling. To help bloggers ‘cook up [blog] storms’ and find <em>tasty ingredients</em> that spark connections for their blog idea, I created a brainstorm activity. </p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -72,11 +72,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
-<p>‘Cooking up a [blog] storm’ takes practice and you’ll develop your own skills as you learn the craft. You never know what kind of meal you’ll whip up with your list of ingredients &#8211; the possibilities are endless!</p>
+<p class="wp-block-paragraph">‘Cooking up a [blog] storm’ takes practice and you’ll develop your own skills as you learn the craft. You never know what kind of meal you’ll whip up with your list of ingredients &#8211; the possibilities are endless!</p>
 
 
 
@@ -126,11 +126,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
-<p>Each blog recipe will have different ingredients (relevant to the topic) and cooks will take different approaches to curating meals to <em>taste just right</em> (using different blog formats and styles). The nice thing about cooking and blogging is there’s room for creativity and improvisation. Start by picking the ingredients you want to use and go from there to see how they are <em>tasty</em> together!</p>
+<p class="wp-block-paragraph">Each blog recipe will have different ingredients (relevant to the topic) and cooks will take different approaches to curating meals to <em>taste just right</em> (using different blog formats and styles). The nice thing about cooking and blogging is there’s room for creativity and improvisation. Start by picking the ingredients you want to use and go from there to see how they are <em>tasty</em> together!</p>
 
 
 
@@ -138,7 +138,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p>Curating your ingredients into a delicious meal isn’t the only important part of the cooking process. How you present your curation will impact how your target audience perceives it and their likelihood of consuming.</p>
+<p class="wp-block-paragraph">Curating your ingredients into a delicious meal isn’t the only important part of the cooking process. How you present your curation will impact how your target audience perceives it and their likelihood of consuming.</p>
 
 
 
@@ -160,13 +160,13 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p>Working in the open can be challenging (to say the least), but the potential for impact(s) makes it worth it. By openly sharing our experiences as public servants in the Government of Canada, we can help each other learn and grow, as well as others in the global ‘working in the open’ community.</p>
+<p class="wp-block-paragraph">Working in the open can be challenging (to say the least), but the potential for impact(s) makes it worth it. By openly sharing our experiences as public servants in the Government of Canada, we can help each other learn and grow, as well as others in the global ‘working in the open’ community.</p>
 
 
 
-<p>Try blogging about your work experience(s) using the brainstorming activity.</p>
+<p class="wp-block-paragraph">Try blogging about your work experience(s) using the brainstorming activity.</p>
 
 
 
-<p><strong>Then, let us know if you found them helpful!</strong> We’d love to hear from you (<a href="https://twitter.com/CDS_GC">Twitter</a> or <a href="https://www.linkedin.com/company/cds-snc">LinkedIn</a>).</p>
+<p class="wp-block-paragraph"><strong>Then, let us know if you found them helpful!</strong> We’d love to hear from you (<a href="https://twitter.com/CDS_GC">Twitter</a> or <a href="https://www.linkedin.com/company/cds-snc">LinkedIn</a>).</p>
 
