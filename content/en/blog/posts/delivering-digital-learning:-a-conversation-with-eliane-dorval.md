@@ -12,23 +12,23 @@ tags: [""]
 translationKey: blog-digital-learning
 ---
 
-<p>This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/cds-snc/posts/?feedView=all&amp;viewAsMember=true">CDS’s LinkedIn page</a>&nbsp;in September 2023. Check out the&nbsp;<a href="https://www.linkedin.com/posts/cds-snc_gcdigital-gclearning-activity-7109888953117261824-Epqx?utm_source=share&amp;utm_medium=member_desktop">original post</a>.</p>
+<p class="wp-block-paragraph">This article was previously published on&nbsp;<a href="https://www.linkedin.com/company/cds-snc/posts/?feedView=all&amp;viewAsMember=true">CDS’s LinkedIn page</a>&nbsp;in September 2023. Check out the&nbsp;<a href="https://www.linkedin.com/posts/cds-snc_gcdigital-gclearning-activity-7109888953117261824-Epqx?utm_source=share&amp;utm_medium=member_desktop">original post</a>.</p>
 
 
 
-<p><em>“All humans are learners throughout their lives.”</em></p>
+<p class="wp-block-paragraph"><em>“All humans are learners throughout their lives.”</em></p>
 
 
 
-<p>&#8211; Eliane&nbsp;Dorval, Senior Learning Designer, Canada School of Public Service (CSPS)</p>
+<p class="wp-block-paragraph">&#8211; Eliane&nbsp;Dorval, Senior Learning Designer, Canada School of Public Service (CSPS)</p>
 
 
 
-<p>As public servants, we must continuously learn skills and gain knowledge in order to serve people in Canada effectively. One of the many resources available to us is the <a href="https://www.csps-efpc.gc.ca/index-eng.aspx" target="_blank" rel="noreferrer noopener">Canada School of Public Service</a> (CSPS). A business line of CSPS is the<a href="https://www.csps-efpc.gc.ca/about_us/business_lines/digitalacademy-eng.aspx" target="_blank" rel="noreferrer noopener"> Digital Academy (DA)</a>, which provides “public servants with the skills and knowledge they need to deliver digital-era programs, policies, and services”.</p>
+<p class="wp-block-paragraph">As public servants, we must continuously learn skills and gain knowledge in order to serve people in Canada effectively. One of the many resources available to us is the <a href="https://www.csps-efpc.gc.ca/index-eng.aspx" target="_blank" rel="noreferrer noopener">Canada School of Public Service</a> (CSPS). A business line of CSPS is the<a href="https://www.csps-efpc.gc.ca/about_us/business_lines/digitalacademy-eng.aspx" target="_blank" rel="noreferrer noopener"> Digital Academy (DA)</a>, which provides “public servants with the skills and knowledge they need to deliver digital-era programs, policies, and services”.</p>
 
 
 
-<p>We spoke with Eliane Dorval, a Senior Learning Designer at the CSPS DA, about the work being done at the school, and how they’re supporting public servants to work effectively in the digital age.&nbsp;</p>
+<p class="wp-block-paragraph">We spoke with Eliane Dorval, a Senior Learning Designer at the CSPS DA, about the work being done at the school, and how they’re supporting public servants to work effectively in the digital age.&nbsp;</p>
 
 
 
@@ -36,11 +36,11 @@ translationKey: blog-digital-learning
 
 
 
-<p>My work at the DA focuses on digital products, data, and Artificial Intelligence (AI). As a learning designer, I shape learning experiences for public servants through structural course design and project management. Learning designers consider the group of people who need to learn skills or get knowledge, and determine the best ways to guide these people to reach the intended learning objectives.&nbsp;</p>
+<p class="wp-block-paragraph">My work at the DA focuses on digital products, data, and Artificial Intelligence (AI). As a learning designer, I shape learning experiences for public servants through structural course design and project management. Learning designers consider the group of people who need to learn skills or get knowledge, and determine the best ways to guide these people to reach the intended learning objectives.&nbsp;</p>
 
 
 
-<p>We do this by:</p>
+<p class="wp-block-paragraph">We do this by:</p>
 
 
 
@@ -66,7 +66,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>An analogy: imagine being handed a dictionary and grammar book, and then being asked to teach a group of adults how to read. You would use the core content, and determine the best way for them to learn, while being respectful of their diverse skills and experiences. That is what I do, but instead of teaching people to read, I help them learn about digital, data, and AI.&nbsp;</p>
+<p class="wp-block-paragraph">An analogy: imagine being handed a dictionary and grammar book, and then being asked to teach a group of adults how to read. You would use the core content, and determine the best way for them to learn, while being respectful of their diverse skills and experiences. That is what I do, but instead of teaching people to read, I help them learn about digital, data, and AI.&nbsp;</p>
 
 
 
@@ -74,15 +74,15 @@ translationKey: blog-digital-learning
 
 
 
-<p><strong>Instructors</strong> are Subject Matter Experts (SMEs) who share learning and concepts. They deliver content with meaningful examples of the application.</p>
+<p class="wp-block-paragraph"><strong>Instructors</strong> are Subject Matter Experts (SMEs) who share learning and concepts. They deliver content with meaningful examples of the application.</p>
 
 
 
-<p>Adult learners already have many skills and the abilities to learn new concepts. In leveraging those skills, <strong>facilitators</strong> can foster an environment that empowers learners to take charge of their own learning. As a “guide on the side”, facilitators encourage learners to actively participate and direct their own journey. Creating a collaborative, learner-centred environment allows learners to engage, reflect, and apply their previous knowledge and experiences as they learn.</p>
+<p class="wp-block-paragraph">Adult learners already have many skills and the abilities to learn new concepts. In leveraging those skills, <strong>facilitators</strong> can foster an environment that empowers learners to take charge of their own learning. As a “guide on the side”, facilitators encourage learners to actively participate and direct their own journey. Creating a collaborative, learner-centred environment allows learners to engage, reflect, and apply their previous knowledge and experiences as they learn.</p>
 
 
 
-<p><strong>Learning designers</strong> create the courses. Using core content, designers partner with SMEs&nbsp; to assess the audience, their current knowledge level, and the goals of learning. They then combine this information&nbsp; to create learning goals, which are broken down into bite-sized portions for each learning objective. It’s important to seek continuous feedback throughout the design process. This includes validation sessions where designers and their multidisciplinary teams (Product Managers and SMEs) inform stakeholders and “bring them along” during the design process. Another feedback loop is from testing with people.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>Learning designers</strong> create the courses. Using core content, designers partner with SMEs&nbsp; to assess the audience, their current knowledge level, and the goals of learning. They then combine this information&nbsp; to create learning goals, which are broken down into bite-sized portions for each learning objective. It’s important to seek continuous feedback throughout the design process. This includes validation sessions where designers and their multidisciplinary teams (Product Managers and SMEs) inform stakeholders and “bring them along” during the design process. Another feedback loop is from testing with people.&nbsp;</p>
 
 
 
@@ -90,11 +90,11 @@ translationKey: blog-digital-learning
 
 
 
-<p>We try to do this in a number of ways. As learning designers, we want to make sure that we cater to all learning styles and diverse viewpoints throughout the entire learning journey. We offer courses in different formats (written material, video, or audio) and incorporate different interactive activities, like scenarios, role play, debates, and self-assessment.&nbsp;</p>
+<p class="wp-block-paragraph">We try to do this in a number of ways. As learning designers, we want to make sure that we cater to all learning styles and diverse viewpoints throughout the entire learning journey. We offer courses in different formats (written material, video, or audio) and incorporate different interactive activities, like scenarios, role play, debates, and self-assessment.&nbsp;</p>
 
 
 
-<p>We follow inclusion and plain language best practices to respect different identities and backgrounds. This means being culturally sensitive and mindful to avoid offensive or exclusionary examples. Inclusion is also a focus in our feedback loops and assessments before<strong> and</strong> after the launch of a new course. We test new material with many individuals with different backgrounds and lived experiences to ensure we receive varied feedback.&nbsp;</p>
+<p class="wp-block-paragraph">We follow inclusion and plain language best practices to respect different identities and backgrounds. This means being culturally sensitive and mindful to avoid offensive or exclusionary examples. Inclusion is also a focus in our feedback loops and assessments before<strong> and</strong> after the launch of a new course. We test new material with many individuals with different backgrounds and lived experiences to ensure we receive varied feedback.&nbsp;</p>
 
 
 
@@ -102,7 +102,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>There’s a lot to learn! The <a href="https://www.csps-efpc.gc.ca/digital-data/index-eng.aspx" target="_blank" rel="noreferrer noopener">DA’s digital and data learning by theme</a> includes courses on: digital government, data literacy, digital leadership, service design, cloud computing, cybersecurity, AI, agile, and trending technology topics. Since joining the public service 9 months ago, I’ve learned there’s a lot of expertise in the government. There are many opportunities to expand this knowledge &#8211; to take from these pools of experts and share their skills with a larger number of public servants.&nbsp;</p>
+<p class="wp-block-paragraph">There’s a lot to learn! The <a href="https://www.csps-efpc.gc.ca/digital-data/index-eng.aspx" target="_blank" rel="noreferrer noopener">DA’s digital and data learning by theme</a> includes courses on: digital government, data literacy, digital leadership, service design, cloud computing, cybersecurity, AI, agile, and trending technology topics. Since joining the public service 9 months ago, I’ve learned there’s a lot of expertise in the government. There are many opportunities to expand this knowledge &#8211; to take from these pools of experts and share their skills with a larger number of public servants.&nbsp;</p>
 
 
 
@@ -110,7 +110,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>There are so many exciting digital trends emerging at the moment. One I am very excited about is <a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/en/ep-107-en" target="_blank" rel="noreferrer noopener">Extended Reality</a>, which is an umbrella term that includes augmented reality, virtual reality (VR), and mixed reality. Extended reality can open many possibilities for training simulations. The use of VR to train staff has the potential to revolutionise learning. While these types of technology are still in the early stages of implementation, I’m excited to see what the future holds.</p>
+<p class="wp-block-paragraph">There are so many exciting digital trends emerging at the moment. One I am very excited about is <a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/en/ep-107-en" target="_blank" rel="noreferrer noopener">Extended Reality</a>, which is an umbrella term that includes augmented reality, virtual reality (VR), and mixed reality. Extended reality can open many possibilities for training simulations. The use of VR to train staff has the potential to revolutionise learning. While these types of technology are still in the early stages of implementation, I’m excited to see what the future holds.</p>
 
 
 
@@ -118,7 +118,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>At the DA, we recommend the following courses as foundational for <em>all</em> public servants:&nbsp;</p>
+<p class="wp-block-paragraph">At the DA, we recommend the following courses as foundational for <em>all</em> public servants:&nbsp;</p>
 
 
 
@@ -148,7 +148,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>As a manager, we also include:</p>
+<p class="wp-block-paragraph">As a manager, we also include:</p>
 
 
 
@@ -162,7 +162,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>And, for executives:</p>
+<p class="wp-block-paragraph">And, for executives:</p>
 
 
 
@@ -184,9 +184,9 @@ translationKey: blog-digital-learning
 
 
 
-<p>Thank you Eliane for taking the time to chat with us about the importance of continuous learning for public servants!</p>
+<p class="wp-block-paragraph">Thank you Eliane for taking the time to chat with us about the importance of continuous learning for public servants!</p>
 
 
 
-<p>To stay up to date on data and digital, <a href="https://www.csps-efpc.gc.ca/digital-academy/da-newsletter-subscribe-eng.aspx" target="_blank" rel="noreferrer noopener">subscribe to the Digital Academy newsletter</a>!&nbsp;<br></p>
+<p class="wp-block-paragraph">To stay up to date on data and digital, <a href="https://www.csps-efpc.gc.ca/digital-academy/da-newsletter-subscribe-eng.aspx" target="_blank" rel="noreferrer noopener">subscribe to the Digital Academy newsletter</a>!&nbsp;<br></p>
 
