@@ -12,19 +12,19 @@ tags: [""]
 translationKey: blog-meetings-principles
 ---
 
-<p>As public servants, we&#8217;re focused on what we can do to improve services for people in Canada. Like any job, this involves spending time in meetings to coordinate the work. While meetings are necessary, not everyone experiences them in equitable ways or uses this valuable time as effectively as possible.</p>
+<p class="wp-block-paragraph">As public servants, we&#8217;re focused on what we can do to improve services for people in Canada. Like any job, this involves spending time in meetings to coordinate the work. While meetings are necessary, not everyone experiences them in equitable ways or uses this valuable time as effectively as possible.</p>
 
 
 
-<p>Teams across the Government of Canada (GC) are creating resources to help public servants run effective meetings, such as: Employment and Social Development Canada’s (ESDC) <a href="https://www.canada.ca/en/employment-social-development/programs/disability/arc/inclusive-meetings.html#h2.1" target="_blank" rel="noreferrer noopener">guide to planning inclusive meetings</a>, FlexGC’s <a href="https://sites.google.com/view/flexgc/english/resources-all-en?authuser=0" target="_blank" rel="noreferrer noopener">resources supporting remote &amp; hybrid work</a>, and the Canada School of Public Service’s (CSPS) <a href="https://catalogue.csps-efpc.gc.ca/product?catalog=TRN229&amp;cm_locale=en" target="_blank" rel="noreferrer noopener">course on planning meetings fit for purpose</a>.&nbsp;</p>
+<p class="wp-block-paragraph">Teams across the Government of Canada (GC) are creating resources to help public servants run effective meetings, such as: Employment and Social Development Canada’s (ESDC) <a href="https://www.canada.ca/en/employment-social-development/programs/disability/arc/inclusive-meetings.html#h2.1" target="_blank" rel="noreferrer noopener">guide to planning inclusive meetings</a>, FlexGC’s <a href="https://sites.google.com/view/flexgc/english/resources-all-en?authuser=0" target="_blank" rel="noreferrer noopener">resources supporting remote &amp; hybrid work</a>, and the Canada School of Public Service’s (CSPS) <a href="https://catalogue.csps-efpc.gc.ca/product?catalog=TRN229&amp;cm_locale=en" target="_blank" rel="noreferrer noopener">course on planning meetings fit for purpose</a>.&nbsp;</p>
 
 
 
-<p>Planning plays an important role in shaping how people experience meetings, especially for marginalized individuals who often take on more of the administrative planning workload. For the Policy team at CDS, they’ve found <strong>action-oriented meeting principles are helpful for planning more useful and equitable meetings, resulting in improved experiences for all and enabling more time to focus on delivery</strong>.</p>
+<p class="wp-block-paragraph">Planning plays an important role in shaping how people experience meetings, especially for marginalized individuals who often take on more of the administrative planning workload. For the Policy team at CDS, they’ve found <strong>action-oriented meeting principles are helpful for planning more useful and equitable meetings, resulting in improved experiences for all and enabling more time to focus on delivery</strong>.</p>
 
 
 
-<p>Sam Burton, Rashi Khilnani, and Melissa Toutloff (Senior Policy Advisors at CDS) are sharing their experiences, resources, and tips from their team’s meeting principles initiative to help other public servants use their time as effectively as possible.&nbsp;</p>
+<p class="wp-block-paragraph">Sam Burton, Rashi Khilnani, and Melissa Toutloff (Senior Policy Advisors at CDS) are sharing their experiences, resources, and tips from their team’s meeting principles initiative to help other public servants use their time as effectively as possible.&nbsp;</p>
 
 
 
@@ -32,7 +32,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>A: Sam Burton</p>
+<p class="wp-block-paragraph">A: Sam Burton</p>
 
 
 
@@ -40,15 +40,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>As part of CDS-wide diversity, equity, and inclusion (DEI) initiatives, a conversation started up about ‘office housework’. This includes tasks like planning and running meetings, note-taking, and organizing social events. We learned these tasks are often disproportionately taken on by women and people of colour, usually with little recognition or reward.</p>
+<p class="wp-block-paragraph">As part of CDS-wide diversity, equity, and inclusion (DEI) initiatives, a conversation started up about ‘office housework’. This includes tasks like planning and running meetings, note-taking, and organizing social events. We learned these tasks are often disproportionately taken on by women and people of colour, usually with little recognition or reward.</p>
 
 
 
-<p>My team (Policy) held a retrospective to help us build a shared understanding of what office housework looked like for us. We learned it’s often invisible and informal, and the biggest opportunities for improvement were in the ways we planned and ran meetings.</p>
+<p class="wp-block-paragraph">My team (Policy) held a retrospective to help us build a shared understanding of what office housework looked like for us. We learned it’s often invisible and informal, and the biggest opportunities for improvement were in the ways we planned and ran meetings.</p>
 
 
 
-<p>If your team runs retrospectives too, I suggest reading our colleague Clementine Hahn’s <a href="https://digital.canada.ca/2022/06/16/running-inclusive-retros-10-tips-for-growing-as-a-team/?utm_source=meeting_principles_blog&amp;utm_medium=meeting_principles_blog&amp;utm_campaign=blog_retro_tips_en" target="_blank" rel="noreferrer noopener">blog on how to run inclusive retros</a>.</p>
+<p class="wp-block-paragraph">If your team runs retrospectives too, I suggest reading our colleague Clementine Hahn’s <a href="https://digital.canada.ca/2022/06/16/running-inclusive-retros-10-tips-for-growing-as-a-team/?utm_source=meeting_principles_blog&amp;utm_medium=meeting_principles_blog&amp;utm_campaign=blog_retro_tips_en" target="_blank" rel="noreferrer noopener">blog on how to run inclusive retros</a>.</p>
 
 
 
@@ -56,11 +56,11 @@ translationKey: blog-meetings-principles
 
 
 
-<p>We decided to use a survey to get more specific about what people wanted to be different.&nbsp;</p>
+<p class="wp-block-paragraph">We decided to use a survey to get more specific about what people wanted to be different.&nbsp;</p>
 
 
 
-<p>The majority of Policy team members participated in the survey, and the results revealed some clear trends:</p>
+<p class="wp-block-paragraph">The majority of Policy team members participated in the survey, and the results revealed some clear trends:</p>
 
 
 
@@ -78,12 +78,12 @@ translationKey: blog-meetings-principles
 
 
 
-<p>All of this feedback requires office housework. The survey also showed us that not having a shared understanding of who was responsible for these tasks was leading to inequitable distribution of work and frustration on our team.&nbsp;</p>
+<p class="wp-block-paragraph">All of this feedback requires office housework. The survey also showed us that not having a shared understanding of who was responsible for these tasks was leading to inequitable distribution of work and frustration on our team.&nbsp;</p>
 
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Example: See our Policy team’s survey on meetings.</summary>
-<p><strong>Tip</strong>: You can <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-meeting-principles-dei&amp;utm_medium=Blog+post&amp;utm_campaign=EN_blog-meeting-principles-dei" target="_blank" rel="noreferrer noopener">use the GC Forms tool</a> to build your own bilingual and accessible survey for team feedback on meeting experiences!</p>
+<p class="wp-block-paragraph"><strong>Tip</strong>: You can <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_blog-meeting-principles-dei&amp;utm_medium=Blog+post&amp;utm_campaign=EN_blog-meeting-principles-dei" target="_blank" rel="noreferrer noopener">use the GC Forms tool</a> to build your own bilingual and accessible survey for team feedback on meeting experiences!</p>
 
 
 
@@ -129,7 +129,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>There are currently no shared, agreed-upon expectations for how meetings led by Policy team members are designed, run, and followed-up on. This has led to some confusion, frustration, and concerns amongst the team (especially about equitable distribution of labour and effective use of scarce time).</p>
+<p class="wp-block-paragraph">There are currently no shared, agreed-upon expectations for how meetings led by Policy team members are designed, run, and followed-up on. This has led to some confusion, frustration, and concerns amongst the team (especially about equitable distribution of labour and effective use of scarce time).</p>
 
 
 
@@ -137,7 +137,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Everyone on the Policy team is aware of, and agrees to do, what&#8217;s expected of us as a facilitator and/or participant in a Policy team-led meeting, whether there are 2, 20, or 200 participants.</p>
+<p class="wp-block-paragraph">Everyone on the Policy team is aware of, and agrees to do, what&#8217;s expected of us as a facilitator and/or participant in a Policy team-led meeting, whether there are 2, 20, or 200 participants.</p>
 
 
 
@@ -145,7 +145,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>A set of collaboratively developed Policy team meeting principles, which will guide all meetings led by CDS Policy team members moving forward.</p>
+<p class="wp-block-paragraph">A set of collaboratively developed Policy team meeting principles, which will guide all meetings led by CDS Policy team members moving forward.</p>
 
 
 
@@ -189,67 +189,67 @@ translationKey: blog-meetings-principles
 
 
 
-<p><strong>Q1: I think all meetings should:</strong></p>
+<p class="wp-block-paragraph"><strong>Q1: I think all meetings should:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q2: I find a meeting most effective when:</strong></p>
+<p class="wp-block-paragraph"><strong>Q2: I find a meeting most effective when:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q3: I find it frustrating when a meeting:</strong></p>
+<p class="wp-block-paragraph"><strong>Q3: I find it frustrating when a meeting:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q4: I find hybrid meetings (where some attendees are in-person and some are remote) most effective when:</strong></p>
+<p class="wp-block-paragraph"><strong>Q4: I find hybrid meetings (where some attendees are in-person and some are remote) most effective when:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q5: I find distributed meetings (where all attendees are remote) most effective when:</strong></p>
+<p class="wp-block-paragraph"><strong>Q5: I find distributed meetings (where all attendees are remote) most effective when:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q6: Overall, when it comes to meetings led by the Policy team, I wish:</strong></p>
+<p class="wp-block-paragraph"><strong>Q6: Overall, when it comes to meetings led by the Policy team, I wish:</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q7: These are some meeting-related resources that I think would be helpful for our team: anecdotes, books, blog posts, videos, practices, formats, frameworks, and everything in between are welcome!</strong></p>
+<p class="wp-block-paragraph"><strong>Q7: These are some meeting-related resources that I think would be helpful for our team: anecdotes, books, blog posts, videos, practices, formats, frameworks, and everything in between are welcome!</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 
 
 
-<p><strong>Q8: Anything else to add?</strong></p>
+<p class="wp-block-paragraph"><strong>Q8: Anything else to add?</strong></p>
 
 
 
-<p>Short answer…</p>
+<p class="wp-block-paragraph">Short answer…</p>
 </details>
 
 
@@ -262,17 +262,17 @@ translationKey: blog-meetings-principles
 
 
 
-<p>A: Sam Burton</p>
+<p class="wp-block-paragraph">A: Sam Burton</p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="444" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png" alt="" class="wp-image-1292" style="width: 840px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1024x444.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-300x130.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-768x333.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-1536x666.png 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/08/PlanningUsefulEquitableMeetings_FIP2-2048x888.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
-<p style="font-size:12px">Image caption: To start the process, the facilitator gathers feedback from the team on the current state of meetings (via a retro session and an online survey). Then, the team aligns on what their common goals are for improved meetings (by meeting to analyze the feedback). Using the goals, the facilitator then drafts and iterates on the meeting principles in a shared doc with the team, so they can share feedback asynchronously. Once the principles are agreed on by the team and management, the team can start using them! The process then repeats by the facilitator checking back in for feedback.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Image caption: To start the process, the facilitator gathers feedback from the team on the current state of meetings (via a retro session and an online survey). Then, the team aligns on what their common goals are for improved meetings (by meeting to analyze the feedback). Using the goals, the facilitator then drafts and iterates on the meeting principles in a shared doc with the team, so they can share feedback asynchronously. Once the principles are agreed on by the team and management, the team can start using them! The process then repeats by the facilitator checking back in for feedback.</p>
 
 
 
-<p><strong>Some of the key pieces of feedback</strong> the team raised and how they were incorporated into the final draft, included:</p>
+<p class="wp-block-paragraph"><strong>Some of the key pieces of feedback</strong> the team raised and how they were incorporated into the final draft, included:</p>
 
 
 
@@ -336,15 +336,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>A: Melissa Toutloff</p>
+<p class="wp-block-paragraph">A: Melissa Toutloff</p>
 
 
 
-<p>When I onboarded to CDS in February 2023, the Policy Team Meeting Principles were part of the materials I reviewed to help get me oriented. As a career public servant, it was the first time I encountered team meeting principles.</p>
+<p class="wp-block-paragraph">When I onboarded to CDS in February 2023, the Policy Team Meeting Principles were part of the materials I reviewed to help get me oriented. As a career public servant, it was the first time I encountered team meeting principles.</p>
 
 
 
-<p>While the principles were developed by and for the Policy team, they’re general enough to be adapted across multiple contexts, including remote, in-person, or hybrid workplaces.</p>
+<p class="wp-block-paragraph">While the principles were developed by and for the Policy team, they’re general enough to be adapted across multiple contexts, including remote, in-person, or hybrid workplaces.</p>
 
 
 
@@ -372,7 +372,7 @@ translationKey: blog-meetings-principles
 
 
 
-<p>A: Rashi Khilnani</p>
+<p class="wp-block-paragraph">A: Rashi Khilnani</p>
 
 
 
@@ -380,15 +380,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Policy team meetings have an impact on the well-being of team members as they’re safe, supportive spaces to discuss challenges and set action items to address them. Our ethos around meetings has shown me that it’s possible to be humane while being effective.</p>
+<p class="wp-block-paragraph">Policy team meetings have an impact on the well-being of team members as they’re safe, supportive spaces to discuss challenges and set action items to address them. Our ethos around meetings has shown me that it’s possible to be humane while being effective.</p>
 
 
 
-<p>We’re respectful of our colleagues, making space for conversations and also humour (Dan Monafu on our team is great at this). It creates an environment where we’re not afraid to bring our true selves to work, which ultimately leads to a happier, more productive team.</p>
+<p class="wp-block-paragraph">We’re respectful of our colleagues, making space for conversations and also humour (Dan Monafu on our team is great at this). It creates an environment where we’re not afraid to bring our true selves to work, which ultimately leads to a happier, more productive team.</p>
 
 
 
-<p><strong>For example, our team retrospective meetings use the principles to implement these helpful practices:</strong></p>
+<p class="wp-block-paragraph"><strong>For example, our team retrospective meetings use the principles to implement these helpful practices:</strong></p>
 
 
 
@@ -410,15 +410,15 @@ translationKey: blog-meetings-principles
 
 
 
-<p>Our team’s meeting principles increase our capacity to deliver on our priorities. They’ve resulted in better use of time, as many team members have felt comfortable asking for a meeting agenda in advance of a meeting (especially for recurring ones). If there aren&#8217;t any items to discuss, it’s become a common practice to cancel meetings and give time back to the team. As Sam Burton on our team said, “It’s been nice for that practice to feel easy and normal, and for anyone on our team to have the space to start the conversation, leading to a decision.”&nbsp;</p>
+<p class="wp-block-paragraph">Our team’s meeting principles increase our capacity to deliver on our priorities. They’ve resulted in better use of time, as many team members have felt comfortable asking for a meeting agenda in advance of a meeting (especially for recurring ones). If there aren&#8217;t any items to discuss, it’s become a common practice to cancel meetings and give time back to the team. As Sam Burton on our team said, “It’s been nice for that practice to feel easy and normal, and for anyone on our team to have the space to start the conversation, leading to a decision.”&nbsp;</p>
 
 
 
-<p>The meeting principles have also led to the acceleration of onboarding new team members and increased participation in discussions. I’ve personally felt that having shared values around equity in meeting participation made me understand that the Policy team was a safe space to ask questions. This made onboarding to the team a lot quicker. Melissa Toutloff on our team mentioned that she found the principles helped her in understanding team norms and culture, which is another crucial aspect of onboarding and adjusting to working in a new environment.&nbsp;</p>
+<p class="wp-block-paragraph">The meeting principles have also led to the acceleration of onboarding new team members and increased participation in discussions. I’ve personally felt that having shared values around equity in meeting participation made me understand that the Policy team was a safe space to ask questions. This made onboarding to the team a lot quicker. Melissa Toutloff on our team mentioned that she found the principles helped her in understanding team norms and culture, which is another crucial aspect of onboarding and adjusting to working in a new environment.&nbsp;</p>
 
 
 
-<p>I’m confident that this ethos of effective kindness in meetings is applicable to teams everywhere. My hope is that everyone feels the same sense of luck that I do being part of a team that purposefully engages with each other.</p>
+<p class="wp-block-paragraph">I’m confident that this ethos of effective kindness in meetings is applicable to teams everywhere. My hope is that everyone feels the same sense of luck that I do being part of a team that purposefully engages with each other.</p>
 
 
 
@@ -426,9 +426,9 @@ translationKey: blog-meetings-principles
 
 
 
-<p>We hope you find these resources and tips helpful for building meeting principles with your team. Using them improves everyone’s experiences and increases their capacity to deliver on priorities.</p>
+<p class="wp-block-paragraph">We hope you find these resources and tips helpful for building meeting principles with your team. Using them improves everyone’s experiences and increases their capacity to deliver on priorities.</p>
 
 
 
-<p>If you have feedback or experiences to share on this topic, <a href="mailto:cds-snc@servicecanada.gc.ca">let us know</a>! We’re happy to learn from our colleagues across government.</p>
+<p class="wp-block-paragraph">If you have feedback or experiences to share on this topic, <a href="mailto:cds-snc@servicecanada.gc.ca">let us know</a>! We’re happy to learn from our colleagues across government.</p>
 
