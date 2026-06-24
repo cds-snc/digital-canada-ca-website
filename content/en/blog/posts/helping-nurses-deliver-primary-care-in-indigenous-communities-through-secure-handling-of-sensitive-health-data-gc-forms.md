@@ -12,15 +12,15 @@ tags: ["GC Forms"]
 translationKey: isc-gcforms-nursing
 ---
 
-<p><a href="https://www.canada.ca/en/indigenous-services-canada.html" target="_blank" rel="noreferrer noopener">Indigenous Services Canada (ISC)</a> works with Indigenous partners to deliver primary healthcare services in communities where access may be limited.</p>
+<p class="wp-block-paragraph"><a href="https://www.canada.ca/en/indigenous-services-canada.html" target="_blank" rel="noreferrer noopener">Indigenous Services Canada (ISC)</a> works with Indigenous partners to deliver primary healthcare services in communities where access may be limited.</p>
 
 
 
-<p><a href="https://www.sac-isc.gc.ca/eng/1718205371960/1718205412557" target="_blank" rel="noreferrer noopener">One of ISC’s partnership initiatives is nursing</a>. As the primary contact and providers within communities, nurses need to gather information and data that can help them track health issues and trends across communities. To better support this work, ISC introduced <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_isc-gcforms-nursing&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" data-type="link" data-id="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_isc-gcforms-nursing&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms</a>, enabling teams to spot trends earlier and respond more quickly with targeted support.</p>
+<p class="wp-block-paragraph"><a href="https://www.sac-isc.gc.ca/eng/1718205371960/1718205412557" target="_blank" rel="noreferrer noopener">One of ISC’s partnership initiatives is nursing</a>. As the primary contact and providers within communities, nurses need to gather information and data that can help them track health issues and trends across communities. To better support this work, ISC introduced <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_isc-gcforms-nursing&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" data-type="link" data-id="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_isc-gcforms-nursing&amp;utm_medium=Blog+post&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms</a>, enabling teams to spot trends earlier and respond more quickly with targeted support.</p>
 
 
 
-<p><strong>Read our blog collaboration with ISC to learn about the importance of this work:</strong></p>
+<p class="wp-block-paragraph"><strong>Read our blog collaboration with ISC to learn about the importance of this work:</strong></p>
 
 
 
@@ -42,24 +42,24 @@ translationKey: isc-gcforms-nursing
 
 
 
-<p>ISC needed a way to consistently capture and analyze the nursing workload and health trends, across approximately 30 nursing stations serving 30 communities across Canada.&nbsp;</p>
+<p class="wp-block-paragraph">ISC needed a way to consistently capture and analyze the nursing workload and health trends, across approximately 30 nursing stations serving 30 communities across Canada.&nbsp;</p>
 
 
 
-<p>Before implementing GC Forms, data collection and analysis was manual or fragmented, and information was not consistently structured across communities. A lack of standardized data sets and collection mechanisms made it hard to predict service needs across communities.</p>
+<p class="wp-block-paragraph">Before implementing GC Forms, data collection and analysis was manual or fragmented, and information was not consistently structured across communities. A lack of standardized data sets and collection mechanisms made it hard to predict service needs across communities.</p>
 
 
 
-<p>Without a consistent view across communities, it was difficult to use data to answer operational questions, such as: How many acute vs non-acute visits are occurring? Are certain categories of health concerns increasing? Where are staffing pressures emerging? These challenges limited ISC’s ability to proactively respond to changing community needs.</p>
+<p class="wp-block-paragraph">Without a consistent view across communities, it was difficult to use data to answer operational questions, such as: How many acute vs non-acute visits are occurring? Are certain categories of health concerns increasing? Where are staffing pressures emerging? These challenges limited ISC’s ability to proactively respond to changing community needs.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>About ISC nursing: providing healthcare services to remote Indigenous communities</summary>
-<p><strong>Together with leaders of Indigenous communities, ISC actively strives to create a culturally appropriate and high-quality approach to delivering healthcare services.</strong></p>
+<p class="wp-block-paragraph"><strong>Together with leaders of Indigenous communities, ISC actively strives to create a culturally appropriate and high-quality approach to delivering healthcare services.</strong></p>
 
 
 
-<p><a href="https://www.sac-isc.gc.ca/eng/1572873725033/1572873776483" target="_blank" rel="noreferrer noopener">ISC-employed and contracted agency nurses</a> play a critical role in ensuring the continuity and equity of care in Indigenous communities. They deliver a broad scope of practice, including acute care, chronic disease management, public health, preventative care, and emergency response.</p>
+<p class="wp-block-paragraph"><a href="https://www.sac-isc.gc.ca/eng/1572873725033/1572873776483" target="_blank" rel="noreferrer noopener">ISC-employed and contracted agency nurses</a> play a critical role in ensuring the continuity and equity of care in Indigenous communities. They deliver a broad scope of practice, including acute care, chronic disease management, public health, preventative care, and emergency response.</p>
 </details>
 
 
@@ -69,29 +69,29 @@ translationKey: isc-gcforms-nursing
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>“The form-building process was intuitive. We were able to design exactly what our nursing teams needed, without relying on technical specialists.”</strong></p>
+<p class="wp-block-paragraph"><strong>“The form-building process was intuitive. We were able to design exactly what our nursing teams needed, without relying on technical specialists.”</strong></p>
 </blockquote>
 
 
 
-<p>With GC Forms, data collection became more consistent and easier for nurses to complete as part of their day-to-day work. Instead of fragmented or manual processes, information could be captured in a structured way and shared across communities.</p>
+<p class="wp-block-paragraph">With GC Forms, data collection became more consistent and easier for nurses to complete as part of their day-to-day work. Instead of fragmented or manual processes, information could be captured in a structured way and shared across communities.</p>
 
 
 
-<p>This improved visibility allowed ISC teams to more quickly identify emerging trends and respond with targeted support where it was needed most.</p>
+<p class="wp-block-paragraph">This improved visibility allowed ISC teams to more quickly identify emerging trends and respond with targeted support where it was needed most.</p>
 
 
 
-<p>GC Forms supports this by enabling standardized forms that adapt to each healthcare encounter. <a href="https://articles.alpha.canada.ca/forms-formulaires/setting-up-form-logic/" data-type="link" data-id="https://articles.alpha.canada.ca/forms-formulaires/setting-up-form-logic/" target="_blank" rel="noreferrer noopener">Using conditional logic</a>, nurses are only shown the fields relevant to their situation, reducing unnecessary data entry and improving the consistency and quality of the data collected across communities.</p>
+<p class="wp-block-paragraph">GC Forms supports this by enabling standardized forms that adapt to each healthcare encounter. <a href="https://articles.alpha.canada.ca/forms-formulaires/setting-up-form-logic/" data-type="link" data-id="https://articles.alpha.canada.ca/forms-formulaires/setting-up-form-logic/" target="_blank" rel="noreferrer noopener">Using conditional logic</a>, nurses are only shown the fields relevant to their situation, reducing unnecessary data entry and improving the consistency and quality of the data collected across communities.</p>
 
 
 
-<p>Because GC Forms is designed to securely capture personal information, including Protected B data, it provides a trusted way to collect and transmit the sensitive health information required for this use case.</p>
+<p class="wp-block-paragraph">Because GC Forms is designed to securely capture personal information, including Protected B data, it provides a trusted way to collect and transmit the sensitive health information required for this use case.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>What the form captures (high-level)</summary>
-<p><strong>The </strong><a href="https://forms-formulaires.alpha.canada.ca/en/id/cmoa5sd9400tuxc01xmjc9fkf" data-type="link" data-id="https://forms-formulaires.alpha.canada.ca/en/id/cmoa5sd9400tuxc01xmjc9fkf" target="_blank" rel="noreferrer noopener"><strong>form</strong></a><strong> supports internal quality assurance and workload monitoring by capturing standardized, encounter-level data, including:</strong></p>
+<p class="wp-block-paragraph"><strong>The </strong><a href="https://forms-formulaires.alpha.canada.ca/en/id/cmoa5sd9400tuxc01xmjc9fkf" data-type="link" data-id="https://forms-formulaires.alpha.canada.ca/en/id/cmoa5sd9400tuxc01xmjc9fkf" target="_blank" rel="noreferrer noopener"><strong>form</strong></a><strong> supports internal quality assurance and workload monitoring by capturing standardized, encounter-level data, including:</strong></p>
 
 
 
@@ -127,12 +127,12 @@ translationKey: isc-gcforms-nursing
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><strong>“Before GC Forms, we lacked a consistent way to track local health issues across communities. Now, we can spot trends early and respond faster with targeted support.”</strong></p>
+<p class="wp-block-paragraph"><strong>“Before GC Forms, we lacked a consistent way to track local health issues across communities. Now, we can spot trends early and respond faster with targeted support.”</strong></p>
 </blockquote>
 
 
 
-<p><strong>The data collected through GC Forms supports:</strong></p>
+<p class="wp-block-paragraph"><strong>The data collected through GC Forms supports:</strong></p>
 
 
 
@@ -154,7 +154,7 @@ translationKey: isc-gcforms-nursing
 
 
 
-<p><strong>In practice, this means:</strong></p>
+<p class="wp-block-paragraph"><strong>In practice, this means:</strong></p>
 
 
 
@@ -169,7 +169,7 @@ translationKey: isc-gcforms-nursing
 
 
 <div class="wp-block-group has-background" style="background-color:#ebfaf0"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<p class="has-background" style="background-color:#ebfaf0"><strong>Since implementing GC Forms, this approach has generated a growing body of data to support these decisions, including:</strong></p>
+<p class="has-background wp-block-paragraph" style="background-color:#ebfaf0"><strong>Since implementing GC Forms, this approach has generated a growing body of data to support these decisions, including:</strong></p>
 
 
 
@@ -187,11 +187,11 @@ translationKey: isc-gcforms-nursing
 
 
 
-<p>Together, these figures reflect thousands of healthcare interactions across communities, helping ISC build a clearer picture of care needs and respond more effectively.</p>
+<p class="wp-block-paragraph">Together, these figures reflect thousands of healthcare interactions across communities, helping ISC build a clearer picture of care needs and respond more effectively.</p>
 
 
 
-<p><strong>These improvements have contributed to:</strong></p>
+<p class="wp-block-paragraph"><strong>These improvements have contributed to:</strong></p>
 
 
 
@@ -217,7 +217,7 @@ translationKey: isc-gcforms-nursing
 
 
 
-<p>While the form is used internally, these improvements contribute to more responsive and equitable healthcare delivery in remote Indigenous communities.</p>
+<p class="wp-block-paragraph">While the form is used internally, these improvements contribute to more responsive and equitable healthcare delivery in remote Indigenous communities.</p>
 </div></div>
 
 
