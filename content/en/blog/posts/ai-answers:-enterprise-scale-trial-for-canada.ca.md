@@ -12,15 +12,15 @@ tags: ["AI","Research","Testing"]
 translationKey: blog-ai-answers
 ---
 
-<p>Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services. Many cannot call or visit government offices during business hours, making effective online self-service critical.&nbsp;</p>
+<p class="wp-block-paragraph">Every day, thousands of people turn to the Government of Canada (GC) seeking help with essential services. Many cannot call or visit government offices during business hours, making effective online self-service critical.&nbsp;</p>
 
 
 
-<p>The <a href="https://design.canada.ca/common-design-patterns/page-feedback.html" target="_blank" rel="noreferrer noopener">GC Feedback tool</a> is being used by many teams to improve their <a href="http://canada.ca" target="_blank" rel="noreferrer noopener">Canada.ca</a> content and services. The tool captures over 3,000 daily questions and answers from people navigating immigration applications, employment benefits, tax account management, and more. <strong>While GC teams continue to improve </strong><a href="http://canada.ca" target="_blank" rel="noreferrer noopener"><strong>Canada.ca</strong></a><strong>, these improvements alone cannot fully address the challenge of helping people navigate the vast array of GC web content and services.</strong></p>
+<p class="wp-block-paragraph">The <a href="https://design.canada.ca/common-design-patterns/page-feedback.html" target="_blank" rel="noreferrer noopener">GC Feedback tool</a> is being used by many teams to improve their <a href="http://canada.ca" target="_blank" rel="noreferrer noopener">Canada.ca</a> content and services. The tool captures over 3,000 daily questions and answers from people navigating immigration applications, employment benefits, tax account management, and more. <strong>While GC teams continue to improve </strong><a href="http://canada.ca" target="_blank" rel="noreferrer noopener"><strong>Canada.ca</strong></a><strong>, these improvements alone cannot fully address the challenge of helping people navigate the vast array of GC web content and services.</strong></p>
 
 
 
-<p><strong>This summer, CDS tested a new approach: </strong><a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener"><strong>AI Answers</strong></a>. It’s an AI-based service that provides people with short, plain-language responses (sourced exclusively from GC websites, with authoritative links to guide users to their next steps). <strong>This blog highlights the AI Answers trial results, including key findings and what we learned.</strong></p>
+<p class="wp-block-paragraph"><strong>This summer, CDS tested a new approach: </strong><a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener"><strong>AI Answers</strong></a>. It’s an AI-based service that provides people with short, plain-language responses (sourced exclusively from GC websites, with authoritative links to guide users to their next steps). <strong>This blog highlights the AI Answers trial results, including key findings and what we learned.</strong></p>
 
 
 
@@ -44,20 +44,20 @@ translationKey: blog-ai-answers
 <img loading="lazy" decoding="async" width="1009" height="698" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In.jpg" alt="Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service." class="wp-image-3393" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In.jpg 1009w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In-300x208.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Sign-In-768x531.jpg 768w" sizes="auto, (max-width: 1009px) 100vw, 1009px" />
 
 
-<p style="font-size:13px">Alt-text: Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>
+<p class="wp-block-paragraph" style="font-size:13px">Alt-text: Screenshot of the Government of Canada online account sign-in page showing the login options and a pop up inviting users to try the new AI Answers Service.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>The technical approach</summary>
-<p>Our model-independent architecture used Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.&nbsp;</p>
+<p class="wp-block-paragraph">Our model-independent architecture used Azure Canada GPT 4.1 with department-specific prompts for 10 institutions: CIRNAC, CRA, ESDC, FIN, HC, IRCC, ISC, PHAC, PSPC, and TBS.&nbsp;</p>
 
 
 
-<p>Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites (<a href="https://ai-answers.alpha.canada.ca/en/about">learn more about AI Answers</a>).&nbsp;</p>
+<p class="wp-block-paragraph">Since web content changes frequently, the system uses search and downloads specific pages to answer questions, rather than pre-scraping web content. This AI system relies on information provided on GC websites (<a href="https://ai-answers.alpha.canada.ca/en/about">learn more about AI Answers</a>).&nbsp;</p>
 
 
 
-<p>The AI Answers product team built a detailed agentic system (users &#8216;chat with a specialized agent) prompt to make sure that answers are clear, concise, and helpful. We built in both human expert evaluation and AI scoring systems, with blocking of personal identifying information to protect user privacy.&nbsp;</p>
+<p class="wp-block-paragraph">The AI Answers product team built a detailed agentic system (users &#8216;chat with a specialized agent) prompt to make sure that answers are clear, concise, and helpful. We built in both human expert evaluation and AI scoring systems, with blocking of personal identifying information to protect user privacy.&nbsp;</p>
 </details>
 
 
@@ -72,7 +72,7 @@ translationKey: blog-ai-answers
 
 
 
-<p><strong>The question distribution revealed user priorities:</strong></p>
+<p class="wp-block-paragraph"><strong>The question distribution revealed user priorities:</strong></p>
 
 
 
@@ -96,7 +96,7 @@ translationKey: blog-ai-answers
 <img loading="lazy" decoding="async" width="679" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-679x1024.png" alt="" class="wp-image-3396" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-679x1024.png 679w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-199x300.png 199w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers-768x1159.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/AI-Answers.png 824w" sizes="auto, (max-width: 679px) 100vw, 679px" />
 
 
-<p style="font-size:13px">Alt-text: Screenshot of the AI Answers service page. The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
+<p class="wp-block-paragraph" style="font-size:13px">Alt-text: Screenshot of the AI Answers service page. The page explains that the tool can help users find answers to their questions about Canada.ca services and information.</p>
 
 
 
@@ -200,13 +200,13 @@ translationKey: blog-ai-answers
 
 
 
-<p>In the near future, our team will publish a few blog posts about the design, safety, and operations of AI Answers to give you deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.&nbsp;</p>
+<p class="wp-block-paragraph">In the near future, our team will publish a few blog posts about the design, safety, and operations of AI Answers to give you deeper insight into this experimental service. We hope that our work helps AI development teams across the public sector deploy safe and effective applications.&nbsp;</p>
 
 
 
-<p><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener"><strong>Subscribe to the CDS newsletter for updates on our work</strong></a><strong>! </strong>You can also <a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener">visit the AI Answers trial site</a> or explore how we&#8217;re building user-centered digital services at <a href="https://digital.canada.ca/"></a><a href="http://digital.canada.ca" target="_blank" rel="noreferrer noopener">digital.canada.ca</a>.</p>
+<p class="wp-block-paragraph"><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noreferrer noopener"><strong>Subscribe to the CDS newsletter for updates on our work</strong></a><strong>! </strong>You can also <a href="https://ai-answers.alpha.canada.ca/en" target="_blank" rel="noreferrer noopener">visit the AI Answers trial site</a> or explore how we&#8217;re building user-centered digital services at <a href="https://digital.canada.ca/"></a><a href="http://digital.canada.ca" target="_blank" rel="noreferrer noopener">digital.canada.ca</a>.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
