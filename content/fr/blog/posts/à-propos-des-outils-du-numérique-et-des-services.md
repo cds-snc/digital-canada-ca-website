@@ -12,15 +12,15 @@ tags: ["Accessibilité","Conception de contenu","Gestion de produits"]
 translationKey: blog-introducing-sd-toolkit
 ---
 
-<p>Les équipes du GC s’efforcent d’améliorer leurs services, de répondre aux besoins des utilisateurs et utilisatrices, et de tirer le meilleur parti des outils numériques. Toutefois, il n’est pas facile de naviguer parmi les normes, les politiques et les priorités en évolution du domaine numérique. Au SNC, nous avons vécu ces défis directement.&nbsp;</p>
+<p class="wp-block-paragraph">Les équipes du GC s’efforcent d’améliorer leurs services, de répondre aux besoins des utilisateurs et utilisatrices, et de tirer le meilleur parti des outils numériques. Toutefois, il n’est pas facile de naviguer parmi les normes, les politiques et les priorités en évolution du domaine numérique. Au SNC, nous avons vécu ces défis directement.&nbsp;</p>
 
 
 
-<p><a href="https://numerique.canada.ca/a-propos/" target="_blank" rel="noreferrer noopener">Notre mission</a> est d’aider les ministères à améliorer leur prestation de services en se servant des <a href="https://numerique.canada.ca" target="_blank" rel="noreferrer noopener">outils numériques</a> de manière efficace. <strong>À cette fin, nous avons créé <a href="https://numerique.canada.ca/boite-a-outils-en-matiere-de-numerique-et-de-services/" target="_blank" rel="noreferrer noopener">les outils du numérique et des services (ONS).</a> Il s’agit d’un ensemble de ressources choisies avec soin qui fournit de l’orientation concrète, des études de cas et des pratiques exemplaires dans le but d’aider les équipes à relever les défis communs liés à la prestation de services. </strong>Cet ensemble d’outils est conforme à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32603" target="_blank" rel="noreferrer noopener">politique sur les services et le numérique</a> et les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html" target="_blank" rel="noreferrer noopener">normes relatives au numérique</a>, permettant aux équipes de créer des services agiles, transparents et centrés sur la clientèle.</p>
+<p class="wp-block-paragraph"><a href="https://numerique.canada.ca/a-propos/" target="_blank" rel="noreferrer noopener">Notre mission</a> est d’aider les ministères à améliorer leur prestation de services en se servant des <a href="https://numerique.canada.ca" target="_blank" rel="noreferrer noopener">outils numériques</a> de manière efficace. <strong>À cette fin, nous avons créé <a href="https://numerique.canada.ca/boite-a-outils-en-matiere-de-numerique-et-de-services/" target="_blank" rel="noreferrer noopener">les outils du numérique et des services (ONS).</a> Il s’agit d’un ensemble de ressources choisies avec soin qui fournit de l’orientation concrète, des études de cas et des pratiques exemplaires dans le but d’aider les équipes à relever les défis communs liés à la prestation de services. </strong>Cet ensemble d’outils est conforme à la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32603" target="_blank" rel="noreferrer noopener">politique sur les services et le numérique</a> et les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html" target="_blank" rel="noreferrer noopener">normes relatives au numérique</a>, permettant aux équipes de créer des services agiles, transparents et centrés sur la clientèle.</p>
 
 
 
-<p><strong>Les outils du numérique et des services fournissent&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Les outils du numérique et des services fournissent&nbsp;:</strong></p>
 
 
 
@@ -38,7 +38,7 @@ translationKey: blog-introducing-sd-toolkit
 
 
 
-<p>En rassemblant des ressources pratiques et bilingues fondées sur des expériences réelles et les leçons apprises par le SNC et ses partenaires, cet ensemble d’outils peut aider votre équipe à relever des défis, à adopter des méthodes de travail modernes et à concevoir des services centrés sur la personne, accessibles et fondés sur les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html" target="_blank" rel="noreferrer noopener">normes relatives au numérique</a> du GC.&nbsp;</p>
+<p class="wp-block-paragraph">En rassemblant des ressources pratiques et bilingues fondées sur des expériences réelles et les leçons apprises par le SNC et ses partenaires, cet ensemble d’outils peut aider votre équipe à relever des défis, à adopter des méthodes de travail modernes et à concevoir des services centrés sur la personne, accessibles et fondés sur les <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html" target="_blank" rel="noreferrer noopener">normes relatives au numérique</a> du GC.&nbsp;</p>
 
 
 
@@ -46,15 +46,15 @@ translationKey: blog-introducing-sd-toolkit
 
 
 
-<p>Contrairement à un ensemble statique de pratiques exemplaires, les outils du numérique et des services sont une ressource dynamique axée sur le «&nbsp;comment&nbsp;». Ils fournissent de l’orientation qui s’adapte aux besoins et contextes particuliers des fonctionnaires de l’ensemble du GC. Plutôt que de prescrire une approche unique, nous souhaitons aider les fonctionnaires à trouver et appliquer ce qui leur est utile, et susciter des changements significatifs au sein des équipes.</p>
+<p class="wp-block-paragraph">Contrairement à un ensemble statique de pratiques exemplaires, les outils du numérique et des services sont une ressource dynamique axée sur le «&nbsp;comment&nbsp;». Ils fournissent de l’orientation qui s’adapte aux besoins et contextes particuliers des fonctionnaires de l’ensemble du GC. Plutôt que de prescrire une approche unique, nous souhaitons aider les fonctionnaires à trouver et appliquer ce qui leur est utile, et susciter des changements significatifs au sein des équipes.</p>
 
 
 
-<p><strong>Nous avons conçu les outils de sorte qu’ils soient facilement accessibles, consultables, partageables et assortis de lignes directrices structurées portant notamment sur la prestation de services agiles, la conception centrée sur la personne et l’accessibilité.&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>Nous avons conçu les outils de sorte qu’ils soient facilement accessibles, consultables, partageables et assortis de lignes directrices structurées portant notamment sur la prestation de services agiles, la conception centrée sur la personne et l’accessibilité.&nbsp;</strong></p>
 
 
 
-<p>L’ensemble d’outils inclut également plusieurs ressources, notamment des guides, des gabarits, des études de cas, des cadres conceptuels et des outils pratiques, tous conçus pour aider les équipes à répondre à des questions clés, telles que&nbsp;:</p>
+<p class="wp-block-paragraph">L’ensemble d’outils inclut également plusieurs ressources, notamment des guides, des gabarits, des études de cas, des cadres conceptuels et des outils pratiques, tous conçus pour aider les équipes à répondre à des questions clés, telles que&nbsp;:</p>
 
 
 
@@ -76,13 +76,13 @@ translationKey: blog-introducing-sd-toolkit
 
 
 
-<p>Comme nous en sommes toujours aux premières phases du développement des outils du numérique et des services, nous voulons nous assurer qu’ils répondent à vos besoins, quels que soient vos objectifs actuels et le contexte dans lequel vous travaillez. C’est pour cette raison que <strong>nous vous invitons à nous faire part de vos questions, vos commentaires et vos idées (</strong><a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener"><strong>par courriel</strong></a><strong>).&nbsp;</strong></p>
+<p class="wp-block-paragraph">Comme nous en sommes toujours aux premières phases du développement des outils du numérique et des services, nous voulons nous assurer qu’ils répondent à vos besoins, quels que soient vos objectifs actuels et le contexte dans lequel vous travaillez. C’est pour cette raison que <strong>nous vous invitons à nous faire part de vos questions, vos commentaires et vos idées (</strong><a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener"><strong>par courriel</strong></a><strong>).&nbsp;</strong></p>
 
 
 
-<p>Nous aimerions connaître les ressources qui vous sont les plus utiles, ainsi que les défis principaux auxquels vous faites face lorsque vous cherchez des outils visant l’amélioration de la conception et de la prestation de services.&nbsp;</p>
+<p class="wp-block-paragraph">Nous aimerions connaître les ressources qui vous sont les plus utiles, ainsi que les défis principaux auxquels vous faites face lorsque vous cherchez des outils visant l’amélioration de la conception et de la prestation de services.&nbsp;</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
