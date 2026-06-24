@@ -12,15 +12,15 @@ tags: [""]
 translationKey: blog-design-critiques-ised
 ---
 
-<p>Two years is a long time – a lot has happened. Since publishing the blog <a href="https://digital.canada.ca/2021/07/08/little-and-often-making-critique-a-daily-practice/" target="_blank" rel="noreferrer noopener">Little and often: making critique a daily practice</a>, CDS’s content design critique ritual has evolved and been adopted by other teams in the GC.&nbsp;</p>
+<p class="wp-block-paragraph">Two years is a long time – a lot has happened. Since publishing the blog <a href="https://digital.canada.ca/2021/07/08/little-and-often-making-critique-a-daily-practice/" target="_blank" rel="noreferrer noopener">Little and often: making critique a daily practice</a>, CDS’s content design critique ritual has evolved and been adopted by other teams in the GC.&nbsp;</p>
 
 
 
-<p>Last summer, CDS ran a critique workshop with teams at Innovation, Science and Economic Development Canada (ISED). The teams at ISED have started their own critique ritual – a structured practice of regularly sharing work with colleagues for feedback, with the goal of service improvements.</p>
+<p class="wp-block-paragraph">Last summer, CDS ran a critique workshop with teams at Innovation, Science and Economic Development Canada (ISED). The teams at ISED have started their own critique ritual – a structured practice of regularly sharing work with colleagues for feedback, with the goal of service improvements.</p>
 
 
 
-<p>To help other GC teams adopt critique practices too, Kivi Shapiro (Senior Analyst, <a href="https://ised-isde.canada.ca/site/design-experimentation-centre-expertise/en" target="_blank" rel="noreferrer noopener">Design and Experimentation Centre of Expertise at ISED</a>) and Christina Valentino (User Experience Designer, <a href="https://ised-isde.canada.ca/site/measurement-canada/en" target="_blank" rel="noreferrer noopener">Measurement Canada at ISED</a>) are sharing their experiences.&nbsp;</p>
+<p class="wp-block-paragraph">To help other GC teams adopt critique practices too, Kivi Shapiro (Senior Analyst, <a href="https://ised-isde.canada.ca/site/design-experimentation-centre-expertise/en" target="_blank" rel="noreferrer noopener">Design and Experimentation Centre of Expertise at ISED</a>) and Christina Valentino (User Experience Designer, <a href="https://ised-isde.canada.ca/site/measurement-canada/en" target="_blank" rel="noreferrer noopener">Measurement Canada at ISED</a>) are sharing their experiences.&nbsp;</p>
 
 
 
@@ -32,11 +32,11 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>I’m <a href="https://www.linkedin.com/in/kivishapiro/" target="_blank" rel="noreferrer noopener">Kivi Shapiro</a> – a Senior Analyst at <a href="https://ised-isde.canada.ca/site/design-experimentation-centre-expertise/en" target="_blank" rel="noreferrer noopener">ISED’s Design and Experimentation Centre of Expertise (DECoE)</a>. My team works with other ISED teams (our clients) who want to improve their existing service offerings and/or are looking for guidance with new ones.</p>
+<p class="wp-block-paragraph">I’m <a href="https://www.linkedin.com/in/kivishapiro/" target="_blank" rel="noreferrer noopener">Kivi Shapiro</a> – a Senior Analyst at <a href="https://ised-isde.canada.ca/site/design-experimentation-centre-expertise/en" target="_blank" rel="noreferrer noopener">ISED’s Design and Experimentation Centre of Expertise (DECoE)</a>. My team works with other ISED teams (our clients) who want to improve their existing service offerings and/or are looking for guidance with new ones.</p>
 
 
 
-<p><strong>We help in 2 ways:</strong></p>
+<p class="wp-block-paragraph"><strong>We help in 2 ways:</strong></p>
 
 
 
@@ -56,15 +56,15 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>My name’s <a href="https://www.linkedin.com/in/christina-valentino-9440b7161/" target="_blank" rel="noreferrer noopener">Christina Valentino</a> and I’m a User Experience (UX) Designer at <a href="https://ised-isde.canada.ca/site/measurement-canada/en" target="_blank" rel="noreferrer noopener">Measurement Canada (part of ISED)</a>. I work on internal applications and am the only UX Designer on my team, so it’s very helpful being able to bring our brains together for critiques on my work.&nbsp;</p>
+<p class="wp-block-paragraph">My name’s <a href="https://www.linkedin.com/in/christina-valentino-9440b7161/" target="_blank" rel="noreferrer noopener">Christina Valentino</a> and I’m a User Experience (UX) Designer at <a href="https://ised-isde.canada.ca/site/measurement-canada/en" target="_blank" rel="noreferrer noopener">Measurement Canada (part of ISED)</a>. I work on internal applications and am the only UX Designer on my team, so it’s very helpful being able to bring our brains together for critiques on my work.&nbsp;</p>
 
 
 
-<p>Measurement Canada plays a vital role in ensuring the accuracy of <a href="https://ised-isde.canada.ca/site/measurement-canada/en/buying-and-selling-measured-goods/buying-measured-goods" target="_blank" rel="noreferrer noopener">measured goods in Canada (such as electricity and gasoline)</a>. We enforce and develop Canada’s measurement accuracy laws: performing inspections on measured goods, investigating complaints of suspected inaccurate measurement, and approving measurement devices (such as electricity meters and gasoline pumps).</p>
+<p class="wp-block-paragraph">Measurement Canada plays a vital role in ensuring the accuracy of <a href="https://ised-isde.canada.ca/site/measurement-canada/en/buying-and-selling-measured-goods/buying-measured-goods" target="_blank" rel="noreferrer noopener">measured goods in Canada (such as electricity and gasoline)</a>. We enforce and develop Canada’s measurement accuracy laws: performing inspections on measured goods, investigating complaints of suspected inaccurate measurement, and approving measurement devices (such as electricity meters and gasoline pumps).</p>
 
 
 
-<p>I’m part of Measurement Canada’s Digital Office. We’re responsible for developing, maintaining, and improving applications, such as the Online Reporting Application (ORA). My team works on all things product development – including user research, planning, prototyping, testing, and packaging it all up for development. Our Digital Office is the central point of our application’s users, support team, and development team, so we can support Measurement Canada in improving their services to better meet people in Canada’s needs.</p>
+<p class="wp-block-paragraph">I’m part of Measurement Canada’s Digital Office. We’re responsible for developing, maintaining, and improving applications, such as the Online Reporting Application (ORA). My team works on all things product development – including user research, planning, prototyping, testing, and packaging it all up for development. Our Digital Office is the central point of our application’s users, support team, and development team, so we can support Measurement Canada in improving their services to better meet people in Canada’s needs.</p>
 
 
 
@@ -72,7 +72,7 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>We found CDS’s content critique ritual to be very applicable to our work, so we organized our own critique sessions for service designers at ISED. Some days we’re looking for answers to general questions, and other days we have work to show, like prototypes.</p>
+<p class="wp-block-paragraph">We found CDS’s content critique ritual to be very applicable to our work, so we organized our own critique sessions for service designers at ISED. Some days we’re looking for answers to general questions, and other days we have work to show, like prototypes.</p>
 
 
 
@@ -80,11 +80,11 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>We figured we’d use CDS’s model for critiques to start our own ritual, since we know it works for them. Participants meet for 15 minute critique sessions at 9:45 am, with designated days for presenters. We’re a smaller group, so we decided to start with 2 days a week vs daily (DECoE presents on Mondays and Measurement Canada on Tuesdays). While we have designated days, we’re also flexible with swapping when needed.&nbsp;</p>
+<p class="wp-block-paragraph">We figured we’d use CDS’s model for critiques to start our own ritual, since we know it works for them. Participants meet for 15 minute critique sessions at 9:45 am, with designated days for presenters. We’re a smaller group, so we decided to start with 2 days a week vs daily (DECoE presents on Mondays and Measurement Canada on Tuesdays). While we have designated days, we’re also flexible with swapping when needed.&nbsp;</p>
 
 
 
-<p>For the DECoE team, we’ve set our critique ritual schedule to work with our other existing team rituals, like <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=scrum&amp;index=alt&amp;codom2nd_wet=1#resultrecs" target="_blank" rel="noreferrer noopener">Scrum sessions</a> and workshops. For example, if we’re planning on doing usability testing on Wednesday, we’ll bring the mockups to critique on the Monday before. This makes us pause to make sure we’re on the right track and course correct if needed, before sharing with research participants (improving what we show them).</p>
+<p class="wp-block-paragraph">For the DECoE team, we’ve set our critique ritual schedule to work with our other existing team rituals, like <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&amp;i=1&amp;srchtxt=scrum&amp;index=alt&amp;codom2nd_wet=1#resultrecs" target="_blank" rel="noreferrer noopener">Scrum sessions</a> and workshops. For example, if we’re planning on doing usability testing on Wednesday, we’ll bring the mockups to critique on the Monday before. This makes us pause to make sure we’re on the right track and course correct if needed, before sharing with research participants (improving what we show them).</p>
 
 
 
@@ -92,11 +92,11 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>It&#8217;s refreshing to get different perspectives when presenting. When people ask questions, it helps us re-evaluate our work, so we can change for the better. Outside views can really help, especially when you’ve been working on something for so long or by yourself.</p>
+<p class="wp-block-paragraph">It&#8217;s refreshing to get different perspectives when presenting. When people ask questions, it helps us re-evaluate our work, so we can change for the better. Outside views can really help, especially when you’ve been working on something for so long or by yourself.</p>
 
 
 
-<p>Currently, only teams at DECoE and Measurement Canada have committed to presenting at our critique sessions, with other teams participating occasionally. We’d love to grow our critique ritual and add more sessions for designers from other ISED teams to present at (we have 3 more spots to fill)! If your team at ISED is interested in participating or if you’re a public servant wanting to learn more about our critique ritual, please <a href="https://www.ic.gc.ca/eic/site/096.nsf/frm-eng/WDES-AQZTH8" target="_blank" rel="noreferrer noopener">reach out.</a></p>
+<p class="wp-block-paragraph">Currently, only teams at DECoE and Measurement Canada have committed to presenting at our critique sessions, with other teams participating occasionally. We’d love to grow our critique ritual and add more sessions for designers from other ISED teams to present at (we have 3 more spots to fill)! If your team at ISED is interested in participating or if you’re a public servant wanting to learn more about our critique ritual, please <a href="https://www.ic.gc.ca/eic/site/096.nsf/frm-eng/WDES-AQZTH8" target="_blank" rel="noreferrer noopener">reach out.</a></p>
 
 
 
@@ -108,7 +108,7 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>It’s harder to make assumptions about your work when people are questioning your reasoning for decisions. Critique sessions challenge you to make informed decisions – you need to be able to explain why you chose things, resulting in more intentional work.</p>
+<p class="wp-block-paragraph">It’s harder to make assumptions about your work when people are questioning your reasoning for decisions. Critique sessions challenge you to make informed decisions – you need to be able to explain why you chose things, resulting in more intentional work.</p>
 
 
 
@@ -116,24 +116,24 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>I can&#8217;t think of a single critique session I’ve been to where nobody benefitted. Either the presenting team or folks on the call have learned, or both. It’s always a useful session – for its own merits and it’s also a good tool to help us all grow together as designers. There&#8217;s always something that we&#8217;re discussing.</p>
+<p class="wp-block-paragraph">I can&#8217;t think of a single critique session I’ve been to where nobody benefitted. Either the presenting team or folks on the call have learned, or both. It’s always a useful session – for its own merits and it’s also a good tool to help us all grow together as designers. There&#8217;s always something that we&#8217;re discussing.</p>
 
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Example from one of ISED’s critique sessions</summary>
-<p>Right now at DECoE, we&#8217;re working on a project with the <a href="https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en" target="_blank" rel="noreferrer noopener">people in charge of spectrum management and telecommunications.</a> These are the folks who regulate Canada&#8217;s airwaves, including radio signals, TVs, cell phones, etc. We&#8217;re helping them design a new, public-facing service that enables individual businesses (like universities or factories) who meet their <a href="https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/decision-non-competitive-local-licensing-framework-including-spectrum-3900-3980-mhz-band-and" target="_blank" rel="noreferrer noopener">rules</a> to choose a network that’s just for them (like a 5G network). This removes interference and improves the signal quality of the network.</p>
+<p class="wp-block-paragraph">Right now at DECoE, we&#8217;re working on a project with the <a href="https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en" target="_blank" rel="noreferrer noopener">people in charge of spectrum management and telecommunications.</a> These are the folks who regulate Canada&#8217;s airwaves, including radio signals, TVs, cell phones, etc. We&#8217;re helping them design a new, public-facing service that enables individual businesses (like universities or factories) who meet their <a href="https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/decision-non-competitive-local-licensing-framework-including-spectrum-3900-3980-mhz-band-and" target="_blank" rel="noreferrer noopener">rules</a> to choose a network that’s just for them (like a 5G network). This removes interference and improves the signal quality of the network.</p>
 
 
 
-<p>Since many potential users of this service won’t have technical experience with spectrum, the application form for spectrum licenses needs to be easy to understand and complete. In the form we’re designing, applicants can select one of two power levels for their cellular network: low power or medium power. Low power transmitters can be used in license areas up to 15 km², while medium power transmitters can be used in license areas between 75 km² and 165 km² (any other size of license area is invalid, but people can apply for multiple smaller licenses that cover the desired area).</p>
+<p class="wp-block-paragraph">Since many potential users of this service won’t have technical experience with spectrum, the application form for spectrum licenses needs to be easy to understand and complete. In the form we’re designing, applicants can select one of two power levels for their cellular network: low power or medium power. Low power transmitters can be used in license areas up to 15 km², while medium power transmitters can be used in license areas between 75 km² and 165 km² (any other size of license area is invalid, but people can apply for multiple smaller licenses that cover the desired area).</p>
 
 
 
-<p>The step where we ask applicants about the power level is step 3 of 6, and on the following screen, step 4 of 6, we ask them to draw their desired license area on a map. Since the map page has data validation, if the user draws an area that is too large or too small for the power level they chose, then they get an error message.&nbsp;</p>
+<p class="wp-block-paragraph">The step where we ask applicants about the power level is step 3 of 6, and on the following screen, step 4 of 6, we ask them to draw their desired license area on a map. Since the map page has data validation, if the user draws an area that is too large or too small for the power level they chose, then they get an error message.&nbsp;</p>
 
 
 
-<p>When we brought the design to a review session, one of the participants pointed out that we didn’t have any kind of size reminder for the applicant before they started drawing. This was a violation of Jakob Nielsen’s Usability Heuristic #6: “Recognition rather than recall”. They suggested we add a reminder to the page’s instructions, which we did. It’s a small change, but one that has the potential to save people time.</p>
+<p class="wp-block-paragraph">When we brought the design to a review session, one of the participants pointed out that we didn’t have any kind of size reminder for the applicant before they started drawing. This was a violation of Jakob Nielsen’s Usability Heuristic #6: “Recognition rather than recall”. They suggested we add a reminder to the page’s instructions, which we did. It’s a small change, but one that has the potential to save people time.</p>
 </details>
 
 
@@ -142,11 +142,11 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>Critique rituals can be really helpful when they’re designed to meet your needs.&nbsp;</p>
+<p class="wp-block-paragraph">Critique rituals can be really helpful when they’re designed to meet your needs.&nbsp;</p>
 
 
 
-<p><strong>Below are tips from public servants at ISED and CDS to help teams get the most value out of the time:</strong></p>
+<p class="wp-block-paragraph"><strong>Below are tips from public servants at ISED and CDS to help teams get the most value out of the time:</strong></p>
 
 
 
@@ -180,5 +180,5 @@ translationKey: blog-design-critiques-ised
 
 
 
-<p>Want to start organizing a critique ritual on your team? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> if you have questions.</p>
+<p class="wp-block-paragraph">Want to start organizing a critique ritual on your team? <a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">Reach out to us</a> if you have questions.</p>
 
