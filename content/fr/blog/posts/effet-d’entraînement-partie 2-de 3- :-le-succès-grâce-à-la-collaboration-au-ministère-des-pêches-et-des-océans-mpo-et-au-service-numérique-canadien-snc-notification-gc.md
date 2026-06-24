@@ -12,13 +12,13 @@ tags: ["Notification GC"]
 translationKey: dfo-series-gcds-p2
 ---
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
-<p class="has-background" style="background-color:#8cd0f2"><strong>Dans le deuxième de cette série de trois billets de blogue, le MPO explique comment il navigue sur des voies encore inexplorées avec Notification GC. Ensemble, nous combinons eau et numérique (deux éléments qui ne font traditionnellement pas bon ménage) afin d’ouvrir de nouvelles possibilités!</strong> </p>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
+<p class="has-background wp-block-paragraph" style="background-color:#8cd0f2"><strong>Dans le deuxième de cette série de trois billets de blogue, le MPO explique comment il navigue sur des voies encore inexplorées avec Notification GC. Ensemble, nous combinons eau et numérique (deux éléments qui ne font traditionnellement pas bon ménage) afin d’ouvrir de nouvelles possibilités!</strong> </p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
 <ul class="wp-block-list">
 <li><a href="https://numerique.canada.ca/2025/12/22/effet-dentra%C3%AEnement-partie-1-de-3--le-succ%C3%A8s-gr%C3%A2ce-%C3%A0-la-collaboration-au-minist%C3%A8re-des-p%C3%AAches-et-des-oc%C3%A9ans-mpo-et-au-service-num%C3%A9rique-canadien-snc/" target="_blank" rel="noreferrer noopener"><strong>Partie&nbsp;1 de 3&nbsp;: le MPO navigue sur des voies encore inexplorées avec le Système de design GC</strong></a></li>
 </ul>
@@ -28,20 +28,20 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Les </strong><a href="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>produits du SNC </strong></a><strong><strong><strong>font des vague auprès de l&rsquo;equipe du SDPN du </strong></strong></strong><a href="https://www.dfo-mpo.gc.ca/index-fra.html" data-type="link" data-id="https://www.dfo-mpo.gc.ca/index-fra.html"><strong>MPO</strong></a><strong>.</strong> Le MPO est chargé de protéger les océans du Canada et de préserver les ressources halieutiques et océaniques, notamment en veillant à la santé et à la protection des écosystèmes océaniques du pays.</p>
+<p class="wp-block-paragraph"><strong>Les </strong><a href="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener"><strong>produits du SNC </strong></a><strong><strong><strong>font des vague auprès de l&rsquo;equipe du SDPN du </strong></strong></strong><a href="https://www.dfo-mpo.gc.ca/index-fra.html" data-type="link" data-id="https://www.dfo-mpo.gc.ca/index-fra.html"><strong>MPO</strong></a><strong>.</strong> Le MPO est chargé de protéger les océans du Canada et de préserver les ressources halieutiques et océaniques, notamment en veillant à la santé et à la protection des écosystèmes océaniques du pays.</p>
 
 
 
-<p>L’équipe du Secteur du dirigeant principal du numérique (SDPN) travaille en collaboration avec les équipes responsables des produits du SNC pour trouver des moyens de rationaliser les flux de travail, d’en accroître la portée et de façonner l’avenir des initiatives numériques. Ces efforts de collaboration ont donné lieu à une rétroaction utile pour toutes les équipes, qui a permis d’améliorer les produits et les services au MPO et au SNC.</p>
+<p class="wp-block-paragraph">L’équipe du Secteur du dirigeant principal du numérique (SDPN) travaille en collaboration avec les équipes responsables des produits du SNC pour trouver des moyens de rationaliser les flux de travail, d’en accroître la portée et de façonner l’avenir des initiatives numériques. Ces efforts de collaboration ont donné lieu à une rétroaction utile pour toutes les équipes, qui a permis d’améliorer les produits et les services au MPO et au SNC.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Dites bonjour aux équipes numériques du MPO!</summary>
-<p>Nous avons parlé à des membres du SDPN du MPO de leur expérience en tant qu’utilisateurs de Notification&nbsp;GC.</p>
+<p class="wp-block-paragraph">Nous avons parlé à des membres du SDPN du MPO de leur expérience en tant qu’utilisateurs de Notification&nbsp;GC.</p>
 
 
 
-<p><strong>Le SDPN fait office de guichet numérique en matière de technologies de l’information (TI) au MPO et il est composé de 4 directions&nbsp;: </strong></p>
+<p class="wp-block-paragraph"><strong>Le SDPN fait office de guichet numérique en matière de technologies de l’information (TI) au MPO et il est composé de 4 directions&nbsp;: </strong></p>
 
 
 
@@ -63,7 +63,7 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p><strong>Voici les membres de l’équipe du SDPN du MPO que nous avons interviewés&nbsp;:</strong> <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine&nbsp;Bedward (directeur de l’expérience utilisateur)</a>, <strong>Russell&nbsp;Moore (analyste au carrefour numérique de l’organisation)</strong>, <a href="https://www.linkedin.com/in/paula-akemi/" target="_blank" rel="noreferrer noopener">Paula&nbsp;Aoyagui (responsable de la stratégie en matière d’expérience utilisateur et de l’accessibilité numérique)</a>, <a href="https://www.linkedin.com/in/lisanne-vickers-520294a6/" target="_blank" rel="noreferrer noopener">Lisanne&nbsp;Vickers (chef d’équipe de la conception d’expérience utilisateur)</a> et <a href="https://www.linkedin.com/in/adele-strub" target="_blank" rel="noreferrer noopener">Adele Strub (conceptrice d’expérience utilisateur)</a>.</p>
+<p class="wp-block-paragraph"><strong>Voici les membres de l’équipe du SDPN du MPO que nous avons interviewés&nbsp;:</strong> <a href="https://www.linkedin.com/in/antoinebedward/" target="_blank" rel="noreferrer noopener">Antoine&nbsp;Bedward (directeur de l’expérience utilisateur)</a>, <strong>Russell&nbsp;Moore (analyste au carrefour numérique de l’organisation)</strong>, <a href="https://www.linkedin.com/in/paula-akemi/" target="_blank" rel="noreferrer noopener">Paula&nbsp;Aoyagui (responsable de la stratégie en matière d’expérience utilisateur et de l’accessibilité numérique)</a>, <a href="https://www.linkedin.com/in/lisanne-vickers-520294a6/" target="_blank" rel="noreferrer noopener">Lisanne&nbsp;Vickers (chef d’équipe de la conception d’expérience utilisateur)</a> et <a href="https://www.linkedin.com/in/adele-strub" target="_blank" rel="noreferrer noopener">Adele Strub (conceptrice d’expérience utilisateur)</a>.</p>
 </details>
 
 
@@ -80,15 +80,15 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p>Le MPO utilise le carrefour des données de l’organisation, l’une de ses principales plateformes, qui nécessite de répertorier et de stocker les données de l’organisation.</p>
+<p class="wp-block-paragraph">Le MPO utilise le carrefour des données de l’organisation, l’une de ses principales plateformes, qui nécessite de répertorier et de stocker les données de l’organisation.</p>
 
 
 
-<p>Les utilisateurs peuvent faire de nombreux types de demandes dans le carrefour, y compris demander le téléversement de données dans le catalogue du carrefour ou la publication ouverte de données afin qu’elles soient accessibles au public. <a href="https://rechercher.ouvert.canada.ca/donneesouvertes/?owner_org=dfo-mpo" target="_blank" rel="noreferrer noopener">Le MPO a publié plus de 700&nbsp;ensembles de données dans le Portail du gouvernement ouvert du gouvernement du Canada</a>; la diffusion de données ouvertes peut contribuer à sensibiliser le public et est utile pour les personnes qui participent à des initiatives de protection ou de restauration.</p>
+<p class="wp-block-paragraph">Les utilisateurs peuvent faire de nombreux types de demandes dans le carrefour, y compris demander le téléversement de données dans le catalogue du carrefour ou la publication ouverte de données afin qu’elles soient accessibles au public. <a href="https://rechercher.ouvert.canada.ca/donneesouvertes/?owner_org=dfo-mpo" target="_blank" rel="noreferrer noopener">Le MPO a publié plus de 700&nbsp;ensembles de données dans le Portail du gouvernement ouvert du gouvernement du Canada</a>; la diffusion de données ouvertes peut contribuer à sensibiliser le public et est utile pour les personnes qui participent à des initiatives de protection ou de restauration.</p>
 
 
 
-<p><a href="https://documentation.notification.canada.ca/fr/" target="_blank" rel="noreferrer noopener">Grâce à l’intégration de l’interface de programmation d’application (API) de Notification&nbsp;GC</a>, le carrefour envoie automatiquement des mises à jour et des rappels par courriel aux utilisateurs concernés au sujet des mesures à prendre, par exemple des messages informant que les données sont prêtes à être examinées.</p>
+<p class="wp-block-paragraph"><a href="https://documentation.notification.canada.ca/fr/" target="_blank" rel="noreferrer noopener">Grâce à l’intégration de l’interface de programmation d’application (API) de Notification&nbsp;GC</a>, le carrefour envoie automatiquement des mises à jour et des rappels par courriel aux utilisateurs concernés au sujet des mesures à prendre, par exemple des messages informant que les données sont prêtes à être examinées.</p>
 
 
 
@@ -111,15 +111,15 @@ translationKey: dfo-series-gcds-p2
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>Comment le carrefour des données de l’organisation informe les utilisateurs par l’intermédiaire de Notification&nbsp;GC</summary>
-<p><strong>Russell&nbsp;Moore&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Russell&nbsp;Moore&nbsp;:</strong></p>
 
 
 
-<p>Le carrefour des données de l’organisation est une application que les fonctionnaires du MPO utilisent pour répertorier et stocker des données à l’échelle du ministère.</p>
+<p class="wp-block-paragraph">Le carrefour des données de l’organisation est une application que les fonctionnaires du MPO utilisent pour répertorier et stocker des données à l’échelle du ministère.</p>
 
 
 
-<p><strong>Notification&nbsp;GC est utile pour le traitement de deux types de demandes des utilisateurs dans le carrefour des données&nbsp;:</strong></p>
+<p class="wp-block-paragraph"><strong>Notification&nbsp;GC est utile pour le traitement de deux types de demandes des utilisateurs dans le carrefour des données&nbsp;:</strong></p>
 
 
 
@@ -139,7 +139,7 @@ translationKey: dfo-series-gcds-p2
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>«&nbsp;Pas la peine de réinventer la roue&nbsp;: utilisez-le!&nbsp;» – Russell Moore</summary>
-<p>Pas la peine de réinventer la roue; utilisez Notification&nbsp;GC. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
+<p class="wp-block-paragraph">Pas la peine de réinventer la roue; utilisez Notification&nbsp;GC. C’est un outil accessible et sécurisé qui est couramment utilisé par des dizaines de ministères, alors pourquoi ne pas l’intégrer dans vos applications? Il peut vous être très utile (par exemple en libérant de la capacité) et vous faciliter grandement la vie.</p>
 </details>
 
 
@@ -174,9 +174,9 @@ translationKey: dfo-series-gcds-p2
 
 
 
-<p>Notre équipe de soutien organise fréquemment des séances de démonstration et de discussion à l’intention des fonctionnaires afin de leur faire découvrir en quoi l’outil de notification peut les aider à offrir leurs services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut donner des idées). <a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener">Inscrivez-vous à une démo sur Notification GC</a>!</p>
+<p class="wp-block-paragraph">Notre équipe de soutien organise fréquemment des séances de démonstration et de discussion à l’intention des fonctionnaires afin de leur faire découvrir en quoi l’outil de notification peut les aider à offrir leurs services. Les participants ont la possibilité de poser des questions et d’écouter les autres équipes parler des possibles usages de l’outil (ce qui peut donner des idées). <a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener">Inscrivez-vous à une démo sur Notification GC</a>!</p>
 
 
 
-<p>Le MPO utilise également l’outil <a href="https://conception.canada.ca/retroaction/index.html" target="_blank" rel="noreferrer noopener">Rétroaction&nbsp;GC</a> et le <a href="https://conception.canada.ca/sondage/index.html" target="_blank" rel="noreferrer noopener">Sondage sur la réussite des tâches du gouvernement du Canada</a> dans le cadre de son travail d’optimisation Web. Consultez ces outils pour savoir comment ils peuvent vous aider à mesurer et à améliorer l’expérience utilisateur à l’égard du contenu Web des sites Canada.ca.</p>
+<p class="wp-block-paragraph">Le MPO utilise également l’outil <a href="https://conception.canada.ca/retroaction/index.html" target="_blank" rel="noreferrer noopener">Rétroaction&nbsp;GC</a> et le <a href="https://conception.canada.ca/sondage/index.html" target="_blank" rel="noreferrer noopener">Sondage sur la réussite des tâches du gouvernement du Canada</a> dans le cadre de son travail d’optimisation Web. Consultez ces outils pour savoir comment ils peuvent vous aider à mesurer et à améliorer l’expérience utilisateur à l’égard du contenu Web des sites Canada.ca.</p>
 
