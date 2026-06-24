@@ -12,20 +12,20 @@ tags: ["Formulaires GC"]
 translationKey: blog-pbs-christine-patrick
 ---
 
-<p>Peut-être comptez-vous parmi les 71 % de Canadien·ne·s qui utilisent ou ont déjà utilisé des produits de santé naturels, comme les remèdes à base d’herbes et les vitamines (source : <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/au-sujet-produits.html" target="_blank" rel="noreferrer noopener">Santé Canada</a>). </p>
+<p class="wp-block-paragraph">Peut-être comptez-vous parmi les 71 % de Canadien·ne·s qui utilisent ou ont déjà utilisé des produits de santé naturels, comme les remèdes à base d’herbes et les vitamines (source : <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/au-sujet-produits.html" target="_blank" rel="noreferrer noopener">Santé Canada</a>). </p>
 
 
 
-<p>La <a href="https://www.canada.ca/fr/sante-canada/organisation/a-propos-sante-canada/directions-generales-agences/direction-generale-produits-sante-aliments/direction-produits-sante-naturels-sans-ordonnance.html" target="_blank" rel="noreferrer noopener">Direction des produits de santé naturels et sans ordonnance (DPSNSO)</a> de Santé Canada veille à ce que les personnes résidant au Canada ou visitant le pays aient accès à un large éventail de produits de santé naturels (PSN) et sans ordonnance. Pour ce faire, elle autorise uniquement la distribution de produits qui respectent les normes de sécurité, d’efficacité et de qualité.</p>
+<p class="wp-block-paragraph">La <a href="https://www.canada.ca/fr/sante-canada/organisation/a-propos-sante-canada/directions-generales-agences/direction-generale-produits-sante-aliments/direction-produits-sante-naturels-sans-ordonnance.html" target="_blank" rel="noreferrer noopener">Direction des produits de santé naturels et sans ordonnance (DPSNSO)</a> de Santé Canada veille à ce que les personnes résidant au Canada ou visitant le pays aient accès à un large éventail de produits de santé naturels (PSN) et sans ordonnance. Pour ce faire, elle autorise uniquement la distribution de produits qui respectent les normes de sécurité, d’efficacité et de qualité.</p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
-<p><strong>Si les produits de santé naturels ne vous évoquent rien, <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/trousse-information.html" target="_blank" rel="noreferrer noopener">la réglementation de Santé Canada</a> (qui a vu le jour en 2004) les définit comme les :</strong></p>
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
+<p class="wp-block-paragraph"><strong>Si les produits de santé naturels ne vous évoquent rien, <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/trousse-information.html" target="_blank" rel="noreferrer noopener">la réglementation de Santé Canada</a> (qui a vu le jour en 2004) les définit comme les :</strong></p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -52,11 +52,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Beaucoup de produits sont classés comme des PSN. Pour mettre à jour le statut des produits sur le marché, l’équipe de Santé Canada utilise désormais un nouvel outil : <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">un formulaire Web permettant aux entreprises de signaler des changements de statut</a>. Créé à l’aide de <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">Formulaires GC</a>, celui-ci est accessible, bilingue et sécurisé. Les entreprises sont donc en mesure de l’ouvrir et de le soumettre en toute simplicité.</p>
+<p class="wp-block-paragraph">Beaucoup de produits sont classés comme des PSN. Pour mettre à jour le statut des produits sur le marché, l’équipe de Santé Canada utilise désormais un nouvel outil : <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">un formulaire Web permettant aux entreprises de signaler des changements de statut</a>. Créé à l’aide de <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">Formulaires GC</a>, celui-ci est accessible, bilingue et sécurisé. Les entreprises sont donc en mesure de l’ouvrir et de le soumettre en toute simplicité.</p>
 
 
 
-<p>Nous avons interrogé les fonctionnaires Christine Monteiro (gestionnaire de projet) et Patrick Wright (analyste de politiques) pour en savoir plus sur l’expérience offerte par Formulaires GC à l’équipe de la DPSNSO.</p>
+<p class="wp-block-paragraph">Nous avons interrogé les fonctionnaires Christine Monteiro (gestionnaire de projet) et Patrick Wright (analyste de politiques) pour en savoir plus sur l’expérience offerte par Formulaires GC à l’équipe de la DPSNSO.</p>
 
 
 
@@ -68,7 +68,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
@@ -76,15 +76,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Toute personne souhaitant vérifier le statut de ses produits de santé naturels peut rechercher des renseignements dans notre base de données de produits ! Il s’agit de la <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/demandes-presentations/licence-mise-marche/base-donnees-produits-sante-naturels-homologues.html" target="_blank" rel="noreferrer noopener">base de données sur les produits de santé naturels homologués (BDPSNH)</a>, qui fournit des renseignements sur tous les produits de santé naturels pour lesquels Santé Canada a délivré une licence de mise en marché.</p>
+<p class="wp-block-paragraph">Toute personne souhaitant vérifier le statut de ses produits de santé naturels peut rechercher des renseignements dans notre base de données de produits ! Il s’agit de la <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/demandes-presentations/licence-mise-marche/base-donnees-produits-sante-naturels-homologues.html" target="_blank" rel="noreferrer noopener">base de données sur les produits de santé naturels homologués (BDPSNH)</a>, qui fournit des renseignements sur tous les produits de santé naturels pour lesquels Santé Canada a délivré une licence de mise en marché.</p>
 
 
 
-<p>La base de données indique comment reconnaître les produits de santé naturels homologués à l’aide du numéro de produit naturel (NPN) ou du numéro de médicament homéopathique (DIN-HM) figurant sur l’étiquette. Ces numéros d’identification permettent d’obtenir des renseignements issus de la base de données, comme le nom du produit, la personne détentrice de la licence et l’état de la licence, les ingrédients médicinaux et la posologie recommandée.</p>
+<p class="wp-block-paragraph">La base de données indique comment reconnaître les produits de santé naturels homologués à l’aide du numéro de produit naturel (NPN) ou du numéro de médicament homéopathique (DIN-HM) figurant sur l’étiquette. Ces numéros d’identification permettent d’obtenir des renseignements issus de la base de données, comme le nom du produit, la personne détentrice de la licence et l’état de la licence, les ingrédients médicinaux et la posologie recommandée.</p>
 
 
 
-<p><strong>Savoir, c’est pouvoir.</strong> Nous voulons que le public soit en mesure de prendre des décisions éclairées concernant son utilisation ou sa consommation de produits de santé naturels.<br></p>
+<p class="wp-block-paragraph"><strong>Savoir, c’est pouvoir.</strong> Nous voulons que le public soit en mesure de prendre des décisions éclairées concernant son utilisation ou sa consommation de produits de santé naturels.<br></p>
 
 
 
@@ -92,15 +92,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>En 2021, le commissaire à l’environnement et au développement durable (CEDD) a publié <a href="https://www.oag-bvg.gc.ca/internet/Francais/parl_cesd_202104_02_f_43806.html" target="_blank" rel="noreferrer noopener">un rapport d’audit sur le programme des PSN</a>. En réponse aux recommandations de l’audit, une équipe a été formée pour en apprendre davantage sur les lacunes décelées et sur les façons d’y remédier.</p>
+<p class="wp-block-paragraph">En 2021, le commissaire à l’environnement et au développement durable (CEDD) a publié <a href="https://www.oag-bvg.gc.ca/internet/Francais/parl_cesd_202104_02_f_43806.html" target="_blank" rel="noreferrer noopener">un rapport d’audit sur le programme des PSN</a>. En réponse aux recommandations de l’audit, une équipe a été formée pour en apprendre davantage sur les lacunes décelées et sur les façons d’y remédier.</p>
 
 
 
-<p>L’audit a notamment révélé que nous devions améliorer notre capacité à surveiller et à mettre à jour le statut des produits après leur homologation et leur mise en marché. Nous devions trouver un moyen de permettre aux entreprises de produits de santé naturels de communiquer avec notre équipe à ce sujet.</p>
+<p class="wp-block-paragraph">L’audit a notamment révélé que nous devions améliorer notre capacité à surveiller et à mettre à jour le statut des produits après leur homologation et leur mise en marché. Nous devions trouver un moyen de permettre aux entreprises de produits de santé naturels de communiquer avec notre équipe à ce sujet.</p>
 
 
 
-<p>L’amélioration de nos capacités dans ce domaine passe notamment par la mise en place d’<a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">un formulaire Web permettant aux entreprises de soumettre des mises à jour sur le statut de leurs produits sur le marché</a>. Nous avons créé ce formulaire à l’aide du produit <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">Formulaires GC</a> du Service numérique canadien.</p>
+<p class="wp-block-paragraph">L’amélioration de nos capacités dans ce domaine passe notamment par la mise en place d’<a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">un formulaire Web permettant aux entreprises de soumettre des mises à jour sur le statut de leurs produits sur le marché</a>. Nous avons créé ce formulaire à l’aide du produit <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">Formulaires GC</a> du Service numérique canadien.</p>
 
 
 
@@ -116,15 +116,15 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Nous avons choisi de travailler avec Formulaires GC, car il s’agissait de l’outil le plus accessible et le plus efficace dont nous disposions pour améliorer notre capacité à suivre et à mettre à jour le statut des produits sur le marché. Formulaires GC nous a aidé à recueillir les renseignements pertinents auprès des demandeur·se·s afin d’actualiser notre base de données et de fournir aux consommateur·rice·s des renseignements à jour concernant le statut de leurs produits de santé naturels sur le marché.</p>
+<p class="wp-block-paragraph">Nous avons choisi de travailler avec Formulaires GC, car il s’agissait de l’outil le plus accessible et le plus efficace dont nous disposions pour améliorer notre capacité à suivre et à mettre à jour le statut des produits sur le marché. Formulaires GC nous a aidé à recueillir les renseignements pertinents auprès des demandeur·se·s afin d’actualiser notre base de données et de fournir aux consommateur·rice·s des renseignements à jour concernant le statut de leurs produits de santé naturels sur le marché.</p>
 
 
 
-<p>Nous avons analysé les différentes options qui s’offraient à nous pour améliorer notre capacité à recueillir les mises à jour des demandeur·se·s. <strong>Nous avions besoin d’un outil dont la mise en place serait efficace, simple et peu coûteuse; il nous fallait tenir compte de nos ressources.</strong></p>
+<p class="wp-block-paragraph">Nous avons analysé les différentes options qui s’offraient à nous pour améliorer notre capacité à recueillir les mises à jour des demandeur·se·s. <strong>Nous avions besoin d’un outil dont la mise en place serait efficace, simple et peu coûteuse; il nous fallait tenir compte de nos ressources.</strong></p>
 
 
 
-<p>En étudiant les utilisations de Formulaires GC, nous avons constaté que cet outil remplissait tous les critères pour notre projet. Il pouvait nous aider à obtenir auprès des demandeur·se·s les renseignements nécessaires sur le statut du produit, et ce, sans encombre et de manière efficace, rapide et gratuite (une bonne nouvelle pour notre budget !).</p>
+<p class="wp-block-paragraph">En étudiant les utilisations de Formulaires GC, nous avons constaté que cet outil remplissait tous les critères pour notre projet. Il pouvait nous aider à obtenir auprès des demandeur·se·s les renseignements nécessaires sur le statut du produit, et ce, sans encombre et de manière efficace, rapide et gratuite (une bonne nouvelle pour notre budget !).</p>
 
 
 
@@ -136,25 +136,25 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="576" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg" alt="" class="wp-image-1176" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1536x864.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-2048x1152.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
-<p style="font-size:12px">Alt text: La collaboration entre les équipes de la DPSNSO et de Formulaires GC s’est faite en six étapes. Première étape : évaluation des besoins. Deuxième étape : choix d’une solution (dans ce cas-ci, Formulaires GC). Troisième étape : collaboration et création du formulaire. Quatrième étape : réalisation d’un examen attentif. Cinquième étape : intégration du formulaire au service. Sixième étape : évaluation de l’utilité du formulaire et améliorations.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Alt text: La collaboration entre les équipes de la DPSNSO et de Formulaires GC s’est faite en six étapes. Première étape : évaluation des besoins. Deuxième étape : choix d’une solution (dans ce cas-ci, Formulaires GC). Troisième étape : collaboration et création du formulaire. Quatrième étape : réalisation d’un examen attentif. Cinquième étape : intégration du formulaire au service. Sixième étape : évaluation de l’utilité du formulaire et améliorations.</p>
 
 
 
-<p>La collaboration avec l’équipe de produit de Formulaires GC au sein du Service numérique canadien (SNC) a été une fantastique expérience, qui nous a permis de trouver une solution à notre problème.</p>
+<p class="wp-block-paragraph">La collaboration avec l’équipe de produit de Formulaires GC au sein du Service numérique canadien (SNC) a été une fantastique expérience, qui nous a permis de trouver une solution à notre problème.</p>
 
 
 
-<p><strong>Remarque</strong> : Depuis cette collaboration, l’équipe de Formulaires GC a créé un outil en libre-service qui permet aux utilisateurs et utilisatrices de créer leurs propres formulaires.<br></p>
+<p class="wp-block-paragraph"><strong>Remarque</strong> : Depuis cette collaboration, l’équipe de Formulaires GC a créé un outil en libre-service qui permet aux utilisateurs et utilisatrices de créer leurs propres formulaires.<br></p>
 
 
 
-<p><strong>Voici à quoi a ressemblé la création de notre <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">formulaire Web de notification de mise en marché</a> :</strong><br></p>
+<p class="wp-block-paragraph"><strong>Voici à quoi a ressemblé la création de notre <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">formulaire Web de notification de mise en marché</a> :</strong><br></p>
 
 
 
@@ -202,11 +202,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Probablement le fait que les entreprises n’aient pas rencontré de problèmes en utilisant le <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">formulaire Web de notification de mise en marché</a>. C’est extrêmement gratifiant ! Cela montre que les efforts investis dans cette solution ont été payants.<br></p>
+<p class="wp-block-paragraph">Probablement le fait que les entreprises n’aient pas rencontré de problèmes en utilisant le <a href="https://forms-formulaires.alpha.canada.ca/fr/id/167" target="_blank" rel="noreferrer noopener">formulaire Web de notification de mise en marché</a>. C’est extrêmement gratifiant ! Cela montre que les efforts investis dans cette solution ont été payants.<br></p>
 
 
 
-<p>Nous devons tout cela aux efforts déployés par l’équipe dans les domaines suivants :</p>
+<p class="wp-block-paragraph">Nous devons tout cela aux efforts déployés par l’équipe dans les domaines suivants :</p>
 
 
 
@@ -228,7 +228,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Nous recommandons vivement aux équipes envisageant d’utiliser Formulaires GC d’en <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">explorer les fonctionnalités</a> pour voir s’il peut leur être utile. L’outil est efficace et l’équipe vous aidera à trouver la solution la mieux adaptée à vos besoins.</p>
+<p class="wp-block-paragraph">Nous recommandons vivement aux équipes envisageant d’utiliser Formulaires GC d’en <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">explorer les fonctionnalités</a> pour voir s’il peut leur être utile. L’outil est efficace et l’équipe vous aidera à trouver la solution la mieux adaptée à vos besoins.</p>
 
 
 
@@ -240,11 +240,11 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Formulaires GC peut aider les fonctionnaires de tout le gouvernement à travailler sur de nombreux types de services.</p>
+<p class="wp-block-paragraph">Formulaires GC peut aider les fonctionnaires de tout le gouvernement à travailler sur de nombreux types de services.</p>
 
 
 
-<p>Voici quelques exemples de ses utilisations :</p>
+<p class="wp-block-paragraph">Voici quelques exemples de ses utilisations :</p>
 
 
 
@@ -266,5 +266,5 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<p>Découvrez notre <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">nouvel outil pour la création de formulaires gouvernementaux</a> (il est en libre-service !) et <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">contactez-nous</a> en cas de question.</p>
+<p class="wp-block-paragraph">Découvrez notre <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=FR_blog-pbs-christine-patrick&amp;utm_medium=Blog%20Post&amp;utm_id=People%20Behind%20the%20Service%20%28PBS%29%20Blogs%20" target="_blank" rel="noreferrer noopener">nouvel outil pour la création de formulaires gouvernementaux</a> (il est en libre-service !) et <a href="https://forms-formulaires.alpha.canada.ca/fr/form-builder/support/contactus">contactez-nous</a> en cas de question.</p>
 
