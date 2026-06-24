@@ -16,19 +16,19 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>My name’s <a href="https://www.linkedin.com/in/abduldorayi/" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> and I’m the Product Manager for <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">GC Design System </a>. I joined this product team at a time when there was a need for someone to step in and guide the product towards a longer-term strategy, while navigating a complex change management process.&nbsp;</p>
+<p class="wp-block-paragraph">My name’s <a href="https://www.linkedin.com/in/abduldorayi/" target="_blank" rel="noreferrer noopener">Abdul Aminu</a> and I’m the Product Manager for <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">GC Design System </a>. I joined this product team at a time when there was a need for someone to step in and guide the product towards a longer-term strategy, while navigating a complex change management process.&nbsp;</p>
 
 
 
-<p>My role is to be a bridge between the public servants building the design system and those using it. I take this responsibility very seriously, I carry the trust of both parties and I owe it to them to ensure their needs are being met. That means I am constantly assessing things at a high level to ensure the product stays on track towards our most important goals.</p>
+<p class="wp-block-paragraph">My role is to be a bridge between the public servants building the design system and those using it. I take this responsibility very seriously, I carry the trust of both parties and I owe it to them to ensure their needs are being met. That means I am constantly assessing things at a high level to ensure the product stays on track towards our most important goals.</p>
 
 
 
-<p>Additionally, I help to ensure that whatever work is done on GC Design System is communicated to current and potential users, so they can leverage it and provide valuable feedback for future iterations. Each week brings something new and challenging to work through and I feel honoured to be involved.</p>
+<p class="wp-block-paragraph">Additionally, I help to ensure that whatever work is done on GC Design System is communicated to current and potential users, so they can leverage it and provide valuable feedback for future iterations. Each week brings something new and challenging to work through and I feel honoured to be involved.</p>
 
 
 
-<p><strong>In this blog, I share our work on the new page templates available on GC Design System.&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>In this blog, I share our work on the new page templates available on GC Design System.&nbsp;</strong></p>
 
 
 
@@ -36,21 +36,21 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p><a href="https://design-system.alpha.canada.ca/en/page-templates/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">Page templates are pre-built pages that combine GC Design System components for common layouts</a>. They’re fully responsive across devices, and their structure supports a predictable, recognizable, and accessible user experience.&nbsp;</p>
+<p class="wp-block-paragraph"><a href="https://design-system.alpha.canada.ca/en/page-templates/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">Page templates are pre-built pages that combine GC Design System components for common layouts</a>. They’re fully responsive across devices, and their structure supports a predictable, recognizable, and accessible user experience.&nbsp;</p>
 
 
 
-<p>As the name suggests, templates allow GC teams to start with a Canada.ca web page that already has standard mandatory elements in place. Core patterns (Header, Footer, Headings, Grid, Spacing, and Typography) are conveniently set up, so you only need to modify the content. The idea is to give you a solid starting point, instead of starting from scratch.&nbsp;</p>
+<p class="wp-block-paragraph">As the name suggests, templates allow GC teams to start with a Canada.ca web page that already has standard mandatory elements in place. Core patterns (Header, Footer, Headings, Grid, Spacing, and Typography) are conveniently set up, so you only need to modify the content. The idea is to give you a solid starting point, instead of starting from scratch.&nbsp;</p>
 
 
 
-<p><strong>Depending on how complex your page is, using </strong><a href="https://design-system.alpha.canada.ca/en/page-templates/basic/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>the basic page template</strong></a><strong> can cut development time by more than half. </strong>This frees you up to focus on the user journey and the specific functionality of your service.</p>
+<p class="wp-block-paragraph"><strong>Depending on how complex your page is, using </strong><a href="https://design-system.alpha.canada.ca/en/page-templates/basic/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>the basic page template</strong></a><strong> can cut development time by more than half. </strong>This frees you up to focus on the user journey and the specific functionality of your service.</p>
 
 
 <img loading="lazy" decoding="async" width="694" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview-694x1024.png" alt="Screenshot of basic page template. Core patterns Header, Footer, Headings, Grid, Spacing, and Typography are conveniently set up, so you only need to modify the content." class="wp-image-2719" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview-694x1024.png 694w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview-203x300.png 203w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview-768x1133.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview-1041x1536.png 1041w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/basic-page-preview.png 1080w" sizes="auto, (max-width: 694px) 100vw, 694px" />
 
 
-<p style="font-size:12px">Caption: Screenshot of basic page template. Core patterns (Header, Footer, Headings, Grid, Spacing, and Typography) are conveniently set up, so you only need to modify the content.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Caption: Screenshot of basic page template. Core patterns (Header, Footer, Headings, Grid, Spacing, and Typography) are conveniently set up, so you only need to modify the content.</p>
 
 
 
@@ -58,7 +58,7 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>We aim to provide every usable part of GC Design System in 3 main ways:&nbsp;</p>
+<p class="wp-block-paragraph">We aim to provide every usable part of GC Design System in 3 main ways:&nbsp;</p>
 
 
 
@@ -76,15 +76,15 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>One major challenge was ensuring the page templates are created in a way that they can remain consistent across all three interfaces. That meant aligning terminology, design tokens, and overall presentation, so it feels seamless no matter where a team references (web guidance, code, or design in Figma). In the end, we overcame these challenges by systematically maintaining each version with a shared structure and clear documentation.</p>
+<p class="wp-block-paragraph">One major challenge was ensuring the page templates are created in a way that they can remain consistent across all three interfaces. That meant aligning terminology, design tokens, and overall presentation, so it feels seamless no matter where a team references (web guidance, code, or design in Figma). In the end, we overcame these challenges by systematically maintaining each version with a shared structure and clear documentation.</p>
 
 
 
-<p>We also use the same design tokens across code and design, to ensure continuity, consistency and ease of maintenance. This means that all design decisions such as colour, typography, and spacing are defined in the GC Design System consistently.</p>
+<p class="wp-block-paragraph">We also use the same design tokens across code and design, to ensure continuity, consistency and ease of maintenance. This means that all design decisions such as colour, typography, and spacing are defined in the GC Design System consistently.</p>
 
 
 
-<p>Everything we produce is publicly accessible and open to feedback and collaboration. Our goal is to encourage the GC design and web community to contribute to the GC Design System, making it the best it can be.</p>
+<p class="wp-block-paragraph">Everything we produce is publicly accessible and open to feedback and collaboration. Our goal is to encourage the GC design and web community to contribute to the GC Design System, making it the best it can be.</p>
 
 
 
@@ -92,21 +92,21 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>Each page template is built from GC Design System components and patterns that have already been thoroughly assessed for accessibility, usability, and compliance with GC policy. The page template is essentially the sum of these parts, and therefore, it benefits from all the research, testing, and assessments that have already been done. Of course, we still pay close attention to how we assemble them, but the beauty of “systems thinking” is that every piece is already tested and vetted.</p>
+<p class="wp-block-paragraph">Each page template is built from GC Design System components and patterns that have already been thoroughly assessed for accessibility, usability, and compliance with GC policy. The page template is essentially the sum of these parts, and therefore, it benefits from all the research, testing, and assessments that have already been done. Of course, we still pay close attention to how we assemble them, but the beauty of “systems thinking” is that every piece is already tested and vetted.</p>
 
 
 
-<p>It also helps that there&#8217;s a permanent, multidisciplinary core team dedicated to building and supporting GC Design System: policy experts, designers, developers, and researchers. We’re all aligned to create components, patterns, and templates that are accessible, usable, and policy-compliant. Everything we produce goes through rigorous testing, including external validation by users with different accessibility needs.</p>
+<p class="wp-block-paragraph">It also helps that there&#8217;s a permanent, multidisciplinary core team dedicated to building and supporting GC Design System: policy experts, designers, developers, and researchers. We’re all aligned to create components, patterns, and templates that are accessible, usable, and policy-compliant. Everything we produce goes through rigorous testing, including external validation by users with different accessibility needs.</p>
 
 
 
-<p>The Basic Page template includes: A clear heading hierarchy you can use to structure your content logically for everyone, including people using assistive technologies. GC Design System tokens meet level AA of the <a href="https://www.w3.org/TR/WCAG21/" target="_blank" rel="noreferrer noopener">Web Content Accessibility Guidelines (WCAG 2.1)</a> colour contrast standards for text and interactive elements and level AAA for both tap targets and visual presentation.</p>
+<p class="wp-block-paragraph">The Basic Page template includes: A clear heading hierarchy you can use to structure your content logically for everyone, including people using assistive technologies. GC Design System tokens meet level AA of the <a href="https://www.w3.org/TR/WCAG21/" target="_blank" rel="noreferrer noopener">Web Content Accessibility Guidelines (WCAG 2.1)</a> colour contrast standards for text and interactive elements and level AAA for both tap targets and visual presentation.</p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="394" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-1024x394.jpg" alt="Caption: The Basic Page template is built using the following components that meet WCAG 2.1 AA accessibility standards: Text, link, header, footer, footer, accessibility standards, heading, breadcrumbs, search, date modified and container." class="wp-image-2723" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-1024x394.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-300x115.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-768x295.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-1536x591.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2025/03/New-GC-design-system-template-eng-2048x788.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
 
 
-<p style="font-size:12px">Caption: The Basic Page template is built using the following components that meet WCAG 2.1 AA accessibility standards: Text, link, header, footer, footer, accessibility standards, heading, breadcrumbs, search, date modified, and container.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Caption: The Basic Page template is built using the following components that meet WCAG 2.1 AA accessibility standards: Text, link, header, footer, footer, accessibility standards, heading, breadcrumbs, search, date modified, and container.</p>
 
 
 
@@ -114,11 +114,11 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>Many of the core elements of the Canada.ca brand are already well established, and GC Design System uses this familiar look and feel as the baseline for everything we build.&nbsp;</p>
+<p class="wp-block-paragraph">Many of the core elements of the Canada.ca brand are already well established, and GC Design System uses this familiar look and feel as the baseline for everything we build.&nbsp;</p>
 
 
 
-<p>GC Design System introduces a framework-agnostic approach so teams can seamlessly work with:</p>
+<p class="wp-block-paragraph">GC Design System introduces a framework-agnostic approach so teams can seamlessly work with:</p>
 
 
 
@@ -144,11 +144,11 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>We always start from the Canada.ca design. If we spot any gaps or areas needing improvement, we build upon it thoughtfully in collaboration with the Canada.ca design team. There’s already extensive research and guidance available from Canada.ca, which was especially valuable in our early days as we implemented core mandatory components and patterns.</p>
+<p class="wp-block-paragraph">We always start from the Canada.ca design. If we spot any gaps or areas needing improvement, we build upon it thoughtfully in collaboration with the Canada.ca design team. There’s already extensive research and guidance available from Canada.ca, which was especially valuable in our early days as we implemented core mandatory components and patterns.</p>
 
 
 
-<p>Occasionally, because of technological differences between the Canada.ca design system and GC Design System, we need to rework or approximate certain designs. But whenever we do, we stay as close as possible to the Canada.ca standards.</p>
+<p class="wp-block-paragraph">Occasionally, because of technological differences between the Canada.ca design system and GC Design System, we need to rework or approximate certain designs. But whenever we do, we stay as close as possible to the Canada.ca standards.</p>
 
 
 
@@ -156,7 +156,7 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p><strong>The best way to get started is to visit the </strong><a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>GC Design System website</strong></a><strong>, test it, and </strong><a href="https://design-system.alpha.canada.ca/en/get-involved/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>share feedback</strong></a><strong>.&nbsp;</strong></p>
+<p class="wp-block-paragraph"><strong>The best way to get started is to visit the </strong><a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>GC Design System website</strong></a><strong>, test it, and </strong><a href="https://design-system.alpha.canada.ca/en/get-involved/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>share feedback</strong></a><strong>.&nbsp;</strong></p>
 
 
 
@@ -170,5 +170,5 @@ translationKey: blog-gcds-pagestemplates
 
 
 
-<p>We’re currently working on a few more page templates. We’re also exploring variations specifically for application development teams, which we’re calling “Starter Apps.” We’re close to releasing a Vue Starter App template, and we plan to have similar starter templates for Angular, React, and React SSR by the end of the 2025/2026 fiscal year. <strong>To see more on what is coming up, </strong><a href="https://design-system.alpha.canada.ca/en/roadmap/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>check out our roadmap</strong></a><strong>.</strong><br></p>
+<p class="wp-block-paragraph">We’re currently working on a few more page templates. We’re also exploring variations specifically for application development teams, which we’re calling “Starter Apps.” We’re close to releasing a Vue Starter App template, and we plan to have similar starter templates for Angular, React, and React SSR by the end of the 2025/2026 fiscal year. <strong>To see more on what is coming up, </strong><a href="https://design-system.alpha.canada.ca/en/roadmap/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>check out our roadmap</strong></a><strong>.</strong><br></p>
 
