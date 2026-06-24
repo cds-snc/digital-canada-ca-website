@@ -16,15 +16,15 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>Nous entendons souvent dire que le fait de partager des cas d’utilisation des produits du SNC aide les équipes du GC à se voir utiliser les outils et leur donne la confiance nécessaire pour les adopter. <strong>Si votre équipe fournit des services qui envoient des mises à jour à des coordonnées vérifiées, cet article de blogue sur Notification GC est pour vous!</strong></p>
+<p class="wp-block-paragraph">Nous entendons souvent dire que le fait de partager des cas d’utilisation des produits du SNC aide les équipes du GC à se voir utiliser les outils et leur donne la confiance nécessaire pour les adopter. <strong>Si votre équipe fournit des services qui envoient des mises à jour à des coordonnées vérifiées, cet article de blogue sur Notification GC est pour vous!</strong></p>
 
 
 
-<p><strong>Lisez notre entretien ci-dessous avec les fonctionnaires Kyle Butts et Pat Heroux du </strong><a href="https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html" target="_blank" rel="noreferrer noopener"><strong>Régime canadien de soins dentaires (RCSD)</strong></a><strong>, </strong>dans lequel ils expliquent comment et pourquoi ils utilisent <a href="https://notification.canada.ca/accueil" target="_blank" rel="noreferrer noopener">Notification GC</a>, et les avantages pour l’UX de fournir des mises à jour numériques.</p>
+<p class="wp-block-paragraph"><strong>Lisez notre entretien ci-dessous avec les fonctionnaires Kyle Butts et Pat Heroux du </strong><a href="https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html" target="_blank" rel="noreferrer noopener"><strong>Régime canadien de soins dentaires (RCSD)</strong></a><strong>, </strong>dans lequel ils expliquent comment et pourquoi ils utilisent <a href="https://notification.canada.ca/accueil" target="_blank" rel="noreferrer noopener">Notification GC</a>, et les avantages pour l’UX de fournir des mises à jour numériques.</p>
 
 
 
-<p class="has-background" style="background-color:#b3e4fb"><strong>Qu’est-ce que le Régime canadien de soins dentaires (RCSD)?</strong><br>« Saviez-vous que jusqu’à tout récemment, une personne sur trois au Canada n’avait pas d’assurance dentaire et une personne sur quatre déclarait avoir sauté des visites chez le dentiste en raison du coût? Pour remédier à ce problème, le gouvernement du Canada a mis en place le Régime canadien de soins dentaires (RCSD) [&#8230;] ce qui en fait le plus important programme de prestations du gouvernement fédéral des 60 dernières années. » <br>– Article de blogue : <a href="https://numerique.canada.ca/2024/11/27/placer-les-gens-au-c%C5%93ur-de-toutes-nos-activit%C3%A9s-au-carrefour-des-soins-dentaires-et-du-num%C3%A9rique/" target="_blank" rel="noreferrer noopener">Placer les gens au cœur de toutes nos activités : au carrefour des soins dentaires et du numérique</a><br><br>Le RCSD a été lancé en 2023 : c’est un programme qui rend les soins dentaires plus abordables pour les résidents canadiens admissibles. <a href="https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires/statistiques.html" target="_blank" rel="noreferrer noopener">Le RCSD compte actuellement plus de 6 millions de prestataires approuvés</a>.<br><br><strong>Vous n’avez jamais entendu parler de Notification GC? </strong><br>Il s’agit d’un produit de notification qui aide les fonctionnaires fédéraux à envoyer des courriels et des messages texte (à leurs équipes et au public). Guidez les gens dans les processus gouvernementaux, un message à la fois :<strong> </strong><a href="https://notification.canada.ca/fonctionnalites" target="_blank" rel="noreferrer noopener"><strong>explorez ce que vous pouvez faire avec Notification GC</strong></a><strong>!</strong></p>
+<p class="has-background wp-block-paragraph" style="background-color:#b3e4fb"><strong>Qu’est-ce que le Régime canadien de soins dentaires (RCSD)?</strong><br>« Saviez-vous que jusqu’à tout récemment, une personne sur trois au Canada n’avait pas d’assurance dentaire et une personne sur quatre déclarait avoir sauté des visites chez le dentiste en raison du coût? Pour remédier à ce problème, le gouvernement du Canada a mis en place le Régime canadien de soins dentaires (RCSD) [&#8230;] ce qui en fait le plus important programme de prestations du gouvernement fédéral des 60 dernières années. » <br>– Article de blogue : <a href="https://numerique.canada.ca/2024/11/27/placer-les-gens-au-c%C5%93ur-de-toutes-nos-activit%C3%A9s-au-carrefour-des-soins-dentaires-et-du-num%C3%A9rique/" target="_blank" rel="noreferrer noopener">Placer les gens au cœur de toutes nos activités : au carrefour des soins dentaires et du numérique</a><br><br>Le RCSD a été lancé en 2023 : c’est un programme qui rend les soins dentaires plus abordables pour les résidents canadiens admissibles. <a href="https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires/statistiques.html" target="_blank" rel="noreferrer noopener">Le RCSD compte actuellement plus de 6 millions de prestataires approuvés</a>.<br><br><strong>Vous n’avez jamais entendu parler de Notification GC? </strong><br>Il s’agit d’un produit de notification qui aide les fonctionnaires fédéraux à envoyer des courriels et des messages texte (à leurs équipes et au public). Guidez les gens dans les processus gouvernementaux, un message à la fois :<strong> </strong><a href="https://notification.canada.ca/fonctionnalites" target="_blank" rel="noreferrer noopener"><strong>explorez ce que vous pouvez faire avec Notification GC</strong></a><strong>!</strong></p>
 
 
 
@@ -36,11 +36,11 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>Grâce à Notification GC, les demandeurs au RCSD peuvent choisir de participer au programme par voie numérique plutôt que par la poste, ce qui permet d’économiser les coûts liés aux envois physiques pour le programme. Nous avons envoyé environ 1,4 million de nouveaux courriels de communication automatisés aux demandeurs du RCSD en utilisant le service de notification et sa <a href="https://documentation.notification.canada.ca/fr/" target="_blank" rel="noreferrer noopener">fonction d’API</a>, et le nombre continue de croître à mesure que les gens sont sensibilisés au service.</p>
+<p class="wp-block-paragraph">Grâce à Notification GC, les demandeurs au RCSD peuvent choisir de participer au programme par voie numérique plutôt que par la poste, ce qui permet d’économiser les coûts liés aux envois physiques pour le programme. Nous avons envoyé environ 1,4 million de nouveaux courriels de communication automatisés aux demandeurs du RCSD en utilisant le service de notification et sa <a href="https://documentation.notification.canada.ca/fr/" target="_blank" rel="noreferrer noopener">fonction d’API</a>, et le nombre continue de croître à mesure que les gens sont sensibilisés au service.</p>
 
 
 
-<p><strong>Le RCSD envoie 3 types de notifications :</strong></p>
+<p class="wp-block-paragraph"><strong>Le RCSD envoie 3 types de notifications :</strong></p>
 
 
 
@@ -90,11 +90,11 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p>Merci à Kyle et à Pat d’avoir partagé leur expérience avec Notification GC pour les communications numériques du RCSD! <a href="https://numerique.canada.ca/2022/11/21/travailler-ouvertement-avec-un-sentiment-dhumilit%C3%A9-et-de-communaut%C3%A9/" target="_blank" rel="noreferrer noopener">Travailler ouvertement</a> aide les autres équipes du GC à savoir comment elles aussi peuvent améliorer la prestation de leurs services.</p>
+<p class="wp-block-paragraph">Merci à Kyle et à Pat d’avoir partagé leur expérience avec Notification GC pour les communications numériques du RCSD! <a href="https://numerique.canada.ca/2022/11/21/travailler-ouvertement-avec-un-sentiment-dhumilit%C3%A9-et-de-communaut%C3%A9/" target="_blank" rel="noreferrer noopener">Travailler ouvertement</a> aide les autres équipes du GC à savoir comment elles aussi peuvent améliorer la prestation de leurs services.</p>
 
 
 
-<p><strong>Si votre équipe fournit des services qui envoient des mises à jour à des coordonnées vérifiées : </strong><a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener"><strong>inscrivez-vous à une démo de Notification GC</strong></a><strong>! Nous vous montrerons comment : </strong></p>
+<p class="wp-block-paragraph"><strong>Si votre équipe fournit des services qui envoient des mises à jour à des coordonnées vérifiées : </strong><a href="https://notification.canada.ca/sinscrire-a-une-demo" target="_blank" rel="noreferrer noopener"><strong>inscrivez-vous à une démo de Notification GC</strong></a><strong>! Nous vous montrerons comment : </strong></p>
 
 
 
@@ -126,5 +126,5 @@ translationKey: blog-cdcp-gcnotify
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
