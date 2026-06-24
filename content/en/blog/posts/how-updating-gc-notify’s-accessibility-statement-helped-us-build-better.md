@@ -12,7 +12,7 @@ tags: ["Accessibility","GC Notify"]
 translationKey: blog-gcnotify-accessibility-sprints
 ---
 
-<p>At CDS, we’re constantly improving the accessibility of <a href="https://digital.canada.ca/?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_products" target="_blank" rel="noreferrer noopener">our products</a>.<br><br>One of our tools is <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">GC Notify</a>: a product government teams use to send messages about processes like applying for a license, requesting/sharing information, and accessing benefits. <a href="https://notification.canada.ca/activity?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_activity" target="_blank" rel="noreferrer noopener">Over 530 programs and services currently use GC Notify</a>, like Health Canada for their recalls and safety alerts notification service (<a href="https://digital.canada.ca/2022/07/05/empower-to-protect-recalls-and-safety-alerts-in-canada/" target="_blank" rel="noreferrer noopener">read interview</a>).<br><br>We recently conducted accessibility testing and audits for <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" data-type="link" data-id="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home">GC Notify</a>, so it was time to update the <a href="https://notification.canada.ca/accessibility?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_statement" target="_blank" rel="noreferrer noopener">accessibility statement</a>. This was an opportunity to revisit the statement’s role in our product. We want this content to clearly detail GC Notify’s accessibility, including compliance and limitations. By keeping the statement current, people can use it to find workarounds if they have trouble using GC Notify.&nbsp;<br><br>I’m the content designer on the GC Notify team. <strong>In this blog, I chat with my teammates about how plain language helped us prioritize accessibility improvements to GC Notify. </strong>We also share how we used back-to-back accessibility <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=&amp;index=alt&amp;srchtxt=sprint&amp;where=%27sprint%27&amp;menudom=filtrdom&amp;domlistcchd=LGO+%5B3%5D%3BLNB+%5B1%5D%3BAEG+%5B1%5D%3BEEG+%5B1%5D%3BAEC+%5B1%5D%3BLHG+%5B1%5D%3BWAH+%5B1%5D%3BLGA+%5B1%5D%3BLGI+%5B2%5D%3BRFQ+%5B1%5D%3BLNA+%5B2%5D%3BWJ+%5B1%5D%3BWD+%5B1%5D%3BLGD+%5B1%5D%3BLHD+%5B1%5D%3BJDR+%5B1%5D%3B&amp;domnumtsll=16&amp;dom=AEC&amp;comencsrch=">sprints</a> to triage and fix issues, instead of adding to the backlog. Read on for resources and tips!<br></p>
+<p class="wp-block-paragraph">At CDS, we’re constantly improving the accessibility of <a href="https://digital.canada.ca/?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_products" target="_blank" rel="noreferrer noopener">our products</a>.<br><br>One of our tools is <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">GC Notify</a>: a product government teams use to send messages about processes like applying for a license, requesting/sharing information, and accessing benefits. <a href="https://notification.canada.ca/activity?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_activity" target="_blank" rel="noreferrer noopener">Over 530 programs and services currently use GC Notify</a>, like Health Canada for their recalls and safety alerts notification service (<a href="https://digital.canada.ca/2022/07/05/empower-to-protect-recalls-and-safety-alerts-in-canada/" target="_blank" rel="noreferrer noopener">read interview</a>).<br><br>We recently conducted accessibility testing and audits for <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" data-type="link" data-id="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home">GC Notify</a>, so it was time to update the <a href="https://notification.canada.ca/accessibility?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_statement" target="_blank" rel="noreferrer noopener">accessibility statement</a>. This was an opportunity to revisit the statement’s role in our product. We want this content to clearly detail GC Notify’s accessibility, including compliance and limitations. By keeping the statement current, people can use it to find workarounds if they have trouble using GC Notify.&nbsp;<br><br>I’m the content designer on the GC Notify team. <strong>In this blog, I chat with my teammates about how plain language helped us prioritize accessibility improvements to GC Notify. </strong>We also share how we used back-to-back accessibility <a href="https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&amp;i=&amp;index=alt&amp;srchtxt=sprint&amp;where=%27sprint%27&amp;menudom=filtrdom&amp;domlistcchd=LGO+%5B3%5D%3BLNB+%5B1%5D%3BAEG+%5B1%5D%3BEEG+%5B1%5D%3BAEC+%5B1%5D%3BLHG+%5B1%5D%3BWAH+%5B1%5D%3BLGA+%5B1%5D%3BLGI+%5B2%5D%3BRFQ+%5B1%5D%3BLNA+%5B2%5D%3BWJ+%5B1%5D%3BWD+%5B1%5D%3BLGD+%5B1%5D%3BLHD+%5B1%5D%3BJDR+%5B1%5D%3B&amp;domnumtsll=16&amp;dom=AEC&amp;comencsrch=">sprints</a> to triage and fix issues, instead of adding to the backlog. Read on for resources and tips!<br></p>
 
 
 
@@ -20,7 +20,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>We looked to the COVID Alert app as inspiration for creating an easily understandable resource on accessibility issues that may impact users. You can learn more about how that app was designed in the blog <a href="https://digital.canada.ca/2020/11/18/just-enough-detail-how-we-designed-content-for-the-covid-alert-app/" target="_blank" rel="noreferrer noopener">Just enough detail: how we designed content for the COVID Alert app</a>.</p>
+<p class="wp-block-paragraph">We looked to the COVID Alert app as inspiration for creating an easily understandable resource on accessibility issues that may impact users. You can learn more about how that app was designed in the blog <a href="https://digital.canada.ca/2020/11/18/just-enough-detail-how-we-designed-content-for-the-covid-alert-app/" target="_blank" rel="noreferrer noopener">Just enough detail: how we designed content for the COVID Alert app</a>.</p>
 
 
 
@@ -64,7 +64,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p><br>To redesign our accessibility statement, we itemized known issues in an <a href="https://notification.canada.ca/accessibility#:~:text=Known%20issues%20of%20GC%20Notify%E2%80%99s%20user%20interface" target="_blank" rel="noreferrer noopener">easily navigable table that links to the applicable criteria of the Web Content Accessibility Guidelines (WCAG)</a>. This helps users quickly check for problems they might encounter. The WCAG criteria provides context for the problem, clarifies what needs to be fixed, and suggests potential methods of repair.&nbsp;<br><br>We started by rewriting technical issues in plain language. For example, <a href="https://www.w3.org/TR/WCAG21/#focus-visible" target="_blank" rel="noreferrer noopener">WCAG defines criterion 2.4.7 Focus Visible</a> as “Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.” <a href="https://notification.canada.ca/accessibility#h-known-issues-of-gc-notify-s-user-interface:~:text=Keyboard%20navigation,-Issue" target="_blank" rel="noreferrer noopener">Our accessibility statement explains in plain language</a>: “We should ensure you’re able to tell where the keyboard is on the page.” This allows users to easily understand if the issue affects them.<br><br>With a better understanding of these access barriers, we approached our Policy Advisor, Melissa Toutloff, about moving forward.<br></p>
+<p class="wp-block-paragraph"><br>To redesign our accessibility statement, we itemized known issues in an <a href="https://notification.canada.ca/accessibility#:~:text=Known%20issues%20of%20GC%20Notify%E2%80%99s%20user%20interface" target="_blank" rel="noreferrer noopener">easily navigable table that links to the applicable criteria of the Web Content Accessibility Guidelines (WCAG)</a>. This helps users quickly check for problems they might encounter. The WCAG criteria provides context for the problem, clarifies what needs to be fixed, and suggests potential methods of repair.&nbsp;<br><br>We started by rewriting technical issues in plain language. For example, <a href="https://www.w3.org/TR/WCAG21/#focus-visible" target="_blank" rel="noreferrer noopener">WCAG defines criterion 2.4.7 Focus Visible</a> as “Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.” <a href="https://notification.canada.ca/accessibility#h-known-issues-of-gc-notify-s-user-interface:~:text=Keyboard%20navigation,-Issue" target="_blank" rel="noreferrer noopener">Our accessibility statement explains in plain language</a>: “We should ensure you’re able to tell where the keyboard is on the page.” This allows users to easily understand if the issue affects them.<br><br>With a better understanding of these access barriers, we approached our Policy Advisor, Melissa Toutloff, about moving forward.<br></p>
 
 
 
@@ -72,11 +72,11 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p><strong>Chat with: Melissa Toutloff, GC Notify policy advisor</strong></p>
+<p class="wp-block-paragraph"><strong>Chat with: Melissa Toutloff, GC Notify policy advisor</strong></p>
 
 
 
-<p>My colleagues are passionate about using GC Notify to create positive and equitable experiences. But technical accessibility language can hide the breadth of impacts on users. When written in plain language, we realized that public servants accessing <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" data-type="link" data-id="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">GC Notify</a> with assistive technologies may encounter multiple barriers. <br><br>The team and I agreed that fixing these issues needed to be prioritized. Public servants have a right to accessible tools – GC teams can’t provide inclusive services without them. <br></p>
+<p class="wp-block-paragraph">My colleagues are passionate about using GC Notify to create positive and equitable experiences. But technical accessibility language can hide the breadth of impacts on users. When written in plain language, we realized that public servants accessing <a href="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" data-type="link" data-id="https://notification.canada.ca/home?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_home" target="_blank" rel="noreferrer noopener">GC Notify</a> with assistive technologies may encounter multiple barriers. <br><br>The team and I agreed that fixing these issues needed to be prioritized. Public servants have a right to accessible tools – GC teams can’t provide inclusive services without them. <br></p>
 
 
 
@@ -84,11 +84,11 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p><strong>Chat with: Marie-Sophie Bézert, Advisor, localization and linguistic services</strong></p>
+<p class="wp-block-paragraph"><strong>Chat with: Marie-Sophie Bézert, Advisor, localization and linguistic services</strong></p>
 
 
 
-<p>As linguists, we craft content that makes every reader feel like it was written specifically for them. We’re committed to making people feel included, regardless of the language they use, how they identify, or the specific needs they have. You’ll find one example of our approach in my blog post <a href="https://digital.canada.ca/2023/03/20/writing-without-excluding-inclusivity-in-the-french-language/" target="_blank" rel="noreferrer noopener">Writing without excluding: Inclusivity in the French language</a>.<br><br>We want people using assistive technologies to feel included in our services. It’s on us to design public services for people’s diverse needs. So when the GC Notify team needed to update <a href="https://notification.canada.ca/accessibility" target="_blank" rel="noreferrer noopener">the accessibility statement</a>, we made changes with this in mind.<br><br>For example, one section on the issues table was titled &#8220;Various assistive technologies, including screen readers&#8221;. We changed it to “Compatibility with various assistive technologies, including screen readers.” <a href="https://notification.canada.ca/accessibility#h-known-issues-of-gc-notify-s-user-interface:~:text=Compatibility%20with%20various%20assistive%20technologies%2C%20including%20screen%20readers" target="_blank" rel="noreferrer noopener"><strong>This edit</strong></a><strong> clarifies and emphasizes that assistive technologies are not the issue. Rather, we’re working to improve GC Notify’s compatibility with those technologies.</strong><br></p>
+<p class="wp-block-paragraph">As linguists, we craft content that makes every reader feel like it was written specifically for them. We’re committed to making people feel included, regardless of the language they use, how they identify, or the specific needs they have. You’ll find one example of our approach in my blog post <a href="https://digital.canada.ca/2023/03/20/writing-without-excluding-inclusivity-in-the-french-language/" target="_blank" rel="noreferrer noopener">Writing without excluding: Inclusivity in the French language</a>.<br><br>We want people using assistive technologies to feel included in our services. It’s on us to design public services for people’s diverse needs. So when the GC Notify team needed to update <a href="https://notification.canada.ca/accessibility" target="_blank" rel="noreferrer noopener">the accessibility statement</a>, we made changes with this in mind.<br><br>For example, one section on the issues table was titled &#8220;Various assistive technologies, including screen readers&#8221;. We changed it to “Compatibility with various assistive technologies, including screen readers.” <a href="https://notification.canada.ca/accessibility#h-known-issues-of-gc-notify-s-user-interface:~:text=Compatibility%20with%20various%20assistive%20technologies%2C%20including%20screen%20readers" target="_blank" rel="noreferrer noopener"><strong>This edit</strong></a><strong> clarifies and emphasizes that assistive technologies are not the issue. Rather, we’re working to improve GC Notify’s compatibility with those technologies.</strong><br></p>
 
 
 
@@ -100,11 +100,11 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p><strong>Input from: Andrew Leith, GC Notify developer</strong></p>
+<p class="wp-block-paragraph"><strong>Input from: Andrew Leith, GC Notify developer</strong></p>
 
 
 
-<p>As developers, it’s easy to make common accessibility mistakes, even when we’re familiar with the rules and guidelines. Ensuring each user interface and interaction is usable and accessible, and meets WCAG criteria and other validation frameworks, requires a considerable team effort.<br><br>To reduce the time spent on manual testing, we’ve implemented continuous accessibility scanning using our UI test runner and the Axe accessibility testing engine. This setup provides a baseline of automated accessibility testing that occurs whenever we make changes to GC Notify, alerting us in real-time before any feature reaches our users.<br><br>During our back-to-back accessibility sprints, we used information from these scans to identify and fix issues, saving time and making GC Notify even more accessible. You can learn more about how our team develops GC Notify by checking out our <a href="https://github.com/cds-snc/notification-admin?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_github" target="_blank" rel="noreferrer noopener">GitHub repository</a>.<br></p>
+<p class="wp-block-paragraph">As developers, it’s easy to make common accessibility mistakes, even when we’re familiar with the rules and guidelines. Ensuring each user interface and interaction is usable and accessible, and meets WCAG criteria and other validation frameworks, requires a considerable team effort.<br><br>To reduce the time spent on manual testing, we’ve implemented continuous accessibility scanning using our UI test runner and the Axe accessibility testing engine. This setup provides a baseline of automated accessibility testing that occurs whenever we make changes to GC Notify, alerting us in real-time before any feature reaches our users.<br><br>During our back-to-back accessibility sprints, we used information from these scans to identify and fix issues, saving time and making GC Notify even more accessible. You can learn more about how our team develops GC Notify by checking out our <a href="https://github.com/cds-snc/notification-admin?utm_source=EN_blog_Notify_accessibility_statement&amp;utm_id=Notify+_accessibility_github" target="_blank" rel="noreferrer noopener">GitHub repository</a>.<br></p>
 
 
 
@@ -112,11 +112,11 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p><strong>Chat with: </strong><a href="https://www.linkedin.com/in/amazingphilippe/?originalSubdomain=ca" target="_blank" rel="noreferrer noopener"><strong>Phil Caron</strong></a><strong>, GC Notify interaction designer</strong></p>
+<p class="wp-block-paragraph"><strong>Chat with: </strong><a href="https://www.linkedin.com/in/amazingphilippe/?originalSubdomain=ca" target="_blank" rel="noreferrer noopener"><strong>Phil Caron</strong></a><strong>, GC Notify interaction designer</strong></p>
 
 
 
-<p>Accessibility testing showed that voice control technologies (such as Dragon NaturallySpeaking) experienced issues when uploading spreadsheets in GC Notify. This is due to the “Choose a file” interaction. Since we didn’t have access to the Dragon software, we weren’t aware of this issue prior to testing. That’s why testing with users and their preferred technologies is so important.</p>
+<p class="wp-block-paragraph">Accessibility testing showed that voice control technologies (such as Dragon NaturallySpeaking) experienced issues when uploading spreadsheets in GC Notify. This is due to the “Choose a file” interaction. Since we didn’t have access to the Dragon software, we weren’t aware of this issue prior to testing. That’s why testing with users and their preferred technologies is so important.</p>
 
 
 
@@ -126,11 +126,11 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>This feature appears as stylized text with a blue background.&nbsp;</p>
+<p class="wp-block-paragraph">This feature appears as stylized text with a blue background.&nbsp;</p>
 
 
 
-<p>Sighted users could visually identify that there’s a button. But it did not work for users navigating by voice command, because their computers did not recognize the button.</p>
+<p class="wp-block-paragraph">Sighted users could visually identify that there’s a button. But it did not work for users navigating by voice command, because their computers did not recognize the button.</p>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="300" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png" alt="Screenshot of the previous “Choose a file” feature for uploading spreadsheets in GC Notify. A blue rectangle with white text looks like a button, but isn’t a real button." class="wp-image-1999 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/Before-300x117.png 300w" sizes="auto, (max-width: 768px) 100vw, 768px" /></figure></div>
 
 
@@ -140,7 +140,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Users navigating by sight will not notice a difference between what the screen looked like “Before” and how it appears “Now”. But now voice technologies can identify the “Choose a file” feature and it functions as a button.<br><br>Our fix supports language accessibility and bilingualism standards. The button is customizable, making it easier to iterate in the future (<a href="https://github.com/cds-snc/notification-admin/blob/main/app/templates/components/file-upload.html#L34-L57" target="_blank" rel="noreferrer noopener">check out our code</a>).</p>
+<p class="wp-block-paragraph">Users navigating by sight will not notice a difference between what the screen looked like “Before” and how it appears “Now”. But now voice technologies can identify the “Choose a file” feature and it functions as a button.<br><br>Our fix supports language accessibility and bilingualism standards. The button is customizable, making it easier to iterate in the future (<a href="https://github.com/cds-snc/notification-admin/blob/main/app/templates/components/file-upload.html#L34-L57" target="_blank" rel="noreferrer noopener">check out our code</a>).</p>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="768" height="340" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png" alt="Screenshot of the current “Choose a file” feature for uploading spreadsheets in GC Notify. There’s a blue rectangle with white text that’s now coded as a button (but looks visually the same)." class="wp-image-1995 size-full" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/09/After-300x133.png 300w" sizes="auto, (max-width: 768px) 100vw, 768px" /></figure></div>
 </details>
 
@@ -150,7 +150,7 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p>Here are tips based on our accessibility sprint! Have questions about GC Notify or our accessibility work? <a href="https://notification.canada.ca/contact" target="_blank" rel="noreferrer noopener">Contact us.</a></p>
+<p class="wp-block-paragraph">Here are tips based on our accessibility sprint! Have questions about GC Notify or our accessibility work? <a href="https://notification.canada.ca/contact" target="_blank" rel="noreferrer noopener">Contact us.</a></p>
 
 
 
@@ -178,5 +178,5 @@ translationKey: blog-gcnotify-accessibility-sprints
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
