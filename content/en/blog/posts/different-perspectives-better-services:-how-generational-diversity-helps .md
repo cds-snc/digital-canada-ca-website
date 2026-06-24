@@ -12,27 +12,27 @@ tags: ["Communications","Culture","Inclusion"]
 translationKey: blog-generational-diversity
 ---
 
-<p>The public service is enriched by a wide range of diversities including race, gender, and abilities, with age being another important intersectionality to consider when building an inclusive workplace. </p>
+<p class="wp-block-paragraph">The public service is enriched by a wide range of diversities including race, gender, and abilities, with age being another important intersectionality to consider when building an inclusive workplace. </p>
 
 
 
-<p>After just three months at CDS, I’ve come to appreciate the value of working in a generationally diverse team. I hadn’t paid much attention to this aspect in previous roles, but now I see it as a significant strength that should be maximized across the Government of Canada (GC).</p>
+<p class="wp-block-paragraph">After just three months at CDS, I’ve come to appreciate the value of working in a generationally diverse team. I hadn’t paid much attention to this aspect in previous roles, but now I see it as a significant strength that should be maximized across the Government of Canada (GC).</p>
 
 
 
-<p>The variety of perspectives that different generations bring to work is invaluable in meeting the diverse needs of the people we serve. While my workstyle differs from some of my colleagues, adapting to these differences has shown me how unique perspectives can enhance our work.</p>
+<p class="wp-block-paragraph">The variety of perspectives that different generations bring to work is invaluable in meeting the diverse needs of the people we serve. While my workstyle differs from some of my colleagues, adapting to these differences has shown me how unique perspectives can enhance our work.</p>
 
 
 
-<p>As a member of Generation Z, I value flexibility, collaboration, and receiving immediate feedback in my job, while some from Generation X may prefer a workplace that will allow for more independence and structure. Despite these generational differences, unique perspectives are crucial to deliver services that truly reflect Canada&#8217;s population –from Gen Alpha to Baby Boomers and beyond.</p>
+<p class="wp-block-paragraph">As a member of Generation Z, I value flexibility, collaboration, and receiving immediate feedback in my job, while some from Generation X may prefer a workplace that will allow for more independence and structure. Despite these generational differences, unique perspectives are crucial to deliver services that truly reflect Canada&#8217;s population –from Gen Alpha to Baby Boomers and beyond.</p>
 
 
 
-<p>To better understand how these generations impact workplace culture and ultimately serve Canada more effectively, I spoke with colleagues across CDS to learn more and to help people of all ages work together.</p>
+<p class="wp-block-paragraph">To better understand how these generations impact workplace culture and ultimately serve Canada more effectively, I spoke with colleagues across CDS to learn more and to help people of all ages work together.</p>
 
 
 
-<p>Since I&#8217;ll frequently be referring to different generational cohorts, it&#8217;s important to clarify the <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/240221/dq240221a-eng.htm" target="_blank" rel="noreferrer noopener">year spectrums</a>. For this piece, I spoke with colleagues from:</p>
+<p class="wp-block-paragraph">Since I&#8217;ll frequently be referring to different generational cohorts, it&#8217;s important to clarify the <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/240221/dq240221a-eng.htm" target="_blank" rel="noreferrer noopener">year spectrums</a>. For this piece, I spoke with colleagues from:</p>
 
 
 
@@ -50,11 +50,11 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Together, we&#8217;ve identified some core themes and advice for other teams navigating generational differences at work.&nbsp;</p>
+<p class="wp-block-paragraph">Together, we&#8217;ve identified some core themes and advice for other teams navigating generational differences at work.&nbsp;</p>
 
 
 
-<p>I must caveat, these guidelines are flexible and are not permanent! These responses are obviously not representative of every person belonging to these generations, but we thought sharing these insights from our workplace could help others and spark greater conversation.</p>
+<p class="wp-block-paragraph">I must caveat, these guidelines are flexible and are not permanent! These responses are obviously not representative of every person belonging to these generations, but we thought sharing these insights from our workplace could help others and spark greater conversation.</p>
 
 
 
@@ -62,28 +62,16 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Across these conversations, the importance of empathy when working as part of a generationally diverse team came up again and again. Seeing things from others’ perspectives and being open-minded enough to listen to different points of view were emphasized as crucial components of displaying empathy.</p>
+<p class="wp-block-paragraph">Across these conversations, the importance of empathy when working as part of a generationally diverse team came up again and again. Seeing things from others’ perspectives and being open-minded enough to listen to different points of view were emphasized as crucial components of displaying empathy.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>“Empathy is essential for any type of role where you&#8217;re working with other people. One way older colleagues can show empathy is by having patience with younger team members, understanding that they&#8217;re still learning and that they&#8217;ll make mistakes.&#8221;</p>
+<p class="wp-block-paragraph">“Empathy is essential for any type of role where you&#8217;re working with other people. One way older colleagues can show empathy is by having patience with younger team members, understanding that they&#8217;re still learning and that they&#8217;ll make mistakes.&#8221;</p>
 
 
 
-<p><strong><em><a href="https://www.linkedin.com/in/jimenezj27/" target="_blank" rel="noreferrer noopener">Jose Jimenez</a> &#8211; Generation Z, Product Marketing for GC Forms</em></strong></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-
-
-
-<p>“Having empathy and being able to imagine things from the other person&#8217;s point of view is super key. It goes both ways right? It&#8217;s important for us to be open-minded to hearing somebody who&#8217;s coming at it fresh.”</p>
-
-
-
-<p><a href="http://linkedin.com/in/pcwsmith" target="_blank" rel="noreferrer noopener"><em><strong>Peter Smith</strong></em></a><strong><em>, Generation X, Acting Director, Digital Transformation Office</em></strong></p>
+<p class="wp-block-paragraph"><strong><em><a href="https://www.linkedin.com/in/jimenezj27/" target="_blank" rel="noreferrer noopener">Jose Jimenez</a> &#8211; Generation Z, Product Marketing for GC Forms</em></strong></p>
 
 
 
@@ -91,11 +79,23 @@ translationKey: blog-generational-diversity
 
 
 
-<p>“It&#8217;s not just about what you accomplish. It&#8217;s about how you accomplish it and the most valuable resource that you have is not the money. It&#8217;s not the tools. It&#8217;s your people. Therefore, creating a space where people can develop empathy for each other and develop an understanding of how people like to work together and also an appreciation for the differences is essential.”</p>
+<p class="wp-block-paragraph">“Having empathy and being able to imagine things from the other person&#8217;s point of view is super key. It goes both ways right? It&#8217;s important for us to be open-minded to hearing somebody who&#8217;s coming at it fresh.”</p>
 
 
 
-<p><a href="http://linkedin.com/in/ashley-belanger" target="_blank" rel="noreferrer noopener"><em><strong>Ashley Belanger</strong></em></a><strong><em>, Millennial, Director of the Transition and Transformation Team&nbsp;</em></strong></p>
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/pcwsmith" target="_blank" rel="noreferrer noopener"><em><strong>Peter Smith</strong></em></a><strong><em>, Generation X, Acting Director, Digital Transformation Office</em></strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p class="wp-block-paragraph">“It&#8217;s not just about what you accomplish. It&#8217;s about how you accomplish it and the most valuable resource that you have is not the money. It&#8217;s not the tools. It&#8217;s your people. Therefore, creating a space where people can develop empathy for each other and develop an understanding of how people like to work together and also an appreciation for the differences is essential.”</p>
+
+
+
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/ashley-belanger" target="_blank" rel="noreferrer noopener"><em><strong>Ashley Belanger</strong></em></a><strong><em>, Millennial, Director of the Transition and Transformation Team&nbsp;</em></strong></p>
 </blockquote>
 
 
@@ -104,28 +104,16 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Another common theme that emerged was having an appetite to learn and develop new skills. Whether it’s acquiring new technological expertise or adopting work habits that increase productivity, continuous learning is paramount. This mindset is particularly useful as the workforce evolves and becomes increasingly dynamic in the digital age.</p>
+<p class="wp-block-paragraph">Another common theme that emerged was having an appetite to learn and develop new skills. Whether it’s acquiring new technological expertise or adopting work habits that increase productivity, continuous learning is paramount. This mindset is particularly useful as the workforce evolves and becomes increasingly dynamic in the digital age.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>“If I am not learning anything, I find I get a little bit bored. One of my first projects (at CDS) was a tool for Veterans Affairs to help Veterans and I felt very energized working on a project with a positive impact.&#8221;&nbsp;</p>
+<p class="wp-block-paragraph">“If I am not learning anything, I find I get a little bit bored. One of my first projects (at CDS) was a tool for Veterans Affairs to help Veterans and I felt very energized working on a project with a positive impact.&#8221;&nbsp;</p>
 
 
 
-<p><a href="http://linkedin.com/in/sastels" target="_blank" rel="noreferrer noopener"><em><strong>Steve Astels</strong></em></a><strong><em>, Generation X, IT Senior Advisor on the GC Notify Team</em></strong></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-
-
-
-<p>“I think what gives me the most satisfaction is working in an environment of open-minded people that allows for a lot of knowledge sharing. For example, by working closely with the web team (at CDS),&nbsp; I&#8217;m now able to publish content using GitHub and able to read some code.”</p>
-
-
-
-<p><a href="http://linkedin.com/in/elaine-edache-40367293" target="_blank" rel="noreferrer noopener"><em><strong>Ella Edache</strong></em></a><strong><em>, Millennial, Social media and content coordinator</em></strong></p>
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/sastels" target="_blank" rel="noreferrer noopener"><em><strong>Steve Astels</strong></em></a><strong><em>, Generation X, IT Senior Advisor on the GC Notify Team</em></strong></p>
 
 
 
@@ -133,11 +121,23 @@ translationKey: blog-generational-diversity
 
 
 
-<p>“It&#8217;s not my favorite thing but I adapt if I really love it. I just have to be sold on the value of it and then I adopt it right away. When I came on board here, I hadn&#8217;t been exposed to Miro, Trello, or using a Mac because I&#8217;ve been using a PC forever and through all of those things I got to explore and learn.”</p>
+<p class="wp-block-paragraph">“I think what gives me the most satisfaction is working in an environment of open-minded people that allows for a lot of knowledge sharing. For example, by working closely with the web team (at CDS),&nbsp; I&#8217;m now able to publish content using GitHub and able to read some code.”</p>
 
 
 
-<p><strong><em>Emily Christie, Generation X&nbsp;, Senior Advisor,  Human Resources  </em></strong></p>
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/elaine-edache-40367293" target="_blank" rel="noreferrer noopener"><em><strong>Ella Edache</strong></em></a><strong><em>, Millennial, Social media and content coordinator</em></strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p class="wp-block-paragraph">“It&#8217;s not my favorite thing but I adapt if I really love it. I just have to be sold on the value of it and then I adopt it right away. When I came on board here, I hadn&#8217;t been exposed to Miro, Trello, or using a Mac because I&#8217;ve been using a PC forever and through all of those things I got to explore and learn.”</p>
+
+
+
+<p class="wp-block-paragraph"><strong><em>Emily Christie, Generation X&nbsp;, Senior Advisor,  Human Resources  </em></strong></p>
 </blockquote>
 
 
@@ -146,28 +146,16 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Finally, a common thread through these discussions&nbsp; is that regardless of the fact that we are from different generations and we each have our preferences with how we want to do our jobs, there is a common goal in wanting to serve people in Canada and deliver exceptional services. Remembering this objective helps us put aside our differences and focus on achieving a shared goal.</p>
+<p class="wp-block-paragraph">Finally, a common thread through these discussions&nbsp; is that regardless of the fact that we are from different generations and we each have our preferences with how we want to do our jobs, there is a common goal in wanting to serve people in Canada and deliver exceptional services. Remembering this objective helps us put aside our differences and focus on achieving a shared goal.</p>
 
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>“The part of my job that brings me the most satisfaction is that there&#8217;s a meaning and the work I do is there to help people, to make people&#8217;s lives and livelihoods better by working for the government.”</p>
+<p class="wp-block-paragraph">“The part of my job that brings me the most satisfaction is that there&#8217;s a meaning and the work I do is there to help people, to make people&#8217;s lives and livelihoods better by working for the government.”</p>
 
 
 
-<p><a href="http://linkedin.com/in/philippe-tardif-136695175" target="_blank" rel="noreferrer noopener"><em><strong>Philippe Tardif</strong></em></a><strong><em>, Generation X, Lead of CDS Brand Team</em></strong></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-
-
-
-<p>“I [have] relied on many government services, which made the public service route feel like a way to make a difference&#8230;.working in the public service was how I could give back and impact the lives of Canadians.”</p>
-
-
-
-<p><a href="http://linkedin.com/in/ashley-belanger" target="_blank" rel="noreferrer noopener"><em><strong>Ashley Belanger</strong></em></a><strong><em>, Millennial, Director of the Transition and Transformation Team</em></strong></p>
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/philippe-tardif-136695175" target="_blank" rel="noreferrer noopener"><em><strong>Philippe Tardif</strong></em></a><strong><em>, Generation X, Lead of CDS Brand Team</em></strong></p>
 
 
 
@@ -175,11 +163,23 @@ translationKey: blog-generational-diversity
 
 
 
-<p>“I like all the humanity behind my role. I think it’s really important to work with others to solve complex problems, create space for candour and have difficult conversations.”</p>
+<p class="wp-block-paragraph">“I [have] relied on many government services, which made the public service route feel like a way to make a difference&#8230;.working in the public service was how I could give back and impact the lives of Canadians.”</p>
 
 
 
-<p><strong><em>Janice LaGiorgia, Millennial, Senior Content Designer</em></strong></p>
+<p class="wp-block-paragraph"><a href="http://linkedin.com/in/ashley-belanger" target="_blank" rel="noreferrer noopener"><em><strong>Ashley Belanger</strong></em></a><strong><em>, Millennial, Director of the Transition and Transformation Team</em></strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p class="wp-block-paragraph">“I like all the humanity behind my role. I think it’s really important to work with others to solve complex problems, create space for candour and have difficult conversations.”</p>
+
+
+
+<p class="wp-block-paragraph"><strong><em>Janice LaGiorgia, Millennial, Senior Content Designer</em></strong></p>
 </blockquote>
 
 
@@ -188,15 +188,15 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Working in a generationally diverse team should be seen as a strength and an opportunity to learn from each other. The mixture of ages allows for a variety of experiences and ways of working that can be used by everybody to enhance productivity.</p>
+<p class="wp-block-paragraph">Working in a generationally diverse team should be seen as a strength and an opportunity to learn from each other. The mixture of ages allows for a variety of experiences and ways of working that can be used by everybody to enhance productivity.</p>
 
 
 
-<p>In my first few months here at CDS, I’ve learned to work closely with colleagues from different generations through consistent, open communication.</p>
+<p class="wp-block-paragraph">In my first few months here at CDS, I’ve learned to work closely with colleagues from different generations through consistent, open communication.</p>
 
 
 
-<p>Below are a few ways we do this on our team!</p>
+<p class="wp-block-paragraph">Below are a few ways we do this on our team!</p>
 
 
 
@@ -216,7 +216,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Looking for a place to start with your team? <strong>Here are links to the user manuals we use at CDS:&nbsp;</strong></p>
+<p class="wp-block-paragraph">Looking for a place to start with your team? <strong>Here are links to the user manuals we use at CDS:&nbsp;</strong></p>
 
 
 
@@ -231,21 +231,11 @@ translationKey: blog-generational-diversity
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Text version of EN user manual template.</summary>
-<p>User manual for [name]</p>
+<p class="wp-block-paragraph">User manual for [name]</p>
 
 
 
-<p>Conditions I like to work in:</p>
-
-
-
-<ul class="wp-block-list">
-<li></li>
-</ul>
-
-
-
-<p>Times/hours I like to work:&nbsp;</p>
+<p class="wp-block-paragraph">Conditions I like to work in:</p>
 
 
 
@@ -255,7 +245,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Best way to communicate with me:</p>
+<p class="wp-block-paragraph">Times/hours I like to work:&nbsp;</p>
 
 
 
@@ -265,7 +255,17 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Ways I like to receive feedback:</p>
+<p class="wp-block-paragraph">Best way to communicate with me:</p>
+
+
+
+<ul class="wp-block-list">
+<li></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Ways I like to receive feedback:</p>
 
 
 
@@ -275,7 +275,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Things I need at work:</p>
+<p class="wp-block-paragraph">Things I need at work:</p>
 
 
 
@@ -285,7 +285,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Things I struggle with:</p>
+<p class="wp-block-paragraph">Things I struggle with:</p>
 
 
 
@@ -295,7 +295,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Things I love:</p>
+<p class="wp-block-paragraph">Things I love:</p>
 
 
 
@@ -305,7 +305,7 @@ translationKey: blog-generational-diversity
 
 
 
-<p>Other things to know about me:</p>
+<p class="wp-block-paragraph">Other things to know about me:</p>
 </details>
 
 
@@ -346,9 +346,9 @@ translationKey: blog-generational-diversity
 
 
 
-<p>These conversations and tips were gathered with the intention of fostering a workplace that values different experiences and perspectives. By recognizing and celebrating what makes us different, we can work together to design and deliver services that meet the diverse needs of all people in Canada.</p>
+<p class="wp-block-paragraph">These conversations and tips were gathered with the intention of fostering a workplace that values different experiences and perspectives. By recognizing and celebrating what makes us different, we can work together to design and deliver services that meet the diverse needs of all people in Canada.</p>
 
 
 
-<p><a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">I’d love to hear from you</a>! Please share your experiences, thoughts, or tips on how you’ve successfully navigated working across multiple generations.</p>
+<p class="wp-block-paragraph"><a href="mailto:cds-snc@servicecanada.gc.ca" target="_blank" rel="noreferrer noopener">I’d love to hear from you</a>! Please share your experiences, thoughts, or tips on how you’ve successfully navigated working across multiple generations.</p>
 
