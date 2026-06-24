@@ -12,15 +12,15 @@ tags: ["IA","Recherche","Tests"]
 translationKey: blog-ai-answers
 ---
 
-<p>Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l’aide relativement aux services essentiels. De nombreuses personnes ne peuvent ni téléphoner aux bureaux du gouvernement ni s’y rendre en personne pendant les heures d’ouverture. C’est pourquoi il est essentiel que le libre-service en ligne soit efficace.</p>
+<p class="wp-block-paragraph">Chaque jour, des milliers de personnes se tournent vers le gouvernement du Canada (GC) pour obtenir de l’aide relativement aux services essentiels. De nombreuses personnes ne peuvent ni téléphoner aux bureaux du gouvernement ni s’y rendre en personne pendant les heures d’ouverture. C’est pourquoi il est essentiel que le libre-service en ligne soit efficace.</p>
 
 
 
-<p>L’ <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html" data-type="link" data-id="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html" target="_blank" rel="noreferrer noopener">outil Rétroaction GC</a> est utilisé par de nombreuses équipes pour améliorer le contenu et les services qu’elles offrent sur <a href="https://www.canada.ca/fr.html" data-type="link" data-id="https://www.canada.ca/fr.html" target="_blank" rel="noreferrer noopener">Canada.ca</a>. L’outil recueille quotidiennement plus de 3000 questions et réponses de personnes qui parcourent des pages relatives aux demandes d’immigration, aux prestations d’emploi, à la gestion de comptes d’impôt, etc. <strong>Bien que les équipes du GC continuent d’améliorer </strong><a href="https://www.canada.ca/fr.html" data-type="link" data-id="https://www.canada.ca/fr.html" target="_blank" rel="noreferrer noopener"><strong>Canada.ca</strong></a><strong>, ces améliorations ne peuvent à elles seules relever entièrement le défi que représente le fait d’aider les gens à s’y retrouver dans la vaste gamme de contenus et de services Web du GC.</strong></p>
+<p class="wp-block-paragraph">L’ <a href="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html" data-type="link" data-id="https://conception.canada.ca/configurations-conception-communes/outil-retroaction.html" target="_blank" rel="noreferrer noopener">outil Rétroaction GC</a> est utilisé par de nombreuses équipes pour améliorer le contenu et les services qu’elles offrent sur <a href="https://www.canada.ca/fr.html" data-type="link" data-id="https://www.canada.ca/fr.html" target="_blank" rel="noreferrer noopener">Canada.ca</a>. L’outil recueille quotidiennement plus de 3000 questions et réponses de personnes qui parcourent des pages relatives aux demandes d’immigration, aux prestations d’emploi, à la gestion de comptes d’impôt, etc. <strong>Bien que les équipes du GC continuent d’améliorer </strong><a href="https://www.canada.ca/fr.html" data-type="link" data-id="https://www.canada.ca/fr.html" target="_blank" rel="noreferrer noopener"><strong>Canada.ca</strong></a><strong>, ces améliorations ne peuvent à elles seules relever entièrement le défi que représente le fait d’aider les gens à s’y retrouver dans la vaste gamme de contenus et de services Web du GC.</strong></p>
 
 
 
-<p><strong>Cet été, le SNC a mis à l’essai une nouvelle approche </strong>: <a href="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener"><strong>Réponses</strong> <strong>IA</strong></a>. Ce service fondé sur l’IA offre aux utilisateurs des réponses courtes dans un langage clair (dont le contenu provient exclusivement de sites Web du GC, avec des liens fiables qui guident les utilisateurs vers les étapes suivantes). <strong>Ce billet de blogue présente les résultats de la mise à l’essai de </strong><a href="https://reponses-ia.alpha.canada.ca/fr" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener"><strong>Réponses IA</strong></a><strong>, y compris les principales constatations et ce que nous avons appris.</strong></p>
+<p class="wp-block-paragraph"><strong>Cet été, le SNC a mis à l’essai une nouvelle approche </strong>: <a href="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener"><strong>Réponses</strong> <strong>IA</strong></a>. Ce service fondé sur l’IA offre aux utilisateurs des réponses courtes dans un langage clair (dont le contenu provient exclusivement de sites Web du GC, avec des liens fiables qui guident les utilisateurs vers les étapes suivantes). <strong>Ce billet de blogue présente les résultats de la mise à l’essai de </strong><a href="https://reponses-ia.alpha.canada.ca/fr" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener"><strong>Réponses IA</strong></a><strong>, y compris les principales constatations et ce que nous avons appris.</strong></p>
 
 
 
@@ -44,20 +44,20 @@ translationKey: blog-ai-answers
 <img loading="lazy" decoding="async" width="999" height="697" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-SE-CONN.jpg" alt="" class="wp-image-3405" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-SE-CONN.jpg 999w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-SE-CONN-300x209.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/FR-SE-CONN-768x536.jpg 768w" sizes="auto, (max-width: 999px) 100vw, 999px" />
 
 
-<p style="font-size:13px">Texte de remplacement : Capture d’écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada » montrant les options d’ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
+<p class="wp-block-paragraph" style="font-size:13px">Texte de remplacement : Capture d’écran de la page « Se connecter à un dossier ou un compte en ligne du gouvernement du Canada » montrant les options d’ouverture de session et une fenêtre contextuelle invitant les utilisateurs à essayer le nouveau service de Réponses IA.</p>
 
 
 
 <details class="wp-block-details is-layout-flow wp-block-details-is-layout-flow"><summary>L’approche technique</summary>
-<p>Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d’Azure Canada avec des invites propres aux ministères pour 10 institutions : RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT. </p>
+<p class="wp-block-paragraph">Notre architecture indépendante du modèle utilise le modèle GPT-4.1 d’Azure Canada avec des invites propres aux ministères pour 10 institutions : RCAANC, ARC, EDSC, FIN, SC, IRCC, SAC, ASPC, SPAC et SCT. </p>
 
 
 
-<p>Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d’extraire à l’avance du contenu Web. Ce système d’IA repose sur les renseignements fournis sur les sites Web du GC (<a href="https://reponses-ia.alpha.canada.ca/fr/about" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr/about" target="_blank" rel="noreferrer noopener">À propos de Réponses IA</a>).</p>
+<p class="wp-block-paragraph">Comme le contenu Web change fréquemment, le système effectue des recherches et télécharge des pages précises pour répondre aux questions, plutôt que d’extraire à l’avance du contenu Web. Ce système d’IA repose sur les renseignements fournis sur les sites Web du GC (<a href="https://reponses-ia.alpha.canada.ca/fr/about" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr/about" target="_blank" rel="noreferrer noopener">À propos de Réponses IA</a>).</p>
 
 
 
-<p>L’équipe de produit de Réponses IA a mis au point un système d’IA agentive (les utilisateurs clavardent avec un agent spécialisé) avec une invite détaillée pour faire en sorte que les réponses soient claires, concises et utiles. Nous avons intégré des systèmes d’évaluation par des experts humains et des systèmes de notation par l’IA, et avons fait en sorte de bloquer les renseignements personnels permettant d’identifier l’utilisateur afin de protéger sa vie privée.</p>
+<p class="wp-block-paragraph">L’équipe de produit de Réponses IA a mis au point un système d’IA agentive (les utilisateurs clavardent avec un agent spécialisé) avec une invite détaillée pour faire en sorte que les réponses soient claires, concises et utiles. Nous avons intégré des systèmes d’évaluation par des experts humains et des systèmes de notation par l’IA, et avons fait en sorte de bloquer les renseignements personnels permettant d’identifier l’utilisateur afin de protéger sa vie privée.</p>
 </details>
 
 
@@ -72,7 +72,7 @@ translationKey: blog-ai-answers
 
 
 
-<p><strong>La répartition des questions témoigne des priorités des utilisateurs</strong></p>
+<p class="wp-block-paragraph"><strong>La répartition des questions témoigne des priorités des utilisateurs</strong></p>
 
 
 
@@ -96,7 +96,7 @@ translationKey: blog-ai-answers
 <img loading="lazy" decoding="async" width="764" height="964" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Reponses-IA.png" alt="" class="wp-image-3407" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Reponses-IA.png 764w, https://articles.alpha.canada.ca/uploads/sites/25/2025/12/Reponses-IA-238x300.png 238w" sizes="auto, (max-width: 764px) 100vw, 764px" />
 
 
-<p style="font-size:13px">Texte de remplacement : Capture d’écran de la page du service Réponses IA. La page explique que l’outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
+<p class="wp-block-paragraph" style="font-size:13px">Texte de remplacement : Capture d’écran de la page du service Réponses IA. La page explique que l’outil peut aider les utilisateurs à trouver des réponses à leurs questions sur les services et les renseignements offerts sur Canada.ca.</p>
 
 
 
@@ -200,13 +200,13 @@ translationKey: blog-ai-answers
 
 
 
-<p>Notre équipe publiera bientôt quelques billets de blogue sur la conception, la sécurité et les opérations de Réponses IA afin de vous permettre de mieux comprendre ce service expérimental. Nous espérons que notre travail aidera les équipes de développement de l’IA dans tout le secteur public à déployer des applications sûres et efficaces.</p>
+<p class="wp-block-paragraph">Notre équipe publiera bientôt quelques billets de blogue sur la conception, la sécurité et les opérations de Réponses IA afin de vous permettre de mieux comprendre ce service expérimental. Nous espérons que notre travail aidera les équipes de développement de l’IA dans tout le secteur public à déployer des applications sûres et efficaces.</p>
 
 
 
-<p><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" data-type="link" data-id="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener"><strong>Abonnez-vous à l’infolettre du SNC pour recevoir des mises à jour sur notre travail</strong></a><strong> ! </strong>Vous pouvez également <a href="https://reponses-ia.alpha.canada.ca/fr" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener">visiter le site de la mise à l’essai de Réponses IA</a> ou explorer comment nous créons des services numériques centrés sur l’utilisateur à <a href="https://numerique.canada.ca/" data-type="link" data-id="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener">numérique.canada.ca</a>.</p>
+<p class="wp-block-paragraph"><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" data-type="link" data-id="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noreferrer noopener"><strong>Abonnez-vous à l’infolettre du SNC pour recevoir des mises à jour sur notre travail</strong></a><strong> ! </strong>Vous pouvez également <a href="https://reponses-ia.alpha.canada.ca/fr" data-type="link" data-id="https://reponses-ia.alpha.canada.ca/fr" target="_blank" rel="noreferrer noopener">visiter le site de la mise à l’essai de Réponses IA</a> ou explorer comment nous créons des services numériques centrés sur l’utilisateur à <a href="https://numerique.canada.ca/" data-type="link" data-id="https://numerique.canada.ca/" target="_blank" rel="noreferrer noopener">numérique.canada.ca</a>.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
