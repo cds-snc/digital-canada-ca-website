@@ -13,32 +13,32 @@ translationKey: gcds-mandatory-elements-blog
 ---
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><em>“By using the GC Design System, web and application teams across government will be able to leverage modern features to scale delivery. These features include a prototyping tool (Figma), code builder, web components, design tokens, and the flexibility to work in the programming language of their choice. GC Design System will also help teams meet GC standards for digital service delivery and communication, by embedding these requirements in the code and design, and offering guidance.”</em><br>– Blog: <a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=gcds-mandatory-elements-blog&amp;utm_content=gcds-intro-blog-en-250612" target="_blank" rel="noreferrer noopener">A path toward a unified design system for the Government of Canada</a></p>
+<p class="wp-block-paragraph"><em>“By using the GC Design System, web and application teams across government will be able to leverage modern features to scale delivery. These features include a prototyping tool (Figma), code builder, web components, design tokens, and the flexibility to work in the programming language of their choice. GC Design System will also help teams meet GC standards for digital service delivery and communication, by embedding these requirements in the code and design, and offering guidance.”</em><br>– Blog: <a href="https://digital.canada.ca/2024/05/27/a-path-toward-a-unified-design-system-for-the-government-of-canada/?utm_campaign=esdc-edsc-intcomms-24-25&amp;utm_medium=pog&amp;utm_source=gcds-mandatory-elements-blog&amp;utm_content=gcds-intro-blog-en-250612" target="_blank" rel="noreferrer noopener">A path toward a unified design system for the Government of Canada</a></p>
 </blockquote>
 
 
 
-<p>A design system is a collection of reusable guidelines, user interface components, and tools that provide consistency and efficiency in the design and development process. Design systems are a single source of truth for design, code, and guidance.</p>
+<p class="wp-block-paragraph">A design system is a collection of reusable guidelines, user interface components, and tools that provide consistency and efficiency in the design and development process. Design systems are a single source of truth for design, code, and guidance.</p>
 
 
 
-<p>The <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682" target="_blank" rel="noreferrer noopener">Directive on the Management of Communications and Federal Identity</a> requires external-facing federal government websites and applications to follow the <a href="https://design.canada.ca/specifications.html" target="_blank" rel="noreferrer noopener">Canada.ca Specifications</a>. This includes applying brand elements so people can recognize and identify Government of Canada content. The standardized header and footer contain those required brand elements.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">The <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682" target="_blank" rel="noreferrer noopener">Directive on the Management of Communications and Federal Identity</a> requires external-facing federal government websites and applications to follow the <a href="https://design.canada.ca/specifications.html" target="_blank" rel="noreferrer noopener">Canada.ca Specifications</a>. This includes applying brand elements so people can recognize and identify Government of Canada content. The standardized header and footer contain those required brand elements.&nbsp;&nbsp;</p>
 
 
 
-<p>Style is also part of the GC brand. Teams need to apply consistent typography, spacing, and colours across their sites, as well as standardized content and layouts. This way, the public can trust that your site is an official Government of Canada space.&nbsp;&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">Style is also part of the GC brand. Teams need to apply consistent typography, spacing, and colours across their sites, as well as standardized content and layouts. This way, the public can trust that your site is an official Government of Canada space.&nbsp;&nbsp;&nbsp;</p>
 
 
 
-<p>In this blog, we’re (<a href="https://www.linkedin.com/in/amy-morris-canada/" target="_blank" rel="noreferrer noopener">Amy Morris</a>, Design Lead, GC Design System&nbsp;and <a href="https://www.linkedin.com/in/chelsey-d-5854b561/" target="_blank" rel="noreferrer noopener">Chelsey Donohue</a>, Chief, Guidance and Standards) sharing about our teams’ work on aligning GC Design System with the Canada.ca specifications to enable consistency and improve the user experience across various frameworks public servants are using.&nbsp;</p>
+<p class="wp-block-paragraph">In this blog, we’re (<a href="https://www.linkedin.com/in/amy-morris-canada/" target="_blank" rel="noreferrer noopener">Amy Morris</a>, Design Lead, GC Design System&nbsp;and <a href="https://www.linkedin.com/in/chelsey-d-5854b561/" target="_blank" rel="noreferrer noopener">Chelsey Donohue</a>, Chief, Guidance and Standards) sharing about our teams’ work on aligning GC Design System with the Canada.ca specifications to enable consistency and improve the user experience across various frameworks public servants are using.&nbsp;</p>
 
 
 
-<p><strong>A cohesive design system is the key to brand consistency across Canada.ca and other digital services. </strong>That’s where work on <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> comes in. Using the GC Design System, a team can get the same brand elements, look and feel, and experiences without having to have the same backend code. <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">It aims to replace existing design systems, offering a more scalable, predictable, and inclusive user experience.</a> GC Design System has built in many Canada.ca and FIP rules as a default, so teams in the GC can confidently use it, knowing it meets Canada.ca design requirements.</p>
+<p class="wp-block-paragraph"><strong>A cohesive design system is the key to brand consistency across Canada.ca and other digital services. </strong>That’s where work on <a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> comes in. Using the GC Design System, a team can get the same brand elements, look and feel, and experiences without having to have the same backend code. <a href="https://design-system.alpha.canada.ca/en/" target="_blank" rel="noreferrer noopener">It aims to replace existing design systems, offering a more scalable, predictable, and inclusive user experience.</a> GC Design System has built in many Canada.ca and FIP rules as a default, so teams in the GC can confidently use it, knowing it meets Canada.ca design requirements.</p>
 
 
 
-<p>As part of this effort, CDS teams (<a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> and the <a href="https://design.canada.ca/index.html" target="_blank" rel="noreferrer noopener">Digital Transformation Office (DTO)</a> worked on the alignment of required brand components with <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/esdc-transition-binders/binder2-service-canada-2021.html#h2.5" target="_blank" rel="noreferrer noopener">Principal Publisher</a>, who manages GCWeb.</p>
+<p class="wp-block-paragraph">As part of this effort, CDS teams (<a href="https://design-system.alpha.canada.ca/en/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">GC Design System</a> and the <a href="https://design.canada.ca/index.html" target="_blank" rel="noreferrer noopener">Digital Transformation Office (DTO)</a> worked on the alignment of required brand components with <a href="https://www.canada.ca/en/employment-social-development/corporate/reports/esdc-transition-binders/binder2-service-canada-2021.html#h2.5" target="_blank" rel="noreferrer noopener">Principal Publisher</a>, who manages GCWeb.</p>
 
 
 
@@ -46,15 +46,15 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p>GC Design System components are user interface building blocks that address different user objectives. Each comes with reusable code, prototyping assets, best practice advice, and accessibility tips.</p>
+<p class="wp-block-paragraph">GC Design System components are user interface building blocks that address different user objectives. Each comes with reusable code, prototyping assets, best practice advice, and accessibility tips.</p>
 
 
 
-<p>To keep it simple: components are pathways, roads, and signage to get around. They facilitate navigation and act as channels for communication with the person using the service. We communicate with brand and messaging components and people can communicate back. They might use a checkbox to give consent, fill in a form field, or give an instruction or command using a button.</p>
+<p class="wp-block-paragraph">To keep it simple: components are pathways, roads, and signage to get around. They facilitate navigation and act as channels for communication with the person using the service. We communicate with brand and messaging components and people can communicate back. They might use a checkbox to give consent, fill in a form field, or give an instruction or command using a button.</p>
 
 
 
-<p>While there are optional components, like file uploader and radio buttons,<strong> there are mandatory elements all Government of Canada sites and products must use to ensure brand consistency</strong>:</p>
+<p class="wp-block-paragraph">While there are optional components, like file uploader and radio buttons,<strong> there are mandatory elements all Government of Canada sites and products must use to ensure brand consistency</strong>:</p>
 
 
 
@@ -114,31 +114,31 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p>The <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682" target="_blank" rel="noreferrer noopener">Directive on the Management of Communications</a> requires that external-facing web pages and applications, managed by or on behalf of the Government of Canada, meet the <a href="https://design.canada.ca/specifications.html" target="_blank" rel="noreferrer noopener">Canada.ca Specifications</a>. Mandatory design elements in the Specifications establish identifiable Government of Canada web content and global navigation elements.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">The <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=30682" target="_blank" rel="noreferrer noopener">Directive on the Management of Communications</a> requires that external-facing web pages and applications, managed by or on behalf of the Government of Canada, meet the <a href="https://design.canada.ca/specifications.html" target="_blank" rel="noreferrer noopener">Canada.ca Specifications</a>. Mandatory design elements in the Specifications establish identifiable Government of Canada web content and global navigation elements.&nbsp;&nbsp;</p>
 
 
 
-<p>In the past for teams (outside of GCWeb/AEM) to comply, they’d have to replicate or approximate visual styles and pattern behaviours in the Canada.ca Specifications. Now – without guesswork or extensive research –&nbsp;teams using GC Design System can get a match in the framework they&#8217;re using.&nbsp;</p>
+<p class="wp-block-paragraph">In the past for teams (outside of GCWeb/AEM) to comply, they’d have to replicate or approximate visual styles and pattern behaviours in the Canada.ca Specifications. Now – without guesswork or extensive research –&nbsp;teams using GC Design System can get a match in the framework they&#8217;re using.&nbsp;</p>
 
 
 
-<p>Our goal in doing this alignment work was to ensure that any sites or products using the GC Design System or GCWeb are successfully applying the mandatory elements of the Canada.ca Specifications and can provide a consistent experience for the people using our sites and products.&nbsp;</p>
+<p class="wp-block-paragraph">Our goal in doing this alignment work was to ensure that any sites or products using the GC Design System or GCWeb are successfully applying the mandatory elements of the Canada.ca Specifications and can provide a consistent experience for the people using our sites and products.&nbsp;</p>
 
 
 
-<p>But this is about more than just following the rules. It’s about a path where public servants can work together across disciplines and tech stacks to build services that work for the people we serve, so all those who need to can find, understand, and use those services.</p>
+<p class="wp-block-paragraph">But this is about more than just following the rules. It’s about a path where public servants can work together across disciplines and tech stacks to build services that work for the people we serve, so all those who need to can find, understand, and use those services.</p>
 
 
 
-<p>While the Canada.ca website acts as the front door for accessing GC services and information, the delivery of digital experiences in each department varies. This shows up in our collective web presence as brand inconsistency. It degrades trust and makes it harder for visitors to find what they’re looking for.&nbsp;</p>
+<p class="wp-block-paragraph">While the Canada.ca website acts as the front door for accessing GC services and information, the delivery of digital experiences in each department varies. This shows up in our collective web presence as brand inconsistency. It degrades trust and makes it harder for visitors to find what they’re looking for.&nbsp;</p>
 
 
 
-<p>We should be able to use different systems, frameworks, and implementation strategies while maintaining common interfaces and experiences. Not all government offices work the same way in the background, yet they all have common signage and visual elements when you walk through the door. A visitor immediately knows they’re in a trusted environment.&nbsp;</p>
+<p class="wp-block-paragraph">We should be able to use different systems, frameworks, and implementation strategies while maintaining common interfaces and experiences. Not all government offices work the same way in the background, yet they all have common signage and visual elements when you walk through the door. A visitor immediately knows they’re in a trusted environment.&nbsp;</p>
 
 
 
-<p>We did this alignment work to provide tools and resources that will help address inconsistencies in brand elements across GC sites. Some teams haven’t had the resources or capacity to get aligned. Departments can be confident that they’re meeting requirements when using the GC Design System.&nbsp;&nbsp;</p>
+<p class="wp-block-paragraph">We did this alignment work to provide tools and resources that will help address inconsistencies in brand elements across GC sites. Some teams haven’t had the resources or capacity to get aligned. Departments can be confident that they’re meeting requirements when using the GC Design System.&nbsp;&nbsp;</p>
 
 
 
@@ -150,7 +150,7 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p><strong>If you’re building a new website or application, we encourage you to use GC Design System. </strong><a href="https://design-system.alpha.canada.ca/en/page-templates/basic/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">We recently published a basic page template</a> with all the standard and required components in place. Teams can use this to start prototyping or coding and then add their content and any other gcds-components they may need on the page. This gives you a solid starting point, instead of starting from scratch, potentially cutting your development time in more than half.</p>
+<p class="wp-block-paragraph"><strong>If you’re building a new website or application, we encourage you to use GC Design System. </strong><a href="https://design-system.alpha.canada.ca/en/page-templates/basic/?utm_source=EN_Blog-gcds-new-template-basic-page&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener">We recently published a basic page template</a> with all the standard and required components in place. Teams can use this to start prototyping or coding and then add their content and any other gcds-components they may need on the page. This gives you a solid starting point, instead of starting from scratch, potentially cutting your development time in more than half.</p>
 
 
 
@@ -158,7 +158,7 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p><strong>Even if you’re not starting from scratch, you can still start using GC Design System components alongside other frameworks you’re using</strong>. <a href="https://design-system.alpha.canada.ca/en/components/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">Browse our growing collection of components</a> to see if any can help with user objectives for your content.&nbsp;</p>
+<p class="wp-block-paragraph"><strong>Even if you’re not starting from scratch, you can still start using GC Design System components alongside other frameworks you’re using</strong>. <a href="https://design-system.alpha.canada.ca/en/components/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener">Browse our growing collection of components</a> to see if any can help with user objectives for your content.&nbsp;</p>
 
 
 
@@ -188,11 +188,11 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<p>Moving forward, teams at GC Design System, the Digital Transformation Office (DTO), and Principal Publisher will continue collaborating. Principal Publisher is updating patterns in GCWeb to further align with GC Design System components and will be migrating gcds-components into AEM. We’re also continuing to work towards integrating other Canada.ca components and templates into GC Design System.</p>
+<p class="wp-block-paragraph">Moving forward, teams at GC Design System, the Digital Transformation Office (DTO), and Principal Publisher will continue collaborating. Principal Publisher is updating patterns in GCWeb to further align with GC Design System components and will be migrating gcds-components into AEM. We’re also continuing to work towards integrating other Canada.ca components and templates into GC Design System.</p>
 
 
 
-<p><strong>Get updates and information from us:</strong></p>
+<p class="wp-block-paragraph"><strong>Get updates and information from us:</strong></p>
 
 
 
