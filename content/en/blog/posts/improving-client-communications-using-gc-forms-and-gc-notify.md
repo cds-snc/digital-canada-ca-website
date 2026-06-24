@@ -12,23 +12,23 @@ tags: ["GC Forms","GC Notify"]
 translationKey: blog-pbs-rachel-muston
 ---
 
-<p>Have you ever wondered how to communicate effectively with your clients (like for collecting application data)? Rachel did.</p>
+<p class="wp-block-paragraph">Have you ever wondered how to communicate effectively with your clients (like for collecting application data)? Rachel did.</p>
 
 
 
-<p>Passionate about improving the lives of people in Canada through digital government services, Rachel Muston has more than 25 years of experience in the Government of Canada.</p>
+<p class="wp-block-paragraph">Passionate about improving the lives of people in Canada through digital government services, Rachel Muston has more than 25 years of experience in the Government of Canada.</p>
 
 
 
-<p>She’s worked for various GC departments, including the Department of Fisheries and Oceans Canada (DFO), Employment and Social Development Canada (ESDC), and Treasury Board of Canada Secretariat (TBS), where she’s currently on assignment as a <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents/FAQ">Free Agent</a>.</p>
+<p class="wp-block-paragraph">She’s worked for various GC departments, including the Department of Fisheries and Oceans Canada (DFO), Employment and Social Development Canada (ESDC), and Treasury Board of Canada Secretariat (TBS), where she’s currently on assignment as a <a href="https://wiki.gccollab.ca/Canada%27s_Free_Agents/FAQ">Free Agent</a>.</p>
 
 
 
-<p>In May 2021, she was offered a demo to try <a href="https://forms-formulaires.alpha.canada.ca/en/id/1">GC Forms</a> and <a href="https://notification.canada.ca/">GC Notify</a>. Intrigued, she quickly realized that both products could help with client communications for a pilot project she was leading at ESDC.</p>
+<p class="wp-block-paragraph">In May 2021, she was offered a demo to try <a href="https://forms-formulaires.alpha.canada.ca/en/id/1">GC Forms</a> and <a href="https://notification.canada.ca/">GC Notify</a>. Intrigued, she quickly realized that both products could help with client communications for a pilot project she was leading at ESDC.</p>
 
 
 
-<p>More than a year later, we sat down with her to chat about how it went.</p>
+<p class="wp-block-paragraph">More than a year later, we sat down with her to chat about how it went.</p>
 
 
 
@@ -40,7 +40,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>From June 2021 to May 2022, I Ied the Micro-Acquisitions pilot at ESDC. Basically, this initiative aimed to:</p>
+<p class="wp-block-paragraph">From June 2021 to May 2022, I Ied the Micro-Acquisitions pilot at ESDC. Basically, this initiative aimed to:</p>
 
 
 
@@ -62,19 +62,19 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>We did this by creating a new procurement process for ESDC’s teams to procure low dollar value (under 10k) open-source code. This process gave these teams a way to reduce their backlog of non-urgent coding work. For example, they could procure code that would add new functionality to improve it or would clean and analyze large data sets.</p>
+<p class="wp-block-paragraph">We did this by creating a new procurement process for ESDC’s teams to procure low dollar value (under 10k) open-source code. This process gave these teams a way to reduce their backlog of non-urgent coding work. For example, they could procure code that would add new functionality to improve it or would clean and analyze large data sets.</p>
 
 
 
-<p>By reducing the amount of overhead usually required to access these resources, it made the low dollar value procurement worth the effort. It also gave us faster access to open-source code and removed barriers that small-scale suppliers often face in GC procurement, allowing us to reach a wider audience of coders.</p>
+<p class="wp-block-paragraph">By reducing the amount of overhead usually required to access these resources, it made the low dollar value procurement worth the effort. It also gave us faster access to open-source code and removed barriers that small-scale suppliers often face in GC procurement, allowing us to reach a wider audience of coders.</p>
 
 
 
-<p>To coordinate the posting and applications for this new process, we built a website. There, we could post opportunities for suppliers to write open-source code for public services. Suppliers expressed their interest in doing the work by filling out a form (using GC Forms).</p>
+<p class="wp-block-paragraph">To coordinate the posting and applications for this new process, we built a website. There, we could post opportunities for suppliers to write open-source code for public services. Suppliers expressed their interest in doing the work by filling out a form (using GC Forms).</p>
 
 
 
-<p>While things didn&#8217;t go as planned and the pilot came to a close in May 2022, GC Forms and GC Notify certainly helped us get our service up and running much quicker during that time (our first form only took 3 days to create!). Additionally, we wrote a <a href="https://sara-sabr.github.io/ITStrategy/2022/05/05/micro-acquisition-pilot-closeout.html">close-out blog</a> and <a href="https://sara-sabr.github.io/ITStrategy/ma-closeout-report.html">report</a>, so people can learn from our experiences – like what did and didn’t go well.</p>
+<p class="wp-block-paragraph">While things didn&#8217;t go as planned and the pilot came to a close in May 2022, GC Forms and GC Notify certainly helped us get our service up and running much quicker during that time (our first form only took 3 days to create!). Additionally, we wrote a <a href="https://sara-sabr.github.io/ITStrategy/2022/05/05/micro-acquisition-pilot-closeout.html">close-out blog</a> and <a href="https://sara-sabr.github.io/ITStrategy/ma-closeout-report.html">report</a>, so people can learn from our experiences – like what did and didn’t go well.</p>
 
 
 
@@ -86,19 +86,19 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>CDS helped us collect supplier applicant data through their <a href="https://forms-formulaires.alpha.canada.ca/en/id/1">GC Forms product</a> and we used their <a href="https://notification.canada.ca/">GC Notify product</a> for sending email notifications regarding applicant statuses and new opportunities.</p>
+<p class="wp-block-paragraph">CDS helped us collect supplier applicant data through their <a href="https://forms-formulaires.alpha.canada.ca/en/id/1">GC Forms product</a> and we used their <a href="https://notification.canada.ca/">GC Notify product</a> for sending email notifications regarding applicant statuses and new opportunities.</p>
 
 
 
-<p>We also used GC Forms to build the subscription method for our mailing list on GC Notify and for the feedback page on our website, so people could ask the team questions about the pilot.</p>
+<p class="wp-block-paragraph">We also used GC Forms to build the subscription method for our mailing list on GC Notify and for the feedback page on our website, so people could ask the team questions about the pilot.</p>
 
 
 
-<p>Below are screenshots of what those forms looked like.</p>
+<p class="wp-block-paragraph">Below are screenshots of what those forms looked like.</p>
 
 
 
-<p><strong>Mailing list subscription form</strong></p>
+<p class="wp-block-paragraph"><strong>Mailing list subscription form</strong></p>
 
 
 
@@ -106,11 +106,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p style="font-size:12px">Image description: Screenshot of the online mailing list subscription form for pilot updates, made using GC Forms. It requests name, email, and language.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Image description: Screenshot of the online mailing list subscription form for pilot updates, made using GC Forms. It requests name, email, and language.</p>
 
 
 
-<p><br><strong>Feedback form</strong></p>
+<p class="wp-block-paragraph"><br><strong>Feedback form</strong></p>
 
 
 
@@ -118,15 +118,15 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p style="font-size:12px">Image description: Screenshot of pilot feedback form for website issues. Contact info is optional, so people can stay anonymous and limit time commitment, if they wish.</p>
+<p class="wp-block-paragraph" style="font-size:12px">Image description: Screenshot of pilot feedback form for website issues. Contact info is optional, so people can stay anonymous and limit time commitment, if they wish.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 
 
 
-<p><strong>CDS’s products helped us with multiple pain points around service communications:</strong></p>
+<p class="wp-block-paragraph"><strong>CDS’s products helped us with multiple pain points around service communications:</strong></p>
 
 
 
@@ -180,15 +180,15 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Honestly, I tell everyone about GC Forms and GC Notify. To me, trying them is a no-brainer. They’re accessible products that meet official languages and security needs (very important for public services). On top of that, they’re really easy to use. It takes away the worry of wondering if you could be doing something wrong.</p>
+<p class="wp-block-paragraph">Honestly, I tell everyone about GC Forms and GC Notify. To me, trying them is a no-brainer. They’re accessible products that meet official languages and security needs (very important for public services). On top of that, they’re really easy to use. It takes away the worry of wondering if you could be doing something wrong.</p>
 
 
 
-<p>I’ve set up learning sessions for the Free Agents on GC Forms and GC Notify because they’re amazing tools – everyone&#8217;s creating web forms and sending updates, and these products really help with that. While I haven&#8217;t used GC Forms since the Micro-Acquisitions pilot closed, it&#8217;s always top of my mind for future work and I will use it again, certainly.</p>
+<p class="wp-block-paragraph">I’ve set up learning sessions for the Free Agents on GC Forms and GC Notify because they’re amazing tools – everyone&#8217;s creating web forms and sending updates, and these products really help with that. While I haven&#8217;t used GC Forms since the Micro-Acquisitions pilot closed, it&#8217;s always top of my mind for future work and I will use it again, certainly.</p>
 
 
 
-<p>A big plus for using GC Forms and GC Notify is they’re GC-compliant and don&#8217;t require coding experience, making them super helpful for many teams! I think they’re such great services to offer – the need is there.</p>
+<p class="wp-block-paragraph">A big plus for using GC Forms and GC Notify is they’re GC-compliant and don&#8217;t require coding experience, making them super helpful for many teams! I think they’re such great services to offer – the need is there.</p>
 
 
 
@@ -196,15 +196,15 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>The blog team insisted that I share what could be improved.</p>
+<p class="wp-block-paragraph">The blog team insisted that I share what could be improved.</p>
 
 
 
-<p>For GC Forms, I’d say that the ability to have conditional logic in GC Forms would be cool. Initially, we thought we’d like to make one field conditionally mandatory, based on the answer in a previous field. We ended up simplifying the form and not needing that, but I could see that being a useful feature. Having the ability to identify duplicate submissions would be cool too, and digital signatures on GC Forms would be a game-changer.</p>
+<p class="wp-block-paragraph">For GC Forms, I’d say that the ability to have conditional logic in GC Forms would be cool. Initially, we thought we’d like to make one field conditionally mandatory, based on the answer in a previous field. We ended up simplifying the form and not needing that, but I could see that being a useful feature. Having the ability to identify duplicate submissions would be cool too, and digital signatures on GC Forms would be a game-changer.</p>
 
 
 
-<p>For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">API functionality</a>, but that would be fun to try out next time!</p>
+<p class="wp-block-paragraph">For GC Notify, it sounds boring but I honestly don’t have any product improvement suggestions. Our needs for the micro-acquisition pilot were simple and it really did everything I needed it to do. I was especially impressed with the testing features because I was able to see exactly what the messages would look like before I sent them out to the public. Our use of Notify didn’t involve the <a href="https://documentation.notification.canada.ca/en/?utm_source=EN_Notify_improving-client-communications&amp;utm_medium=Blog+post&amp;utm_campaign=CDS_Blogs&amp;utm_id=Notify_API" target="_blank" rel="noreferrer noopener">API functionality</a>, but that would be fun to try out next time!</p>
 
 
 
@@ -212,13 +212,13 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Leveraging open-source tools for client communications helped Rachel and the team improve their digital service delivery. Our Platform products GC Forms and GC Notify enabled more accessible and accurate data collection, reduced the amount of time the team spent on bilingual communications with suppliers, and increased the reliability of notification delivery via automation.</p>
+<p class="wp-block-paragraph">Leveraging open-source tools for client communications helped Rachel and the team improve their digital service delivery. Our Platform products GC Forms and GC Notify enabled more accessible and accurate data collection, reduced the amount of time the team spent on bilingual communications with suppliers, and increased the reliability of notification delivery via automation.</p>
 
 
 
-<p>Are you a public servant who may benefit from our Platform products?</p>
+<p class="wp-block-paragraph">Are you a public servant who may benefit from our Platform products?</p>
 
 
 
-<p>Our teams are happy to chat with you and see how they can help (including demos). Contact: <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">GC Forms</a> and/or <a href="http://notification.canada.ca/contact(opens in a new tab)">GC Notify</a>!</p>
+<p class="wp-block-paragraph">Our teams are happy to chat with you and see how they can help (including demos). Contact: <a href="https://forms-formulaires.alpha.canada.ca/form-builder/support/contactus">GC Forms</a> and/or <a href="http://notification.canada.ca/contact(opens in a new tab)">GC Notify</a>!</p>
 
