@@ -106,11 +106,11 @@ translationKey: blog-cadets-gcforms-gcnotify
 
 
 
-<p class="has-medium-font-size">When conditional logic capabilities were available for GC Forms users, we started a project called the Detailed Health Questionnaire. When a Cadet registers for the program, it triggers medical liaison officers to do health verification before they can be an active member. The information parents provide is Protected B data, so MS Forms wasn’t an option – but GC Forms had the required GC security protocols.&nbsp;&nbsp;<a href="https://forms-formulaires.alpha.canada.ca/en/contact" target="_blank" rel="noreferrer noopener">Contact the support team for more info on GC Forms’ security</a>.<br><br>We’re testing the online health questionnaires in <a href="https://forms-formulaires.alpha.canada.ca/en/id/cm0zc62eo00d56ci6awl6dgk9" target="_blank" rel="noreferrer noopener">Saskatchewan</a> and <a href="https://forms-formulaires.alpha.canada.ca/en/id/cm10tstop00h36ci68ifj8h96" target="_blank" rel="noreferrer noopener">Newfoundland</a>. It’s about a 600-user test group, and we’re planning to expand if it improves their health verification experiences.</p>
+<p class="has-medium-font-size ">When conditional logic capabilities were available for GC Forms users, we started a project called the Detailed Health Questionnaire. When a Cadet registers for the program, it triggers medical liaison officers to do health verification before they can be an active member. The information parents provide is Protected B data, so MS Forms wasn’t an option – but GC Forms had the required GC security protocols.&nbsp;&nbsp;<a href="https://forms-formulaires.alpha.canada.ca/en/contact" target="_blank" rel="noreferrer noopener">Contact the support team for more info on GC Forms’ security</a>.<br><br>We’re testing the online health questionnaires in <a href="https://forms-formulaires.alpha.canada.ca/en/id/cm0zc62eo00d56ci6awl6dgk9" target="_blank" rel="noreferrer noopener">Saskatchewan</a> and <a href="https://forms-formulaires.alpha.canada.ca/en/id/cm10tstop00h36ci68ifj8h96" target="_blank" rel="noreferrer noopener">Newfoundland</a>. It’s about a 600-user test group, and we’re planning to expand if it improves their health verification experiences.</p>
 
 
 
-<p class="has-medium-font-size"><strong>A few key benefits of our online forms:</strong> </p>
+<p class="has-medium-font-size "><strong>A few key benefits of our online forms:</strong> </p>
 
 
 
@@ -120,11 +120,11 @@ translationKey: blog-cadets-gcforms-gcnotify
 
 
 
-<p class="has-medium-font-size">The process for getting health information has been complex. Previously, what would happen is the Corps and Squadrons (these are part-time staff volunteering a lot of their time) would get an indicator that a Cadet required a detailed health questionnaire based on answers for their online registration. They would then go and print out the form and give it to the parents to fill out, then mail or fax it to the Regional Cadet Support Unit (RCSU) medical liaison team. So there&#8217;s a wait time in the mail, and the Cadets can’t participate until this is done.&nbsp;</p>
+<p class="has-medium-font-size ">The process for getting health information has been complex. Previously, what would happen is the Corps and Squadrons (these are part-time staff volunteering a lot of their time) would get an indicator that a Cadet required a detailed health questionnaire based on answers for their online registration. They would then go and print out the form and give it to the parents to fill out, then mail or fax it to the Regional Cadet Support Unit (RCSU) medical liaison team. So there&#8217;s a wait time in the mail, and the Cadets can’t participate until this is done.&nbsp;</p>
 
 
 
-<p class="has-medium-font-size">The online data submission allows our medical staff to instantly get the information and update Cadets’ files in a timely manner, so they can start participating quicker!</p>
+<p class="has-medium-font-size ">The online data submission allows our medical staff to instantly get the information and update Cadets’ files in a timely manner, so they can start participating quicker!</p>
 
 
 
