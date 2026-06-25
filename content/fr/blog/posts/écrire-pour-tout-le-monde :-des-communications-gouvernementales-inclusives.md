@@ -89,7 +89,7 @@ translationKey: blog-chantal-inclusion
 
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
 <p>1. <strong>Utilisez des noms pluriels.</strong></p>
 
 
@@ -100,7 +100,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
 <p>2. <strong>Visez la brièveté.</strong></p>
 
 
@@ -110,7 +110,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
 <p>3. <strong>Adressez-vous directement à votre lectorat.</strong></p>
 
 
@@ -120,7 +120,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
 <p>4. <strong>Ne perdez pas de vue votre lectorat.</strong></p>
 
 
@@ -138,7 +138,7 @@ translationKey: blog-chantal-inclusion
 
 
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
 <h2 class="wp-block-heading"><strong>Découvrez d’autres manières de rendre vos textes plus inclusifs</strong></h2>
 
 
