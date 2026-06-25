@@ -30,7 +30,7 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>Part 1: Accessible by default</strong></h2>
 
 
@@ -188,8 +188,8 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>We’re looking for feedback on GC Forms!</strong></h2>
 </div>
 
