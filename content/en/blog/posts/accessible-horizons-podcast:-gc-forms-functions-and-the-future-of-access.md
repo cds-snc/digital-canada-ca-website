@@ -30,12 +30,12 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>Part 1: Accessible by default</strong></h2>
 
 
 
-<p class="has-background" style="background-color:#cec5f8">What if accessibility wasn&#8217;t an afterthought, but the starting point?</p>
+<p class="has-background " style="background-color:#cec5f8">What if accessibility wasn&#8217;t an afterthought, but the starting point?</p>
 </div>
 
 
@@ -188,18 +188,18 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
-<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-b16ad781 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-33ccc8b1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>We’re looking for feedback on GC Forms!</strong></h2>
 </div>
 
 
 
-<p class="has-background" style="background-color:#cec5f8"><strong>Stevie-Ray:</strong> We’d love to get feedback on the <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=en_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms product</a> to help us make it accessible for not just the people filling out forms, but the people building it as well.</p>
+<p class="has-background " style="background-color:#cec5f8"><strong>Stevie-Ray:</strong> We’d love to get feedback on the <a href="https://articles.alpha.canada.ca/forms-formulaires/?utm_source=en_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">GC Forms product</a> to help us make it accessible for not just the people filling out forms, but the people building it as well.</p>
 
 
 
-<p class="has-background" style="background-color:#cec5f8"><a href="https://forms-formulaires.alpha.canada.ca/en/contact?utm_source=en_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener"><strong>Sign up for the GC Forms mailing list so we can test with public servants</strong></a><strong>.&nbsp;</strong></p>
+<p class="has-background " style="background-color:#cec5f8"><a href="https://forms-formulaires.alpha.canada.ca/en/contact?utm_source=en_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener"><strong>Sign up for the GC Forms mailing list so we can test with public servants</strong></a><strong>.&nbsp;</strong></p>
 </div>
 
 
