@@ -30,7 +30,7 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-17856c89 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-e0be65f6 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-text-align-left has-background has-large-font-size" style="background-color:#cec5f8"><strong>Partie 1: Accessible par défaut</strong></h2>
 
 
@@ -240,7 +240,7 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>Nous souhaitons obtenir votre avis sur Formulaires GC !</strong></h2>
 
 
