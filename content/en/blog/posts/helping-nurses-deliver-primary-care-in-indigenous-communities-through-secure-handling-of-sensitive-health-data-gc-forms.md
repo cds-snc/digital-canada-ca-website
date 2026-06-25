@@ -169,7 +169,7 @@ translationKey: isc-gcforms-nursing
 
 
 <div class="wp-block-group has-background" style="background-color:#ebfaf0"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<p class="has-background" style="background-color:#ebfaf0"><strong>Since implementing GC Forms, this approach has generated a growing body of data to support these decisions, including:</strong></p>
+<p class="has-background " style="background-color:#ebfaf0"><strong>Since implementing GC Forms, this approach has generated a growing body of data to support these decisions, including:</strong></p>
 
 
 
