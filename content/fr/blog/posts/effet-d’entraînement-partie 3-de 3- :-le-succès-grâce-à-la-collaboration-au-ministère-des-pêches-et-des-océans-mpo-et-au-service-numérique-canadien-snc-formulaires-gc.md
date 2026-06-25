@@ -12,12 +12,12 @@ tags: ["Formulaires GC"]
 translationKey: dfo-series-gcds-p3
 ---
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
-<p class="has-background" style="background-color:#cec5f8"><strong>Dans la troisième et dernière partie de cette série, le MPO explique comment il navigue sur des voies encore inexplorées avec Formulaires GC. Ensemble, nous combinons eau et numérique (deux éléments qui ne font traditionnellement pas bon ménage) afin d’ouvrir de nouvelles possibilités!</strong></p>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
+<p class="has-background " style="background-color:#cec5f8"><strong>Dans la troisième et dernière partie de cette série, le MPO explique comment il navigue sur des voies encore inexplorées avec Formulaires GC. Ensemble, nous combinons eau et numérique (deux éléments qui ne font traditionnellement pas bon ménage) afin d’ouvrir de nouvelles possibilités!</strong></p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <ul class="wp-block-list">
 <li><a href="https://numerique.canada.ca/2025/12/22/effet-dentra%C3%AEnement-partie-1-de-3--le-succ%C3%A8s-gr%C3%A2ce-%C3%A0-la-collaboration-au-minist%C3%A8re-des-p%C3%AAches-et-des-oc%C3%A9ans-mpo-et-au-service-num%C3%A9rique-canadien-snc/" target="_blank" rel="noreferrer noopener"><strong>Partie&nbsp;1 de 3&nbsp;: le MPO navigue sur des voies encore inexplorées avec le Système de design GC</strong></a></li>
 
