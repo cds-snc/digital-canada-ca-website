@@ -30,12 +30,12 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-17856c89 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-e0be65f6 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-text-align-left has-background has-large-font-size" style="background-color:#cec5f8"><strong>Partie 1: Accessible par défaut</strong></h2>
 
 
 
-<p class="has-text-align-left has-background" style="background-color:#cec5f8">Et si l’accessibilité n’était pas une réflexion secondaire, mais un point de départ ?</p>
+<p class="has-text-align-left has-background " style="background-color:#cec5f8">Et si l’accessibilité n’était pas une réflexion secondaire, mais un point de départ ?</p>
 </div>
 
 
@@ -240,16 +240,16 @@ translationKey: blog-gcforms-podcast-aaact
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <h2 class="wp-block-heading has-background" style="background-color:#cec5f8"><strong>Nous souhaitons obtenir votre avis sur Formulaires GC !</strong></h2>
 
 
 
-<p class="has-background" style="background-color:#cec5f8"><strong>Stevie-Ray :</strong> Nous aimerions beaucoup avoir des rétroactions sur le produit <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=fr_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires GC</a> pour nous aider à rendre ce produit accessible non seulement aux personnes qui remplissent les formulaires, mais aussi à celles qui les créent.</p>
+<p class="has-background " style="background-color:#cec5f8"><strong>Stevie-Ray :</strong> Nous aimerions beaucoup avoir des rétroactions sur le produit <a href="https://articles.alpha.canada.ca/forms-formulaires/fr/?utm_source=fr_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener">Formulaires GC</a> pour nous aider à rendre ce produit accessible non seulement aux personnes qui remplissent les formulaires, mais aussi à celles qui les créent.</p>
 
 
 
-<p class="has-background" style="background-color:#cec5f8"><br><a href="https://forms-formulaires.alpha.canada.ca/fr/contact?utm_source=fr_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener"><strong>S’inscrire à la liste de diffusion pour Formulaires GC afin que nous puissions tester le produit avec des fonctionnaires</strong></a>.</p>
+<p class="has-background " style="background-color:#cec5f8"><br><a href="https://forms-formulaires.alpha.canada.ca/fr/contact?utm_source=fr_blog_gcforms_podcast_aaact&amp;utm_medium=cds_blog&amp;utm_campaign=forms_blogs" target="_blank" rel="noreferrer noopener"><strong>S’inscrire à la liste de diffusion pour Formulaires GC afin que nous puissions tester le produit avec des fonctionnaires</strong></a>.</p>
 </div>
 
 
