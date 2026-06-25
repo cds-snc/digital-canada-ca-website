@@ -198,7 +198,7 @@ Texte de remplacement : Un diagramme à barre qui démontre que 47 % des personn
 <p>Image&nbsp;1&nbsp;: Fonction de clavardage IA de Bing</p>
 
 
-<img loading="lazy" decoding="async" width="355" height="730" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8.png" alt="" class="wp-image-2642" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8.png 355w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8-146x300.png 146w" sizes="auto, (max-width: 355px) 100vw, 355px" />
+<img decoding="async" width="355" height="730" fetchpriority="low" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8.png" alt="" class="wp-image-2642" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8.png 355w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-8-146x300.png 146w" sizes="(max-width: 355px) 100vw, 355px" />
 
 
 <p>Légende&nbsp;: Capture d’écran d’un résultat de clavardage IA Bing par suite de la requête «&nbsp;J’ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». Il s’agit d’une liste des directives générales pour les délais de demandes de passeport en fonction des modalités de la demande (en ligne ou en personne). Le lien source n’est pas affiché en haut, et selon certaines études, il y aurait moins de confiance envers l’exactitude du contenu IA Bing qu’envers le contenu du robot conversationnel IA de Google.</p>
@@ -208,7 +208,7 @@ Texte de remplacement : Un diagramme à barre qui démontre que 47 % des personn
 <p>Image&nbsp;2&nbsp;: Robot conversationnel IA Google</p>
 
 
-<img loading="lazy" decoding="async" width="352" height="666" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9.png" alt="" class="wp-image-2644" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9.png 352w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9-159x300.png 159w" sizes="auto, (max-width: 352px) 100vw, 352px" />
+<img decoding="async" width="352" height="666" fetchpriority="low" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9.png" alt="" class="wp-image-2644" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9.png 352w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-9-159x300.png 159w" sizes="(max-width: 352px) 100vw, 352px" />
 
 
 <p>Légende&nbsp;: Capture d’écran d’un résultat de clavardage IA Google par suite de la requête «&nbsp;J’ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». Google indique d’où provient l’information et fournit le lien vers la source. Le robot conversationnel fournit un court résumé des délais de traitement et des liens menant vers des ressources pertinentes telles que celles qui indiquent comment vérifier l’état de sa demande.</p>
@@ -218,7 +218,7 @@ Texte de remplacement : Un diagramme à barre qui démontre que 47 % des personn
 <p>Image&nbsp;3&nbsp;: Maquette de robot conversationnel IA personnalisé pour Canada.ca</p>
 
 
-<img loading="lazy" decoding="async" width="388" height="838" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10.png" alt="" class="wp-image-2646" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10.png 388w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10-139x300.png 139w" sizes="auto, (max-width: 388px) 100vw, 388px" />
+<img decoding="async" width="388" height="838" fetchpriority="low" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10.png" alt="" class="wp-image-2646" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10.png 388w, https://articles.alpha.canada.ca/uploads/sites/25/2025/02/unnamed-10-139x300.png 139w" sizes="(max-width: 388px) 100vw, 388px" />
 
 
 <p>Légende&nbsp;: Capture d’écran d’un résultat de clavardage IA personnalisé Canada.ca par suite de la requête «&nbsp;J’ai soumis ma demande de passeport il y a très longtemps. Quand est-ce que je recevrai mon passeport?&nbsp;». L’IA Canada.ca demande quand l’individu a fait sa demande et celui-ci répond «&nbsp;J’ai fait ma demande le 3&nbsp;avril&nbsp;». La solution IA personnalisée fournit un lien vers Canada.ca afin que l’individu puisse vérifier l’état de sa demande de passeport en ligne.</p>
