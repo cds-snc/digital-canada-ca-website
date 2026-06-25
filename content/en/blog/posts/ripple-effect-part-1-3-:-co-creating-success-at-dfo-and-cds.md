@@ -12,7 +12,7 @@ tags: ["GC Design System"]
 translationKey: dfo-series-gcds-p1
 ---
 
-<p class="has-background" style="background-color:#d7e5f5"><strong>In part 1 of 3 for this series, DFO shares how they’re charting new waters with GC Design System. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
+<p class="has-background " style="background-color:#d7e5f5"><strong>In part 1 of 3 for this series, DFO shares how they’re charting new waters with GC Design System. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
 
 
 
