@@ -12,7 +12,7 @@ tags: [""]
 translationKey: blog-conversation-vic
 ---
 
-<p class="has-small-font-size"><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/">CDS&#8217;s LinkedIn page</a> in May 2023. Check out the<a href="https://www.linkedin.com/pulse/minding-digital-gender-gap-conversation-vic-chan-cds-snc%3FtrackingId=k2s%252Fb0WsGCcb9nAgPdiDcA%253D%253D/?trackingId=k2s%2Fb0WsGCcb9nAgPdiDcA%3D%3D"> original post.</a></em></p>
+<p class="has-small-font-size "><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/">CDS&#8217;s LinkedIn page</a> in May 2023. Check out the<a href="https://www.linkedin.com/pulse/minding-digital-gender-gap-conversation-vic-chan-cds-snc%3FtrackingId=k2s%252Fb0WsGCcb9nAgPdiDcA%253D%253D/?trackingId=k2s%2Fb0WsGCcb9nAgPdiDcA%3D%3D"> original post.</a></em></p>
 
 
 
