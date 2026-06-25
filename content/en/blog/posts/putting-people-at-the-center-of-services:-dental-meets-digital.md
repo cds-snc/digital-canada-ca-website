@@ -216,7 +216,7 @@ translationKey: blog-dental-cxo-plan
 
 
 
-<p class="has-medium-font-size">Service blueprinting, client flows, and usability testing are now serving as a foundation for service delivery design of the upcoming Canada Disability Benefit for working age persons with disabilities.&nbsp;Find out if you qualify for the CDCP and <a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener">apply today</a>!</p>
+<p class="has-medium-font-size ">Service blueprinting, client flows, and usability testing are now serving as a foundation for service delivery design of the upcoming Canada Disability Benefit for working age persons with disabilities.&nbsp;Find out if you qualify for the CDCP and <a href="https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html" target="_blank" rel="noreferrer noopener">apply today</a>!</p>
 
 
 
