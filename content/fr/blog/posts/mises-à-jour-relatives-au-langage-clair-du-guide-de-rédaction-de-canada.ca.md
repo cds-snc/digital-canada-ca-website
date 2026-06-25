@@ -131,7 +131,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex"></div>
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex"></div>
 </details>
 
 
@@ -155,7 +155,7 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="512" height="483" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-section-2_fr-1.png" alt="Capture d’écran de l’ancienne table des matières de la section sur le langage clair. Peu de son contenu était facile à parcourir." class="wp-image-2145" style="width: 645px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-section-2_fr-1.png 512w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-section-2_fr-1-300x283.png 300w" sizes="auto, (max-width: 512px) 100vw, 512px" />
 
 
-<p class="has-small-font-size">Capture d’écran de l’ancienne table des matières de la section sur le langage clair. Peu de son contenu était facile à parcourir.</p>
+<p class="has-small-font-size ">Capture d’écran de l’ancienne table des matières de la section sur le langage clair. Peu de son contenu était facile à parcourir.</p>
 
 
 
@@ -181,11 +181,11 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="869" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/FR-section-2-869x1024.png" alt="Capture d’écran de la nouvelle table des matières de la section sur le langage clair. Le contenu y est maintenant exhaustif et facile à parcourir. " class="wp-image-2097" style="width: 607px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/FR-section-2-869x1024.png 869w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/FR-section-2-254x300.png 254w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/FR-section-2-768x905.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/FR-section-2.png 1162w" sizes="auto, (max-width: 869px) 100vw, 869px" />
 
 
-<p class="has-small-font-size">Capture d’écran de la nouvelle table des matières de la section sur le langage clair. Le contenu y est maintenant exhaustif et facile à parcourir.</p>
+<p class="has-small-font-size ">Capture d’écran de la nouvelle table des matières de la section sur le langage clair. Le contenu y est maintenant exhaustif et facile à parcourir.</p>
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://conception.canada.ca/guide-redaction/#toc6" target="_blank" rel="noreferrer noopener"><strong>Section 2.0</strong></a></div>
 </div>
 </details>
@@ -197,7 +197,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://conception.canada.ca/guide-redaction/#toc6" target="_blank" rel="noreferrer noopener"><strong>Section 2.0</strong></a></div>
 </div>
 </details>
@@ -235,7 +235,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://conception.canada.ca/guide-redaction/#wp2-1-4" target="_blank" rel="noreferrer noopener"><strong>Section 2.1</strong></a></div>
 </div>
 </details>
@@ -253,7 +253,7 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="741" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr-741x1024.png" alt="Capture d’écran de l’ancien diagramme en pyramide. Il était difficile à décortiquer étant donné la grande quantité de texte dans chaque partie de la pyramide." class="wp-image-2085" style="width: 693px;height: auto;max-width: 100%;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr-741x1024.png 741w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr-217x300.png 217w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr-768x1062.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr-1111x1536.png 1111w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-pyramid-fr.png 1118w" sizes="auto, (max-width: 741px) 100vw, 741px" />
 
 
-<p class="has-small-font-size">Capture d’écran de l’ancien diagramme en pyramide. Il était difficile à décortiquer étant donné la grande quantité de texte dans chaque partie de la pyramide.</p>
+<p class="has-small-font-size ">Capture d’écran de l’ancien diagramme en pyramide. Il était difficile à décortiquer étant donné la grande quantité de texte dans chaque partie de la pyramide.</p>
 
 
 
@@ -263,11 +263,11 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="700" height="419" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramide-fr.png" alt=" Capture d’écran du nouveau diagramme en pyramide. Chaque partie de la pyramide contient désormais quelques mots seulement, les informations supplémentaires étant déplacées hors du diagramme." class="wp-image-2091" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramide-fr.png 700w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/new-pyramide-fr-300x180.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />
 
 
-<p class="has-small-font-size">Capture d’écran du nouveau diagramme en pyramide. Chaque partie de la pyramide contient désormais quelques mots seulement, les informations supplémentaires étant déplacées hors du diagramme.</p>
+<p class="has-small-font-size ">Capture d’écran du nouveau diagramme en pyramide. Chaque partie de la pyramide contient désormais quelques mots seulement, les informations supplémentaires étant déplacées hors du diagramme.</p>
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://conception.canada.ca/guide-redaction/#wp2-2" target="_blank" rel="noreferrer noopener"><strong>Section 2.2</strong></a></div>
 </div>
 </details>
@@ -279,7 +279,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://conception.canada.ca/guide-redaction/#wp2-3" target="_blank" rel="noreferrer noopener"><strong>Section 2.3</strong></a></div>
 </div>
 </details>
