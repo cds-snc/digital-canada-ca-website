@@ -12,7 +12,7 @@ tags: ["GC Design System","GC Forms","GC Notify"]
 translationKey: 2025-product-highlights-linkedin
 ---
 
-<p class="has-background" style="background-color:#ebf2fa">This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in January 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414762533791932417" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</p>
+<p class="has-background " style="background-color:#ebf2fa">This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">CDS’s LinkedIn</a> in January 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414762533791932417" target="_blank" rel="noreferrer noopener">Check out the original post</a>.</p>
 
 
 
