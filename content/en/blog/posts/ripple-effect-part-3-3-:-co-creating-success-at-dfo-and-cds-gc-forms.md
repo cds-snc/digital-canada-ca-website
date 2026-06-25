@@ -16,7 +16,7 @@ translationKey: dfo-series-gcds-p3
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-c0ca7d81 wp-block-group-is-layout-flex" style="background-color:#cec5f8">
+<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-df7bfe9b wp-block-group-is-layout-flex" style="background-color:#cec5f8">
 <ul class="wp-block-list">
 <li><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" data-type="link" data-id="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"></a><strong><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"><strong>Part 1/3: How DFO’s charting new waters with GC Design System</strong></a></strong></li>
 
