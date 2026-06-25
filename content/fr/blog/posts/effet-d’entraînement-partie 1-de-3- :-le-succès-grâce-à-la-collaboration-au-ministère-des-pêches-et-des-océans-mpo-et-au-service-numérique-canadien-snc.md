@@ -44,7 +44,7 @@ translationKey: dfo-series-gcds-p1
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
 <figure class="wp-block-table"><table class="has-background" style="background-color:#9fdfba"><tbody><tr><td><a href="https://systeme-design.alpha.canada.ca/fr/?utm_source=gcds_dfo_p1&amp;utm_medium=blog&amp;utm_campaign=gcds_blogs" target="_blank" rel="noreferrer noopener"><strong>Système de design&nbsp;GC</strong></a>&nbsp;:&nbsp;<br>Devenir l’unique source de vérité pour un système de design gouvernemental fiable dont les fonctionnaires se serviront pour créer des prototypes et des services en ligne.</td><td class="has-text-align-center" data-align="center"><img loading="lazy" decoding="async" width="100" height="100" class="wp-image-3504" style="width: 100px" src="https://articles.alpha.canada.ca/uploads/sites/25/2025/12/DFO_Blog-01-FR-1-e1766418412623.png" alt="Icônes pour système de design"></td></tr></tbody></table></figure>
 </div>
