@@ -167,7 +167,7 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="698" height="752" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png" alt="Screenshot of the previous plain language table of contents. The content wasn't easy to navigate." class="wp-image-2104" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2.png 698w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/old-en-section-2-278x300.png 278w" sizes="auto, (max-width: 698px) 100vw, 698px" />
 
 
-<p class="has-small-font-size">Screenshot of the previous plain language table of contents. The content wasn&#8217;t easy to navigate.</p>
+<p class="has-small-font-size ">Screenshot of the previous plain language table of contents. The content wasn&#8217;t easy to navigate.</p>
 
 
 
@@ -197,11 +197,11 @@ translationKey: blog-plain-language-updates
 <img loading="lazy" decoding="async" width="871" height="1024" src="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png" alt="Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content. " class="wp-image-2094" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-871x1024.png 871w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-255x300.png 255w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2-768x903.png 768w, https://articles.alpha.canada.ca/uploads/sites/25/2024/10/en-section-2.png 1162w" sizes="auto, (max-width: 871px) 100vw, 871px" />
 
 
-<p class="has-small-font-size">Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content.</p>
+<p class="has-small-font-size ">Screenshot of the updated plain language table of contents. It now has expansive, easily navigable content.</p>
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#toc6" target="_blank" rel="noreferrer noopener"><strong>Read section 2.0</strong></a></div>
 </div>
 </details>
@@ -213,7 +213,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button" href="https://design.canada.ca/style-guide/#toc6" target="_blank" rel="noreferrer noopener"><strong>Read section 2.0</strong></a></div>
 </div>
 </details>
@@ -251,7 +251,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-1-4" target="_blank" rel="noreferrer noopener"><strong>Read section 2.1</strong></a></div>
 </div>
 </details>
@@ -279,7 +279,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-2-1" target="_blank" rel="noreferrer noopener"><strong>Read section 2.2</strong></a></div>
 </div>
 </details>
@@ -291,7 +291,7 @@ translationKey: blog-plain-language-updates
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://design.canada.ca/style-guide/#wp2-3" target="_blank" rel="noreferrer noopener"><strong>Read section 2.3</strong></a></div>
 </div>
 </details>
