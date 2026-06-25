@@ -12,13 +12,13 @@ tags: ["GC Notify"]
 translationKey: dfo-series-gcds-p2
 ---
 
-<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-0a8f9e4e wp-block-group-is-layout-flex">
-<p class="has-background" style="background-color:#8cd0f2"><strong>In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-4fc3f8e1 wp-block-group-is-layout-flex">
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-a121c4ea wp-block-group-is-layout-flex">
+<p class="has-background " style="background-color:#8cd0f2"><strong>In part 2/3 of this series, DFO shares how they’re charting new waters with GC Notify. Together, we’re bringing digital innovation to water (two elements that don’t traditionally mix), to unlock new possibilities!</strong></p>
 
 
 
-<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-c0ca7d81 wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
+<div class="wp-block-group has-background is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-df7bfe9b wp-block-group-is-layout-flex" style="background-color:#8cd0f2">
 <ul class="wp-block-list">
 <li><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" data-type="link" data-id="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"></a><strong><a href="https://digital.canada.ca/2025/12/22/ripple-effect-part-1-3--co-creating-success-at-dfo-and-cds/" target="_blank" rel="noreferrer noopener"><strong>Part 1/3: How DFO’s charting new waters with GC Design System</strong></a></strong> </li>
 </ul>
