@@ -12,7 +12,7 @@ tags: ["Formulaires GC","Notification GC","Système de design GC"]
 translationKey: 2025-product-highlights-linkedin
 ---
 
-<p class="has-background" style="background-color:#ebf2fa">Cet article a été publié sur la page <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a> en janvier 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414763448267333632" target="_blank" rel="noreferrer noopener">Consultez le billet original</a>.</p>
+<p class="has-background " style="background-color:#ebf2fa">Cet article a été publié sur la page <a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noreferrer noopener">LinkedIn du SNC</a> en janvier 2026. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7414763448267333632" target="_blank" rel="noreferrer noopener">Consultez le billet original</a>.</p>
 
 
 
