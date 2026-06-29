@@ -12,15 +12,11 @@ tags: ["Partenariats et collaborations"]
 translationKey: dpga-collaboration-public-goods
 ---
 
-<p class="has-small-font-size">Caption : Paul N. Wagner, président-directeur général du Service numérique canadien, et Liv Marte Nordhaug, présidente-diectrice générale de la Digital Public Goods Alliance, officialisent l’adhésion du Canada à la DPGA.</p>
+<p class="has-small-font-size">Légende : Paul N. Wagner, président-directeur général du Service numérique canadien, et Liv Marte Nordhaug, présidente-diectrice générale de la Digital Public Goods Alliance, officialisent l’adhésion du Canada à la DPGA.</p>
 
 
 
-<p>Paul N. Wagner, président-directeur général du Service numérique canadien, et Liv Marte Nordhaug, présidente-directrice générale de la Digital Public Goods Alliance, officialisent l’adhésion du Canada à la DPGA.</p>
-
-
-
-<p>Renforcer l’engagement du Canada à offrir des services numériques modernes, équitables et réutilisables à des gens partout au pays et partout dans le monde.</p>
+<p><strong>Renforcer l’engagement du Canada à offrir des services numériques modernes, équitables et réutilisables à des gens partout au pays et partout dans le monde.</strong></p>
 
 
 
@@ -44,11 +40,11 @@ translationKey: dpga-collaboration-public-goods
 
 
 
-<p class="has-background" style="background-color:#ebf2fa">« Alors que le gouvernement du Canada de moderniser et d&rsquo;adapter la prestation de ses services afin de tirer parti des technologies numériques, nous sommes très heureux de nous joindre à la Digital Public Goods Alliance. Nos homologues internationaux ont démontré la manière dont les systèmes numériques ouverts, comme les outils <a href="https://www.digitalpublicgoods.net/r/formsg" target="_blank" rel="noreferrer noopener">FormSG</a> de Singapour et <a href="https://www.digitalpublicgoods.net/r/x-road" target="_blank" rel="noreferrer noopener">X-Road</a> de l’Estonie, peuvent transformer la prestation de services dans tous les secteurs. L’adhésion du Canada vient s’appuyer sur ces exemples tout en offrant nos propres solutions éprouvées à des partenaires qui font face à des défis similaires. » <br>— Paul N. Wagner, président-directeur général du SNC</p>
+<p class="has-background" style="background-color:#ebf2fa"><strong>« Alors que le gouvernement du Canada de moderniser et d&rsquo;adapter la prestation de ses services afin de tirer parti des technologies numériques, nous sommes très heureux de nous joindre à la Digital Public Goods Alliance. Nos homologues internationaux ont démontré la manière dont les systèmes numériques ouverts, comme les outils <a href="https://www.digitalpublicgoods.net/r/formsg" target="_blank" rel="noreferrer noopener">FormSG</a> de Singapour et <a href="https://www.digitalpublicgoods.net/r/x-road" target="_blank" rel="noreferrer noopener">X-Road</a> de l’Estonie, peuvent transformer la prestation de services dans tous les secteurs. L’adhésion du Canada vient s’appuyer sur ces exemples tout en offrant nos propres solutions éprouvées à des partenaires qui font face à des défis similaires. » <br>— Paul N. Wagner, président-directeur général du SNC</strong></p>
 
 
 
-<p class="has-background" style="background-color:#ebf2fa"> « L’adhésion du Canada à la DPGA nous rappelle qui nous sommes en tant qu’alliance. Le pays a fait preuve de leadership international pendant plusieurs années en réutilisant activement et en partageant des produits à code source libres, comme en témoignent les produits de la plateforme du SNC qui seront maintenant partagés en tant que biens publics numériques. L’accent que met le Canada sur ce cycle vertueux de contribuer à la communauté à code source libre après en avoir tiré profit constitue un excellent exemple pour d’autres pays. » <br>— Liv Marte Nordhaug, présidente-directrice générale de la DPGA</p>
+<p class="has-background" style="background-color:#ebf2fa"><strong> « L’adhésion du Canada à la DPGA nous rappelle qui nous sommes en tant qu’alliance. Le pays a fait preuve de leadership international pendant plusieurs années en réutilisant activement et en partageant des produits à code source libres, comme en témoignent les produits de la plateforme du SNC qui seront maintenant partagés en tant que biens publics numériques. L’accent que met le Canada sur ce cycle vertueux de contribuer à la communauté à code source libre après en avoir tiré profit constitue un excellent exemple pour d’autres pays. » <br>— Liv Marte Nordhaug, présidente-directrice générale de la DPGA</strong></p>
 
 
 
