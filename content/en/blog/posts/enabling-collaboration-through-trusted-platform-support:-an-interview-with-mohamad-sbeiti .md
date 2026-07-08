@@ -4,7 +4,7 @@ title: 'Enabling collaboration through trusted Platform support: An interview wi
 description: >-
   Platform Support Analyst Mohamad Sbeiti on how Platform Support helps federal teams using GC Forms, GC Notify, and the GC Design System. These are products designed for federal teams to use on their own. But self-serve doesn’t mean alone. The Platform Support team backs every department using them, and this is an interview with Mohamad about what the team does and how it works.
 author: 'Communications team, in collaboration with Mohamad Sbeiti (Platform Support Analyst)'
-date: '2026-07-07T15:43:46'
+date: '2026-07-08T09:51:22'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/Mohamad_Sbeiti_PBS_2026_Blog_Post_EN-1-scaled.jpg
 image-alt: Photo of Mohamad Sbeiti, promoting the interview
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/06/Mohamad_Sbeiti_PBS_2026_Blog_Post_EN-1-scaled.jpg
