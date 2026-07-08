@@ -4,7 +4,7 @@ title: 'Favoriser la collaboration grâce à un soutien fiable pour les produits
 description: >-
   Mohamad Sbeiti, analyste au sein de l’équipe de soutien de la plateforme, explique comment son unité aide les équipes fédérales à utiliser Formulaires GC, Notification GC et Système de design GC. Ces produits sont conçus pour une utilisation en libre-service. Mais le libre-service ne signifie pas qu’il faut se débrouiller par ses propres moyens. L’équipe de soutien de la plateforme offre son assistance à tous les ministères utilisant les produits du SNC. Cette entrevue avec Mohamad porte sur les travaux et le fonctionnement de son équipe.
 author: 'Équipe des communications en collaboration avec Mohamad Sbeiti  (analyste de soutien de la plateforme)'
-date: '2026-07-07T15:54:33'
+date: '2026-07-08T09:53:35'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/07/MSbeiti-interview-2026-scaled.jpg
 image-alt: Photo de Mohamad Sbeiti, faisant la promotion de l'interview
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/07/MSbeiti-interview-2026-scaled.jpg
