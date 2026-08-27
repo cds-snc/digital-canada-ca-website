@@ -63,7 +63,7 @@ translationKey: gcds-mandatory-elements-blog
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<ul style="background-color:#d7e5f5" class="wp-block-list has-black-color has-text-color has-background has-link-color wp-elements-cfbaf2d353875ff15f3d12bc22795550">
+<ul style="background-color:#d7e5f5" class="wp-block-list has-black-color has-text-color has-background has-link-color wp-elements-1">
 <li><a href="https://design-system.alpha.canada.ca/en/components/breadcrumbs/?utm_source=EN_Blog-canadaca-brand-requirements&amp;utm_medium=Blog&amp;utm_campaign=Blog-canadaca-brand-requirements" target="_blank" rel="noreferrer noopener"><strong>Breadcrumbs</strong></a><strong> (breadcrumb trail):</strong> A path to the current page from each preceding level of the site&#8217;s hierarchy.</li>
 
 
