@@ -20,7 +20,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 
-<p>Dans notre <a href="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">article de blogue de juin 2025</a>, nous avons posé la question suivante : de quoi le Canada a-t-il besoin pour créer l’infrastructure publique numérique (IPN) dont les gens et l’économie ont besoin? Nous avons avancé que les composantes essentielles de l’IPN, soit les justificatifs numériques, l’échange de données et les paiements, devraient être traitées comme une infrastructure essentielle et non comme un ensemble de projets informatiques.</p>
+<p>Dans notre <a href="https://digital.canada.ca/2025/06/23/digital-public-infrastructure-dpi--powering-the-gcs-digital-future/" target="_blank" rel="noreferrer noopener">article de blogue de juin 2025</a>, nous avons posé la question suivante&nbsp;: de quoi le Canada a-t-il besoin pour créer l’infrastructure publique numérique (IPN) dont les gens et l’économie ont besoin? Nous avons avancé que les composantes essentielles de l’IPN, soit les justificatifs numériques, l’échange de données et les paiements, devraient être traitées comme une infrastructure essentielle et non comme un ensemble de projets informatiques.</p>
 
 
 
@@ -169,7 +169,7 @@ translationKey: blog-dpi-cdspolicy-part-2
 
 
 <ul class="wp-block-list">
-<li><strong>Gérance</strong>&nbsp;: Le Canada devra trouver un équilibre entre une solide gérance fédérale qui établit des normes, des politiques et des cadres de travail pour harmoniser les compétences administratives tout en permettant une prestation de services adaptée à l’échelle locale. Cet équilibre est essentiel pour favoriser l’interopérabilité, tout en préservant l’innovation et la réactivité au point de service.</li>
+<li><strong>Gouvernance responsable</strong> : Le Canada devra trouver un équilibre entre une solide gérance fédérale qui établit des normes, des politiques et des cadres de travail pour harmoniser les compétences administratives tout en permettant une prestation de services adaptée à l’échelle locale. Cet équilibre est essentiel pour favoriser l’interopérabilité, tout en préservant l’innovation et la réactivité au point de service.</li>
 </ul>
 
 

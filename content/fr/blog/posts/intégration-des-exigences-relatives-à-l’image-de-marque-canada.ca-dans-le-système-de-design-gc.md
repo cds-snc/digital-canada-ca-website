@@ -62,7 +62,7 @@ translationKey: gcds-mandatory-elements-blog
 
 
 
-<ul style="background-color:#d7e5f5" class="wp-block-list has-black-color has-text-color has-background has-link-color wp-elements-ac9c371bfb998c1d5579e4a8250d160d">
+<ul style="background-color:#d7e5f5" class="wp-block-list has-black-color has-text-color has-background has-link-color wp-elements-1">
 <li><a href="https://systeme-design.alpha.canada.ca/fr/composants/chemin-de-navigation/" target="_blank" rel="noreferrer noopener"><strong>Chemin de navigation</strong></a><strong> (fil d’Ariane)&nbsp;:</strong> Un chemin d’accès à la page actuelle à partir de chaque niveau précédent de la hiérarchie du site.</li>
 
 
