@@ -16,11 +16,11 @@ translationKey: blog-cds-cvd-pilot
 
 
 
-<p><strong>Le</strong> <a href="https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/securite-confidentialite-ligne/orientations-politiques-matiere-cybersecurite/lignes-directrices-gestion-vulnerabilities.html" target="_blank" rel="noopener"><strong>nouveau programme de processus coordonné de divulgation des vulnérabilités (PCDV) du gouvernement du Canada</strong></a> <strong>offre aux chercheurs et chercheuses externes en sécurité un canal normalisé à l’échelle du GC pour signaler de façon responsable les vulnérabilités aux services du GC participants.</strong></p>
+<p><strong>Le</strong> <strong><a href="https://hackerone.com/tbs-sct?type=team" target="_blank" rel="noopener">nouveau programme de processus coordonné de divulgation des vulnérabilités (PCDV) du gouvernement du Canada</a></strong> <strong>offre aux chercheurs et chercheuses externes en sécurité un canal normalisé à l’échelle du GC pour signaler de façon responsable les vulnérabilités aux services du GC participants.</strong></p>
 
 
 
-<p>Le programme prévoit des règles de participation claires, des dispositions législatives d’exonération pour la recherche de bonne foi et un système de réception centralisé par le Secrétariat du Conseil du Trésor du Canada (SCT) via la plateforme <a href="https://hackerone.com/tbs-sct?type=team" target="_blank" rel="noopener">HackerOne</a>. De cette manière, les signalements sont acheminés aux bonnes équipes.</p>
+<p>Le programme prévoit des règles de participation claires, des dispositions législatives d’exonération pour la recherche de bonne foi et un système de réception centralisé par le Secrétariat du Conseil du Trésor du Canada (SCT) via la plateforme HackerOne. De cette manière, les signalements sont acheminés aux bonnes équipes.</p>
 
 
 
