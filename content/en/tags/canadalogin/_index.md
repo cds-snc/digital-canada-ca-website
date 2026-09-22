@@ -1,6 +1,6 @@
 ---
 type: tags
 layout: list
-title: "Digital Credentials"
+title: "CanadaLogin"
 translationKey: "tag-canadalogin"
 ---
