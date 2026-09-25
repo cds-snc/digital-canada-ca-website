@@ -16,7 +16,7 @@ jobs:
       contents: read
     steps:
     - name: Checkout
-      uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
     - name: Load git submodules
       run: git submodule sync && git submodule update --init
@@ -34,7 +34,7 @@ jobs:
         chmod -R 755 ~/cds-website-dist
 
     - name: Cache build
-      uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+      uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
       with:
         path: |
           ~/cds-website-dist
@@ -51,14 +51,14 @@ jobs:
         lang: ["fr", "en"]
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
         with:
           path: |
             ~/cds-website-dist
           key: ${{ github.sha }}
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@89f90524b88a01fe6e0b732220432cc6142926af # v1.313.0
+        uses: ruby/setup-ruby@a0102e0972be65f351c307e2d64b9314a57c8073 # v1.324.0
         with:
           ruby-version: 3.0
 
@@ -93,14 +93,14 @@ jobs:
             bucket: "cds-website-english-s3-bucket"
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@27d5ce7f107fe9357f9df03efb73ab90386fccae # v5.0.5
+        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
         with:
           path: |
             ~/cds-website-dist
           key: ${{ github.sha }}
 
       - name: Configure AWS credentials using OIDC              
-        uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
+        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a # v4.3.1
         with:
           role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-website-apply  # use for TF apply or admin access (only works on `main` branch)
           role-session-name: cache
@@ -112,7 +112,7 @@ jobs:
           aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
       - name: Report deployment to Sentinel
-        uses: cds-snc/sentinel-forward-data-action@main
+        uses: cds-snc/sentinel-forward-data-action@b2160a45676f8d278982d84eef9c13d780ef4e2b # main
         with:
           input_data: '{"product": "${{ matrix.bucket }}", "version": "${{ github.sha }}", "repository": "${{ github.repository }}", "environment": "production"}'
           log_type: CDS_Product_Deployment_Data
