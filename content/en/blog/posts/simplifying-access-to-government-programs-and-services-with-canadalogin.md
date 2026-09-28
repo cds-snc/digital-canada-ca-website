@@ -4,7 +4,7 @@ title: 'Simplifying access to Government programs and services with CanadaLogin'
 description: >-
   CanadaLogin (formerly GC Sign in) is now live with early adopting partners. It’s bringing a simpler, safer sign-in experience to government services. Read on to learn how this new sign-in service is replacing legacy systems and helping people access the services they need with ease.
 author: 'Canadian Digital Service'
-date: '2026-09-28T12:20:55'
+date: '2026-09-28T12:41:45'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogin_2-1-scaled.jpg
 image-alt: Computer screen showing CanadaLogin home page
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogin_2-1-scaled.jpg
