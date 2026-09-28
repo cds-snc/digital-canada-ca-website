@@ -9,7 +9,7 @@ image: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogi
 image-alt: Computer screen showing CanadaLogin home page
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogin_2-1-scaled.jpg
 tags: ["ConnexionCanada"]
-translationKey: connexioncanada-un-acces-simplifie-aux-programmes-et-services-du-gouvernement
+translationKey: blog-canada-login
 ---
 
 <p>Imaginez pouvoir accéder aux services et aux programmes du gouvernement du Canada (GC) par l’entremise d’une seule connexion sécurisée.</p>
