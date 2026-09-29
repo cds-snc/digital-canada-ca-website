@@ -20,7 +20,7 @@ translationKey: blog-canada-login
 
 
 
-<p>That’s why the <a href="https://www.linkedin.com/company/cds-snc/?viewAsMember=true" target="_blank" rel="noopener">Canadian Digital Service</a> (CDS) is building a new solution that will offer a secure single sign-on experience. By enabling access to multiple participating GC programs and services through one username and password, CDS is making government services easier to access while maintaining robust security and privacy standards.</p>
+<p>That’s why the <a href="https://digital.canada.ca/">Canadian Digital Service (CDS)</a> is building a new solution that will offer a secure single sign-on experience. By enabling access to multiple participating GC programs and services through one username and password, CDS is making government services easier to access while maintaining robust security and privacy standards.</p>
 
 
 
@@ -40,15 +40,17 @@ translationKey: blog-canada-login
 
 
 
-<p>1. <strong>One secure sign-in</strong>: Use a single credential to access multiple GC programs and services, reducing the need to manage multiple usernames and passwords.</p>
+<ol class="wp-block-list">
+<li><strong>One secure sign-in:</strong> Use a single credential to access multiple GC programs and services, reducing the need to manage multiple usernames and passwords.</li>
 
 
 
-<p>2. <strong>Strong protection for your information</strong>: Built to meet the latest GC security and privacy requirements, CanadaLogin helps safeguard personal data.</p>
+<li><strong>Strong protection for your information:</strong> Built to meet the latest GC security and privacy requirements, CanadaLogin helps safeguard personal data.</li>
 
 
 
-<p>3. <strong>Built with users in mind</strong>: Continuous improvements informed by partners (GC departments and agencies) and user (people and businesses) feedback help ensure CanadaLogin remains reliable, secure, accessible, and easy to use.</p>
+<li><strong>Built with users in mind: </strong>Continuous improvements informed by partners (GC departments and agencies) and user (people and businesses) feedback help ensure CanadaLogin remains reliable, secure, accessible, and easy to use.</li>
+</ol>
 
 
 <img loading="lazy" decoding="async" width="1024" height="394" src="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-1024x394.jpg" alt="Laptop icon with a key. A shield icon with and people icon each describing a benefit of CanadaLogin." class="wp-image-4081" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-1024x394.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-300x115.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-767x295.jpg 767w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-1536x591.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_EN40144x-100-2048x788.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
@@ -62,7 +64,7 @@ translationKey: blog-canada-login
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>New to CanadaLogin? </strong><strong><br></strong>Visit the <a href="https://login.canada.ca/en/users/" target="_blank" rel="noopener">CanadaLogin website</a> for helpful resources on setting up and managing your CanadaLoginaccount, as well as troubleshooting tips. If you need further assistance, you can contact the CanadaLogin Call Centre at 1-833-712-2311.</td></tr></tbody></table></figure>
+<p class="has-background" style="background-color:#ebfaf0"><strong>New to CanadaLogin? <br></strong>Visit the <a href="https://login.canada.ca/en/users/" target="_blank" rel="noopener">CanadaLogin website</a> for helpful resources on setting up and managing your CanadaLogin account, as well as troubleshooting tips. If you need further assistance, you can contact the CanadaLogin Call Centre at 1-833-712-2311.</p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="694" src="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/CanadaLogin-Launch-Blog-1024x694.png" alt="The CanadaLogin sign-in page" class="wp-image-4083" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/CanadaLogin-Launch-Blog-1024x694.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/CanadaLogin-Launch-Blog-300x203.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/CanadaLogin-Launch-Blog-767x520.png 767w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/CanadaLogin-Launch-Blog.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
@@ -127,7 +129,7 @@ translationKey: blog-canada-login
 
 
 
-<li><a href="https://aomt-ogael.atip-aiprp.tbs-sct.gc.ca/en/Home/Welcome" target="_blank" rel="noopener">ATIP Online Management Tool (AOMT);</a></li>
+<li><a href="https://aomt-ogael.atip-aiprp.tbs-sct.gc.ca/en/Home/Welcome" target="_blank" rel="noopener">ATIP Online Management Tool (AOMT)</a>;</li>
 </ul>
 </li>
 
@@ -168,7 +170,7 @@ translationKey: blog-canada-login
 
 
 
-<figure class="wp-block-table is-style-regular"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>Check out this interview with a CanadaLogin product manager</strong><a href="https://digital.canada.ca/2025/02/12/streamlining-government-services-introducing-canadalogin/"> </a><br><a href="https://digital.canada.ca/2025/02/12/streamlining-government-services-introducing-canadalogin/" target="_blank" rel="noopener">Streamlining government services: Introducing CanadaLogin</a> &#8211; Canadian Digital Service</td></tr></tbody></table></figure>
+<p class="has-background" style="background-color:#ebfaf0"><strong>Check out this interview with a CanadaLogin product manager</strong><br><a href="https://digital.canada.ca/2025/02/12/streamlining-government-services-introducing-canadalogin/" target="_blank" rel="noopener">Streamlining government services: Introducing CanadaLogin</a> &#8211; Canadian Digital Service</p>
 
 
 
@@ -188,5 +190,21 @@ translationKey: blog-canada-login
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>Stay up to date on all things CanadaLogin&nbsp;</strong><br><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Follow CDS on LinkedIn</a><br><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noopener">Subscribe to the CDS newsletter (disconnect from VPN to access)</a></td></tr></tbody></table></figure>
+<div class="wp-block-group has-background" style="background-color:#ebfaf0"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h3 class="wp-block-heading"><strong>Stay up to date on all things CanadaLogin </strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Follow CDS on LinkedIn</a></li>
+
+
+
+<li><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noopener">Subscribe to the CDS newsletter (disconnect from VPN to access)</a></li>
+</ul>
+</div></div>
+
+
+
+<p></p>
 
