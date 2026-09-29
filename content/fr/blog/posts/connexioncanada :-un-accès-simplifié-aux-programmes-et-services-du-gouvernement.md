@@ -20,7 +20,7 @@ translationKey: blog-canada-login
 
 
 
-<p>C’est pourquoi le <a href="https://www.linkedin.com/company/cds-snc/?viewAsMember=true" target="_blank" rel="noopener">Service numérique canadien</a> (SNC) élabore une nouvelle solution qui offrira une expérience d’authentification unique sécurisée. En permettant l’accès à plusieurs programmes et services du GC participants au moyen d’un seul nom d’utilisateur et d’un seul mot de passe, le SNC facilite l’accès aux services gouvernementaux tout en maintenant des normes rigoureuses en matière de sécurité et de protection des renseignements personnels.</p>
+<p>C’est pourquoi le <a href="https://www.linkedin.com/company/cds-snc/?viewAsMember=true" target="_blank" rel="noopener">Service numérique canadien (SNC)</a> élabore une nouvelle solution qui offrira une expérience d’authentification unique sécurisée. En permettant l’accès à plusieurs programmes et services du GC participants au moyen d’un seul nom d’utilisateur et d’un seul mot de passe, le SNC facilite l’accès aux services gouvernementaux tout en maintenant des normes rigoureuses en matière de sécurité et de protection des renseignements personnels.</p>
 
 
 
@@ -40,15 +40,17 @@ translationKey: blog-canada-login
 
 
 
-<p>1. <strong>Une connexion unique sécurisée</strong>&nbsp;: Un seul identifiant permet d’accéder à plusieurs programmes et services du GC, ce qui réduit le besoin de gérer plusieurs noms d’utilisateurs et mots de passe.</p>
+<ol class="wp-block-list">
+<li><strong>Une connexion unique sécurisée</strong> <strong>:</strong> Un seul identifiant permet d’accéder à plusieurs programmes et services du GC, ce qui réduit le besoin de gérer plusieurs noms d’utilisateurs et mots de passe.</li>
 
 
 
-<p>2. <strong>Une protection robuste de vos renseignements</strong>&nbsp;: Conçue pour répondre aux plus récentes exigences du GC en matière de sécurité et de confidentialité, la solution ConnexionCanada aide à protéger vos données personnelles.</p>
+<li><strong>Une protection robuste de vos renseignements</strong> <strong>:</strong> Conçue pour répondre aux plus récentes exigences du GC en matière de sécurité et de confidentialité, la solution ConnexionCanada aide à protéger vos données personnelles.</li>
 
 
 
-<p>3. <strong>Une conception axée sur les utilisatrices et utilisateurs</strong>&nbsp;: Des améliorations continues basées sur les commentaires des partenaires (ministères et organismes du GC) et des utilisateurs (personnes et entreprises) aident à garantir que la solution ConnexionCanada demeure fiable, sécuritaire, accessible et conviviale.</p>
+<li><strong>Une conception axée sur les utilisatrices et utilisateurs</strong> <strong>:</strong> Des améliorations continues basées sur les commentaires des partenaires (ministères et organismes du GC) et des utilisateurs (personnes et entreprises) aident à garantir que la solution ConnexionCanada demeure fiable, sécuritaire, accessible et conviviale.</li>
+</ol>
 
 
 <img loading="lazy" decoding="async" width="1024" height="394" src="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-1024x394.jpg" alt="Icône d’ordinateur portable accompagnée d’une clé. Une icône en forme de bouclier et une icône représentant des personnes, chacune illustrant un avantage de CanadaLogin." class="wp-image-4099" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-1024x394.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-300x115.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-767x295.jpg 767w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-1536x591.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Blog_Post_FR40144x-100-2048x788.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
@@ -62,7 +64,7 @@ translationKey: blog-canada-login
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>Vous ne connaissez pas encore ConnexionCanada?&nbsp;</strong><br>Visitez le <a href="https://connexion.canada.ca/fr/utilisateurs/" target="_blank" rel="noopener">site Web de ConnexionCanada</a> pour obtenir des ressources utiles sur la configuration et la gestion de votre identifiant ainsi que des conseils pour résoudre les problèmes courants. Si vous avez besoin d’aide supplémentaire, vous pouvez communiquer avec le centre d’appels de ConnexionCanada au 1 833 712-2311.</td></tr></tbody></table></figure>
+<p class="has-background" style="background-color:#ebfaf0"><strong>Vous ne connaissez pas encore ConnexionCanada? </strong><br>Visitez le <a href="https://connexion.canada.ca/fr/utilisateurs/" target="_blank" rel="noopener">site Web de ConnexionCanada</a> pour obtenir des ressources utiles sur la configuration et la gestion de votre identifiant ainsi que des conseils pour résoudre les problèmes courants. Si vous avez besoin d’aide supplémentaire, vous pouvez communiquer avec le centre d’appels de ConnexionCanada au 1 833 712-2311.</p>
 
 
 <img loading="lazy" decoding="async" width="1024" height="758" src="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Sign_in_E28094_Desktop-1024x758.png" alt="La page de connexion à CanadaLogin" class="wp-image-4101" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Sign_in_E28094_Desktop-1024x758.png 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Sign_in_E28094_Desktop-300x222.png 300w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Sign_in_E28094_Desktop-767x568.png 767w, https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Sign_in_E28094_Desktop.png 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
@@ -96,7 +98,7 @@ translationKey: blog-canada-login
 
 
 
-<p>La période entre avril et septembre 2026 marque le passage d’Authenti-Canada à ConnexionCanada pour sept ministères et organismes fédéraux. Authenti-Canada, un projet pilote en matière d’authentification, sera mis hors service à l’automne 2026.</p>
+<p>La période entre avril et septembre&nbsp;2026 marque le passage d’Authenti-Canada à ConnexionCanada pour sept&nbsp;ministères et organismes fédéraux. Authenti-Canada, un projet pilote en matière d’authentification, sera mis hors service à l’automne&nbsp;2026.</p>
 
 
 
@@ -163,12 +165,16 @@ translationKey: blog-canada-login
 
 
 
-<p>«&nbsp;Je n’ai eu qu’à entrer quelques renseignements et quelques codes. C’était très simple et clair, rien n’était déroutant.&nbsp;» —&nbsp;<strong>Participant ou participante aux tests d’utilisabilité</strong> «&nbsp;J’ai pu franchir toutes les étapes avec le lecteur d’écran pour réinitialiser mon mot de passe. J’ai pu utiliser tous les liens, lire tous les boutons et les messages d’erreur… Le site fonctionnait très bien avec le lecteur d’écran.&nbsp;» —&nbsp;<strong>Participant ou participante aux tests d’accessibilité</strong></p>
+<p>« Je n’ai eu qu’à entrer quelques renseignements et quelques codes. C’était très simple et clair, rien n’était déroutant. » — <strong>Participant ou participante aux tests d’utilisabilité</strong> </p>
+
+
+
+<p>« J’ai pu franchir toutes les étapes avec le lecteur d’écran pour réinitialiser mon mot de passe. J’ai pu utiliser tous les liens, lire tous les boutons et les messages d’erreur… Le site fonctionnait très bien avec le lecteur d’écran. » — <strong>Participant ou participante aux tests d’accessibilité</strong></p>
 </details>
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>Jetez un coup d’œil à cette entrevue avec une gestionnaire de produit ConnexionCanada</strong><br><a href="https://numerique.canada.ca/2025/02/12/un-acc%C3%A8s-simplifi%C3%A9-aux-services-gouvernementaux-avec-connexioncanada/" target="_blank" rel="noopener">Un accès simplifié aux services gouvernementaux avec ConnexionCanada</a> — Service numérique canadien&nbsp;</td></tr></tbody></table></figure>
+<p class="has-background" style="background-color:#ebfaf0"><strong>Jetez un coup d’œil à cette entrevue avec une gestionnaire de produit ConnexionCanada</strong><br><a href="https://numerique.canada.ca/2025/02/12/un-acc%C3%A8s-simplifi%C3%A9-aux-services-gouvernementaux-avec-connexioncanada/" target="_blank" rel="noopener">Un accès simplifié aux services gouvernementaux avec ConnexionCanada</a> — Service numérique canadien </p>
 
 
 
@@ -188,7 +194,19 @@ translationKey: blog-canada-login
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#8cd0f2"><tbody><tr><td><strong>Restez à jour sur tout ce qui concerne ConnexionCanada</strong><br><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Suivez le SNC sur LinkedIn</a><br><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noopener">Abonnez-vous à l’infolettre du SNC (déconnectez-vous du VPN pour y accéder)</a>&nbsp;</td></tr></tbody></table></figure>
+<div class="wp-block-group has-background" style="background-color:#ebfaf0"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h3 class="wp-block-heading"><strong>Restez à jour sur tout ce qui concerne ConnexionCanada</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Suivez le SNC sur LinkedIn</a></li>
+
+
+
+<li><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noopener">Abonnez-vous à l’infolettre du SNC (déconnectez-vous du VPN pour y accéder)</a> </li>
+</ul>
+</div></div>
 
 
 
