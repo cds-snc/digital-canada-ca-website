@@ -5,9 +5,9 @@ description: >-
   ConnexionCanada (anciennement Connexion GC) est maintenant en ligne avec ses premiers partenaires. La solution offre une expérience de connexion plus simple et plus sécuritaire aux services gouvernementaux. Poursuivez votre lecture pour découvrir comment ce nouveau service de connexion remplace les systèmes existants et aide les gens à accéder facilement aux services dont ils ont besoin.
 author: 'Service numerique canadien'
 date: '2026-09-28T12:41:45'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogin_2-1-scaled.jpg
-image-alt: Computer screen showing CanadaLogin home page
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/BLOG_EN_CDNLogin_2-1-scaled.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Bill_Lumbergh_Office_Space.jpeg
+image-alt: Bill
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/09/Bill_Lumbergh_Office_Space.jpeg
 tags: ["ConnexionCanada"]
 translationKey: blog-canada-login
 ---
