@@ -2,7 +2,7 @@
 layout: blog
 title: 'Standardisation et numérisation des formulaires gouvernementaux au Canada :  Un coup de projecteur du Digital Service Network (DSN)'
 description: >-
-  Cette étude de cas a initialement été publiée par le Digital Service Network (« réseau des services numériques ») en janvier 2024.
+  Cette étude de cas a initialement été publiée par le Digital Service Network (« réseau des services numériques ») en janvier 2024.
 author: 'Stevie-Ray Talbot et Ioana Contu, l’équipe de produit de Formulaires GC'
 date: '2024-03-11T11:01:14'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2024/02/GC_Form_Impact_Post_FR.jpg
