@@ -4,7 +4,7 @@ title: 'Behind the scenes of CanadaLogin'
 description: >-
   The CanadaLogin team goes behind the scenes to tell us more about turning off legacy sign-in solutions and the transition to CanadaLogin
 author: 'Canadian Digital Service (CDS) / Service numérique canadien (SNC)'
-date: '2026-11-10T09:03:47'
+date: '2026-11-10T09:31:51'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/11/SIC_Decomissioning_Blog-_Behind_the_scenes_of_CanadaLogin_Blog_Post_EN_copy.jpg
 image-alt: A sunset with birds flying into the distance.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/11/SIC_Decomissioning_Blog-_Behind_the_scenes_of_CanadaLogin_Blog_Post_EN_copy.jpg
