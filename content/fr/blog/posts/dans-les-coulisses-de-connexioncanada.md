@@ -248,7 +248,25 @@ translationKey: behind-the-scenes-of-canadalogin
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#cae6f7"><tbody><tr><td><strong>Restez au fait des nouvelles concernant ConnexionCanada</strong><br><a href="https://connexion.canada.ca/fr/" target="_blank" rel="noopener">Visitez le site Web de ConnexionCanada</a><br><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Suivez le SNC sur LinkedIn</a><br><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noopener">Abonnez-vous à l’infolettre du SNC (déconnectez-vous du RPV pour y accéder)</a></td></tr></tbody></table></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group has-background" style="background-color:#ebf2fa"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h3 class="wp-block-heading"><strong>Restez au fait des nouvelles concernant ConnexionCanada</strong><br></h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://connexion.canada.ca/fr/" target="_blank" rel="noopener">Visitez le site Web de ConnexionCanada</a></li>
+
+
+
+<li><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Suivez le SNC sur LinkedIn</a></li>
+
+
+
+<li><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28" target="_blank" rel="noopener">Abonnez-vous à l’infolettre du SNC (déconnectez-vous du RPV pour y accéder)</a></li>
+</ul>
+</div></div>
+</div></div>
 
 
 
