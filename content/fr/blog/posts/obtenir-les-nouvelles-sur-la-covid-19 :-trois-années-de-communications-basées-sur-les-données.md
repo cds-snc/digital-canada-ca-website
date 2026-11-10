@@ -2,7 +2,7 @@
 layout: blog
 title: 'Obtenir les nouvelles sur la COVID-19 : trois années de communications basées sur les données'
 description: >-
-  Notre point de départ : Se frayer un chemin à travers le tumulte Il y a trois ans, tout au début de la pandémie, la désinformation était endémique. Une personne parcourant ses réseaux sociaux pouvait éprouver des difficultés à trouver des renseignements clairs et fiables dans un monde rempli d’incertitude et de confusion.En mars 2020,… [Read more<span class="wb-sl"> of Obtenir les nouvelles sur la COVID-19 : trois années de communications basées sur les données</span>](https://articles.alpha.canada.ca/cds-snc/fr/2023/03/23/blog-covid-updates-3yrs/)
+  Notre point de départ : Se frayer un chemin à travers le tumulte Il y a trois ans, tout au début de la pandémie, la désinformation était endémique. Une personne parcourant ses réseaux sociaux pouvait éprouver des difficultés à trouver des renseignements clairs et fiables dans un monde rempli d’incertitude et de confusion.En mars 2020,… [Read more<span class="wb-sl"> of Obtenir les nouvelles sur la COVID-19 : trois années de communications basées sur les données</span>](https://articles.alpha.canada.ca/cds-snc/fr/2023/03/23/blog-covid-updates-3yrs/)
 author: ' l’équipe de la transformation numérique de Santé Canada'
 date: '2023-03-23T09:32:06'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_FR.jpeg
