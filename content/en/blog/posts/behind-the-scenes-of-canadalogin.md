@@ -32,7 +32,7 @@ translationKey: behind-the-scenes-of-canadalogin
 
 
 
-<p>Over the past two years, CDS has <a href="https://digital.canada.ca/2026/09/28/simplifying-access-to-government-programs-and-services-with-canadalogin/" target="_blank" rel="noopener">developed CanadaLogin</a>, designed to be easy to use, secure, and scalable. The goal is simple: to help people access government programs and services safely and without hassle. </p>
+<p>Over the past two years, CDS has <a href="https://digital.canada.ca/2026/09/28/simplifying-access-to-government-programs-and-services-with-canadalogin/" target="_blank" rel="noopener">developed CanadaLogin</a>, designed to be easy to use, secure, and scalable. The goal is simple: to help people access government programs and services safely and without hassle.&nbsp;</p>
 
 
 
@@ -248,5 +248,25 @@ translationKey: behind-the-scenes-of-canadalogin
 
 
 
-<figure class="wp-block-table"><table class="has-background has-fixed-layout" style="background-color:#c4dae9"><tbody><tr><td><strong>Stay up to date on all things CanadaLogin </strong><br><a href="https://login.canada.ca/" target="_blank" rel="noopener">Visit the CanadaLogin website</a> <br><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Follow CDS on LinkedIn</a><br><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noopener">Subscribe to the CDS newsletter (disconnect from VPN to access</a></td></tr></tbody></table></figure>
+<div class="wp-block-group has-background" style="background-color:#ebf2fa"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<h3 class="wp-block-heading"><strong>Stay up to date on all things CanadaLogin</strong></h3>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://login.canada.ca/" target="_blank" rel="noopener">Visit the CanadaLogin website</a> </li>
+
+
+
+<li><a href="https://www.linkedin.com/company/cds-snc/" target="_blank" rel="noopener">Follow CDS on LinkedIn</a></li>
+
+
+
+<li><a href="https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&amp;id=eb357181d2" target="_blank" rel="noopener">Subscribe to the CDS newsletter (disconnect from VPN to access)</a></li>
+</ul>
+</div></div>
+
+
+
+<p></p>
 
