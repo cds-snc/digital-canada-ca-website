@@ -6,7 +6,7 @@
   "dependencies": {
     "@cdssnc/gcds-components": "^0.31.0",
     "express": "^4.17.1",
-    "i18next": "^23.11.2",
+    "i18next": "^26.0.0",
     "lunr": "^2.3.9",
     "minimist": "^1.2.5"
   },
