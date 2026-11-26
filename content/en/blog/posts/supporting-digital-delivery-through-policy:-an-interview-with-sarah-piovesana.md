@@ -4,7 +4,7 @@ title: 'Supporting digital delivery through policy: An interview with Sarah Piov
 description: >-
   Sarah Piovesana (Senior Policy Advisor at CDS) on how the Delivery Policy team helps federal teams navigate the policies, legislation, and legal requirements that shape digital services.
 author: 'Interview with Sarah Piovesana (Senior Policy Advisor at CDS)'
-date: '2026-11-23T10:56:51'
+date: '2026-11-26T11:34:29'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2026/11/Sarah_Piovesana_PBS_2026_Blog_Post_EN.jpg
 image-alt: CDS Employee Feature number two. Getting to know Sarah Piovesana.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2026/11/Sarah_Piovesana_PBS_2026_Blog_Post_EN.jpg
